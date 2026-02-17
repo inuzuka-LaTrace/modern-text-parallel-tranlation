@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import baudelaireData from './data/baudelaire.json';
 import mallarmeData from './data/mallarme.json';
-import valeryData from './data/valery.json';
 import mallarmeTheatreData from './data/mallarme-theatre.json';
+import mallarmeMusicData from './data/mallarme-music.json';
+import valeryData from './data/valery.json';
 
 export default function App() {
   const [texts, setTexts] = useState({});
@@ -23,7 +24,8 @@ export default function App() {
     const allTexts = {
       ...baudelaireData,
       ...mallarmeData,
-      ...mallarmeTheatreData,  
+      ...mallarmeTheatreData, 
+      ...mallarmeMusicData, 
       ...valeryData
     };
     setTexts(allTexts);
@@ -42,6 +44,7 @@ export default function App() {
     mallarme_representation: { name: 'マラルメ表象論' },
     mallarme_culture: { name: 'マラルメ文化論' },
     valery: { name: 'ヴァレリー' },
+    mallarme_music: { name: 'マラルメ音楽論' }, 
     mallarme_theatre: { name: 'マラルメ演劇・表象論' }
 };
   
