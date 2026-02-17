@@ -46,7 +46,7 @@ export default function App() {
     valery: { name: 'ヴァレリー' },
     mallarme_music: { name: 'マラルメ音楽論' }, 
     mallarme_theatre: { name: 'マラルメ演劇・表象論' }
-};
+  };
   
   const filteredTexts = selectedCategory === 'all'
     ? Object.values(texts)
@@ -56,7 +56,7 @@ export default function App() {
     if (!loading && currentText) {
       loadUserTranslations();
     }
-  }, [selectedText, loading]);
+  }, [selectedText, loading, currentText]);
   
   const loadUserTranslations = () => {
     try {
@@ -98,7 +98,7 @@ export default function App() {
   };
   
   const clearAllTranslations = () => {
-    if (confirm('このテキストのすべての訳文を削除してもよろしいですか？')) {
+    if (window.confirm('このテキストのすべての訳文を削除してもよろしいですか？')) {
       setUserTranslations({});
       try {
         localStorage.removeItem(`translations-${selectedText}`);
@@ -156,7 +156,7 @@ export default function App() {
     medium: 'text-base',
     large: 'text-lg',
     xlarge: 'text-xl'
-  }
+  };
   
   return (
     <div className={`min-h-screen ${bgClass}`} style={{fontFamily: fontFamilyClass}}>
@@ -339,11 +339,9 @@ export default function App() {
           </div>
         </div>
         
-<div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
+        <div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
           {currentText.paragraphs.map((para) => (
             <div key={para.id} className={`${cardBgClass} rounded-lg shadow-lg p-6 border-2 ${borderClass} hover:shadow-2xl ${hoverBorderClass} transition-all`}>
-              
-              {/* 原文表示 */}
               {showFrench && (
                 <div className="mb-4">
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
@@ -363,7 +361,6 @@ export default function App() {
                 </div>
               )}
               
-              {/* 公式訳表示 */}
               {showOfficial && (
                 <div className={`${showFrench ? 'mb-4' : ''} border-l-4 border-green-500 dark:border-green-700 pl-4`}>
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
@@ -383,7 +380,6 @@ export default function App() {
                 </div>
               )}
               
-              {/* 自分の訳表示 */}
               {showUser && (
                 <div className="border-l-4 border-purple-500 dark:border-purple-700 pl-4">
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
@@ -445,7 +441,6 @@ export default function App() {
                   )}
                 </div>
               )}
-              
             </div>
           ))}
         </div>
