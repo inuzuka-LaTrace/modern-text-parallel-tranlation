@@ -17,7 +17,7 @@ export default function App() {
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
-  const [fontFamily, setFontFamily] = useState('sans');
+  const [fontFamily, setFontFamily] = useState('garamond');
   
   useEffect(() => {
     const allTexts = {
@@ -143,9 +143,10 @@ export default function App() {
   const borderClass = darkMode ? 'border-gray-700 border-opacity-50' : 'border-gray-200';
   const hoverBorderClass = darkMode ? 'hover:border-indigo-500' : 'hover:border-indigo-400';
   
-  const fontFamilyClass = fontFamily === 'serif' 
-    ? '"Crimson Text", "Noto Serif JP", serif' 
-    : '"Inter", "Noto Sans JP", sans-serif';
+  const fontFamilyClass = 
+    fontFamily === 'garamond' ? '"EB Garamond", "Noto Serif JP", serif' :
+    fontFamily === 'serif'    ? '"Noto Serif JP", serif' :
+    '"Inter", "Noto Sans JP", sans-serif';
   
   const fontSizeClasses = {
     small: 'text-sm',
