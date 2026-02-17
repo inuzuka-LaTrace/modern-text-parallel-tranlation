@@ -327,14 +327,11 @@ export default function App() {
           </div>
         </div>
         
-        <div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
+<div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
           {currentText.paragraphs.map((para) => (
             <div key={para.id} className={`${cardBgClass} rounded-lg shadow-lg p-6 border-2 ${borderClass} hover:shadow-2xl ${hoverBorderClass} transition-all`}>
-              {showFrench && (
-                <div className="mb-4">
-                  <div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
-          {currentText.paragraphs.map((para) => (
-            <div key={para.id} className={`${cardBgClass} rounded-lg shadow-lg p-6 border-2 ${borderClass} hover:shadow-2xl ${hoverBorderClass} transition-all`}>
+              
+              {/* 原文表示 */}
               {showFrench && (
                 <div className="mb-4">
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
@@ -344,14 +341,15 @@ export default function App() {
                   }`}>
                     原文 {para.id}
                   </span>
-                  <p className={`${fontSize === 'medium' ? 'text-lg' : 'text-base'} leading-relaxed ${textClass} ${fontFamily === 'serif' ? 'italic' : ''} mt-2`}>
+                  <p className={`${fontSize === 'medium' ? 'text-lg' : 'text-base'} leading-relaxed ${textClass} ${fontFamily === 'serif' ? 'italic' : ''} mt-3`}>
                     {para.french}
                   </p>
                 </div>
               )}
               
+              {/* 公式訳表示 */}
               {showOfficial && (
-                <div className="mb-4 border-l-4 border-green-500 dark:border-green-700 pl-4">
+                <div className={`${showFrench ? 'mb-4' : ''} border-l-4 border-green-500 dark:border-green-700 pl-4`}>
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
                     darkMode 
                       ? 'bg-green-900 bg-opacity-50 text-green-300 border border-green-700' 
@@ -359,12 +357,13 @@ export default function App() {
                   }`}>
                     公式訳
                   </span>
-                  <p className={`${fontSize === 'medium' ? 'text-base' : 'text-sm'} leading-relaxed ${textClass} mt-2`}>
+                  <p className={`${fontSize === 'medium' ? 'text-base' : 'text-sm'} leading-relaxed ${textClass} mt-3`}>
                     {para.officialTranslation}
                   </p>
                 </div>
               )}
               
+              {/* 自分の訳表示 */}
               {showUser && (
                 <div className="border-l-4 border-purple-500 dark:border-purple-700 pl-4">
                   <span className={`text-xs font-semibold px-3 py-1 rounded ${
@@ -375,7 +374,7 @@ export default function App() {
                     自分の訳
                   </span>
                   {editingParagraph === para.id ? (
-                    <div className="mt-2">
+                    <div className="mt-3">
                       <textarea
                         id={`user-translation-${para.id}`}
                         defaultValue={userTranslations[para.id]?.text || ''}
@@ -402,7 +401,7 @@ export default function App() {
                       </div>
                     </div>
                   ) : (
-                    <div className="mt-2">
+                    <div className="mt-3">
                       {userTranslations[para.id] ? (
                         <p className={`${fontSize === 'medium' ? 'text-base' : 'text-sm'} leading-relaxed ${textClass} mb-2`}>
                           {userTranslations[para.id].text}
@@ -426,6 +425,7 @@ export default function App() {
                   )}
                 </div>
               )}
+              
             </div>
           ))}
         </div>
