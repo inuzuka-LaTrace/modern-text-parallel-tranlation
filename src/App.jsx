@@ -3,6 +3,7 @@ import baudelaireData from './data/baudelaire.json';
 import mallarmeData from './data/mallarme.json';
 import mallarmeTheatreData from './data/mallarme-theatre.json';
 import mallarmeMusicData from './data/mallarme-music.json';
+import mallarmePoeticsData from './data/mallarme-poetics.json';
 import valeryData from './data/valery.json';
 
 export default function App() {
@@ -25,7 +26,8 @@ export default function App() {
       ...baudelaireData,
       ...mallarmeData,
       ...mallarmeTheatreData, 
-      ...mallarmeMusicData, 
+      ...mallarmeMusicData,
+      ...mallarmePoeticsData
       ...valeryData
     };
     setTexts(allTexts);
