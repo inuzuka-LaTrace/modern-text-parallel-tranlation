@@ -27,7 +27,7 @@ export default function App() {
       ...mallarmeData,
       ...mallarmeTheatreData, 
       ...mallarmeMusicData,
-      ...mallarmePoeticsData
+      ...mallarmePoeticsData,
       ...valeryData
     };
     setTexts(allTexts);
