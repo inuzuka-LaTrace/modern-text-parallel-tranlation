@@ -113,7 +113,7 @@
         "officialTranslation": "芸術の欠如あるいは絶対が、突如として輝き、到達不可能となる——音響性を手段として用いることができるために、それは別の形で、極めて確実に、高揚する。オーケストラは、表現されない歓喜の沈黙をもって、至高の内的聴取の装飾であり輝きである。これこそが音楽であり、それ以外の何物でもない。"
       }
     ]
-  }{
+  },
   "mallarme_musique_lettres": {
     "id": "mallarme_musique_lettres",
     "title": "La Musique et les Lettres",
@@ -323,5 +323,4 @@
       }
     ]
   }
-}
 }
