@@ -322,5 +322,40 @@
         "officialTranslation": "この基礎を掘り崩せ、暗闇がその展望を損なうとき、いや——そこに提灯を並べよ、見るために。問題はあなたがたの思想が大地に模擬物を要求することだ。\n\nもし将来、フランスに宗教が再び現れるとするならば、それは各人の内にある天への本能を千の喜びに向けて増幅させることだろう。別の脅威として、この噴出を政治の初歩的な水準に還元することよりも。\n\n投票すること、たとえ自分のためであっても、いかなる名も発しないことの歓喜を告げるトランペットを伴う賛美歌の展開としては満足させない。また暴動は十分に、流れ、混じり合い、英雄として再生するために必要な嵐に包まれてはいない。\n\n私は中断する、まず、すべてが結びつくこの主題、文学芸術を、一度に過度に拡張しないために。そして、諧謔の才に乏しい私自身も、あなたがたの意味でも私の意味でも（それを全体として言うことをお許しを）、紳士方、予言することになろうとするばかばかしさを少なくとも避けたいと思って。"
       }
     ]
+  },
+  "mallarme_de_meme": {
+    "id": "mallarme_de_meme",
+    "title": "De même",
+    "author": "Stéphane Mallarmé",
+    "source": "Divagations, Eugène Fasquelle, éditeur, 1897, p. 305-311. Section « Offices ». (初出：「Solennités」The National Observer, mai 1892)",
+    "year": "1897",
+    "difficulty": "最上級",
+    "category": "mallarme_music",
+    "modernRelevance": "★★★★☆",
+    "context": "1892年サン＝ジェルヴェ教会聖週間音楽会の体験から。宗教的儀礼と詩の祭礼の同一性。国家的礼拝と詩人の役割。",
+    "keywords": ["office", "musique", "Drame divin", "communion", "État", "religion", "pompes", "chant", "clergé"],
+    "relatedTexts": ["mallarme_catholicisme", "mallarme_plaisir_sacre", "mallarme_wagner", "mallarme_musique_lettres"],
+    "paragraphs": [
+      {
+        "id": 1,
+        "french": "L'État, en raison de sacrifices inexpliqués à de certains idéaux, comme une Ville comme Paris, pourvoit à la représentation des arts qui sont les symboles de sa gloire ; à titre d'exception et que la gratuité de l'entrée s'y joigne. L'orthodoxie de nos élans secrets, qui se perpétue, remise au clergé, souffre d'étiolement.",
+        "officialTranslation": "国家は、ある種の理想への説明しがたい犠牲の見返りに、パリのような都市として、その栄光の象徴である芸術の上演を保証する。例外として、入場の無償がそれに加わる条件で。聖職者に委ねられて継続する我々の秘めた昂揚の正統性は、衰弱に苦しんでいる。"
+      },
+      {
+        "id": 2,
+        "french": "Néanmoins pénétrons en l'église, avec l'art. Ce lieu, à l'opposé d'usages d'opéra, n'est pas neutre : dans le lieu, se donne un mystère ; à quel degré en reste-t-on spectateur, ou présume-t-on y avoir un rôle ? La nef, avec un peuple — non, j'aime mieux, d'assistants, bien d'élus — l'accueille. Quoique le prêtre céans n'ait qualité d'acteur ; désigne et recule la présence mythique par l'assistance loin de l'obstruer du même intermédiaire que le comédien, qui arrête la pensée à son encombrant personnage.",
+        "officialTranslation": "それでも、芸術とともに教会に入ろう。この場所は、オペラの慣習とは対照的に、中立ではない。この場において、神秘が与えられる。どの程度まで人は傍観者にとどまり、あるいはそこで役割を持つと推測するのか。身廊は、民衆とともに——いや、私はむしろ、聴衆たちを、まさに選ばれた者たちを——と言いたい——を迎え入れる。ここにいる司祭が俳優の資格を持たないとはいえ、神話的な存在を指し示し、後退させる。思考をその重苦しい登場人物に引き止める喜劇役者と同じ仲介者によって邪魔することなく、遠くから助けることで。"
+      },
+      {
+        "id": 3,
+        "french": "La voix, celle de l'enfant et de l'homme, disjointe, mariée selon l'antique règle, évoque, extraite du sein d'une personnalité multiple et une, l'existence d'un être à part. Voici le miracle de chanter, on se projette, haut comme va le cri : devant quoi réside, immuable, la vertu d'une composition. Une communion, d'abord esthétique, en le héros du Drame divin ; égalitaire, noble.",
+        "officialTranslation": "声、子どもと大人のそれが、切り離され、古の規則に従って結ばれ、多にして一の人格の胸から引き出されて、別個の存在の実存を喚起する。歌うという奇跡がここにある——人は叫びが届く高みへと自己を投じる。その前に、ひとつの作品の力が不動のままでいる。まず美的な、神聖なドラマの英雄への交歓——平等で、高貴な。"
+      },
+      {
+        "id": 4,
+        "french": "Solitaire autant que générale, selon la toute aimable gratuité de l'entrée, la cérémonie d'art offre ce résultat extraordinaire attribuable peut-être au théâtre, l'agencement dramatique rare, d'abolir le personnage en faveur du type, ou du mythe. Un balbutiement de ténèbres énormes, à l'entrée des fidèles, l'orgue le tient : déjà quelque chose d'impersonnel, de trop anonyme, s'impose en vertu du lieu à l'individu qui se fond dans le nombre. L'heure convient, avec le détachement nécessaire, d'y pratiquer les fouilles, pour exhumer d'anciennes et magnifiques intentions.",
+        "officialTranslation": "孤独なると同時に普遍的な、入場の全く好ましい無償に従った、芸術の儀式は、おそらくは演劇に帰せられるこの並外れた結果——人物を型あるいは神話のために廃絶するという稀な劇的構成——を提供する。信者たちの入場に際して、巨大な闇のつぶやきを、オルガンが保つ。すでにある非人称的な、あまりに匿名的なものが、数の中に溶け込む個人に、この場の力によって押しつけられる。今こそ、必要な距離をもって、古くて壮大な意図を発掘するための発掘を行う時機である。"
+      }
+    ]
   }
 }
