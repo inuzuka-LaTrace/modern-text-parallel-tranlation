@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_delacroix_2",
+  "title": "De M. Eugène Delacroix (II) — La couleur et la musique",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★★",
+  "context": "色彩が音楽のように魂に直接語りかけるというボードレールの共感覚的美学の核心部。「万物照応」へと続く思想の萌芽がここにある。象徴主義の理論的基盤として最重要のテキストのひとつ。",
+  "keywords": ["couleur", "musique", "harmonie", "correspondances", "âme"],
+  "relatedTexts": ["baudelaire_delacroix_1", "baudelaire_delacroix_3", "baudelaire_wagner_1"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "M. Delacroix est le plus suggestif de tous les peintres, celui dont les œuvres font le plus penser, et qui font penser à de la poésie lyrique. La couleur pense par elle-même, indépendamment des objets qu'elle habille.",
+      "provisionalTranslation": "ドラクロワ氏はすべての画家の中で最も示唆に富む者であり、その作品が最も深く思考させ、叙情詩を想わせる者だ。色彩はそれが纏う対象から独立して、それ自体で思考する。"
+    },
+    {
+      "id": 2,
+      "french": "La couleur est donc l'accord de deux tons. La chaleur et la froideur d'un ton, c'est-à-dire son rayonnement ou son appauvrissement lumineux, constituent l'harmonie des tons. Je ne veux pas parler d'un système de couleur compliqué, ni d'un code de signaux, mais d'une analogie naturelle.",
+      "provisionalTranslation": "色彩とはすなわち二つの色調の和音である。色調の温かさと冷たさ、すなわちその輝きの放射あるいは減退が、色調の調和を構成する。複雑な色彩体系や信号の規則について語ろうとしているのではなく、自然な類比関係について語ろうとしているのだ。"
+    },
+    {
+      "id": 3,
+      "french": "La bonne manière de savoir si un tableau est mélodieux est de le regarder d'assez loin pour n'en comprendre ni le sujet ni les lignes. S'il est mélodieux, il a déjà un sens. Si les tons, en se rapprochant, ne s'harmonisent pas, ils se nuisent. Cela veut dire que le tableau est mauvais.",
+      "provisionalTranslation": "絵画が旋律的かどうかを知る適切な方法は、主題も線も判別できないほど遠くから眺めることだ。旋律的であれば、それはすでに意味を持つ。色調が近づき合うことで調和しないなら、互いに損なわれる。これはその絵画が悪いということを意味する。"
+    },
+    {
+      "id": 4,
+      "french": "La peinture de Delacroix me semble la traduction de ces beaux jours de l'esprit où les sens plus attentifs perçoivent des sensations plus retentissantes, où le ciel d'un azur plus transparent s'enfonce comme un abîme plus infini, où les sons tintent musicalement, où les couleurs parlent, où les parfums racontent des mondes d'idées.",
+      "provisionalTranslation": "ドラクロワの絵画は私には精神の輝かしい日々の翻訳のように思われる——より注意深い感官がより響き渡る感覚を知覚し、より透明な青空がより無限の深淵として沈み込み、音が音楽的に響き、色彩が語り、香りが観念の世界を物語る日々の。"
+    },
+    {
+      "id": 5,
+      "french": "Ces tons merveilleux de Delacroix font penser à des accords de musique. Les effets qu'il sait tirer de sa palette tiennent, comme ceux de la mélodie, à des combinaisons secrètes que nul théoricien ne peut formuler, mais que l'artiste vrai sait toujours trouver.",
+      "provisionalTranslation": "ドラクロワのこの驚嘆すべき色調は音楽の和音を想起させる。彼がパレットから引き出すことを知っている効果は、旋律の効果と同様に、いかなる理論家も定式化できないが真の芸術家が常に見出すことを知っている秘密の組み合わせに依っている。"
+    },
+    {
+      "id": 6,
+      "french": "La musique creuse le ciel. Ainsi la couleur et l'harmonie des teintes chez Delacroix creusent l'âme du spectateur. C'est dans ce sens qu'on peut dire que la grande peinture est une sorte de musique visible, et que la grande musique est une sorte de peinture audible.",
+      "provisionalTranslation": "音楽は天空を掘り深める。同様にドラクロワにおける色彩と色調の調和は観者の魂を掘り深める。この意味において、偉大な絵画とは一種の可視の音楽であり、偉大な音楽とは一種の可聴の絵画であると言うことができる。"
+    }
+  ]
+}
