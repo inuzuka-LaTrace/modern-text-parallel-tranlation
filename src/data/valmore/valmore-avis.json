@@ -1,0 +1,116 @@
+{
+  "id": "valmore_avis",
+  "title": "Avis",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "firstPublication": "Poésies inédites, 1860",
+  "difficulty": "初級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『Poésies inédites』（1860）の序詩。苦しむ女性読者たちへの呼びかけとして書かれ、施しと愛と歌を勧める。「与えることができる限り、死ぬことはない」という詩句をボードレールが引用し、ヴァルモール夫人論の核心語として位置づけた。",
+  "keywords": ["don", "charité", "souffrance", "larmes", "sœurs"],
+  "relatedTexts": ["valmore_tristesse", "baudelaire_valmore_critique"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Vous surtout que je plains si vous n'êtes chéries,",
+      "provisionalTranslation": "とりわけ愛されていないあなた方を私は哀れむ、"
+    },
+    {
+      "id": 2,
+      "french": "Vous surtout qui souffrez, je vous prends pour mes sœurs :",
+      "provisionalTranslation": "とりわけ苦しむあなた方を、私は姉妹と思う。"
+    },
+    {
+      "id": 3,
+      "french": "C'est à vous qu'elles vont, mes lentes rêveries,",
+      "provisionalTranslation": "あなた方のもとへ届く、私の緩やかな夢想が、"
+    },
+    {
+      "id": 4,
+      "french": "Et de mes pleurs chantés les amères douceurs.",
+      "provisionalTranslation": "そして歌われた私の涙の、苦い甘さが。"
+    },
+    {
+      "id": 5,
+      "french": "Prisonnière en ce livre une âme est contenue.",
+      "provisionalTranslation": "この書の中に一つの魂が閉じ込められている。"
+    },
+    {
+      "id": 6,
+      "french": "Ouvrez, lisez : comptez les jours que j'ai soufferts.",
+      "provisionalTranslation": "開いて、読んで。私が苦しんだ日々を数えてほしい。"
+    },
+    {
+      "id": 7,
+      "french": "Pleureuses de ce monde où je passe inconnue,",
+      "provisionalTranslation": "私が名もなく通り過ぎるこの世界の泣き女たちよ、"
+    },
+    {
+      "id": 8,
+      "french": "Rêvez sur cette cendre et trempez-y vos fers.",
+      "provisionalTranslation": "この灰の上で夢想し、そこにあなた方の鎖を浸してほしい。"
+    },
+    {
+      "id": 9,
+      "french": "Chantez ! Un chant de femme attendrit la souffrance.",
+      "provisionalTranslation": "歌え！ 女の歌は苦しみを和らげる。"
+    },
+    {
+      "id": 10,
+      "french": "Aimez ! Plus que l'amour la haine fait souffrir.",
+      "provisionalTranslation": "愛せ！ 愛よりも憎しみの方が苦しませる。"
+    },
+    {
+      "id": 11,
+      "french": "Donnez ! La charité relève l'espérance :",
+      "provisionalTranslation": "与えよ！ 慈しみは希望を立ち上がらせる。"
+    },
+    {
+      "id": 12,
+      "french": "Tant que l'on peut donner on ne veut pas mourir !",
+      "provisionalTranslation": "与えることができる限り、死のうとは思わない！"
+    },
+    {
+      "id": 13,
+      "french": "Si vous n'avez le temps d'écrire aussi vos larmes,",
+      "provisionalTranslation": "もし自分の涙を書き記す時間がないなら、"
+    },
+    {
+      "id": 14,
+      "french": "Laissez-les de vos yeux descendre sur ces vers.",
+      "provisionalTranslation": "目からこれらの詩句の上に流れ落ちるがままにして。"
+    },
+    {
+      "id": 15,
+      "french": "Absoudre, c'est prier ; prier, ce sont nos armes.",
+      "provisionalTranslation": "赦すことは祈ること。祈ることはわれわれの武器。"
+    },
+    {
+      "id": 16,
+      "french": "Absolvez de mon sort les feuillets entr'ouverts !",
+      "provisionalTranslation": "半ば開いたこの頁たちを、私の運命から赦してほしい！"
+    },
+    {
+      "id": 17,
+      "french": "Pour livrer sa pensée au vent de la parole,",
+      "provisionalTranslation": "自らの思いを言葉の風に委ねるためには、"
+    },
+    {
+      "id": 18,
+      "french": "S'il faut avoir perdu quelque peu sa raison,",
+      "provisionalTranslation": "少し理性を失わなければならないとしても、"
+    },
+    {
+      "id": 19,
+      "french": "Qui donne son secret est plus tendre que folle :",
+      "provisionalTranslation": "秘密を打ち明ける者は狂っているより優しい。"
+    },
+    {
+      "id": 20,
+      "french": "Méprise-t-on l'oiseau qui répand sa chanson ?",
+      "provisionalTranslation": "自らの歌を注ぎ出す鳥を誰が軽んじるだろうか？"
+    }
+  ]
+}
