@@ -1,0 +1,56 @@
+{
+  "id": "baudelaire_peintre_9",
+  "title": "Le Peintre de la vie moderne (IX) — Le Dandy",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★★",
+  "context": "第9章。ダンディズム論の古典的テキスト。ダンディを単なる服飾家ではなく「自己崇拝の宗教」の実践者として定義し、没落する貴族制と台頭する民主主義のあいだで生まれた特異な人間類型として位置づける。",
+  "keywords": ["dandy", "dandysme", "élégance", "distinction", "décadence"],
+  "relatedTexts": ["baudelaire_peintre_8", "baudelaire_peintre_10", "baudelaire_heroisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "L'homme riche et oisif, qui, même blasé, n'a pas d'autre occupation que de courir la piste du bonheur ; l'homme élevé dans le luxe et accoutumé dès sa jeunesse à l'obéissance des autres hommes, celui enfin qui n'a pas d'autre profession que l'élégance, jouira toujours, dans tous les temps, d'une physionomie distincte, tout à fait à part.",
+      "provisionalTranslation": "富裕で暇を持て余し、倦怠にあっても幸福の跡を追うほか何の職業も持たない男、贅沢の中に育ち幼い頃から他の人間の服従に慣れた男、要するに優雅さのほかに何の職業も持たない男は、いかなる時代においても常に、他とはまったく異なる固有の風貌を持つだろう。"
+    },
+    {
+      "id": 2,
+      "french": "Le dandysme n'est pas, comme beaucoup de personnes peu réfléchies paraissent le croire, un goût immodéré pour la toilette et l'élégance matérielle. Ces choses ne sont pour le dandy parfait qu'un symbole de la supériorité aristocratique de son esprit. Aussi, à ses yeux, épris avant tout de distinction, la perfection de la toilette consistera-t-elle dans la simplicité absolue, qui est, en effet, la meilleure manière de se distinguer.",
+      "provisionalTranslation": "ダンディズムは、あまり深く考えない多くの人が信じているように、装いと物質的優雅さへの度を超えた趣味ではない。完全なダンディにとってこれらのものは精神の貴族的優越性の象徴にすぎない。したがって何より際立つことを愛する彼の目には、装いの完璧さは絶対的な簡素さにあることになる——それはまさに際立つための最良の方法だ。"
+    },
+    {
+      "id": 3,
+      "french": "Que ces hommes se fassent nommer raffinés, incroyables, beaux, lions ou dandys, ils ont tous la même origine ; tous participent du même caractère d'opposition et de révolte ; tous sont des représentants de ce qu'il y a de meilleur dans l'orgueil humain, de ce besoin, trop rare chez ceux d'aujourd'hui, de combattre et de détruire la trivialité.",
+      "provisionalTranslation": "これらの人々が洗練者、信じがたき者、美男子、ライオン、あるいはダンディと呼ばれようとも、すべて同じ起源を持つ。すべて同じ反対と反抗の性格に与っている。すべて人間の誇りの中の最良のもの——今日の人々にはあまりにも稀な、凡庸さと戦い破壊しようとするこの欲求——の代表者だ。"
+    },
+    {
+      "id": 4,
+      "french": "Le dandysme apparaît surtout aux époques transitoires où la démocratie n'est pas encore toute-puissante, où l'aristocratie n'est que partiellement chancelante et avilie. Dans le trouble de ces époques, quelques hommes déclassés, dégoûtés, désœuvrés, mais tous riches de force native, peuvent concevoir le projet de fonder une espèce nouvelle d'aristocratie.",
+      "provisionalTranslation": "ダンディズムは特に、民主主義がまだ全能ではなく、貴族制がまだ部分的にしか動揺し貶められていない過渡的な時代に現れる。これらの時代の混乱の中で、没落した、嫌悪した、無為な、しかし皆固有の力に富んだ数人の男たちが、新しい種類の貴族制を打ち立てるという計画を構想しうる。"
+    },
+    {
+      "id": 5,
+      "french": "Le dandysme est le dernier éclat d'héroïsme dans les décadences. Et le type du dandy retrouvé par le voyageur dans l'Amérique du Nord n'infirme en rien cette idée ; car rien n'empêche de supposer que les tribus que nous appelons sauvages sont les débris de grandes civilisations disparues.",
+      "provisionalTranslation": "ダンディズムは退廃の中の英雄性の最後の閃光だ。北アメリカの旅行者がそこで見出すダンディの類型もこの考えを少しも否定しない。なぜなら、われわれが野蛮と呼ぶ部族が消滅した偉大な文明の残滓であると想定することを何も妨げないからだ。"
+    },
+    {
+      "id": 6,
+      "french": "Ces êtres n'ont pas d'autre état que de cultiver l'idée du beau dans leur personne, de satisfaire leurs passions, de sentir et de penser. Ils possèdent ainsi, à leur gré et selon les circonstances, une large portion de temps et d'argent, sans lesquels la fantaisie réduite à l'état de rêverie passagère ne peut guère se traduire en action.",
+      "provisionalTranslation": "これらの存在は、自分自身の中に美の観念を培い、情念を満足させ、感じ考えること以外の職業を持たない。かくして彼らは、気分と状況に応じて、時間と金銭の大きな部分を自由に持つ——それなしには空想は束の間の夢想の状態に縮減されて行動に翻訳されえないものだ。"
+    },
+    {
+      "id": 7,
+      "french": "Contrary to what many superficial people think, dandyism is not even especially interested in dress. For the perfect dandy, dress and material elegance are nothing more than the symbol of his aristocratic superiority of mind. Le dandy ne cherche pas le bonheur. Contraire, il cherche à ne pas se laisser aller au bonheur. Sa devise pourrait être : rester maître de soi-même.",
+      "provisionalTranslation": "ダンディは幸福を求めない。むしろ幸福に流されまいとする。その標語はこうなるだろう——自己の主人であり続けること。"
+    },
+    {
+      "id": 8,
+      "french": "Ces hommes sont tous les représentants de ce qu'il y a de meilleur dans l'orgueil humain, de ce besoin, trop rare chez ceux d'aujourd'hui, de combattre et de détruire la trivialité. De là naît, chez les dandys, cette attitude hautaine de caste provocatrice, même dans sa froideur.",
+      "provisionalTranslation": "これらの人々はすべて、人間の誇りの中の最良のもの——今日の人々にはあまりにも稀な、凡庸さと戦い破壊しようとする欲求——の代表者だ。そこからダンディたちのあの、その冷淡さにおいてさえ挑発的な高慢な階級的態度が生まれる。"
+    }
+  ]
+}
