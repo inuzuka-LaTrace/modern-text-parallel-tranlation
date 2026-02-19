@@ -1,0 +1,61 @@
+{
+  "id": "verlaine_poetes_maudits_valmore",
+  "title": "Les Poètes maudits (IV) — Marceline Desbordes-Valmore",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1888",
+  "firstPublication": "Les Poètes maudits, édition augmentée, Léon Vanier, 1888",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★★",
+  "context": "『呪われた詩人たち』増補版（1888）第4章。ボードレールの1861年論に続くヴァルモール夫人論の系譜に位置し、ヴェルレーヌは詩句の直接引用を多用しながらその詩の本質を論じる。アプリ収録のヴァルモール詩群およびボードレールのヴァルモール夫人論（baudelaire_valmore_critique）と三角形の共鳴関係をなす重要テキスト。",
+  "keywords": ["naturel", "grâce", "larmes", "sincérité", "génie"],
+  "relatedTexts": ["baudelaire_valmore_critique", "valmore_roses", "valmore_separees", "valmore_adieu", "valmore_avis", "valmore_tristesse"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Marceline Desbordes-Valmore est la seule femme de génie et de talent de tout ce siècle, — avec George Sand, dira-t-on. Non, George Sand est un grand homme de lettres, une intelligence puissante et mâle sous les oripeaux de la féminité qu'elle prenait pour des parures. Marceline est toute femme et toute poète, ce qui est bien différent.",
+      "provisionalTranslation": "マルスリーヌ・デボルド＝ヴァルモールは今世紀唯一の天才的才能ある女性だ——ジョルジュ・サンドと並んで、と言われるだろう。いや、ジョルジュ・サンドは偉大な文人であり、飾りと思い込んでいた女性性のけばけばしい衣の下に強力で男性的な知性を持つ存在だ。マルスリーヌはまったくの女性でまったくの詩人だ。それはまったく別のことである。"
+    },
+    {
+      "id": 2,
+      "french": "Ses poésies ! C'est le cri de l'âme, comme on dit, mais le cri juste, le cri vrai, le cri qui fait mal à pousser et qui fait du bien à entendre, le cri que poussent les grandes douleurs sans art et sans fard, parce qu'il faut crier.",
+      "provisionalTranslation": "その詩は！ 魂の叫びだ、と言われるように、しかし正確な叫び、真実の叫び、発するのに痛く聞くのに快い叫び、技巧なく飾りなく偉大な苦悩が、叫ばなければならないがゆえに発する叫びだ。"
+    },
+    {
+      "id": 3,
+      "french": "Elle a la grâce, elle a l'élan, elle a la tendresse, et par-dessus tout elle a le cœur. Un cœur immense, un cœur maternel, un cœur d'amante, un cœur de sœur — tout cœur. Et ce cœur saigne, et ce sang chante.",
+      "provisionalTranslation": "彼女は優雅さを持ち、躍動を持ち、優しさを持ち、そして何より心を持つ。巨大な心、母の心、愛人の心、姉妹の心——すべて心だ。そしてこの心は血を流し、この血は歌う。"
+    },
+    {
+      "id": 4,
+      "french": "On a voulu voir dans ses vers des négligences, des fautes même, et certes il y en a, comme il y en a dans La Fontaine et dans Molière. Mais ces négligences et ces fautes sont si bien rachetées par des beautés de premier ordre, par des trouvailles de génie, que la critique juste et bienveillante doit les passer sous silence.",
+      "provisionalTranslation": "その詩句に粗雑さ、さらには誤りさえも見ようとした者がいた。確かにそれはあり、ラ・フォンテーヌやモリエールにもあるように。しかしこれらの粗雑さと誤りは、第一級の美によって、天才的な発見によってあまりにも見事に贖われているため、公正で好意的な批評はそれらを黙認しなければならない。"
+    },
+    {
+      "id": 5,
+      "french": "Ce qui est surtout admirable dans Marceline Desbordes-Valmore, c'est l'accent. Il n'y a pas d'autre mot. L'accent, cette chose indéfinissable, qui est la marque même du génie, qui distingue le poète du versificateur, l'artiste de l'artisan, — elle l'a à un degré extraordinaire.",
+      "provisionalTranslation": "マルスリーヌ・デボルド＝ヴァルモールにおいて最も賞賛すべきは、アクセントだ。他に言葉がない。アクセント——この定義しがたいもの、天才そのものの刻印であり、詩人を韻文作者から、芸術家を職人から区別するもの——を彼女は並外れた程度に持っている。"
+    },
+    {
+      "id": 6,
+      "french": "Elle dit l'amour comme personne ne l'a dit, comme personne ne le dira. Avec une naïveté sublime, avec une pudeur qui n'exclut pas la passion, avec une violence douce, avec une tendresse infinie. Ses amours font mal et font du bien en même temps, comme la vie.",
+      "provisionalTranslation": "彼女は誰も言わなかったように、誰も言わないだろうように愛を語る。崇高な無垢さをもって、情念を排除しない羞恥心をもって、穏やかな激しさをもって、無限の優しさをもって。彼女の愛は、人生のように、同時に痛くもあり心地よくもある。"
+    },
+    {
+      "id": 7,
+      "french": "Et sa tendresse maternelle ! Là encore, elle est unique. Victor Hugo lui-même, avec tout son génie, n'a pas atteint cette chaleur de nid, cette douceur de couveuse que Marceline exprime avec une simplicité si haute qu'elle en devient grandiose.",
+      "provisionalTranslation": "そして彼女の母性的な優しさ！ そこでも彼女は唯一無二だ。ユゴー自身も、その天才のすべてをもってしても、マルスリーヌが巣の温もり、抱卵の柔らかさを表現するこの高さに達しなかった——あまりにも高い単純さで表現するため壮大にさえなる。"
+    },
+    {
+      "id": 8,
+      "french": "On dit qu'elle fut malheureuse. Les grandes âmes le sont toujours. La souffrance est leur élément, comme l'eau est l'élément du poisson. Elle souffrit donc, et elle chanta sa souffrance, et ce chant est immortel.",
+      "provisionalTranslation": "彼女は不幸だったと言われる。偉大な魂は常にそうだ。苦しみはその要素であり、水が魚の要素であるように。したがって彼女は苦しみ、苦しみを歌い、その歌は不滅だ。"
+    },
+    {
+      "id": 9,
+      "french": "Si vous voulez connaître Marceline Desbordes-Valmore tout entière, lisez Les Roses de Saadi, lisez Les Séparées, lisez L'Adieu. Vous y trouverez tout : la grâce, la douleur, la tendresse, la passion, la résignation sublime. Vous y trouverez une femme, la femme, et vous y trouverez un poète, le poète.",
+      "provisionalTranslation": "マルスリーヌ・デボルド＝ヴァルモール全体を知りたければ、「サアディの薔薇」を読め、「離れて」を読め、「別れ」を読め。そこにすべてが見出せる——優雅さ、苦悩、優しさ、情念、崇高な諦念。一人の女性が、女性が、そして一人の詩人が、詩人が見出せる。"
+    }
+  ]
+}
