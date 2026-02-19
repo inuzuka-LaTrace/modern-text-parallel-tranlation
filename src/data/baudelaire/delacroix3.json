@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_delacroix_3",
+  "title": "De M. Eugène Delacroix (III) — Le dessin et la couleur",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★☆",
+  "context": "アングル派（素描優位）とドラクロワ派（色彩優位）の論争を整理しつつ、ボードレールは「仕上げ」より「印象」を優先する立場を鮮明にする。近代絵画における即興性・未完成の美学への先駆的議論。",
+  "keywords": ["dessin", "couleur", "impression", "ligne", "tempérament"],
+  "relatedTexts": ["baudelaire_delacroix_2", "baudelaire_delacroix_4"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les querelles du colorisme et du dessin rappellent les querelles éternelles entre la forme et le fond. Il me semble que beaucoup de personnes confondent le sujet avec la forme et le fond. Il n'y a pas de belle surface sans une profondeur redoutable.",
+      "provisionalTranslation": "色彩主義と素描の論争は、形式と内容の永遠の論争を想起させる。多くの人が主題と形式・内容とを混同しているように思われる。恐るべき深みのない美しい表面などというものは存在しない。"
+    },
+    {
+      "id": 2,
+      "french": "Les coloristes dessinent comme les naturalistes ; parce qu'ils dessinent d'après nature, ils dessinent d'après la couleur. Les dessinateurs stricts sont des naturalistes doués d'un sens particulier, parens des philosophes et des amateurs d'abstraction logique.",
+      "provisionalTranslation": "色彩主義者たちは自然主義者のように素描する。自然に従って素描するがゆえに、彼らは色彩に従って素描する。厳密な素描家たちは特殊な感覚を持った自然主義者であり、哲学者や論理的抽象の愛好家の親族だ。"
+    },
+    {
+      "id": 3,
+      "french": "La ligne n'est pas. Il n'y a que des couleurs dans la nature. La ligne est une abstraction, et son empire absolu sur les esprits est le signe d'une grande misère plastique. C'est la tyrannie du crayon qui appauvrit la peinture. Les grands coloristes savent comment dessiner, et leur contour est implicite dans leur couleur.",
+      "provisionalTranslation": "線は存在しない。自然の中にあるのは色彩だけだ。線は抽象であり、精神に対するその絶対的支配は大きな造形的貧困の徴である。絵画を貧しくしているのは鉛筆の専制だ。偉大な色彩主義者たちは素描の仕方を知っており、その輪郭は色彩の中に暗示されている。"
+    },
+    {
+      "id": 4,
+      "french": "Une esquisse rapide, si elle est l'expression fidèle d'un sentiment, a plus de valeur qu'une longue et méticuleuse exécution qui n'exprime rien. Ainsi les grandes œuvres de Delacroix nous donnent l'impression de quelque chose d'inachevé qui est pourtant complet.",
+      "provisionalTranslation": "素早いスケッチが、感情の忠実な表現であるならば、何も表現しない長く丹念な仕上げよりも価値がある。かくしてドラクロワの偉大な作品はわれわれに、しかし完結している何か未完のものという印象を与える。"
+    },
+    {
+      "id": 5,
+      "french": "Il ne faut pas confondre la finesse du travail avec le fini du travail. L'un tient à la sensibilité de l'artiste, l'autre à une qualité mécanique de l'exécution. Le fini apparent ne nuit pas au rêve ; au contraire, il l'étouffe.",
+      "provisionalTranslation": "仕事の精妙さと仕上がりの完全さを混同してはならない。前者は芸術家の感受性に関わり、後者は制作の機械的な質に関わる。外見上の完全な仕上がりは夢想を損なわないどころか、むしろそれを窒息させる。"
+    },
+    {
+      "id": 6,
+      "french": "M. Delacroix est le seul aujourd'hui dont l'originalité ne soit pas entamée. Il sait que le génie n'est que l'enfance retrouvée à volonté, la même faculté que l'enfant d'être ivre d'un sujet, mais doublée maintenant d'organes virils et de l'esprit analytique qui lui permet d'ordonner la série des matériaux involontairement amassés.",
+      "provisionalTranslation": "ドラクロワ氏は今日、その独創性が損なわれることのなかった唯一の者だ。彼は、天才とは意のままに取り戻された幼年期に他ならず、主題に酔いしれるという子供と同じ能力でありながら、今や不随意に積み重ねられた素材の系列を秩序づけることを可能にする男性的な器官と分析的精神を伴ったものであることを知っている。"
+    }
+  ]
+}
