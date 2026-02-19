@@ -1,0 +1,75 @@
+{
+  "id": "valmore_fleurs",
+  "title": "Les Fleurs",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Bouquets et Prières",
+  "year": "1843",
+  "difficulty": "初級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "花を人間の感情・魂の象徴として描く。『Bouquets et Prières（花束と祈り）』という詩集タイトルが示す通り、花のイメージはヴァルモール夫人の詩世界全体を貫くモチーフ。『Les Roses de Saadi』と対で読むと奥行きが増す。",
+  "keywords": ["fleurs", "âme", "nature", "beauté", "offrande"],
+  "relatedTexts": ["valmore_roses", "valmore_chambre"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Toutes les fleurs allaient mourir de soif ;",
+      "officialTranslation": "すべての花が渇きで死にかけていた；"
+    },
+    {
+      "id": 2,
+      "french": "Le ciel fermait sa grande urne profonde.",
+      "officialTranslation": "天は深い大きな壺を閉じていた。"
+    },
+    {
+      "id": 3,
+      "french": "La terre aride attendait le convoi",
+      "officialTranslation": "乾いた大地は葬列を待っていた"
+    },
+    {
+      "id": 4,
+      "french": "Des nuages qui pleurent sur le monde.",
+      "officialTranslation": "世界に泣きかかる雲たちの。"
+    },
+    {
+      "id": 5,
+      "french": "Elles priaient : « Pitié ! nous mourons toutes,",
+      "officialTranslation": "花たちは祈っていた：「哀れみを！ 私たちはみな死にゆく、"
+    },
+    {
+      "id": 6,
+      "french": "Notre parfum s'épuise en s'exhalant.",
+      "officialTranslation": "私たちの香りは漂い続けて尽きていく。"
+    },
+    {
+      "id": 7,
+      "french": "Dieu ! fais pleuvoir ! nos âmes sont en route",
+      "officialTranslation": "神よ、雨を降らせて！ 私たちの魂は旅立ちかけている"
+    },
+    {
+      "id": 8,
+      "french": "Pour te chercher au ciel en s'en allant. »",
+      "officialTranslation": "去りながら天のあなたを探しに。」"
+    },
+    {
+      "id": 9,
+      "french": "Et Dieu pleura. La pluie aux longues gouttes",
+      "officialTranslation": "そして神は泣いた。長い雫の雨が"
+    },
+    {
+      "id": 10,
+      "french": "Tomba du ciel comme un pardon sur elles.",
+      "officialTranslation": "彼女たちの上へ赦しのように天から降った。"
+    },
+    {
+      "id": 11,
+      "french": "Les fleurs disaient : « C'est Dieu qui nous écoute ! »",
+      "officialTranslation": "花たちは言った：「神が私たちの声を聴いてくださった！」"
+    },
+    {
+      "id": 12,
+      "french": "Et leur parfum montait comme des prières.",
+      "officialTranslation": "そして花たちの香りは祈りのように昇っていった。"
+    }
+  ]
+}
