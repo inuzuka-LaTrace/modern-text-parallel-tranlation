@@ -1,0 +1,61 @@
+{
+  "id": "verlaine_poetes_maudits_mallarme",
+  "title": "Les Poètes maudits (III) — Stéphane Mallarmé",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1884",
+  "firstPublication": "Les Poètes maudits, Léon Vanier, 1884",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★★",
+  "context": "『呪われた詩人たち』初版（1884）第3章。ヴェルレーヌはマラルメの詩を引用しながらその「難解さ」を擁護し、象徴主義的詩学の本質を論じる。アプリ収録の22編のマラルメ作品群との対照読解として機能する批評テキスト。",
+  "keywords": ["obscurité", "symbole", "idéal", "musique", "mystère"],
+  "relatedTexts": ["verlaine_poetes_maudits_valmore", "verlaine_poetes_maudits_villiers"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Stéphane Mallarmé est un des hommes les plus étranges et les plus intéressants de ce temps. Poète obscur, dit-on. Mais cette obscurité, d'où vient-elle ? Elle vient de ce que le poète voit trop, sent trop, pense trop. Ses vers sont un précipité de pensée et de sensation, une quintessence.",
+      "provisionalTranslation": "ステファヌ・マラルメはこの時代の最も奇妙で最も興味深い人物のひとりだ。難解な詩人だと言われる。しかしこの難解さはどこから来るのか。詩人があまりに多く見、あまりに多く感じ、あまりに多く考えることから来る。その詩は思考と感覚の沈殿物、精髄だ。"
+    },
+    {
+      "id": 2,
+      "french": "Ce n'est pas de la poésie pour tout le monde, c'est vrai. Mais est-ce que la musique de Wagner est pour tout le monde ? Est-ce que la peinture de Delacroix est pour tout le monde ? Les grandes œuvres ont toujours leur part d'inaccessibilité, et c'est peut-être là leur grandeur.",
+      "provisionalTranslation": "すべての人のための詩ではない、それは本当だ。しかしワーグナーの音楽はすべての人のためのものか。ドラクロワの絵画はすべての人のためのものか。偉大な作品は常にその近づきがたさの分を持っており、それがおそらくその偉大さだ。"
+    },
+    {
+      "id": 3,
+      "french": "Mallarmé est le plus musicien des poètes français depuis Verlaine. Sa poésie ne parle pas à l'intellect seul : elle parle aux sens, à l'âme, à tout ce qu'il y a d'irraisonné et de profond dans l'homme. En cela, il est le vrai héritier de Baudelaire.",
+      "provisionalTranslation": "マラルメはヴェルレーヌ以降のフランスの詩人の中で最も音楽的だ。その詩は知性だけに語りかけない——感覚に、魂に、人間の中にある非理性的で深いすべてのものに語りかける。この点において彼はボードレールの真の後継者だ。"
+    },
+    {
+      "id": 4,
+      "french": "Ce qu'il cherche, Mallarmé, c'est le mot juste, le seul mot qui convienne, le mot rare et précieux qui dit exactement la chose et rien de plus. De là cette apparence de préciosité, de là ces constructions syntaxiques déroutantes, de là cette sensation pour le lecteur ordinaire de se trouver en face d'une énigme.",
+      "provisionalTranslation": "マラルメが求めるのは正確な言葉、適切な唯一の言葉、まさにそのものを過不足なく言い表す稀少で貴重な言葉だ。そこから過剰な洗練という外観が、そこから当惑させる統語的構造が、そこから普通の読者が謎に直面しているという感覚が生じる。"
+    },
+    {
+      "id": 5,
+      "french": "Mais quel poète ! Quel artiste ! Quand on a su pénétrer dans cet univers singulier, on n'en peut plus sortir. On y est prisonnier, heureusement prisonnier, d'une beauté d'un ordre inconnu, d'une musique des idées qui n'a pas d'équivalent dans la littérature française.",
+      "provisionalTranslation": "しかし何という詩人！ 何という芸術家！ この特異な宇宙に入り込むことができると、もはや出られない。未知の秩序の美の、フランス文学に類のない観念の音楽の囚人となる。幸せな囚人となる。"
+    },
+    {
+      "id": 6,
+      "french": "L'idéal de Mallarmé — et cet idéal est clairement exprimé dans sa prose comme dans ses vers — c'est de suggérer, non de nommer. Le poète ne doit pas dire la rose ; il doit évoquer la rose par tout ce qui l'entoure, tout ce qui la précède, tout ce qui la suit, sans jamais la nommer.",
+      "provisionalTranslation": "マラルメの理想——そしてこの理想は散文においても詩においても明確に表明されている——は名指しせず示唆することだ。詩人は薔薇を言ってはならない。それを取り囲むすべて、それに先行するすべて、それに続くすべてによって、一度も名指しせずに薔薇を呼び起こさなければならない。"
+    },
+    {
+      "id": 7,
+      "french": "C'est là une esthétique hardie, neuve, difficile à pratiquer, impossible à imiter. Car on peut imiter la manière de Mallarmé, mais on ne peut pas imiter son génie. Et sans le génie, la manière n'est plus qu'un jeu stérile, une jonglerie de mots.",
+      "provisionalTranslation": "これは大胆で、新しく、実践が難しく、模倣が不可能な美学だ。なぜならマラルメの様式は模倣できるが、天才は模倣できないからだ。そして天才なしには、様式はもはや不毛な遊び、言葉の曲芸にすぎない。"
+    },
+    {
+      "id": 8,
+      "french": "Mallarmé est maudit parce qu'il est trop pur. Il refuse les compromis, les facilités, les succès faciles. Il préfère l'obscurité absolue à la clarté vulgaire. Et dans cette obscurité choisie, il crée des chefs-d'œuvre que la postérité comprendra mieux que nous.",
+      "provisionalTranslation": "マラルメは呪われている、なぜなら彼は純粋すぎるからだ。妥協を、安易さを、たやすい成功を拒む。俗な明晰さよりも絶対的な難解さを好む。そしてこの選ばれた難解さの中で、後世がわれわれよりもよく理解するだろう傑作を創造する。"
+    },
+    {
+      "id": 9,
+      "french": "Poète maudit, oui. Mais maudit par qui ? Par ceux qui ont peur du beau, par ceux qui préfèrent la médiocrité confortable à l'excellence inconfortable. La malédiction de Mallarmé est sa gloire. Elle est la preuve que son œuvre dépasse le niveau ordinaire, qu'elle appartient à cet ordre supérieur où se situent les chefs-d'œuvre éternels.",
+      "provisionalTranslation": "呪われた詩人、そうだ。しかし誰に呪われているのか。美を恐れる者たちに、不快な卓越よりも快適な凡庸を好む者たちにだ。マラルメの呪いはその栄光だ。それは彼の作品が普通の水準を超えていること、永遠の傑作が位置するあの上位の秩序に属することの証拠だ。"
+    }
+  ]
+}
