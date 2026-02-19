@@ -1,0 +1,96 @@
+{
+  "id": "vanlerberghe_sous_les_arches",
+  "title": "Sous les arches de roses",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions",
+  "year": "1898",
+  "firstPublication": "",
+  "difficulty": "中級",
+  "category": "vanlerberghe",
+  "modernRelevance": "★★★☆☆",
+  "context": "ヴァン・レルベルグの詩集『Entrevisions』所収。薔薇のアーチで飾られた神秘的な庭園と白い扉を描く象徴主義的な詩。孤独と夢が閾の番人として宿り、光の裳裾をまとった見えない女王が静寂を侍らせる。",
+  "keywords": ["jardin", "solitude", "silence", "lumière", "seuil"],
+  "relatedTexts": ["vanlerberghe_entrevision", "vanlerberghe_rosier_mystique"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "C'est le jardin et la demeure",
+      "provisionalTranslation": "そこは庭と住まい"
+    },
+    {
+      "id": 2,
+      "french": "Où joue un éternel sourire.",
+      "provisionalTranslation": "永遠の微笑みがたゆたう場所。"
+    },
+    {
+      "id": 3,
+      "french": "L'ombre bleue du cadran solaire",
+      "provisionalTranslation": "日時計の青い影と"
+    },
+    {
+      "id": 4,
+      "french": "Et la fontaine y mesurent l'heure,",
+      "provisionalTranslation": "泉とがそこで時を測り、"
+    },
+    {
+      "id": 5,
+      "french": "Et tout y semble en souvenir.",
+      "provisionalTranslation": "すべてがそこで追憶の中にあるようだ。"
+    },
+    {
+      "id": 6,
+      "french": "La Solitude avec le Songe,",
+      "provisionalTranslation": "孤独と夢とが、"
+    },
+    {
+      "id": 7,
+      "french": "Comme deux calmes sphinx s'allongent",
+      "provisionalTranslation": "二体の静かなスフィンクスのように横たわる"
+    },
+    {
+      "id": 8,
+      "french": "Sur ce seuil qu'on ne peut franchir.",
+      "provisionalTranslation": "越えることのできないその閾の上に。"
+    },
+    {
+      "id": 9,
+      "french": "Au haut des escaliers d'or, la porte blanche ;",
+      "provisionalTranslation": "黄金の階段の頂に、白い扉；"
+    },
+    {
+      "id": 10,
+      "french": "Le long des rampes, des liserons ;",
+      "provisionalTranslation": "手すりに沿って、昼顔の蔓；"
+    },
+    {
+      "id": 11,
+      "french": "De fines guirlandes et des arches",
+      "provisionalTranslation": "細やかな花輪とアーチ"
+    },
+    {
+      "id": 12,
+      "french": "De roses au-dessus des marches ;",
+      "provisionalTranslation": "段の上に薔薇が連なり；"
+    },
+    {
+      "id": 13,
+      "french": "Il ne monte que des rayons.",
+      "provisionalTranslation": "昇るのは光の筋ばかり。"
+    },
+    {
+      "id": 14,
+      "french": "Et les rayons sont la traîne",
+      "provisionalTranslation": "そして光の筋は裳裾——"
+    },
+    {
+      "id": 15,
+      "french": "De quelque invisible reine",
+      "provisionalTranslation": "ある見えない女王の裳裾"
+    },
+    {
+      "id": 16,
+      "french": "Que suit son page le Silence.",
+      "provisionalTranslation": "その侍童たる沈黙が後に従う。"
+    }
+  ]
+}
