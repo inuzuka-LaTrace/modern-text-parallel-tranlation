@@ -199,6 +199,7 @@ export default function App() {
     valery:                  'ヴァレリー',
     valmore:                 'ヴァルモール',
     vanlerberghe:            'ヴァン・レルベルグ',
+    verlaine:                'ヴェルレーヌ批評',
   };
 
   const authorColor = (cat) => {
