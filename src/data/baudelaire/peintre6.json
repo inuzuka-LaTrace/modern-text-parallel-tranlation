@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_6",
+  "title": "Le Peintre de la vie moderne (VI) — Les Annales de la guerre",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★☆☆",
+  "context": "第6章。ギースがクリミア戦争従軍記者として描いた戦争スケッチを論じる。戦場の英雄性・崇高さと同時に、戦争の混沌と恐怖を描き出す力を評価する。「英雄性」論の戦場版として『近代性論』と接続する。",
+  "keywords": ["guerre", "héroïsme", "sublime", "violence", "correspondant"],
+  "relatedTexts": ["baudelaire_peintre_5", "baudelaire_peintre_7", "baudelaire_heroisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "M. G. a été longtemps en Orient, et il en a rapporté des impressions fidèles que quiconque ayant visité ces pays retrouvera dans ses œuvres avec plaisir. Mais la guerre d'Orient lui a fourni des sujets d'un caractère plus sévère et plus dramatique, qui ont fortement exercé ses facultés.",
+      "provisionalTranslation": "G氏は長く東方にいて、それらの国を訪れたことのある者なら誰もが喜びをもって作品の中に見出す忠実な印象を持ち帰った。しかし東方戦争はより厳しくより劇的な性格の主題を彼に提供し、彼の能力を強く鍛えた。"
+    },
+    {
+      "id": 2,
+      "french": "La guerre ! Voilà en effet un sujet redoutable, et qui demande à l'artiste une étrange et mystérieuse faculté. La guerre a une beauté terrible. C'est le seul domaine où l'idéal et le réel, l'héroïsme et la souffrance, la grandeur et la misère se trouvent confondus.",
+      "provisionalTranslation": "戦争！ これはまさに恐るべき主題であり、芸術家に奇妙で神秘的な能力を要求する。戦争には恐ろしい美がある。理想と現実、英雄性と苦痛、偉大さと悲惨さが混然一体となる唯一の領域だ。"
+    },
+    {
+      "id": 3,
+      "french": "Dans ces terribles jeux, la mort et la gloire, la lâcheté et le courage, se coudoient à chaque instant. C'est pour cela que le peintre de guerre doit posséder une double faculté : celle de saisir le détail pittoresque dans la confusion générale, et celle de comprendre la signification morale et historique des événements.",
+      "provisionalTranslation": "これらの恐ろしい戦いの中で、死と栄光、臆病と勇気が瞬時に肘で押しあう。だからこそ戦争画家は二重の能力を持たなければならない——全体の混乱の中に絵になる細部を掴む能力と、出来事の道徳的・歴史的意義を理解する能力だ。"
+    },
+    {
+      "id": 4,
+      "french": "M. G. a su rendre dans ses croquis de guerre le fracas, l'enthousiasme, la terreur de ces grandes scènes. On y voit la fumée, la poussière, les éclairs d'acier, la multitude confuse des combattants, et dans chaque figure on lit l'expression particulière de la passion dominante : la rage, la peur, la volonté de vaincre.",
+      "provisionalTranslation": "G氏はその戦争スケッチの中で、これらの偉大な場面の轟音、熱狂、恐怖を表現することを知っていた。煙、埃、鋼の閃き、戦闘員たちの混乱した群れが見える。そして各人物の中に、支配的な情念——激怒、恐怖、勝利への意志——の特別な表情が読める。"
+    },
+    {
+      "id": 5,
+      "french": "Mais ce qui distingue particulièrement le talent de M. G., c'est qu'il n'idéalise pas la guerre, qu'il ne la transforme pas en une série de poses académiques. Il montre la guerre telle qu'elle est : brutale, confuse, sanglante, et pourtant toujours traversée par des éclairs de beauté inattendue.",
+      "provisionalTranslation": "しかしG氏の才能を特に際立たせるのは、戦争を理想化せず、アカデミックなポーズの連続に変えないことだ。彼は戦争をあるがままに示す——残忍で、混乱していて、血まみれで、しかし常に予期せぬ美の閃きに貫かれた戦争を。"
+    },
+    {
+      "id": 6,
+      "french": "Ainsi la grande peinture de guerre n'est pas une célébration du meurtre, mais une méditation sur la condition humaine dans ses moments les plus extrêmes. En ce sens, M. G. est bien dans la tradition des grands peintres de batailles, tout en étant profondément moderne dans sa manière de sentir et de représenter.",
+      "provisionalTranslation": "かくして偉大な戦争絵画は殺戮の称揚ではなく、最も極端な瞬間における人間の条件についての省察だ。この意味において、G氏は感じ方と表現の仕方において深く近代的でありながら、偉大な戦闘画家の伝統の中に確かに位置している。"
+    }
+  ]
+}
