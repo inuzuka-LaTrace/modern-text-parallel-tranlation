@@ -1,0 +1,96 @@
+{
+  "id": "vanlerberghe_solitude",
+  "title": "Solitude",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions",
+  "year": "1898",
+  "firstPublication": "Parnasse de la jeune Belgique, 1887",
+  "difficulty": "中級",
+  "category": "vanlerberghe",
+  "modernRelevance": "★★★★☆",
+  "context": "詩集『Entrevisions』所収。初出は象徴主義の揺籃となったアンソロジー『ベルギー若き高踏派詩集』（1887）。魂を「夜中に目覚めた眠りがちな子供」に擬人化し、夢から醒めた孤独と、月を眺める放棄された魂の姿を描く。4行3連のソネット変形。メーテルランク、ロダンバックと並びベルギー象徴主義の発生を告げる初期作品。",
+  "keywords": ["âme", "solitude", "songe", "lune", "abandon"],
+  "relatedTexts": ["vanlerberghe_entrevision"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Mon âme est cette ensommeillée,",
+      "officialTranslation": "私の魂はあの眠りがちな者、"
+    },
+    {
+      "id": 2,
+      "french": "Cette douce enfant de mensonges,",
+      "officialTranslation": "夢幻の優しい子供、"
+    },
+    {
+      "id": 3,
+      "french": "Aux yeux illuminés de songes,",
+      "officialTranslation": "夢で照らされた目をした、"
+    },
+    {
+      "id": 4,
+      "french": "Qui, dans la nuit, s'est réveillée.",
+      "officialTranslation": "夜の中で目覚めてしまったあの者。"
+    },
+    {
+      "id": 5,
+      "french": "Des blanches fleurs et des beaux fleuves,",
+      "officialTranslation": "白い花も美しい川も、"
+    },
+    {
+      "id": 6,
+      "french": "Rien en son rêve ne subsiste :",
+      "officialTranslation": "夢の中にはもう何も残っていない："
+    },
+    {
+      "id": 7,
+      "french": "Elle est assise, amère et triste,",
+      "officialTranslation": "魂は座っている、苦く、悲しく、"
+    },
+    {
+      "id": 8,
+      "french": "En une robe d'ombres veuves ;",
+      "officialTranslation": "寡婦の影の衣をまとって；"
+    },
+    {
+      "id": 9,
+      "french": "Et pleure en ses yeux solitaires,",
+      "officialTranslation": "そして孤独な目で泣いている、"
+    },
+    {
+      "id": 10,
+      "french": "Et dans sa misère éperdue,",
+      "officialTranslation": "茫然とした惨めさの中で、"
+    },
+    {
+      "id": 11,
+      "french": "Sa grande sœur qui l'a perdue,",
+      "officialTranslation": "自分を見失った大いなる姉妹を、"
+    },
+    {
+      "id": 12,
+      "french": "Si loin encor des rives chèrес ;",
+      "officialTranslation": "愛しい岸辺からまだ遠く隔たった姉妹を；"
+    },
+    {
+      "id": 13,
+      "french": "Et regarde, avec ce visage",
+      "officialTranslation": "そして見つめている、あの顔で"
+    },
+    {
+      "id": 14,
+      "french": "D'une enfant que l'on abandonne,",
+      "officialTranslation": "捨てられた子供の顔で、"
+    },
+    {
+      "id": 15,
+      "french": "La lune, dans sa paix si bonne,",
+      "officialTranslation": "月が、あれほど穏やかな平和の中で、"
+    },
+    {
+      "id": 16,
+      "french": "Poursuivre seule le voyage.",
+      "officialTranslation": "ひとり旅を続けていくのを。"
+    }
+  ]
+}
