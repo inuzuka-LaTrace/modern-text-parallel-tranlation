@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_7",
+  "title": "Le Peintre de la vie moderne (VII) — Pompes et solennités",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★☆☆",
+  "context": "第7章。国家的祝祭・宗教的儀式・公的式典の場面を論じる。群衆が一つの感情に溶け合う瞬間の崇高さと、その中に潜む詩的可能性をギースのスケッチを通じて考察する。",
+  "keywords": ["pompe", "solennité", "foule", "cérémonie", "sublime"],
+  "relatedTexts": ["baudelaire_peintre_6", "baudelaire_peintre_8"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Il y a dans les solennités publiques, dans les fêtes nationales, dans les cérémonies religieuses, quelque chose qui élève l'âme au-dessus du quotidien. La foule qui assiste à ces scènes n'est plus une collection d'individus, mais un seul être animé par une seule passion.",
+      "provisionalTranslation": "公的な式典、国家的祝祭、宗教的儀式には、魂を日常の上へと高める何かがある。これらの場面に立ち会う群衆はもはや個人の集まりではなく、ひとつの情念によって動かされるひとつの存在だ。"
+    },
+    {
+      "id": 2,
+      "french": "M. G. aime les foules, les pompes, les solennités. Tout ce qui représente l'unité d'une nation ou d'un peuple dans ses moments d'exaltation collective l'intéresse vivement. Il y voit un condensé de la vie humaine dans ce qu'elle a de plus intense et de plus significatif.",
+      "provisionalTranslation": "G氏は群衆、儀礼、式典を愛する。集団的な昂揚の瞬間において国家や民衆の統一を表すすべてのものが、彼の強い関心を引く。そこに彼は、人間の生の最も強烈で最も意味深い側面の凝縮を見る。"
+    },
+    {
+      "id": 3,
+      "french": "Dans ces grandes scènes collectives, l'individu disparaît et se fond dans la masse. Mais paradoxalement, c'est précisément dans cette dissolution que se révèle quelque chose d'essentiel sur la nature humaine. La pompe est le miroir grossissant de nos désirs les plus profonds : la gloire, la communauté, la transcendance.",
+      "provisionalTranslation": "これらの偉大な集団的場面において、個人は消え、群衆の中に溶け込む。しかし逆説的に、まさにこの溶解の中に人間の本性についての本質的な何かが現れる。儀礼はわれわれの最も深い欲望——栄光、共同体、超越——の拡大鏡だ。"
+    },
+    {
+      "id": 4,
+      "french": "Les fêtes religieuses ont une beauté particulière : elles mêlent le terrestre et le céleste, le visible et l'invisible. Quand la procession avance dans les rues, quand les encensoirs se balancent et que les chants s'élèvent, quelque chose de mystérieux descend sur la foule et la transforme.",
+      "provisionalTranslation": "宗教的祝祭には特別な美がある——地上と天上、可視と不可視を混ぜ合わせる。行列が街路を進み、香炉が揺れ、歌声が高まる時、神秘的な何かが群衆に降り注ぎ、それを変容させる。"
+    },
+    {
+      "id": 5,
+      "french": "Les fêtes nationales ont une autre sorte de grandeur. Elles expriment la volonté d'un peuple de se reconnaître dans sa propre histoire. Les drapeaux, les uniformes, les musiques militaires, tout ce cérémonial est une langue que M. G. sait déchiffrer et traduire en images.",
+      "provisionalTranslation": "国家的祝祭には別種の偉大さがある。それは民衆が自らの歴史の中に自己を認識しようとする意志を表す。旗、制服、軍楽——この儀礼のすべてはG氏が解読し映像に翻訳することを知っている言語だ。"
+    },
+    {
+      "id": 6,
+      "french": "En définitive, ce qui fascine M. G. dans les pompes et les solennités, c'est la même chose qui le fascine partout : le mystère de la vie collective, l'énigme de l'homme en société, la façon dont l'individuel se dissout et se recrée dans le général. Voilà le grand sujet de son art.",
+      "provisionalTranslation": "結局のところ、G氏が儀礼と式典に魅了されるのは、あらゆるところで彼を魅了するものと同じだ——集団的生の神秘、社会における人間の謎、個人的なものが一般的なものの中に溶解し再創造される様式。これが彼の芸術の偉大な主題だ。"
+    }
+  ]
+}
