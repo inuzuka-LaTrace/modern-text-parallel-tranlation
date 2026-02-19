@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_8",
+  "title": "Le Peintre de la vie moderne (VIII) — Le Militaire",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★☆☆",
+  "context": "第8章。軍人をダンディズムの一形態として論じる異色の章。制服の美学、規律の詩学、死の前での平静さ——軍人の姿にボードレールは近代的英雄性の一類型を見出す。",
+  "keywords": ["militaire", "uniforme", "dandysme", "discipline", "héroïsme"],
+  "relatedTexts": ["baudelaire_peintre_7", "baudelaire_peintre_9", "baudelaire_heroisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le militaire est une espèce particulière d'homme. Il appartient à cette catégorie d'êtres qui ont choisi une vie réglée par des lois extérieures plutôt que par les caprices de la volonté individuelle. En ce sens, il est l'antithèse du romantique, et pourtant il possède sa propre grandeur.",
+      "provisionalTranslation": "軍人は特別な種類の人間だ。個人的意志の気まぐれよりも外的な法則によって規制された生を選んだ存在の部類に属する。この意味でロマン主義者の対極にあるが、それでも彼は固有の偉大さを持つ。"
+    },
+    {
+      "id": 2,
+      "french": "L'uniforme est une poésie. Il condense en lui toute une philosophie de l'existence : l'appartenance à un corps, la subordination de l'individu au collectif, la fierté du métier. M. G. l'a compris, et ses militaires ont une dignité que les peintres officiels ne savent pas leur donner.",
+      "provisionalTranslation": "制服は詩だ。存在の哲学全体をその中に凝縮する——集団への帰属、個人の集団への従属、職業への誇り。G氏はそれを理解しており、彼の軍人たちは公式の画家たちが与えることを知らない威厳を持っている。"
+    },
+    {
+      "id": 3,
+      "french": "Il y a dans le militaire quelque chose du dandy : le culte du moi sous une forme particulière, la volonté de se distinguer, le soin de l'apparence, le mépris du vulgaire. Mais tandis que le dandy ne cherche à plaire qu'à lui-même, le militaire cherche à incarner un idéal collectif.",
+      "provisionalTranslation": "軍人にはダンディの何かがある——特別な形での自我の崇拝、際立とうとする意志、外見への配慮、俗なるものへの軽蔑。しかしダンディが自己だけを喜ばせようとするのに対し、軍人は集団的理想を体現しようとする。"
+    },
+    {
+      "id": 4,
+      "french": "Ce qui est remarquable dans les militaires de M. G., c'est qu'ils ne posent jamais. Ils sont saisis dans l'action, dans le mouvement, dans l'instant. On y sent la fatigue des longues marches, la tension de l'avant-veille de la bataille, la détente après la victoire.",
+      "provisionalTranslation": "G氏の軍人たちで注目すべきは、彼らが決してポーズを取らないことだ。行動の中に、動きの中に、瞬間の中に捉えられている。長い行軍の疲労、戦いの前夜の緊張、勝利後の弛緩が感じられる。"
+    },
+    {
+      "id": 5,
+      "french": "La beauté du militaire est une beauté tragique. Elle est liée à la conscience de la mort possible, à l'acceptation du sacrifice. Il y a dans chaque soldat quelque chose de stoïcien : la volonté de faire son devoir jusqu'au bout, quelles qu'en soient les conséquences.",
+      "provisionalTranslation": "軍人の美は悲劇的な美だ。可能性としての死の意識、犠牲の受容と結びついている。すべての兵士には何かストア哲学的なものがある——結果がどうであれ、最後まで義務を果たそうとする意志だ。"
+    },
+    {
+      "id": 6,
+      "french": "Ainsi, à travers la figure du militaire, M. G. nous offre une méditation sur l'héroïsme moderne. Non pas l'héroïsme flamboyant des épopées antiques, mais un héroïsme sobre, quotidien, fait de discipline et de sacrifice silencieux. C'est là, peut-être, la forme la plus pure de la grandeur humaine.",
+      "provisionalTranslation": "かくして軍人という形象を通じてG氏は近代的英雄性についての省察を提供する。古代叙事詩の華やかな英雄性ではなく、規律と無言の犠牲からなる、地味で日常的な英雄性だ。これこそがおそらく、人間の偉大さの最も純粋な形だ。"
+    }
+  ]
+}
