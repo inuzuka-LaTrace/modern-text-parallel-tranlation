@@ -1,9 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
 import vanlerbergheData from './data/vanlerberghe';
+
+// ユーティリティ：officialTranslation / provisionalTranslation 両対応
+const getTranslation = (para) =>
+  para.provisionalTranslation ?? para.officialTranslation ?? '';
 
 export default function App() {
   const [texts, setTexts] = useState({});
@@ -19,7 +23,13 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
-  
+
+  // 新機能
+  const [searchQuery, setSearchQuery] = useState('');
+  const [showSettings, setShowSettings] = useState(false);
+  const [collapsedParagraphs, setCollapsedParagraphs] = useState({});
+  const settingsRef = useRef(null);
+
   useEffect(() => {
     const allTexts = {
       ...baudelaireData,
@@ -31,66 +41,75 @@ export default function App() {
     setTexts(allTexts);
     setLoading(false);
   }, []);
-  
-  const currentText = texts[selectedText];
-  
-  const categories = {
-    all: { name: 'すべて' },
-    baudelaire_aesthetics: { name: 'ボードレール美学' },
-    baudelaire_music: { name: 'ボードレール音楽論' },
-    baudelaire_modernity: { name: 'ボードレール近代性' },
-    mallarme_poetics: { name: 'マラルメ詩学' },
-    mallarme_book: { name: 'マラルメ書物論' },
-    mallarme_representation: { name: 'マラルメ表象論' },
-    mallarme_culture: { name: 'マラルメ文化論' },
-    valery: { name: 'ヴァレリー' },
-    mallarme_music: { name: 'マラルメ音楽論' }, 
-    mallarme_theatre: { name: 'マラルメ演劇・表象論' },
-    valmore: { name: 'ヴァルモール' },
-    vanlerberghe: { name: 'ヴァン・レルベルグ' }
-  };
-  
-  const filteredTexts = selectedCategory === 'all'
-    ? Object.values(texts)
-    : Object.values(texts).filter(t => t.category === selectedCategory);
-  
+
+  // 設定パネルの外クリックで閉じる
   useEffect(() => {
-    if (!loading && currentText) {
-      loadUserTranslations();
-    }
+    const handleClickOutside = (e) => {
+      if (settingsRef.current && !settingsRef.current.contains(e.target)) {
+        setShowSettings(false);
+      }
+    };
+    if (showSettings) document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [showSettings]);
+
+  const currentText = texts[selectedText];
+
+  const categories = {
+    all:                        { name: 'すべて' },
+    baudelaire_aesthetics:      { name: 'ボードレール美学' },
+    baudelaire_music:           { name: 'ボードレール音楽論' },
+    baudelaire_modernity:       { name: 'ボードレール近代性' },
+    mallarme_poetics:           { name: 'マラルメ詩学' },
+    mallarme_book:              { name: 'マラルメ書物論' },
+    mallarme_representation:    { name: 'マラルメ表象論' },
+    mallarme_theatre:           { name: 'マラルメ演劇・表象論' },
+    mallarme_music:             { name: 'マラルメ音楽論' },
+    mallarme_culture:           { name: 'マラルメ文化論' },
+    valery:                     { name: 'ヴァレリー' },
+    valmore:                    { name: 'ヴァルモール' },
+    vanlerberghe:               { name: 'ヴァン・レルベルグ' }
+  };
+
+  // カテゴリーで絞り込み後、さらに検索クエリで絞り込む
+  const filteredTexts = Object.values(texts)
+    .filter(t => selectedCategory === 'all' || t.category === selectedCategory)
+    .filter(t => {
+      if (!searchQuery.trim()) return true;
+      const q = searchQuery.toLowerCase();
+      return (
+        t.title?.toLowerCase().includes(q) ||
+        t.author?.toLowerCase().includes(q) ||
+        (t.keywords || []).some(k => k.toLowerCase().includes(q))
+      );
+    });
+
+  useEffect(() => {
+    if (!loading && currentText) loadUserTranslations();
   }, [selectedText, loading, currentText]);
-  
+
   const loadUserTranslations = () => {
     try {
       const stored = localStorage.getItem(`translations-${selectedText}`);
-      if (stored) {
-        setUserTranslations(JSON.parse(stored));
-      } else {
-        setUserTranslations({});
-      }
-    } catch (error) {
+      setUserTranslations(stored ? JSON.parse(stored) : {});
+    } catch {
       setUserTranslations({});
     }
   };
-  
+
   const saveUserTranslation = (paragraphId, translation) => {
     const updated = {
       ...userTranslations,
-      [paragraphId]: {
-        text: translation,
-        lastModified: new Date().toISOString()
-      }
+      [paragraphId]: { text: translation, lastModified: new Date().toISOString() }
     };
-    
     setUserTranslations(updated);
-    
     try {
       localStorage.setItem(`translations-${selectedText}`, JSON.stringify(updated));
-    } catch (error) {
-      console.error('Failed to save:', error);
+    } catch (e) {
+      console.error('Failed to save:', e);
     }
   };
-  
+
   const handleSaveTranslation = (paragraphId) => {
     const textarea = document.getElementById(`user-translation-${paragraphId}`);
     if (textarea) {
@@ -98,23 +117,33 @@ export default function App() {
       setEditingParagraph(null);
     }
   };
-  
+
   const clearAllTranslations = () => {
     if (window.confirm('このテキストのすべての訳文を削除してもよろしいですか？')) {
       setUserTranslations({});
-      try {
-        localStorage.removeItem(`translations-${selectedText}`);
-      } catch (error) {
-        console.error('Failed to clear:', error);
-      }
+      try { localStorage.removeItem(`translations-${selectedText}`); } catch {}
     }
   };
-  
+
   const handleTextChange = (textId) => {
     setSelectedText(textId);
     setEditingParagraph(null);
+    setCollapsedParagraphs({});
   };
-  
+
+  const toggleParagraph = (id) => {
+    setCollapsedParagraphs(prev => ({ ...prev, [id]: !prev[id] }));
+  };
+
+  // 全段落を折りたたむ / 展開する
+  const collapseAll = () => {
+    if (!currentText) return;
+    const all = {};
+    currentText.paragraphs.forEach(p => { all[p.id] = true; });
+    setCollapsedParagraphs(all);
+  };
+  const expandAll = () => setCollapsedParagraphs({});
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 flex items-center justify-center">
@@ -125,7 +154,7 @@ export default function App() {
       </div>
     );
   }
-  
+
   if (!currentText) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-50 flex items-center justify-center">
@@ -136,107 +165,175 @@ export default function App() {
       </div>
     );
   }
-  
-  const bgClass = darkMode 
-    ? 'bg-gradient-to-br from-slate-900 via-gray-900 to-indigo-950' 
-    : 'bg-gradient-to-br from-indigo-50 via-white to-purple-50';
-  const cardBgClass = darkMode 
-    ? 'bg-gray-900 bg-opacity-70 backdrop-blur-sm' 
-    : 'bg-white bg-opacity-80 backdrop-blur-sm';
-  const textClass = darkMode ? 'text-gray-100' : 'text-gray-900';
-  const textSecondaryClass = darkMode ? 'text-gray-400' : 'text-gray-600';
-  const borderClass = darkMode ? 'border-gray-700 border-opacity-50' : 'border-gray-200';
-  const hoverBorderClass = darkMode ? 'hover:border-indigo-500' : 'hover:border-indigo-400';
-  
-  const fontFamilyClass = 
+
+  // ─── テーマ変数 ───────────────────────────────────────────
+  const bgClass         = darkMode ? 'bg-gray-950'                        : 'bg-gradient-to-br from-slate-50 via-white to-indigo-50';
+  const cardBgClass     = darkMode ? 'bg-gray-900 border-gray-800'        : 'bg-white border-gray-200';
+  const textClass       = darkMode ? 'text-gray-100'                       : 'text-gray-900';
+  const textSecondary   = darkMode ? 'text-gray-400'                       : 'text-gray-500';
+  const borderClass     = darkMode ? 'border-gray-800'                     : 'border-gray-200';
+  const inputBg         = darkMode ? 'bg-gray-800 text-gray-100 placeholder-gray-500 border-gray-700' : 'bg-gray-50 text-gray-900 placeholder-gray-400 border-gray-300';
+  const settingsBg      = darkMode ? 'bg-gray-900 border-gray-700 shadow-2xl' : 'bg-white border-gray-200 shadow-2xl';
+
+  const fontFamilyStyle =
     fontFamily === 'garamond' ? '"EB Garamond", "Noto Serif JP", serif' :
     fontFamily === 'serif'    ? '"Noto Serif JP", serif' :
     '"Inter", "Noto Sans JP", sans-serif';
-  
-  const fontSizeClasses = {
-    small: 'text-sm',
-    medium: 'text-base',
-    large: 'text-lg',
-    xlarge: 'text-xl'
+
+  const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
+
+  // カテゴリーラベルの短縮表示用マップ
+  const catShort = {
+    baudelaire_aesthetics:   '美学',
+    baudelaire_music:        '音楽',
+    baudelaire_modernity:    '近代性',
+    mallarme_poetics:        '詩学',
+    mallarme_book:           '書物',
+    mallarme_representation: '表象',
+    mallarme_theatre:        '演劇',
+    mallarme_music:          '音楽',
+    mallarme_culture:        '文化',
+    valery:                  'ヴァレリー',
+    valmore:                 'ヴァルモール',
+    vanlerberghe:            'ヴァン・レルベルグ',
   };
-  
+
+  const authorColor = (cat) => {
+    if (cat?.startsWith('baudelaire')) return darkMode ? 'bg-amber-900/40 text-amber-300' : 'bg-amber-100 text-amber-800';
+    if (cat?.startsWith('mallarme'))   return darkMode ? 'bg-sky-900/40 text-sky-300'     : 'bg-sky-100 text-sky-800';
+    if (cat?.startsWith('valery'))     return darkMode ? 'bg-rose-900/40 text-rose-300'   : 'bg-rose-100 text-rose-800';
+    if (cat?.startsWith('valmore'))    return darkMode ? 'bg-pink-900/40 text-pink-300'   : 'bg-pink-100 text-pink-800';
+    if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
+    return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
+  };
+
   return (
-    <div className={`min-h-screen ${bgClass}`} style={{fontFamily: fontFamilyClass}}>
-      <header className={`${darkMode ? 'bg-gray-900 bg-opacity-90 border-gray-800' : 'bg-gradient-to-r from-indigo-600 to-purple-600'} text-white shadow-lg border-b backdrop-blur-sm`}>
-        <div className="max-w-6xl mx-auto px-4 py-6">
-          <div className="flex justify-between items-center">
-            <div>
-              <h1 className="text-3xl font-serif">
-                19-20世紀フランス批評理論
-              </h1>
-              <p className={`text-sm mt-1 ${darkMode ? 'text-gray-300' : 'text-indigo-100'}`}>
-                {Object.keys(texts).length}編収録
-              </p>
-            </div>
-            <div className="flex gap-2 items-center flex-wrap">
-              <button
-                onClick={() => setDarkMode(!darkMode)}
-                className={`px-3 py-2 rounded text-sm ${darkMode ? 'bg-gray-800' : 'bg-indigo-500'} hover:opacity-80 transition-all`}
-              >
-                {darkMode ? '☀️' : '🌙'}
-              </button>
-            <select
-                value={fontSize}
-                onChange={(e) => setFontSize(e.target.value)}
-                className={`px-3 py-2 rounded text-sm ${darkMode ? 'bg-gray-800 text-white' : 'bg-indigo-500'}`}
-              >
-                <option value="small">小</option>
-                <option value="medium">中</option>
-                <option value="large">大</option>
-                <option value="xlarge">特大</option>
-              </select>
-              <select
-                value={fontFamily}
-                onChange={(e) => setFontFamily(e.target.value)}
-                className={`px-3 py-2 rounded text-sm ${darkMode ? 'bg-gray-800 text-white' : 'bg-indigo-500'}`}
-              >
-                <option value="garamond">Garamond</option>
-                <option value="serif">Noto Serif</option>
-                <option value="sans">Sans</option>
-              </select>
-            </div>
+    <div className={`min-h-screen ${bgClass} relative`} style={{ fontFamily: fontFamilyStyle }}>
+
+      {/* ─── Header ─────────────────────────────────── */}
+      <header className={`sticky top-0 z-30 ${darkMode ? 'bg-gray-950/95 border-gray-800' : 'bg-white/95 border-gray-200'} border-b backdrop-blur-md shadow-sm`}>
+        <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
+          <div className="flex-1 min-w-0">
+            <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
+              フランス語圏象徴主義文学対訳
+            </h1>
+            <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
+          </div>
+
+          {/* ダークモード切り替え */}
+          <button
+            onClick={() => setDarkMode(!darkMode)}
+            className={`w-9 h-9 flex items-center justify-center rounded-full text-base transition-colors ${darkMode ? 'bg-gray-800 hover:bg-gray-700 text-yellow-300' : 'bg-gray-100 hover:bg-gray-200 text-gray-600'}`}
+            title="ダーク/ライト切替"
+          >
+            {darkMode ? '☀️' : '🌙'}
+          </button>
+
+          {/* 設定ボタン */}
+          <div className="relative" ref={settingsRef}>
+            <button
+              onClick={() => setShowSettings(!showSettings)}
+              className={`w-9 h-9 flex items-center justify-center rounded-full text-base transition-colors ${showSettings ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 hover:bg-gray-700 text-gray-300' : 'bg-gray-100 hover:bg-gray-200 text-gray-600'}`}
+              title="表示設定"
+            >
+              ⚙️
+            </button>
+
+            {/* 設定パネル（ドロップダウン） */}
+            {showSettings && (
+              <div className={`absolute right-0 top-12 w-64 rounded-xl border p-4 z-50 ${settingsBg}`}>
+                <h3 className={`text-xs font-semibold uppercase tracking-wider ${textSecondary} mb-3`}>表示設定</h3>
+
+                {/* フォントサイズ */}
+                <div className="mb-4">
+                  <label className={`text-xs font-medium ${textClass} block mb-2`}>文字サイズ</label>
+                  <div className="flex gap-1">
+                    {[['small','小'],['medium','中'],['large','大'],['xlarge','特大']].map(([val, label]) => (
+                      <button
+                        key={val}
+                        onClick={() => setFontSize(val)}
+                        className={`flex-1 py-1 text-xs rounded transition-colors ${fontSize === val ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+                      >
+                        {label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* フォント */}
+                <div className="mb-4">
+                  <label className={`text-xs font-medium ${textClass} block mb-2`}>フォント</label>
+                  <div className="flex flex-col gap-1">
+                    {[['garamond','Garamond (推奨)'],['serif','Noto Serif'],['sans','Sans']].map(([val, label]) => (
+                      <button
+                        key={val}
+                        onClick={() => setFontFamily(val)}
+                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${fontFamily === val ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+                      >
+                        {label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* 表示切り替え */}
+                <div>
+                  <label className={`text-xs font-medium ${textClass} block mb-2`}>表示する内容</label>
+                  <div className="space-y-2">
+                    {[
+                      [showFrench, setShowFrench, '原文', 'indigo'],
+                      [showOfficial, setShowOfficial, '仮訳', 'green'],
+                      [showUser, setShowUser, '自分の訳', 'purple'],
+                    ].map(([checked, setter, label, color]) => (
+                      <label key={label} className="flex items-center gap-2 cursor-pointer">
+                        <input
+                          type="checkbox"
+                          checked={checked}
+                          onChange={(e) => setter(e.target.checked)}
+                          className={`w-4 h-4 rounded accent-${color}-600`}
+                        />
+                        <span className={`text-sm ${textClass}`}>{label}</span>
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </header>
-      
-      {showWelcome && (
-        <div className="max-w-6xl mx-auto px-4 py-6">
-          <div className={`${cardBgClass} border ${borderClass} rounded-lg p-6 relative shadow-xl`}>
+
+      <div className="max-w-6xl mx-auto px-4 py-6">
+
+        {/* ─── ウェルカムバナー ───────────────────────── */}
+        {showWelcome && (
+          <div className={`rounded-xl border p-4 mb-6 relative ${darkMode ? 'bg-indigo-950/50 border-indigo-800' : 'bg-indigo-50 border-indigo-200'}`}>
             <button
               onClick={() => setShowWelcome(false)}
-              className={`absolute top-4 right-4 ${textSecondaryClass} hover:opacity-70 text-2xl leading-none`}
-            >
-              ×
-            </button>
-            <h2 className={`text-xl font-semibold ${textClass} mb-3`}>
-              19-20世紀フランス批評理論
-            </h2>
-            <div className={`text-sm space-y-2 ${textSecondaryClass}`}>
-              <p>📚 ボードレール・マラルメ・ヴァレリーの批評テキスト</p>
-              <p>✨ 原文と日本語訳を並べて学習</p>
-              <p>📝 自分の訳文を保存可能</p>
-            </div>
+              className={`absolute top-3 right-3 ${textSecondary} hover:opacity-70 text-xl leading-none`}
+            >×</button>
+            <p className={`text-sm ${darkMode ? 'text-indigo-300' : 'text-indigo-700'}`}>
+              📚 19-20世紀フランス語圏象徴主義の詩・批評テキスト対訳集。原文と仮訳を並べて比較し、自分の訳文も記録できます。
+            </p>
+            <p className={`text-xs mt-1 ${darkMode ? 'text-indigo-400' : 'text-indigo-500'}`}>
+              ※ 掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません。
+            </p>
           </div>
-        </div>
-      )}
-      
-      <div className="max-w-6xl mx-auto px-4 py-4">
-        <div className={`${cardBgClass} rounded-lg shadow-lg p-4 mb-4 border ${borderClass}`}>
-          <h3 className={`text-sm font-semibold ${textClass} mb-2`}>カテゴリー:</h3>
-          <div className="flex flex-wrap gap-2">
+        )}
+
+        {/* ─── カテゴリーフィルター ─────────────────── */}
+        <div className={`rounded-xl border p-4 mb-4 ${cardBgClass}`}>
+          <div className="flex flex-wrap gap-1.5">
             {Object.entries(categories).map(([key, cat]) => (
               <button
                 key={key}
-                onClick={() => setSelectedCategory(key)}
-                className={`px-3 py-2 rounded text-sm transition-all ${
+                onClick={() => { setSelectedCategory(key); setSearchQuery(''); }}
+                className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
                   selectedCategory === key
-                    ? (darkMode ? 'bg-indigo-600 text-white shadow-lg' : 'bg-indigo-600 text-white shadow-lg')
-                    : (darkMode ? 'bg-gray-800 bg-opacity-60 text-gray-300 hover:bg-opacity-80' : 'bg-gray-100 text-gray-700 hover:bg-gray-200')
+                    ? 'bg-indigo-600 text-white shadow-sm'
+                    : darkMode
+                      ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                      : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
                 }`}
               >
                 {cat.name}
@@ -244,212 +341,271 @@ export default function App() {
             ))}
           </div>
         </div>
-        
-        <div className={`${cardBgClass} rounded-lg shadow-lg p-6 mb-6 border ${borderClass}`}>
-          <h2 className={`text-lg font-semibold ${textClass} mb-4`}>
-            テキスト選択 ({filteredTexts.length}編)
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {filteredTexts.map((text) => (
-              <button
-                key={text.id}
-                onClick={() => handleTextChange(text.id)}
-                className={`p-4 rounded-lg border-2 text-left transition-all transform hover:scale-105 ${hoverBorderClass} ${
-                  selectedText === text.id
-                    ? 'border-indigo-600 bg-indigo-50 dark:bg-indigo-900 dark:bg-opacity-30 shadow-xl'
-                    : `${borderClass} ${cardBgClass}`
-                }`}
-              >
-                <h3 className={`font-serif text-base ${textClass} mb-1 line-clamp-2`}>
-                  {text.title}
-                </h3>
-                <p className={`text-xs ${textSecondaryClass} mb-2`}>
-                  {text.author} ({text.year})
-                </p>
-                <p className={`text-xs ${textSecondaryClass}`}>難易度: {text.difficulty}</p>
-                <p className={`text-xs font-semibold ${darkMode ? 'text-indigo-400' : 'text-indigo-600'}`}>
-                  段落数: {text.paragraphs.length}
-                </p>
-              </button>
-            ))}
-          </div>
-        </div>
-        
-        <div className={`${cardBgClass} rounded-lg shadow-lg p-6 mb-6 border ${borderClass}`}>
-          <h2 className={`text-2xl font-serif ${textClass} mb-2`}>
-            {currentText.title}
-          </h2>
-          <div className={`text-sm ${textSecondaryClass} space-y-1`}>
-            <p>著者：{currentText.author}</p>
-            <p>出典：{currentText.source}（{currentText.year}年）</p>
-            <p className="font-semibold text-indigo-600 dark:text-indigo-400">
-              段落数：{currentText.paragraphs.length}
-            </p>
-            {currentText.context && (
-              <div className={`${darkMode ? 'bg-indigo-950 bg-opacity-50 border-indigo-800' : 'bg-indigo-50 border-indigo-200'} border rounded p-3 mt-3`}>
-                <p className={`text-sm ${darkMode ? 'text-indigo-300' : 'text-indigo-800'}`}>
-                  {currentText.context}
-                </p>
-              </div>
-            )}
-          </div>
-        </div>
-        <div className={`${cardBgClass} rounded-lg shadow-lg p-4 mb-6 border ${borderClass}`}>
-          <div className="flex flex-wrap gap-4 items-center justify-between">
-            <div className="space-y-2">
-              <span className={`text-sm font-medium ${textClass} block`}>表示:</span>
-              <div className="flex flex-wrap gap-3">
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={showFrench}
-                    onChange={(e) => setShowFrench(e.target.checked)}
-                    className="w-4 h-4 rounded accent-indigo-600"
-                  />
-                  <span className={`text-sm font-medium ${textClass}`}>原文</span>
-                </label>
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={showOfficial}
-                    onChange={(e) => setShowOfficial(e.target.checked)}
-                    className="w-4 h-4 rounded accent-green-600"
-                  />
-                  <span className={`text-sm font-medium ${textClass}`}>公式訳</span>
-                </label>
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={showUser}
-                    onChange={(e) => setShowUser(e.target.checked)}
-                    className="w-4 h-4 rounded accent-purple-600"
-                  />
-                  <span className={`text-sm font-medium ${textClass}`}>自分の訳</span>
-                </label>
-              </div>
-            </div>
+
+        {/* ─── 検索バー ─────────────────────────────── */}
+        <div className="mb-4 relative">
+          <span className="absolute left-3 top-1/2 -translate-y-1/2 text-base pointer-events-none">🔍</span>
+          <input
+            type="text"
+            value={searchQuery}
+            onChange={(e) => { setSearchQuery(e.target.value); setSelectedCategory('all'); }}
+            placeholder="タイトル・著者・キーワードで検索..."
+            className={`w-full rounded-xl border pl-9 pr-9 py-2.5 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all ${inputBg}`}
+          />
+          {searchQuery && (
             <button
-              onClick={clearAllTranslations}
-              className={`px-4 py-2 rounded text-sm font-medium transition-colors ${
-                darkMode 
-                  ? 'bg-red-900 bg-opacity-50 text-red-300 hover:bg-opacity-70 border border-red-700' 
-                  : 'bg-red-600 text-white hover:bg-red-700 shadow-sm'
-              }`}
+              onClick={() => setSearchQuery('')}
+              className={`absolute right-3 top-1/2 -translate-y-1/2 text-base ${textSecondary} hover:opacity-70`}
+            >×</button>
+          )}
+        </div>
+
+        {/* ─── テキスト一覧グリッド ─────────────────── */}
+        <div className={`rounded-xl border p-4 mb-6 ${cardBgClass}`}>
+          <h2 className={`text-sm font-semibold ${textClass} mb-3`}>
+            テキスト一覧
+            <span className={`ml-2 font-normal ${textSecondary}`}>({filteredTexts.length}件)</span>
+          </h2>
+
+          {filteredTexts.length === 0 ? (
+            <p className={`text-sm ${textSecondary} py-4 text-center`}>
+              「{searchQuery}」に一致するテキストが見つかりませんでした
+            </p>
+          ) : (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+              {filteredTexts.map((text) => (
+                <button
+                  key={text.id}
+                  onClick={() => handleTextChange(text.id)}
+                  className={`p-3 rounded-lg border text-left transition-all ${
+                    selectedText === text.id
+                      ? darkMode
+                        ? 'border-indigo-500 bg-indigo-900/30 ring-1 ring-indigo-500'
+                        : 'border-indigo-500 bg-indigo-50 ring-1 ring-indigo-400'
+                      : darkMode
+                        ? `border-gray-800 hover:border-gray-700 hover:bg-gray-800/50`
+                        : `border-gray-200 hover:border-indigo-300 hover:bg-gray-50`
+                  }`}
+                >
+                  {/* カテゴリーバッジ */}
+                  <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-1.5 font-medium ${authorColor(text.category)}`}>
+                    {catShort[text.category] || text.category}
+                  </span>
+                  <h3 className={`font-serif text-sm font-medium ${textClass} leading-snug line-clamp-2`}>
+                    {text.title}
+                  </h3>
+                  <p className={`text-xs ${textSecondary} mt-0.5`}>{text.author}</p>
+                  <div className={`flex items-center gap-2 mt-1.5 text-xs ${textSecondary}`}>
+                    <span>{text.year}</span>
+                    <span>·</span>
+                    <span>{text.paragraphs.length}段落</span>
+                    {text.difficulty && (
+                      <>
+                        <span>·</span>
+                        <span>{text.difficulty}</span>
+                      </>
+                    )}
+                  </div>
+                </button>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* ─── 現在のテキスト情報 ───────────────────── */}
+        <div className={`rounded-xl border p-5 mb-4 ${cardBgClass}`}>
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <span className={`inline-block text-xs px-2 py-0.5 rounded-full mb-2 font-medium ${authorColor(currentText.category)}`}>
+                {catShort[currentText.category] || currentText.category}
+              </span>
+              <h2 className={`text-xl font-serif ${textClass} mb-1`}>{currentText.title}</h2>
+              <p className={`text-sm ${textSecondary}`}>{currentText.author}　{currentText.source}（{currentText.year}年）</p>
+            </div>
+            <div className={`text-right text-xs ${textSecondary} shrink-0`}>
+              <span className="font-semibold">{currentText.paragraphs.length}</span>段落
+            </div>
+          </div>
+          {currentText.context && (
+            <div className={`mt-3 p-3 rounded-lg text-sm ${darkMode ? 'bg-indigo-950/50 text-indigo-300 border border-indigo-900' : 'bg-indigo-50 text-indigo-800 border border-indigo-100'}`}>
+              {currentText.context}
+            </div>
+          )}
+          {currentText.keywords && currentText.keywords.length > 0 && (
+            <div className="flex flex-wrap gap-1.5 mt-3">
+              {currentText.keywords.map(k => (
+                <span key={k} className={`text-xs px-2 py-0.5 rounded ${darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-600'}`}>
+                  {k}
+                </span>
+              ))}
+            </div>
+          )}
+        </div>
+
+        {/* ─── 段落コントロールバー ─────────────────── */}
+        <div className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
+          <div className="flex gap-2">
+            <button
+              onClick={expandAll}
+              className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
             >
-              訳文削除
+              ▼ すべて展開
+            </button>
+            <button
+              onClick={collapseAll}
+              className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
+            >
+              ▶ すべて折りたたむ
             </button>
           </div>
+          <button
+            onClick={clearAllTranslations}
+            className={`px-3 py-1.5 text-xs rounded-lg transition-colors ${darkMode ? 'bg-red-900/40 text-red-400 border border-red-800 hover:bg-red-900/60' : 'bg-red-50 text-red-600 border border-red-200 hover:bg-red-100'}`}
+          >
+            訳文をすべて削除
+          </button>
         </div>
-        
-        <div className={`space-y-6 pb-8 ${fontSizeClasses[fontSize]}`}>
-          {currentText.paragraphs.map((para) => (
-            <div key={para.id} className={`${cardBgClass} rounded-lg shadow-lg p-6 border-2 ${borderClass} hover:shadow-2xl ${hoverBorderClass} transition-all`}>
-              {showFrench && (
-                <div className="mb-4">
-                  <span className={`text-xs font-semibold px-3 py-1 rounded ${
-                    darkMode 
-                      ? 'bg-indigo-900 bg-opacity-50 text-indigo-300 border border-indigo-700' 
-                      : 'bg-indigo-600 text-white shadow-sm'
-                  }`}>
-                    原文 {para.id}
-                  </span>
-                  <p className={`${
-                    fontSize === 'xlarge' ? 'text-2xl' :
-                    fontSize === 'large'  ? 'text-xl' :
-                    fontSize === 'medium' ? 'text-lg' : 'text-base'
-                  } leading-relaxed ${textClass} ${fontFamily === 'garamond' || fontFamily === 'serif' ? 'italic' : ''} mt-3`}>
-                    {para.french}
-                  </p>
-                </div>
-              )}
-              
-              {showOfficial && (
-                <div className={`${showFrench ? 'mb-4' : ''} border-l-4 border-green-500 dark:border-green-700 pl-4`}>
-                  <span className={`text-xs font-semibold px-3 py-1 rounded ${
-                    darkMode 
-                      ? 'bg-green-900 bg-opacity-50 text-green-300 border border-green-700' 
-                      : 'bg-green-600 text-white shadow-sm'
-                  }`}>
-                    公式訳
-                  </span>
-                  <p className={`${
-                    fontSize === 'xlarge' ? 'text-xl' :
-                    fontSize === 'large'  ? 'text-lg' :
-                    fontSize === 'medium' ? 'text-base' : 'text-sm'
-                  } leading-relaxed ${textClass} mt-3`}>
-                    {para.officialTranslation}
-                  </p>
-                </div>
-              )}
-              
-              {showUser && (
-                <div className="border-l-4 border-purple-500 dark:border-purple-700 pl-4">
-                  <span className={`text-xs font-semibold px-3 py-1 rounded ${
-                    darkMode 
-                      ? 'bg-purple-900 bg-opacity-50 text-purple-300 border border-purple-700' 
-                      : 'bg-purple-600 text-white shadow-sm'
-                  }`}>
-                    自分の訳
-                  </span>
-                  {editingParagraph === para.id ? (
-                    <div className="mt-3">
-                      <textarea
-                        id={`user-translation-${para.id}`}
-                        defaultValue={userTranslations[para.id]?.text || ''}
-                        className={`w-full p-3 border ${borderClass} rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 min-h-[100px] ${darkMode ? 'bg-gray-900 bg-opacity-80 text-white' : 'bg-white'}`}
-                        placeholder="自分の訳を書く..."
-                      />
-                      <div className="flex gap-2 mt-2">
-                        <button
-                          onClick={() => handleSaveTranslation(para.id)}
-                          className="px-4 py-2 bg-purple-600 text-white rounded hover:bg-purple-700 text-sm transition-all shadow-sm font-medium"
-                        >
-                          保存
-                        </button>
-                        <button
-                          onClick={() => setEditingParagraph(null)}
-                          className={`px-4 py-2 rounded text-sm transition-all font-medium ${
-                            darkMode 
-                              ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' 
-                              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                          }`}
-                        >
-                          キャンセル
-                        </button>
+
+        {/* ─── 段落リスト ───────────────────────────── */}
+        <div className={`space-y-2 pb-10 ${fontSizeMap[fontSize]}`}>
+          {currentText.paragraphs.map((para) => {
+            const isCollapsed = collapsedParagraphs[para.id];
+            const hasUserTrans = !!userTranslations[para.id];
+            const translation = getTranslation(para);
+
+            return (
+              <div
+                key={para.id}
+                className={`rounded-xl border-2 overflow-hidden transition-all ${
+                  selectedText && !isCollapsed ? 'shadow-sm' : ''
+                } ${
+                  darkMode ? 'border-gray-800 bg-gray-900' : 'border-gray-200 bg-white'
+                }`}
+              >
+                {/* 段落ヘッダー（折りたたみボタン） */}
+                <button
+                  onClick={() => toggleParagraph(para.id)}
+                  className={`w-full flex items-center justify-between px-4 py-3 text-left transition-colors ${
+                    darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'
+                  }`}
+                >
+                  <div className="flex items-center gap-3 min-w-0">
+                    <span className={`text-xs font-mono w-6 shrink-0 ${textSecondary}`}>{para.id}</span>
+                    {isCollapsed && showFrench && (
+                      <span className={`text-sm truncate italic ${textClass} ${fontFamily === 'sans' ? '' : 'italic'}`}>
+                        {para.french}
+                      </span>
+                    )}
+                    {!isCollapsed && (
+                      <span className={`text-xs ${textSecondary}`}>
+                        {showFrench && showOfficial ? '原文 + 仮訳' : showFrench ? '原文' : showOfficial ? '仮訳' : ''}
+                      </span>
+                    )}
+                  </div>
+                  <div className="flex items-center gap-2 shrink-0">
+                    {hasUserTrans && (
+                      <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
+                    )}
+                    <span className={`text-xs ${textSecondary}`}>{isCollapsed ? '▶' : '▼'}</span>
+                  </div>
+                </button>
+
+                {/* 段落コンテンツ */}
+                {!isCollapsed && (
+                  <div className={`px-4 pb-4 border-t ${borderClass}`}>
+
+                    {/* 原文 */}
+                    {showFrench && (
+                      <div className="pt-4 mb-3">
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-indigo-900/50 text-indigo-300 border border-indigo-800' : 'bg-indigo-600 text-white'}`}>
+                          原文
+                        </span>
+                        <p className={`mt-2 leading-relaxed ${textClass} ${fontFamily !== 'sans' ? 'italic' : ''} ${
+                          fontSize === 'xlarge' ? 'text-2xl' :
+                          fontSize === 'large'  ? 'text-xl' :
+                          fontSize === 'medium' ? 'text-lg' : 'text-base'
+                        }`}>
+                          {para.french}
+                        </p>
                       </div>
-                    </div>
-                  ) : (
-                    <div className="mt-3">
-                      {userTranslations[para.id] ? (
-                        <p className={`${fontSize === 'medium' ? 'text-base' : 'text-sm'} leading-relaxed ${textClass} mb-2`}>
-                          {userTranslations[para.id].text}
+                    )}
+
+                    {/* 仮訳 */}
+                    {showOfficial && translation && (
+                      <div className={`mb-3 border-l-4 border-green-500 pl-3 ${showFrench ? '' : 'pt-4'}`}>
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-green-900/50 text-green-300 border border-green-800' : 'bg-green-600 text-white'}`}>
+                          仮訳
+                        </span>
+                        <p className={`mt-2 leading-relaxed ${textClass} ${
+                          fontSize === 'xlarge' ? 'text-xl' :
+                          fontSize === 'large'  ? 'text-lg' :
+                          fontSize === 'medium' ? 'text-base' : 'text-sm'
+                        }`}>
+                          {translation}
                         </p>
-                      ) : (
-                        <p className={`text-sm ${textSecondaryClass} italic mb-2`}>
-                          まだ訳文がありません
-                        </p>
-                      )}
-                      <button
-                        onClick={() => setEditingParagraph(para.id)}
-                        className={`text-sm font-medium transition-all ${
-                          darkMode 
-                            ? 'text-purple-400 hover:text-purple-300' 
-                            : 'text-purple-600 hover:text-purple-700 hover:underline'
-                        }`}
-                      >
-                        {userTranslations[para.id] ? '編集' : '訳を書く'}
-                      </button>
-                    </div>
-                  )}
-                </div>
-              )}
-            </div>
-          ))}
+                      </div>
+                    )}
+
+                    {/* 自分の訳 */}
+                    {showUser && (
+                      <div className="border-l-4 border-purple-500 pl-3">
+                        <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-purple-900/50 text-purple-300 border border-purple-800' : 'bg-purple-600 text-white'}`}>
+                          自分の訳
+                        </span>
+                        {editingParagraph === para.id ? (
+                          <div className="mt-2">
+                            <textarea
+                              id={`user-translation-${para.id}`}
+                              defaultValue={userTranslations[para.id]?.text || ''}
+                              className={`w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500 min-h-[80px] text-sm resize-y ${darkMode ? 'bg-gray-900 text-white border-gray-700' : 'bg-white border-gray-300'}`}
+                              placeholder="自分の訳を書く..."
+                              autoFocus
+                            />
+                            <div className="flex gap-2 mt-2">
+                              <button
+                                onClick={() => handleSaveTranslation(para.id)}
+                                className="px-4 py-1.5 bg-purple-600 text-white rounded-lg hover:bg-purple-700 text-sm transition-colors font-medium"
+                              >
+                                保存
+                              </button>
+                              <button
+                                onClick={() => setEditingParagraph(null)}
+                                className={`px-4 py-1.5 rounded-lg text-sm transition-colors ${darkMode ? 'bg-gray-700 text-gray-300 hover:bg-gray-600' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
+                              >
+                                キャンセル
+                              </button>
+                            </div>
+                          </div>
+                        ) : (
+                          <div className="mt-2">
+                            {userTranslations[para.id] ? (
+                              <p className={`leading-relaxed ${textClass} text-sm mb-2`}>
+                                {userTranslations[para.id].text}
+                              </p>
+                            ) : (
+                              <p className={`text-sm ${textSecondary} italic mb-2`}>まだ訳文がありません</p>
+                            )}
+                            <button
+                              onClick={() => setEditingParagraph(para.id)}
+                              className={`text-xs font-medium transition-colors ${darkMode ? 'text-purple-400 hover:text-purple-300' : 'text-purple-600 hover:text-purple-700 hover:underline'}`}
+                            >
+                              {userTranslations[para.id] ? '編集' : '訳を書く'}
+                            </button>
+                          </div>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            );
+          })}
         </div>
-        
-        <div className={`text-center text-sm ${textSecondaryClass} pb-8`}>
-          <p className="font-semibold mb-2">{Object.keys(texts).length}編収録</p>
-          <p>ボードレール・マラルメ・ヴァレリー</p>
+
+        {/* フッター */}
+        <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ</p>
+          <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
     </div>
