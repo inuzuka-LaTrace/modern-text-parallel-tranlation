@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_2",
+  "title": "Le Peintre de la vie moderne (II) — Le Croquis de mœurs",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "第2章。コンスタンタン・ギースのスケッチを論じながら、風俗画家の使命——新聞の挿絵や街頭スケッチに潜む詩的価値——を擁護する。速さと印象を重視する美学がここで明確に打ち出される。",
+  "keywords": ["croquis", "mœurs", "rapidité", "impression", "journalisme"],
+  "relatedTexts": ["baudelaire_peintre_1", "baudelaire_peintre_3"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le monde est plein de gens qui calomnient le croquis en disant qu'il n'est qu'une ébauche grossière, le brouillon d'une œuvre future. Cependant le croquis fait par un maître est une œuvre complète en elle-même. Il contient tout ce que l'œuvre achevée peut contenir, sauf la fatigue.",
+      "provisionalTranslation": "世の中にはスケッチを単なる粗削りな下書き、未来の作品の草稿に過ぎないと言って誹謗する人々で満ちている。しかし巨匠によるスケッチはそれ自体として完結した作品だ。疲労を除けば、完成作が含みうるすべてを含んでいる。"
+    },
+    {
+      "id": 2,
+      "french": "Le croquis de mœurs a ceci de particulier qu'il représente la vie dans ce qu'elle a de passager et de fugitif. Il saisit les physionomies, les gestes, les passions, les modes, au vol. Il est donc, par essence, de tous les arts celui qui se rapproche le plus de la nature.",
+      "provisionalTranslation": "風俗スケッチはこの点で特異だ——生の過ぎ去り行く儚い側面を表現する。人相、身振り、情念、モードを飛ぶように捉える。それゆえスケッチは本質的に、すべての芸術の中で自然に最も近いものだ。"
+    },
+    {
+      "id": 3,
+      "french": "Le dessinateur des mœurs doit avoir une mémoire résurrectionniste, capable d'évoquer à volonté les sensations et les physionomies. Il ne doit pas se borner à peindre ce qu'il voit, mais il doit peindre ce qu'il a vu et ce qu'il a senti.",
+      "provisionalTranslation": "風俗デッサン家は復活の記憶力、すなわち感覚と人相を意のままに呼び起こす能力を持たなければならない。見るものを描くだけでなく、見たものと感じたものを描かなければならない。"
+    },
+    {
+      "id": 4,
+      "french": "Les journaux illustrés ont rendu un service signalé à la mémoire humaine. Qui de nous n'a pas feuilleté, avec un plaisir et une curiosité mêlés de regret, les recueils de caricatures de la Révolution française ? La caricature est un document précieux, et sa critique est ingrate qui ne lui accorde pas la dignité d'un genre.",
+      "provisionalTranslation": "挿絵入り新聞は人間の記憶に顕著な貢献をした。われわれの誰が、後悔の混じった喜びと好奇心をもって、フランス革命の風刺画集をめくったことがないだろうか。カリカチュアは貴重な文書であり、それにジャンルの品位を認めない批評は恩知らずだ。"
+    },
+    {
+      "id": 5,
+      "french": "Il y a dans la vie triviale, dans la métamorphose journalière des choses extérieures, un mouvement rapide qui commande au peintre une égale vélocité d'exécution. Si le peintre ne se hâte pas, il sera dépassé par la vie elle-même.",
+      "provisionalTranslation": "ありふれた生の中に、外的事物の日々の変容の中に、画家に同等の制作の速さを命ずる急速な動きがある。画家が急がなければ、生そのものに追い越されるだろう。"
+    },
+    {
+      "id": 6,
+      "french": "Voilà pourquoi les gravures sur bois des vieux illustrés, maladroites et naïves, ont souvent plus de caractère et de mouvement que les belles lithographies des artistes académiques. Elles sont moins belles, mais elles sont plus vraies. Elles disent : 'Cela a été.' Les autres disent seulement : 'Cela pourrait être.'",
+      "provisionalTranslation": "だからこそ旧来の挿絵の不器用で素朴な木版画は、アカデミックな芸術家の美しいリトグラフよりもしばしば多くの性格と動きを持つ。美しさは劣るが、真実に近い。それらは「これはあった」と語る。後者は「これはありうる」としか語らない。"
+    }
+  ]
+}
