@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_4",
+  "title": "Le Peintre de la vie moderne (IV) — La Modernité",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★★",
+  "context": "第4章。「近代性とは一時的なもの、はかないもの、偶発的なもの、芸術の半分であり、もう半分は永遠と不変だ」という定式が登場する本作最重要章。近代性概念の古典的定義として美術批評史・思想史上の必読テキスト。",
+  "keywords": ["modernité", "transitoire", "fugitif", "éternel", "contingent"],
+  "relatedTexts": ["baudelaire_peintre_3", "baudelaire_peintre_5", "baudelaire_heroisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ainsi il va, il court, il cherche. Que cherche-t-il ? À coup sûr, cet homme, tel que je l'ai dépeint, ce solitaire doué d'une imagination active, toujours voyageant à travers le grand désert d'hommes, a un but plus élevé que celui d'un pur flâneur, un but plus général, autre que le plaisir fugitif de la circonstance.",
+      "provisionalTranslation": "かくして彼は行き、走り、探し求める。何を探しているのか。確かに、私が描いたようなこの人物——活動的な想像力を備えた孤独な者、人間の広大な砂漠をたえず旅する者——は純粋な遊歩者より高い目的を、状況の束の間の快楽とは別の、より一般的な目的を持っている。"
+    },
+    {
+      "id": 2,
+      "french": "Il cherche ce quelque chose qu'on nous permettra d'appeler la modernité ; car il ne se présente pas de meilleur mot pour exprimer l'idée en question. Il s'agit, pour lui, de dégager de la mode ce qu'elle peut contenir de poétique dans l'historique, de tirer l'éternel du transitoire.",
+      "provisionalTranslation": "彼は、われわれが近代性と呼ぶことを許していただきたい何かを探し求めている。というのも問題の観念を表現するのにこれより適した言葉がないからだ。彼にとって問題は、モードの中に歴史的なものの中の詩的なものを含みうるものを抽出し、一時的なものから永遠を引き出すことだ。"
+    },
+    {
+      "id": 3,
+      "french": "La modernité, c'est le transitoire, le fugitif, le contingent, la moitié de l'art, dont l'autre moitié est l'éternel et l'immuable. Il y a eu une modernité pour chaque peintre ancien ; la plupart des beaux portraits qui nous restent des temps antérieurs sont revêtus des costumes de leur époque.",
+      "provisionalTranslation": "近代性とは一時的なもの、はかないもの、偶発的なもの、芸術の半分であり、もう半分は永遠と不変だ。過去の画家たちにはそれぞれの近代性があった。過去の時代からわれわれに残る優れた肖像画の大部分は、その時代の衣装をまとっている。"
+    },
+    {
+      "id": 4,
+      "french": "Cette transition du fugitif au permanent, voilà le travail constant de M. G. Ce qu'il cherche, nous l'avons dit, ce n'est pas le beau nu, éternel, insaisissable, mais la beauté particulière, de circonstance, de la vie moderne. Chaque époque a son port, son regard, son geste.",
+      "provisionalTranslation": "このはかないものから永続的なものへの移行こそ、G氏の絶え間ない仕事だ。彼が求めるものは、われわれが述べたように、永遠で捉えがたい裸の美ではなく、近代生活の状況的、個別的な美だ。各時代にはそれ固有の身のこなし、眼差し、身振りがある。"
+    },
+    {
+      "id": 5,
+      "french": "Il contemple les fleuves de la vie ordinaire et la mer houleuse de la multitude. Chaque chose est pour lui le prétexte d'un voyage vers l'inconnu. Tout ce que la lumière éclaire, tout ce que les ténèbres dissimulent, a pour lui un intérêt égal et une valeur esthétique comparable.",
+      "provisionalTranslation": "彼は日常の生の河と群衆の荒れた海を凝視する。あらゆるものが彼にとって未知へ向かう旅の口実だ。光が照らすすべてのもの、闇が隠すすべてのものは、彼にとって等しい興味と比較しうる美的価値を持つ。"
+    },
+    {
+      "id": 6,
+      "french": "Pour le parfait flâneur, pour l'observateur passionné, c'est une immense jouissance que d'élire domicile dans le nombre, dans l'ondoyant, dans le mouvement, dans le fugitif et l'infini. Être hors de chez soi, et pourtant se sentir partout chez soi ; voir le monde, être au centre du monde et rester caché au monde, tels sont quelques-uns des moindres plaisirs de ces esprits indépendants, passionnés, impartiaux, que la langue ne peut que maladroitement définir.",
+      "provisionalTranslation": "完全な遊歩者にとって、情熱的な観察者にとって、数の中に、うねる動きの中に、運動の中に、はかないものと無限の中に住まいを定めることは絶大な喜びだ。自宅の外にいながら、しかしいたるところで自宅にいると感じること。世界を見、世界の中心にいながら世界から隠れ続けること——これらは言語が不器用にしか定義できないこれら独立した、情熱的な、公平な精神たちの小さくない喜びのいくつかだ。"
+    }
+  ]
+}
