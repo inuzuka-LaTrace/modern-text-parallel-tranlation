@@ -1,0 +1,90 @@
+{
+  "id": "valmore_separees",
+  "title": "Les Séparées",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "difficulty": "中級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "友人パウリーヌ・デュシャンブジュへ捧げられた詩。愛する者との別離を、物理的な空間の断絶として捉える。「あなたのいない部屋で眠ることなどできない」という率直な訴えが、時代を超えた感情的真実として響く。",
+  "keywords": ["séparation", "amitié", "absence", "chambre", "nuit"],
+  "relatedTexts": ["valmore_adieu", "valmore_chambre", "valmore_qu_en_avez"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "N'écris pas. Je suis triste, et je voudrais m'éteindre.",
+      "officialTranslation": "手紙を書かないで。私は悲しく、消えてしまいたい。"
+    },
+    {
+      "id": 2,
+      "french": "Les beaux étés sans toi, c'est la nuit sans flambeau.",
+      "officialTranslation": "あなたのいない美しい夏は、松明のない夜だ。"
+    },
+    {
+      "id": 3,
+      "french": "J'ai refermé mes bras qui ne peuvent t'atteindre,",
+      "officialTranslation": "あなたに届かない腕を、私は再び閉じた、"
+    },
+    {
+      "id": 4,
+      "french": "Et frapper à mon cœur, c'est frapper au tombeau.",
+      "officialTranslation": "私の心を叩くことは、墓を叩くことだ。"
+    },
+    {
+      "id": 5,
+      "french": "N'écris pas !",
+      "officialTranslation": "手紙を書かないで！"
+    },
+    {
+      "id": 6,
+      "french": "N'écris pas. On s'accoutume à l'absence ;",
+      "officialTranslation": "手紙を書かないで。人は不在に慣れていく；"
+    },
+    {
+      "id": 7,
+      "french": "Et l'absence efface l'amour qu'on ne voit plus.",
+      "officialTranslation": "そして不在は、もう見えない愛を消し去る。"
+    },
+    {
+      "id": 8,
+      "french": "Car la douleur qui mord, l'espoir qui nous devance,",
+      "officialTranslation": "なぜなら噛みつく苦しみも、私たちを追い越す希望も、"
+    },
+    {
+      "id": 9,
+      "french": "Font un bruit de soulier qu'on entend dans l'espace.",
+      "officialTranslation": "空間の中に聞こえる靴の音を立てるから。"
+    },
+    {
+      "id": 10,
+      "french": "N'écris pas !",
+      "officialTranslation": "手紙を書かないで！"
+    },
+    {
+      "id": 11,
+      "french": "N'écris pas. Je te lis trop, je t'aime trop encore.",
+      "officialTranslation": "手紙を書かないで。私はあなたをあまりに読みすぎる、あまりに愛しすぎている。"
+    },
+    {
+      "id": 12,
+      "french": "Tu m'apportes de loin une chaleur qui brûle.",
+      "officialTranslation": "あなたは遠くから、燃えるような熱を運んでくる。"
+    },
+    {
+      "id": 13,
+      "french": "Je ne veux plus aimer ; et la nuit, quand j'implore",
+      "officialTranslation": "もう愛したくない；そして夜、私が懇願するとき"
+    },
+    {
+      "id": 14,
+      "french": "Le sommeil, si ta lettre arrive, il recule.",
+      "officialTranslation": "眠りを、あなたの手紙が届けば、眠りは引き下がる。"
+    },
+    {
+      "id": 15,
+      "french": "N'écris pas !",
+      "officialTranslation": "手紙を書かないで！"
+    }
+  ]
+}
