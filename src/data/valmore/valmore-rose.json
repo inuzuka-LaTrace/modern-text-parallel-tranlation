@@ -1,0 +1,60 @@
+{
+  "id": "valmore_roses",
+  "title": "Les Roses de Saadi",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "difficulty": "初級〜中級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "ヴァルモール夫人の代表作。サアディ（13世紀ペルシャの詩人）への言及は、愛の贈り物が溢れ出る様子の隠喩。ヴェルレーヌが「呪われた詩人たち」で称賛した。シンプルな語彙の中に深い感情的強度を持つ。",
+  "keywords": ["roses", "amour", "don", "débordement", "parfum"],
+  "relatedTexts": ["valmore_adieu", "valmore_chambre"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "J'ai voulu ce matin te rapporter des roses ;",
+      "officialTranslation": "今朝、あなたに薔薇を持ち帰ろうとした；"
+    },
+    {
+      "id": 2,
+      "french": "Mais j'en avais tant pris dans mes ceintures closes",
+      "officialTranslation": "だが私は帯の奥にあまりに多く摘み取っていたので"
+    },
+    {
+      "id": 3,
+      "french": "Que les nœuds trop serrés n'ont pu les contenir.",
+      "officialTranslation": "きつく結んだ結び目もそれを留めておけなかった。"
+    },
+    {
+      "id": 4,
+      "french": "Les nœuds ont éclaté. Les roses envolées",
+      "officialTranslation": "結び目は弾けた。薔薇たちは飛び散り"
+    },
+    {
+      "id": 5,
+      "french": "Dans le vent, à la mer s'en sont toutes allées ;",
+      "officialTranslation": "風に乗って、すべて海へと去ってしまった；"
+    },
+    {
+      "id": 6,
+      "french": "Elles ont suivi l'eau pour ne plus revenir ;",
+      "officialTranslation": "薔薇たちは水に従って、もう戻らぬままに；"
+    },
+    {
+      "id": 7,
+      "french": "La vague en a paru rouge et comme enflammée.",
+      "officialTranslation": "波はそのために赤く、燃えているように見えた。"
+    },
+    {
+      "id": 8,
+      "french": "Ce soir, ma robe encore en est tout embaumée…",
+      "officialTranslation": "今夜も、私の衣はまだすっかりその香りに満ちている……"
+    },
+    {
+      "id": 9,
+      "french": "Respires-en sur moi l'odorant souvenir.",
+      "officialTranslation": "私の上にその芳しい記憶を、息づいてほしい。"
+    }
+  ]
+}
