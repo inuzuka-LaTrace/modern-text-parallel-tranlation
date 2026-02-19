@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_delacroix_1",
+  "title": "De M. Eugène Delacroix (I) — Le génie et la mélancolie",
+  "author": "Charles Baudelaire",
+  "source": "Salon de 1846",
+  "year": "1846",
+  "firstPublication": "Salon de 1846",
+  "difficulty": "上級",
+  "category": "baudelaire_aesthetics",
+  "modernRelevance": "★★★★★",
+  "context": "『1846年のサロン』第2章。ボードレールはドラクロワを同時代最大の画家として宣言し、その天才の本質をメランコリーと情熱の結合に見出す。批評家としてのボードレールの出発点となる重要なテキスト。",
+  "keywords": ["génie", "mélancolie", "originalité", "Delacroix", "peinture"],
+  "relatedTexts": ["baudelaire_delacroix_2", "baudelaire_romantisme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "M. Eugène Delacroix est décidément le peintre le plus original des temps anciens et des temps modernes. Cela est ainsi, qu'y faire ? Aucun des amis de M. Delacroix, et des plus enthousiastes, n'a osé le dire simplement, crûment, impudemment, comme je le fais.",
+      "provisionalTranslation": "ウジェーヌ・ドラクロワ氏は決定的に、古今を通じて最も独創的な画家である。そうなのだ、どうしようか。ドラクロワ氏の友人たちの中で、最も熱烈な者でさえ、私がここでするように、単純に、率直に、臆面もなくそれを言い切った者はいなかった。"
+    },
+    {
+      "id": 2,
+      "french": "M. Delacroix est un être curieux. Dans sa peinture, il y a toujours de la mélancolie. Son œuvre contient, à ce qu'il me semble, le résumé de ses sympathies et de ses antipathies. Peintre de passions ardentes, de passions à la Shakespeare, il en a le génie.",
+      "provisionalTranslation": "ドラクロワ氏は奇妙な存在だ。その絵画には常にメランコリーがある。その作品には、私には思われるに、彼の共感と反感の総体が凝縮されている。シェイクスピア的な、烈しい情念の画家として、彼はそれに相応しい天才を持つ。"
+    },
+    {
+      "id": 3,
+      "french": "Il y a dans ses œuvres des abîmes. Elles contiennent quelque chose d'insondable. Le fait est que M. Delacroix est le seul artiste aujourd'hui dont l'originalité n'ait pas été entamée par le système universitaire, qui enrégimente les vocations et qui déshonore les tempéraments.",
+      "provisionalTranslation": "その作品には深淵がある。測り知れぬ何かを内包している。事実、ドラクロワ氏は今日、使命を画一化し気質を貶めるあの大学的制度によって独創性を損なわれることのなかった唯一の芸術家である。"
+    },
+    {
+      "id": 4,
+      "french": "M. Delacroix part toujours d'un point de vue élevé. Sa peinture est une explosion, mais une explosion méthodique. La violence, l'intensité du geste, la turbulence de la composition — rien de tout cela ne nuit à l'harmonie totale, ni à la hiérarchie des tons.",
+      "provisionalTranslation": "ドラクロワ氏は常に高い視点から出発する。その絵画は爆発であるが、方法的な爆発だ。身振りの激しさ、強度、構図の乱流——これらのいずれも、全体の調和や色調の階層を損なわない。"
+    },
+    {
+      "id": 5,
+      "french": "Dans plusieurs hommes, la passion, la fureur d'abord, le tempérament ensuite, puis enfin le génie. Chez d'autres, le génie d'abord, puis le tempérament. Mais chez M. Delacroix, tout est simultané, tout agit à la fois : le génie, le tempérament, la passion.",
+      "provisionalTranslation": "多くの人間において、まず情念と激情があり、次いで気質があり、そして最後に天才がある。別の人間においては、まず天才があり、次いで気質がある。しかしドラクロワ氏においては、すべてが同時的であり、すべてが一度に作用する——天才、気質、情念が。"
+    },
+    {
+      "id": 6,
+      "french": "Sa figure, son allure, son regard, tout en lui exprime la volonté morale. M. Delacroix est passionnément amoureux de la passion, et froidement déterminé à chercher les moyens d'exprimer la passion de la manière la plus visible. C'est dans cette dualité étrange qu'il faut chercher le double caractère de sa nature.",
+      "provisionalTranslation": "その顔、その物腰、その眼差し、彼のすべてが道徳的意志を表現している。ドラクロワ氏は情念に激しく恋焦がれており、同時に情念をできる限り可視的な形で表現する手段を冷静に探し求めることを決意している。この奇妙な二重性の中にこそ、彼の本性の二重の性格を求めなければならない。"
+    }
+  ]
+}
