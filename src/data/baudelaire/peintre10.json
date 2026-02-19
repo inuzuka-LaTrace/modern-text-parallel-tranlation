@@ -1,0 +1,38 @@
+{
+  "id": "baudelaire_peintre_10",
+  "title": "Le Peintre de la vie moderne (X) — La Femme",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "第10章。女性を自然と人工の合成物として論じる。女性の美をモードと化粧によって完成される理想として捉え、「自然」への回帰を説く道徳主義者たちに反論する。次章「化粧礼讃」への直接的な導入。",
+  "keywords": ["femme", "beauté", "nature", "artifice", "idéal"],
+  "relatedTexts": ["baudelaire_peintre_9", "baudelaire_peintre_11"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "L'être qui est, pour la plupart des hommes, la source des plus vives, et même, disons-le à la honte des jouissances philosophiques, des plus durables jouissances ; l'être vers qui ou au profit de qui tendent tous leurs efforts ; cet être terrible et incommunicable comme Dieu (avec cette différence que l'infini ne se communique pas parce qu'il aveuglerait et écraserait le fini, tandis que l'être dont nous parlons n'est peut-être incompréhensible que parce qu'il n'a rien à communiquer), cet être en qui Joseph de Maistre voit un bel animal dont les grâces égaient et facilitent le jeu sérieux de la politique, et à qui quelques autres philosophes peu galants attribuent surtout une raison sans autre caractère que purement pratique, — cet être tient autant du domaine de l'art que de la nature.",
+      "provisionalTranslation": "大多数の男たちにとって最も激しい、そして哲学的快楽の恥をも言えば最も永続する快楽の源であるこの存在、あらゆる努力が向けられあるいはその利益のために注がれるこの存在、神のように恐ろしく疎通しがたい存在（この違いとともに——無限は有限を眩ませ押しつぶすがゆえに疎通しないのに対し、われわれが語るこの存在はおそらく伝えるべき何も持たないがゆえにのみ不可解なのだが）、ド・メーストルが政治の真剣な遊びを和らげ容易にする優雅さを持つ美しい動物と見るこの存在、他の礼儀をわきまえない哲学者の一部が純粋に実践的な性格以外の理性を帰するこの存在——この存在は自然の領域と同じくらい芸術の領域に属する。"
+    },
+    {
+      "id": 2,
+      "french": "La femme est sans doute une lumière, un regard, une invitation au bonheur, une parole quelquefois ; mais elle est surtout une harmonie générale, non seulement dans son allure et le mouvement de ses membres, mais aussi dans les mousselines, les gazes, les vastes et chatoyantes nuées d'étoffes dont elle s'enveloppe, et qui sont comme les attributs et le piédestal de sa divinité.",
+      "provisionalTranslation": "女性は確かに光であり、眼差しであり、幸福への誘いであり、時に言葉でもある。しかしそれ以上に女性は全体的な調和だ——その物腰と肢体の動きにおてのみならず、自らを包むモスリン、薄絹、広がりときらめく布地の雲においても。これらは彼女の神性の属性と台座のようなものだ。"
+    },
+    {
+      "id": 3,
+      "french": "Quelle est la femme qui, ayant compris la pensée de son mari ou de son amant, n'a pas su prendre soin de sa toilette, et se mettre ainsi au diapason de ses rêves ? La femme accomplit ainsi, sans le savoir, un devoir. Elle se fait belle pour être aimée. Elle devient ainsi une sorte d'idole, certes stupide peut-être, mais éblouissante, enchanteresse, qui tient les destins et les volontés suspendus à ses regards.",
+      "provisionalTranslation": "夫や愛人の考えを理解して装いに気を配り、自らをその夢の調子に合わせることを知らなかった女性がいるだろうか。女性はこうして、知らぬまに一つの義務を果たす。愛されるために美しくなる。かくして彼女は一種の偶像となる——確かに愚かかもしれないが、人の運命と意志をその眼差しに宙吊りにする、眩ゆい、魅惑的な偶像に。"
+    },
+    {
+      "id": 4,
+      "french": "Tout ce qui orne la femme, tout ce qui sert à illustrer sa beauté, fait partie d'elle-même ; et les artistes qui se sont appliqués particulièrement à l'étude de cet être énigmatique raffollent autant de tout le mundus muliebris que de la femme elle-même.",
+      "provisionalTranslation": "女性を飾るすべてのもの、その美を際立てるために役立つすべてのものは彼女自身の一部をなす。そしてこの謎めいた存在の研究に特に専念してきた芸術家たちは、女性自身と同じくらい女性の装い一式のすべてに熱中する。"
+    },
+    {
+      "id": 5,
+      "french": "La femme est bien dans son droit, et même elle accomplit une espèce de devoir en s'appliquant à paraître magique et surnaturelle ; il faut qu'elle étonne, qu'elle charme ; idole, elle doit se dorer pour être adorée. Elle doit donc emprunter à tous les arts les moyens de s'élever au-dessus de la nature pour mieux subjuguer les cœurs et frapper les esprits.",
+      "provisionalTranslation
