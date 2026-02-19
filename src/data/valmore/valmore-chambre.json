@@ -1,0 +1,60 @@
+{
+  "id": "valmore_chambre",
+  "title": "Ma chambre",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Bouquets et Prières",
+  "year": "1843",
+  "difficulty": "初級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩人の私的空間＝部屋の描写を通して、孤独と内面の平和を歌う。具体的な日常の細部と感情が溶け合う、ヴァルモール夫人独特の親密な詩法の好例。",
+  "keywords": ["chambre", "solitude", "intérieur", "paix", "rêverie"],
+  "relatedTexts": ["valmore_roses", "valmore_adieu"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ma demeure est haute,",
+      "officialTranslation": "私の住まいは高いところにある、"
+    },
+    {
+      "id": 2,
+      "french": "J'entends le vent gronder ;",
+      "officialTranslation": "風が唸るのが聞こえる；"
+    },
+    {
+      "id": 3,
+      "french": "Mais à peine il se hâte",
+      "officialTranslation": "しかし風はほとんど急がない"
+    },
+    {
+      "id": 4,
+      "french": "Que je puis m'y garder.",
+      "officialTranslation": "だから私はそこに留まっていられる。"
+    },
+    {
+      "id": 5,
+      "french": "Toute la nuit j'entends au-dessus de ma tête",
+      "officialTranslation": "一晩中、頭上に聞こえる"
+    },
+    {
+      "id": 6,
+      "french": "Les pas précipités des nuages en fête.",
+      "officialTranslation": "祭りに浮かれた雲たちの、急ぎ足の歩みが。"
+    },
+    {
+      "id": 7,
+      "french": "J'aime à rêver ainsi dans cette paix profonde",
+      "officialTranslation": "私はこの深い平和の中でこうして夢想するのが好きだ"
+    },
+    {
+      "id": 8,
+      "french": "Qui n'appartient qu'au ciel et qu'à celui qui sonde",
+      "officialTranslation": "それは天と、深みを探る者だけに属する平和"
+    },
+    {
+      "id": 9,
+      "french": "Le vide et le silence où Dieu seul peut entrer.",
+      "officialTranslation": "神のみが入ることのできる空虚と沈黙の中で。"
+    }
+  ]
+}
