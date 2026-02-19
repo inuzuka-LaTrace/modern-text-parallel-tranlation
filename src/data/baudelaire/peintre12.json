@@ -1,0 +1,46 @@
+{
+  "id": "baudelaire_peintre_12",
+  "title": "Le Peintre de la vie moderne (XII) — Les Femmes et les Filles",
+  "author": "Charles Baudelaire",
+  "source": "Le Figaro, 1863",
+  "year": "1863",
+  "firstPublication": "Le Figaro, 26 et 29 novembre, 3 décembre 1863",
+  "difficulty": "上級",
+  "category": "baudelaire_modernity",
+  "modernRelevance": "★★★★☆",
+  "context": "第12章。上流社会の貴婦人から娼婦まで、近代都市に生きるさまざまな女性の類型をギースのスケッチを通じて論じる。社会の周縁に置かれた女性の中に近代性の最も鋭い表現を見出す、ボードレール独自の視点が際立つ章。",
+  "keywords": ["femmes", "courtisanes", "types", "société", "modernité"],
+  "relatedTexts": ["baudelaire_peintre_11", "baudelaire_peintre_13"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Maintenant, au bas de la société, les filles, — les filles de joie. Dans tous les pays du monde, elles appartiennent à cette étrange corporation des êtres qui n'ont pas de droits civils, et pourtant ont une influence considérable sur les mœurs d'un siècle. Leur physionomie est toujours singulière et toujours caractérisée.",
+      "provisionalTranslation": "今や社会の底辺に、娘たち——歓楽の娘たちがいる。世界中のあらゆる国において、彼女たちは市民権を持たないにもかかわらず世紀の風俗に相当な影響力を持つ、この奇妙な組合に属する。その人相は常に特異で、常に際立っている。"
+    },
+    {
+      "id": 2,
+      "french": "M. G. cherche partout la beauté passagère de la vie présente, le caractère de ce que le lecteur nous a permis d'appeler la modernité. Il y a dans la vie des filles une fatalité tragique qui les rend singulièrement intéressantes. Ce sont des êtres marqués par le destin, et pourtant capables de cette grâce spontanée que la vie bourgeoise ne peut produire.",
+      "provisionalTranslation": "G氏は至るところに現在の生のはかない美、読者がわれわれに近代性と呼ぶことを許した性格を求める。娘たちの生には彼女たちを特異なほど興味深くする悲劇的な宿命がある。彼女たちは運命に刻まれた存在でありながら、ブルジョワの生活が産み出せないあの自発的な優雅さを持つ。"
+    },
+    {
+      "id": 3,
+      "french": "Il y a aussi les femmes du monde, les grandes dames, dont la beauté est comme une armure sociale. Leur élégance n'est pas spontanée comme celle des filles ; elle est construite, réfléchie, stratégique. Elles portent leur beauté comme un pouvoir, et leur coquetterie est un art de gouverner.",
+      "provisionalTranslation": "また社会の女性たち、大貴婦人たちもいる。その美は社会的な鎧のようだ。彼女たちの優雅さは娘たちのような自発的なものではない。構築され、熟慮され、戦略的だ。美を権力のように纏い、その媚態は支配の技芸だ。"
+    },
+    {
+      "id": 4,
+      "french": "Entre ces deux extrêmes, il y a toute une gradation de types féminins que M. G. a su saisir avec une acuité remarquable. La lorette, la grisette, la femme entretenue, la femme mariée malheureuse — chacune a ses gestes particuliers, sa façon de se tenir, de regarder, de sourire.",
+      "provisionalTranslation": "この二つの極端のあいだに、G氏が際立った鋭さで捉えることを知っていた女性類型の全段階がある。ロレット、グリゼット、妾、不幸な人妻——それぞれに固有の身振り、立ち居振る舞い、眼差し、微笑みの様式がある。"
+    },
+    {
+      "id": 5,
+      "french": "Ce qui est remarquable dans le talent de M. G. pour saisir les types féminins, c'est qu'il ne juge pas. Il observe, il note, il transcrit. Son regard est à la fois celui du peintre, du moraliste et du flâneur. Il voit sans condamner, il comprend sans excuser.",
+      "provisionalTranslation": "G氏の女性類型を捉える才能で注目すべきは、彼が判断しないことだ。観察し、記し、書き写す。その眼差しは同時に画家のもの、道徳家のもの、遊歩者のものだ。断罪せずに見、弁解せずに理解する。"
+    },
+    {
+      "id": 6,
+      "french": "Dans tous ces types, M. G. cherche et trouve la part d'éternel qui se cache dans le transitoire. Car c'est là le paradoxe fondamental de son art : il peint ce qui passe pour révéler ce qui demeure. Chaque femme qu'il croque devient ainsi le symbole d'une condition humaine qui dépasse son époque.",
+      "provisionalTranslation": "これらすべての類型の中でG氏は一時的なものの中に隠れる永遠の部分を探し、見出す。なぜならそれこそが彼の芸術の根本的な逆説だからだ——過ぎ去るものを描くことで留まるものを明かす。彼がスケッチする各女性はかくして、その時代を超えた人間の条件の象徴となる。"
+    }
+  ]
+}
