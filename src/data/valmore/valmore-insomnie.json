@@ -1,0 +1,75 @@
+{
+  "id": "valmore_insomnie",
+  "title": "L'Insomnie",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Romances",
+  "year": "1817",
+  "difficulty": "初級〜中級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "眠れない夜の苦しみを主題とする初期作品。不眠という身体的状態を通して愛の苦悩を語る。シンプルな語彙と反復リズムが特徴。",
+  "keywords": ["insomnie", "nuit", "souffrance", "amour", "repos"],
+  "relatedTexts": ["valmore_reve_intermittent", "valmore_chambre", "valmore_separees"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le sommeil a fui mes yeux,",
+      "officialTranslation": "眠りは私の目から逃げ去り、"
+    },
+    {
+      "id": 2,
+      "french": "La nuit m'est longue et pénible ;",
+      "officialTranslation": "夜は長く、つらい；"
+    },
+    {
+      "id": 3,
+      "french": "Je cherche un songe sensible",
+      "officialTranslation": "私は感じやすい夢を探す"
+    },
+    {
+      "id": 4,
+      "french": "Qui me parle de mes dieux.",
+      "officialTranslation": "私の神々のことを語りかけてくれる夢を。"
+    },
+    {
+      "id": 5,
+      "french": "Vainement la nuit se passe,",
+      "officialTranslation": "むなしく夜は過ぎていく、"
+    },
+    {
+      "id": 6,
+      "french": "Vainement je cherche en vain ;",
+      "officialTranslation": "むなしく私はむなしく探す；"
+    },
+    {
+      "id": 7,
+      "french": "L'aurore pâle qui passe",
+      "officialTranslation": "通り過ぎる青ざめた夜明けが"
+    },
+    {
+      "id": 8,
+      "french": "M'annonce un nouveau chagrin.",
+      "officialTranslation": "新たな悲しみを私に告げる。"
+    },
+    {
+      "id": 9,
+      "french": "Quand reverrai-je l'aurore",
+      "officialTranslation": "いつ再び夜明けを見るだろう"
+    },
+    {
+      "id": 10,
+      "french": "Qui ne m'apporte que lui ?",
+      "officialTranslation": "ただ彼だけをもたらしてくれる夜明けを？"
+    },
+    {
+      "id": 11,
+      "french": "Je souffre, j'attends encore,",
+      "officialTranslation": "私は苦しみ、まだ待っている、"
+    },
+    {
+      "id": 12,
+      "french": "Et la nuit recommence et fuit.",
+      "officialTranslation": "そして夜はまた始まり、逃げていく。"
+    }
+  ]
+}
