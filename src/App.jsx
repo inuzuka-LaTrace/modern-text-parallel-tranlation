@@ -4,6 +4,7 @@ import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
 import vanlerbergheData from './data/vanlerberghe';
+import verlaineData from './data/verlaine';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
 const getTranslation = (para) =>
@@ -36,7 +37,8 @@ export default function App() {
       ...mallarmeData,
       ...valeryData,
       ...valmoreData,
-      ...vanlerbergheData
+      ...vanlerbergheData,
+      ...verlaineData
     };
     setTexts(allTexts);
     setLoading(false);
@@ -59,7 +61,7 @@ export default function App() {
     all:                        { name: 'すべて' },
     baudelaire_aesthetics:      { name: 'ボードレール美学' },
     baudelaire_music:           { name: 'ボードレール音楽論' },
-    baudelaire_modernity:       { name: 'ボードレール近代性' },
+    baudelaire_modernity:       { name: 'ボードレール近代論' },
     mallarme_poetics:           { name: 'マラルメ詩学' },
     mallarme_book:              { name: 'マラルメ書物論' },
     mallarme_representation:    { name: 'マラルメ表象論' },
@@ -68,7 +70,8 @@ export default function App() {
     mallarme_culture:           { name: 'マラルメ文化論' },
     valery:                     { name: 'ヴァレリー' },
     valmore:                    { name: 'ヴァルモール' },
-    vanlerberghe:               { name: 'ヴァン・レルベルグ' }
+    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
+    verlaine:                   { name: 'ヴェルレーヌ批評' }
   };
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む
