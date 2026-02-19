@@ -1,0 +1,101 @@
+{
+  "id": "vanlerberghe_tombee_du_soir",
+  "title": "Tombée du soir",
+  "author": "Charles Van Lerberghe",
+  "source": "Entrevisions",
+  "year": "1898",
+  "firstPublication": "",
+  "difficulty": "初級",
+  "category": "vanlerberghe",
+  "modernRelevance": "★★★☆☆",
+  "context": "詩集『Entrevisions』所収（pp.131-132）。夕暮れが東から西へと静かに暗闇の絹のヴェールを広げ、眠りが夢の蔓で今日と明日を結び、過ぎゆく時が足元のサンダルを結び直しながら川面に沈む夕べを見守る——三つの擬人化によって黄昏の静謐を描く象徴主義的な詩。",
+  "keywords": ["soir", "silence", "sommeil", "rêves", "heure"],
+  "relatedTexts": ["vanlerberghe_entrevision", "vanlerberghe_sous_les_arches"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le ciel dans l'ombre",
+      "provisionalTranslation": "空が闇の中で"
+    },
+    {
+      "id": 2,
+      "french": "De l'orient à l'occident,",
+      "provisionalTranslation": "東から西へと、"
+    },
+    {
+      "id": 3,
+      "french": "A travers le silence,",
+      "provisionalTranslation": "沈黙を通り抜けながら、"
+    },
+    {
+      "id": 4,
+      "french": "De ses douces mains étend",
+      "provisionalTranslation": "その柔らかな手で広げる"
+    },
+    {
+      "id": 5,
+      "french": "Un voile de soie sombre",
+      "provisionalTranslation": "暗い絹のヴェールと"
+    },
+    {
+      "id": 6,
+      "french": "Et de pâles étoiles.",
+      "provisionalTranslation": "淡い星々を。"
+    },
+    {
+      "id": 7,
+      "french": "Le sommeil entre les rives",
+      "provisionalTranslation": "眠りは両岸のあいだで——"
+    },
+    {
+      "id": 8,
+      "french": "Du crépuscule et du matin,",
+      "provisionalTranslation": "黄昏と朝との岸のあいだで——"
+    },
+    {
+      "id": 9,
+      "french": "Avec des lianes de rêves,",
+      "provisionalTranslation": "夢の蔓をもって"
+    },
+    {
+      "id": 10,
+      "french": "Lie le jour au lendemain.",
+      "provisionalTranslation": "今日を翌日へと結び合わせる。"
+    },
+    {
+      "id": 11,
+      "french": "L'heure qui passe",
+      "provisionalTranslation": "過ぎゆく時は"
+    },
+    {
+      "id": 12,
+      "french": "S'arrête, et lace",
+      "provisionalTranslation": "立ち止まり、結び直す"
+    },
+    {
+      "id": 13,
+      "french": "Sa sandale sur le seuil",
+      "provisionalTranslation": "テラスの閾の上で"
+    },
+    {
+      "id": 14,
+      "french": "De la terrasse,",
+      "provisionalTranslation": "自らのサンダルを、"
+    },
+    {
+      "id": 15,
+      "french": "Cependant que, dessus son épaule,",
+      "provisionalTranslation": "そのあいだも、肩越しに"
+    },
+    {
+      "id": 16,
+      "french": "Elle regarde le soir tomber",
+      "provisionalTranslation": "夕べが落ちてゆくのを眺めながら"
+    },
+    {
+      "id": 17,
+      "french": "Sur la rivière aux légers saules.",
+      "provisionalTranslation": "軽やかな柳の揺れる川の上へと。"
+    }
+  ]
+}
