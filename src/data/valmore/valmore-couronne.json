@@ -1,0 +1,75 @@
+{
+  "id": "valmore_couronne",
+  "title": "La Couronne effeuillée",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "difficulty": "中級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "「散らされた花冠」＝失われた栄光・愛・若さの象徴。ヴェルレーヌが高く評価した晩年の傑作のひとつ。花冠の解体というイメージが詩人の老いと忘却への恐れと重なる。",
+  "keywords": ["couronne", "oubli", "gloire", "vieillesse", "effeuiller"],
+  "relatedTexts": ["valmore_roses", "valmore_fleurs", "valmore_qu_en_avez"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "J'ai dit à mon cœur, à mon faible cœur :",
+      "officialTranslation": "私は言った、私の心に、弱い私の心に："
+    },
+    {
+      "id": 2,
+      "french": "N'est-ce pas assez d'aimer une ombre ?",
+      "officialTranslation": "影をひとつ愛するだけで十分ではないか？"
+    },
+    {
+      "id": 3,
+      "french": "Elle dit : Non pas ! Il en faut un nombre",
+      "officialTranslation": "心は言った：そうではない！ 数多く必要だ"
+    },
+    {
+      "id": 4,
+      "french": "Infini, toujours, pour combler mes vœux.",
+      "officialTranslation": "無限に、いつまでも、私の望みを満たすためには。"
+    },
+    {
+      "id": 5,
+      "french": "Ses vœux sont en fleurs sur ma tête en deuil ;",
+      "officialTranslation": "心の望みは、喪に服した私の頭の上で花開いている；"
+    },
+    {
+      "id": 6,
+      "french": "Comme ils sont vivants, comme ils sont fragiles !",
+      "officialTranslation": "なんと生き生きと、なんと壊れやすいことか！"
+    },
+    {
+      "id": 7,
+      "french": "Ils tombent ! — voici leur cercueil agile,",
+      "officialTranslation": "花たちは落ちる！ — これが軽やかな棺、"
+    },
+    {
+      "id": 8,
+      "french": "Le vent qui les prend sur mon front en deuil.",
+      "officialTranslation": "喪に服した私の額から花たちを連れ去る風が。"
+    },
+    {
+      "id": 9,
+      "french": "Ô mes yeux ! cherchez-les dans l'infini bleu !",
+      "officialTranslation": "おお私の目よ！ 青い無限の中に花たちを探してくれ！"
+    },
+    {
+      "id": 10,
+      "french": "Les fleurs que j'aimais, la couronne est nue.",
+      "officialTranslation": "私が愛した花たちは、花冠は裸になった。"
+    },
+    {
+      "id": 11,
+      "french": "Du moins dans les cieux, dans la froide nue,",
+      "officialTranslation": "せめて天の中に、冷たい雲の中に、"
+    },
+    {
+      "id": 12,
+      "french": "Mon parfum perdu s'en est allé vers Dieu.",
+      "officialTranslation": "失われた私の香りは神のもとへ去っていった。"
+    }
+  ]
+}
