@@ -1,0 +1,75 @@
+{
+  "id": "valmore_qu_en_avez",
+  "title": "Qu'en avez-vous fait ?",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Poésies inédites",
+  "year": "1860",
+  "difficulty": "初級〜中級",
+  "category": "valmore",
+  "modernRelevance": "★★★★☆",
+  "context": "繰り返されるリフレイン「あなたはそれをどうしたのですか？」が問いとして全体を貫く。愛・若さ・時間の喪失を嘆く告発の詩。ヴァルモール夫人のロマン主義的感情の高揚が最もよく現れた作品のひとつ。",
+  "keywords": ["perte", "jeunesse", "amour", "temps", "reproche"],
+  "relatedTexts": ["valmore_roses", "valmore_adieu", "valmore_separees"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Vous aviez mon cœur,",
+      "officialTranslation": "あなたは私の心を持っていた、"
+    },
+    {
+      "id": 2,
+      "french": "Moi, j'avais le vôtre :",
+      "officialTranslation": "私は、あなたの心を持っていた："
+    },
+    {
+      "id": 3,
+      "french": "Un cœur pour un cœur ;",
+      "officialTranslation": "心と引き換えの心；"
+    },
+    {
+      "id": 4,
+      "french": "Bonheur pour bonheur !",
+      "officialTranslation": "幸福と引き換えの幸福！"
+    },
+    {
+      "id": 5,
+      "french": "Le vôtre est rendu ;",
+      "officialTranslation": "あなたのは返された；"
+    },
+    {
+      "id": 6,
+      "french": "Je n'en parle plus.",
+      "officialTranslation": "私はもうそれを語らない。"
+    },
+    {
+      "id": 7,
+      "french": "Votre bonheur, lui,",
+      "officialTranslation": "あなたの幸福は、それは、"
+    },
+    {
+      "id": 8,
+      "french": "Ne m'est pas rendu.",
+      "officialTranslation": "私には返されていない。"
+    },
+    {
+      "id": 9,
+      "french": "Qu'en avez-vous fait,",
+      "officialTranslation": "あなたはそれをどうしたのですか、"
+    },
+    {
+      "id": 10,
+      "french": "Vous qui me l'aviez promis ?",
+      "officialTranslation": "私に約束してくれたあなたは？"
+    },
+    {
+      "id": 11,
+      "french": "Qu'en avez-vous fait",
+      "officialTranslation": "あなたはそれをどうしたのですか"
+    },
+    {
+      "id": 12,
+      "french": "De ce beau temps jadis ?",
+      "officialTranslation": "あのかつての美しい時を？"
+    }
+  ]
+}
