@@ -1,0 +1,55 @@
+{
+  "id": "valmore_a_monsieur",
+  "title": "À Monsieur A. D.",
+  "author": "Marceline Desbordes-Valmore",
+  "source": "Élégies, Marie et Romances",
+  "year": "1819",
+  "difficulty": "中級",
+  "category": "valmore",
+  "modernRelevance": "★★★☆☆",
+  "context": "実在の人物への直接的な呼びかけの形をとる愛の詩。「A. D.」の正体は諸説あるが、詩人が長年愛した男性ダビッドとも言われる。告白と自制のせめぎ合いが詩の緊張を生む。",
+  "keywords": ["amour", "aveu", "retenue", "désir", "confession"],
+  "relatedTexts": ["valmore_adieu", "valmore_separees", "valmore_qu_en_avez"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "J'allais vous dire que je vous aime,",
+      "officialTranslation": "あなたを愛していると言いかけた、"
+    },
+    {
+      "id": 2,
+      "french": "Et puis j'ai eu peur de moi-même.",
+      "officialTranslation": "それから自分自身が怖くなった。"
+    },
+    {
+      "id": 3,
+      "french": "Je vous dirai que je vous aime",
+      "officialTranslation": "あなたを愛していると言おう"
+    },
+    {
+      "id": 4,
+      "french": "Quand je n'en aurai plus peur.",
+      "officialTranslation": "それが怖くなくなったとき。"
+    },
+    {
+      "id": 5,
+      "french": "En attendant, je vous l'écris,",
+      "officialTranslation": "それまで、私はあなたに書く、"
+    },
+    {
+      "id": 6,
+      "french": "Car l'écrit disparaît, s'efface,",
+      "officialTranslation": "なぜなら書かれたものは消え、消し去られる、"
+    },
+    {
+      "id": 7,
+      "french": "Et les mots dits restent gravés",
+      "officialTranslation": "そして語られた言葉は刻まれたまま残る"
+    },
+    {
+      "id": 8,
+      "french": "Aux endroits où ils sont passés.",
+      "officialTranslation": "それらが通り過ぎた場所に。"
+    }
+  ]
+}
