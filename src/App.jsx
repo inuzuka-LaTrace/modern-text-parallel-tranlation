@@ -3,7 +3,7 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
-import vanlerberghe from './data/vanlerberghe';
+import vanlerbergheData from './data/vanlerberghe';
 
 export default function App() {
   const [texts, setTexts] = useState({});
