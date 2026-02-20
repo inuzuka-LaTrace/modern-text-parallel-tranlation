@@ -1,0 +1,87 @@
+{
+  "id": "swinburne_memorial_gautier",
+  "title": "Memorial Verses on the Death of Théophile Gautier",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "ゴーティエは1872年10月に逝去し、スウィンバーンはその追悼のためにこの詩を書いた。同じ詩集に収められた「Ave atque Vale」（ボードレール追悼）と対をなす作品で、スウィンバーンがゴーティエを「われわれの神（the god of all suns and songs）」と呼んだボードレール追悼詩とは異なり、こちらでは愛と死の寓意的対話という構成を取り、後半でゴーティエの主要作品——『モーパン嬢』（Mademoiselle de Maupin）、「エナメル・カメオ」の諸詩、「死恋（La Morte Amoureuse）」「クレオパトラの一夜（Une Nuit de Cléopâtre）」——を固有名詞で引きながらその業績を回顧する。詩形はテルツァ・リーマ（aba bcb cdc…）を緩やかに用いた4行連で、形式の厳格さと記念碑的重厚さを両立させている。詩の後半でゴーティエの諸作品に注釈（†記号による原書注）が付されていることも特徴で、批評的追悼詩というジャンルを意識した構成になっている。本アプリに収録されているボードレールのゴーティエ論（baudelaire_gautier）と対照して読むことで、英仏両言語圏からのゴーティエ評価の立体像が浮かび上がる。",
+  "keywords": ["ゴーティエ追悼", "愛と死の寓意", "テルツァ・リーマ", "詩人の不死", "名誉の神殿", "エレジー"],
+  "relatedTexts": [
+    "swinburne_ave_atque_vale",
+    "swinburne_maupin_sonnet",
+    "baudelaire_gautier",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Death, what hast thou to do with me? So saith\nLove, with eyes set against the face of Death;\nWhat have I done, O thou strong Death, to thee,\nThat mine own lips should wither from thy breath?\n\nThough thou be blind as fire or as the sea,\nWhy should thy waves and storms make war on me?\nIs it for hate thou hast to find me fair,\nOr for desire to kiss, if it might be,\n\nMy very mouth of song, and kill me there?\nSo with keen rains vexing his crownless hair,\nWith bright feet bruised from no delightful way,\nThrough darkness and the disenchanted air,\n\nLost Love went weeping half a winter's day.\nAnd the armèd wind that smote him seemed to say,\nHow shall the dew live when the dawn is fled,\nOr wherefore should the Mayflower outlast May?",
+      "provisionalTranslation": "死よ、汝はわれと何の関係があるか？こう言う\n愛が、目を死の顔に向けて；\n強き死よ、汝に対してわれは何をしたか、\nわれ自身の唇が汝の息から枯れなければならないほどに？\n\n汝が火のように、あるいは海のように盲目であるとしても、\nなぜ汝の波と嵐はわれに戦いを仕掛けるのか？\nわれを美しいと見出す汝の憎しみからか、\nあるいは欲望からか、もし可能ならば、\n\nわれの歌そのものの口を接吻し、そこで殺す？\nこうして鋭い雨が冠のない彼の髪を悩ませ、\n明るい足が喜ばしくない道で傷つけられ、\n暗闇と魔法の解けた空気を通って、\n\n迷える愛は冬の日の半分を泣いて歩いた。\nそして彼を打った武装した風は言うようだった、\n夜明けが逃げてしまえば露はどうして生きられるか、\nあるいはなぜ五月の花は五月を越えて生き残るべきか、と。"
+    },
+    {
+      "id": 2,
+      "originalText": "Then Death took Love by the right hand and said,\nSmiling: Come now and look upon thy dead.\nBut Love cast down the glories of his eyes,\nAnd bowed down like a flower his flowerless head.\n\nAnd Death spake, saying: What ails thee in such wise,\nBeing god, to shut thy sight up from the skies?\nIf thou canst see not, hast thou ears to hear?\nOr is thy soul too as a leaf that dies?\n\nEven as he spake with fleshless lips of fear,\nBut soft as sleep sings in a tired man's ear,\nBehold, the winter was not, and its might\nFell, and fruits broke forth of the barren year.\n\nAnd upon earth was largess of great light,\nAnd moving music winged for worldwide flight,\nAnd shapes and sounds of gods beheld and heard,\nAnd day's foot set upon the neck of night.",
+      "provisionalTranslation": "それから死は愛の右手を取って言った、\n微笑みながら：さあ来て汝の死者を見よ。\nしかし愛は彼の目の輝きを落とし、\n花のない頭を花のようにうなだれた。\n\nそして死は語った、言いながら：かくのごとく何に悩むか、\n神でありながら、空から汝の視覚を閉ざすとは？\n汝が見られないなら、汝には聞く耳があるか？\nあるいは汝の魂もまた枯れる葉のようなものか？\n\n彼が恐れの肉のない唇で語るのとともに、\nしかし疲れた人の耳に眠りが歌うように柔らかく、\n見よ、冬はなく、その力は\n倒れ、不毛な年の果実が咲き出た。\n\nそして地上には大いなる光の惜しみない与えがあり、\n世界中への飛翔のために翼を持った音楽が動き、\n見られ聞かれた神々の形と音があり、\n昼の足が夜の首に置かれた。"
+    },
+    {
+      "id": 3,
+      "originalText": "And with such song the hollow ways were stirred\nAs of a god's heart hidden in a bird,\nOr as the whole soul of the sun in spring\nShould find full utterance in one flower-soft word,\n\nAnd all the season should break forth and sing\nFrom one flower's lips, in one rose triumphing;\nSuch breath and light of song as of a flame\nMade ears and spirits of them that heard it ring.\n\nAnd Love beholding knew not for the same\nThe shape that led him, nor in face nor name,\nFor he was bright and great of thews and fair,\nAnd in Love's eyes he was not Death, but Fame.",
+      "provisionalTranslation": "そして空洞の道はそのような歌で揺り動かされた\n鳥に隠された神の心のような、\nあるいは春の太陽の魂全体が\n一つの花のように柔らかい言葉に完全な表現を見つけるようなものだった、\n\nそしてすべての季節が一つの花の唇から\n一つの薔薇で勝利しながら歌い出すような；\nそのような歌の息と光が炎のように\nそれを聞いた者たちの耳と精神を響かせた。\n\nそして愛は眺めて、彼を導いた姿を同じものとは知らなかった、\n顔においても名においても、\nなぜなら彼は輝かしく、力強く、美しかった、\nそして愛の目には彼は死ではなく、名誉だった。"
+    },
+    {
+      "id": 4,
+      "originalText": "Not that grey ghost whose life is empty and bare\nAnd his limbs moulded out of mortal air,\nA cloud of change that shifts into a shower\nAnd dies and leaves no light for time to wear:\n\nBut a god clothed with his own joy and power,\nA god re-risen out of his mortal hour\nImmortal, king and lord of time and space,\nWith eyes that look on them as from a tower.\n\nAnd where he stood the pale sepulchral place\nBloomed, as new life might in a bloodless face,\nAnd where men sorrowing came to seek a tomb\nWith funeral flowers and tears for grief and grace,\n\nThey saw with light as of a world in bloom\nThe portal of the House of Fame illume\nThe ways of life wherein we toiling tread,\nAnd watched the darkness as a brand consume.",
+      "provisionalTranslation": "その生が空虚で裸で\n手足が死すべき空気から形づくられたあの灰色の幽霊ではなく、\n変化の雲がにわか雨に変わって\n消え、時間が纏う光を何も残さないものではなく：\n\nしかし彼自身の喜びと力を纏った神、\n死すべき時間から不死身として再び蘇った神、\n時間と空間の王と主人、\n塔から見下ろすような目を持つ。\n\nそして彼が立っていた場所では、青ざめた墓地が\n咲いた、血のない顔に新しい命が宿るように、\nそして嘆きながら墓を求めてやって来た人々が\n悲しみと恩寵のための葬礼の花と涙を持って、\n\n彼らは咲き誇る世界の光のように\n名誉の家の門がわれわれが労苦の中に踏む\n生の道を照らすのを見た、\nそして暗闇が松明のように消費されるのを見た。"
+    },
+    {
+      "id": 5,
+      "originalText": "And through the gates where rule the deathless dead\nThe sound of a new singer's soul was shed\nThat sang among his kinsfolk, and a beam\nShot from the star on a new ruler's head.\n\nA new star lighting the Lethean stream,\nA new song mixed into the song supreme\nMade of all souls of singers and their might,\nThat makes of life and time and death a dream.\n\nThy star, thy song, O soul that in our sight\nWast as a sun that made for man's delight\nFlowers and all fruits in season, being so near\nThe sun-god's face, our god that gives us light.",
+      "provisionalTranslation": "そして不死の死者たちが支配する門を通って\n新しい歌い手の魂の響きが流れ出た\n彼の親族の中で歌い、光線が\n新しい支配者の頭の上の星から放たれた。\n\nレーテーの流れを照らす新しい星、\nすべての歌い手たちの魂とその力から作られた\n至高の歌に混ざった新しい歌、\n生と時間と死を夢にするものに。\n\n汝の星、汝の歌よ、おおわれわれの目には\n人間の喜びのために季節の花々と\nすべての果実を作った太陽のような魂よ、\nかくも光の神、われわれに光を与える神の顔に近いところにいて。"
+    },
+    {
+      "id": 6,
+      "originalText": "To him of all gods that we love or fear\nThou amongst all men by thy name wast dear,\nDear to the god that gives us spirit of song\nTo bind and burn all hearts of men that hear.\n\nThe god that makes men's words too sweet and strong\nFor life or time or death to do them wrong,\nWho sealed with his thy spirit for a sign\nAnd filled it with his breath thy whole life long.\n\nWho made thy moist lips fiery with new wine\nPressed from the grapes of song, the sovereign vine,\nAnd with all love of all things loveliest\nGave thy soul power to make them more divine.\n\nThat thou might'st breathe upon the breathless rest\nOf marble, till the brows and lips and breast\nFelt fall from off them as a cancelled curse\nThat speechless sleep wherewith they lived opprest.",
+      "provisionalTranslation": "われわれが愛し恐れるすべての神々の中で彼に対して\n汝はすべての人々の中で汝の名において親愛なる者だった、\n聞く人々のすべての心を縛り燃やすための\n歌の精神をわれわれに与える神に親愛なる。\n\n人々の言葉を生も時間も死も\n傷つけるには甘すぎ強すぎるものにする神、\n彼のもので汝の精神を印として封じ\n汝の生涯を通じて彼の息でそれを満たした神。\n\n歌の葡萄から、至高の蔓から\n圧搾した新しいワインで汝の濡れた唇を燃え立たせ、\nもっとも美しいすべてのものへのすべての愛とともに\n汝の魂にそれらをさらに神聖にする力を与えた神。\n\n汝が大理石の息のない安息に息を吹き込めるように、\n眉と唇と胸が\n取り消された呪いのように感じるまで\n彼らが苦しんだ言葉のない眠りが落ちるのを。"
+    },
+    {
+      "id": 7,
+      "originalText": "Who gave thee strength and heat of spirit to pierce\nAll clouds of form and colour that disperse,\nAnd leave the spirit of beauty to remould\nIn types of clean chryselephantine verse.\n\nWho gave thee words more golden than fine gold\nTo carve in shapes more glorious than of old,\nAnd build thy songs up in the sight of time\nAs statues set in godhead manifold:\n\nIn sight and scorn of temporal change and clime\nThat meet the sun re-risen with refluent rhyme\n—As god to god might answer face to face—\nFrom lips whereon the morning strikes sublime.",
+      "provisionalTranslation": "散り散りになる形と色のすべての雲を貫く\n精神の力と熱を汝に与え、\n美の精神を清澄な象牙金細工の詩の\n型の中に再形成させるために残した神。\n\n昔よりも栄光ある形で刻み込み\n多様な神性の中に像として設置された\n時間の前で汝の歌を建て上げるために\n純金より黄金の言葉を汝に与えた神：\n\n時の変化と風土の前と軽蔑の中で\n逆行する韻律で再び蘇った太陽を迎える\n——神が神に顔と顔を合わせて答えるように——\n朝が崇高に射す唇から。"
+    },
+    {
+      "id": 8,
+      "originalText": "Dear to the god, our god who gave thee place\nAmong the chosen of days, the royal race,\nThe lords of light, whose eyes of old and ears\nSaw even on earth and heard him for a space.\n\nThere are the souls of those once mortal years\nThat wrought with fire of joy and light of tears\nIn words divine as deeds that grew thereof\nSuch music as he swoons with love who hears.\n\nThere are the lives that lighten from above\nOur under lives, the spheral souls that move\nThrough the ancient heaven of song-illumined air\nWhence we that hear them singing die with love.\n\nThere all the crowned Hellenic heads, and there\nThe old gods who made men godlike as they were,\nThe lyric lips wherefrom all songs take fire,\nLive eyes, and light of Apollonian hair.",
+      "provisionalTranslation": "神に親愛な、汝に場所を与えたわれわれの神に、\n選ばれた日々の中に、王族の一族、\n光の主たちの中に、その古い目と耳が\nかつてこの地上でも一時の間彼を見聞きした。\n\nそこには、かつては死すべきものだったそれらの年々の魂がいる\n喜びの炎と涙の光で働いた\nそこから生まれた行為と同じくらい神聖な言葉で\n聞く者が愛で失神するような音楽を。\n\nそこには上からわれわれの下の生を\n照らす生命がある、古い歌に照らされた\n空気の天を移動する球の魂たちが\nそこからわれわれは彼らの歌を聞きながら愛で死ぬ。\n\nそこにはすべての戴冠したヘレニズムの頭々が、そして\n人々を彼らと同じように神聖にした古い神々が、\nすべての歌がそこから火を取る抒情の唇が、\n生きた目と、アポロン的な髪の光が。"
+    },
+    {
+      "id": 9,
+      "originalText": "There, round the sovereign passion of that lyre\nWhich the stars hear and tremble with desire,\nThe ninefold light Pierian is made one\nThat here we see divided, and aspire,\n\nSeeing, after this or that crown to be won;\nBut where they hear the singing of the sun,\nAll form, all sound, all colour, and all thought\nAre as one body and soul in unison.\n\nThere the song sung shines as a picture wrought,\nThe painted mouths sing that on earth say nought,\nThe carven limbs have sense of blood and growth\nAnd large-eyed life that seeks nor lacks not aught.\n\nThere all the music of thy living mouth\nLives, and all loves wrought of thine hand in youth\nAnd bound about the breasts and brows with gold\nAnd coloured pale or dusk from north or south.",
+      "provisionalTranslation": "そこでは、星が聞いて欲望で震える\nあの竪琴の主権的な情念の周りに、\nここではわれわれが分かれて見ていた\nピエリアの九重の光が一つになり、\n\nそしてこれやあの冠を勝ち取ろうと憧れる；\nしかし彼らが太陽の歌を聞く場所では、\nすべての形、すべての音、すべての色、すべての思想は\n調和した一つの身体と魂のようだ。\n\nそこでは歌われた歌は絵として輝き、\n地上では何も言わなかった描かれた口が歌い、\n刻まれた手足には血と成長の感覚がある\nそして何も求めず何も欠かさない大きな目の生命が。\n\nそこには汝の生きた口のすべての音楽が\n生き、若き日汝の手が作ったすべての愛が\n胸と眉に金で結ばれて\n北や南から青ざめあるいは薄暗く着色されている。"
+    },
+    {
+      "id": 10,
+      "originalText": "Fair living things made to thy will of old,\nBorn of thy lips, no births of mortal mould,\nThat in the world of song about thee wait\nWhere thought and truth are one and manifold.\n\nWithin the graven lintels of the gate\nThat here divides our vision and our fate,\nThe dreams we walk in and the truths of sleep,\nAll sense and spirit have life inseparate.\n\nThere what one thinks, is his to grasp and keep;\nThere are no dreams, but very joys to reap,\nNo foiled desires that die before delight,\nNo fears to see across our joys and weep.\n\nThere hast thou all thy will of thought and sight,\nAll hope for harvest, and all heaven for flight;\nThe sunrise of whose golden-mouthed glad head\nTo paler songless ghosts was heat and light.",
+      "provisionalTranslation": "昔汝の意志によって作られた美しい生きるもの、\n汝の唇から生まれた、死すべき型の産物ではない、\n思想と真実が一つで多様な\n歌の世界で汝の周りを待つ。\n\nここでわれわれの幻視と運命を\n分かつ門の刻まれた楣の中で、\nわれわれが歩く夢と眠りの真実が、\nすべての感覚と精神は不可分の生命を持つ。\n\nそこでは一人が考えることは把握し持ち続けることができる；\nそこには夢はなく、実に刈り取るべき喜びがある、\n喜びの前に死ぬ打ち負かされた欲望もなく、\nわれわれの喜びを越えて見て泣く恐れもない。\n\nそこには汝は思想と視覚のすべての意志を持ち、\n収穫のすべての希望と、飛翔のすべての天を；\nその金の口の喜ばしい頭の日の出は\n青ざめた歌のない幽霊たちに熱と光だった。"
+    },
+    {
+      "id": 11,
+      "originalText": "Here where the sunset of our year is red\nMen think of thee as of the summer dead,\nGone forth before the snows, before thy day,\nWith unshod feet, with brows unchapleted.\n\nCouldst thou not wait till age had wound, they say,\nRound those wreathed brows his soft white blossoms? Nay,\nWhy shouldst thou vex thy soul with this harsh air,\nThy bright-winged soul, once free to take its way?\n\nNor for men's reverence hadst thou need to wear\nThe holy flower of grey time-hallowed hair;\nNor were it fit that aught of thee grew old,\nFair lover all thy days of all things fair.\n\nAnd hear we not thy words of molten gold\nSinging? or is their light and heat acold\nWhereat men warmed their spirits? Nay, for all\nThese yet are with us, ours to hear and hold.",
+      "provisionalTranslation": "われわれの年の夕暮れが赤いここで\n人々は汝を夏の死んだものとして思う、\n雪の前に、汝の日の前に旅立って、\n裸足で、花冠のない眉で。\n\n汝は老齢がその柔らかい白い花を\nあの花の冠を巻いた眉に巻くまで待てなかったか、と彼らは言う？いや、\nなぜ汝はこの荒い空気で汝の魂を苦しめるべきか、\n汝の輝く翼の魂よ、かつて自由にその道を取った？\n\n汝には人々の尊敬のために纏う必要もなかった\n灰色の時間で神聖にされた髪の聖なる花を；\nまた汝の何かが老いることは相応しくなかった、\n汝の日々すべてにわたってすべての美しいものの美しき愛人よ。\n\nそしてわれわれは聞かないか、汝の溶けた金の言葉を\n歌うのを？あるいはその光と熱は冷えたか\n人々がそれで精神を暖めた？いや、これらすべては\nいまだわれわれとともにある、聞き持つわれわれのもの。"
+    },
+    {
+      "id": 12,
+      "originalText": "The lovely laughter, the clear tears, the call\nOf love to love on ways where shadows fall,\nThrough doors of dim division and disguise,\nAnd music made of doubts unmusical;\n\nThe love that caught strange light from death's own eyes,\nAnd filled death's lips with fiery words and sighs,\nAnd half asleep let feed from veins of his\nHer close red warm snake's mouth, Egyptian-wise:\n\nAnd that great night of love more strange than this,\nWhen she that made the whole world's bale and bliss\nMade king of all the world's desire a slave,\nAnd killed him in mid kingdom with a kiss;\n\nVeiled loves that shifted shapes and shafts, and gave,\nLaughing, strange gifts to hands that durst not crave,\nFlowers double-blossomed, fruits of scent and hue\nSweet as the bride-bed, stranger than the grave;",
+      "provisionalTranslation": "美しい笑いと、澄んだ涙と、影が落ちる道の上で\n愛から愛への呼びかけ、\n薄暗い分断と偽装の扉を通って、\nそして音楽にならない疑いから作られた音楽；\n\n死自身の目から奇妙な光を捉えた愛、\n死の唇を燃えるような言葉と溜息で満たし、\n半ば眠りながら彼の血管から\n彼女の密着した赤く暖かな蛇の口に、エジプト風に：\n\nそしてこれより奇妙な、あの偉大な愛の夜、\n世界全体の苦しみと幸福を作ったあの女が\n世界のすべての欲望の王を奴隷にし、\n王国の中ほどで彼を口付けで殺した；\n\n覆われた愛が形と矢を変えて与えた、\n笑いながら、あえて求めなかった手に奇妙な贈り物を、\n二重に花咲く花々、香りと色の果実を\n花嫁の床のように甘く、墓より奇妙な；"
+    },
+    {
+      "id": 13,
+      "originalText": "All joys and wonders of old lives and new\nThat ever in love's shine or shadow grew,\nAnd all the grief whereof he dreams and grieves,\nAnd all sweet roots fed on his light and dew;\n\nAll these through thee our spirit of sense perceives,\nAs threads in the unseen woof thy music weaves,\nBirds caught and snared that fill our ears with thee,\nBay-blossoms in thy wreath of brow-bound leaves.\n\nMixed with the masque of death's old comedy\nThough thou too pass, have here our flowers, that we\nFor all the flowers thou gav'st upon thee shed,\nAnd pass not crownless to Persephone.\n\nBlue lotus-blooms and white and rosy-red\nWe wind with poppies for thy silent head,\nAnd on this margin of the sundering sea\nLeave thy sweet light to rise upon the dead.",
+      "provisionalTranslation": "古い生と新しい生のすべての喜びと驚きが\n愛の光あるいは影の中でかつて育ち、\nそしてそれで彼が夢見て嘆くすべての悲しみと、\n彼の光と露に養われたすべての甘い根；\n\nこれらすべてをわれわれは汝を通して感覚の精神で感じ取る、\n見えない縦糸の中の糸として汝の音楽が織り、\n汝で耳を満たす捕まり罠にかかった鳥として、\n汝の眉に結ばれた葉の花輪の月桂樹の花として。\n\n死の古い喜劇の仮装と混ざりながら\n汝もまた過ぎ去れど、ここにわれわれの花を受け取れ、われわれが\n汝の与えたすべての花のために汝の上に注ぎかける、\nそして冠なしにプロセルピナのもとへ旅立つな。\n\n青い蓮の花と白と薔薇色の赤を\nわれわれは汝の沈黙した頭のためにケシとともに巻く、\nそしてこの分かつ海の岸辺で\n汝の甘い光を死者たちの上に昇るよう残す。"
+    }
+  ]
+}
