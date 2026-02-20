@@ -1,0 +1,32 @@
+{
+  "id": "wilde_e_tenebris",
+  "title": "E Tenebris",
+  "author": "Oscar Wilde",
+  "source": "Poems",
+  "year": "1881",
+  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "difficulty": "中級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「暗闇から」を意味するラテン語の題名を持つソネット。「ガリラヤ湖のシモンより荒れた海に溺れている」という書き出しから始まり、「生命の葡萄酒は砂に零れ、わが魂は地獄に在るべし」という絶望の告白へと進む。オクターヴの暗黒に対し、セステットでは「しかし、静まれ——夜が明ける前に見るであろう、真鍮の足、炎より白い衣、傷ついた手、疲れた人間の顔を」という逆転的な救済の予感で閉じる。ボードレール「E Tenebris」（*Spleen et Idéal* XVI）と題名が一致し、マラルメの「窓」が絶望から超越への跳躍を同様の構造で展開する。ブランショが「文学空間」で論じた「死の体験としての詩的言語」の実践的テクストとも読める。ヴィクトリア朝後期のカトリシズムへの傾倒と美学的絶望の交点に位置する。",
+  "keywords": ["ソネット", "絶望と救済", "暗黒", "キリスト", "祈り", "ボードレールとの共鳴"],
+  "relatedTexts": [
+    "wilde_helas",
+    "wilde_theoretikos",
+    "baudelaire_romantisme_complet",
+    "mallarme_poetics"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Come down, O Christ, and help me! reach Thy hand,\nFor I am drowning in a stormier sea\nThan Simon on Thy lake of Galilee:\nThe wine of life is spilt upon the sand,\nMy heart is as some famine-murdered land\nWhence all good things have perished utterly,\nAnd well I know my soul in Hell must lie\nIf I this night before God's throne should stand.",
+      "provisionalTranslation": "降りてきたまえ、キリストよ、助けたまえ！御手を差し伸べたまえ、\nわたしはガリラヤ湖のシモンよりも荒れた海に\n溺れているのだから：\n生命の葡萄酒は砂の上に零れ、\nわが心はすべての良いものが\n跡形もなく滅び去った飢饉に殺された土地のようだ、\nそしてよく知っている——今夜わたしが\n神の玉座の前に立てば、わが魂は地獄に在るべきことを。"
+    },
+    {
+      "id": 2,
+      "originalText": "'He sleeps perchance, or rideth to the chase,\nLike Baal, when his prophets howled that name\nFrom morn to noon on Carmel's smitten height.'\nNay, peace, I shall behold, before the night,\nThe feet of brass, the robe more white than flame,\nThe wounded hands, the weary human face.",
+      "provisionalTranslation": "「おそらく眠っているか、狩りに出ているのだろう、\nバアルのように、その預言者たちが\nカルメルの打たれた頂上で朝から正午まで名を叫んだように」\nいや、静まれ——夜が明ける前に見るであろう、\n真鍮の足を、炎よりも白い衣を、\n傷ついた手を、疲れた人間の顔を。"
+    }
+  ]
+}
