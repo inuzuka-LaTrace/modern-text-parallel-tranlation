@@ -1,0 +1,46 @@
+{
+  "id": "wilde_magdalen_walks",
+  "title": "Magdalen Walks",
+  "author": "Oscar Wilde",
+  "source": "Poems (1881)",
+  "year": "1881",
+  "firstPublication": "Poems (David Bogue, 1881)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "オックスフォード大学モードリン・カレッジ（Magdalen College）の庭園の散歩道を舞台とする春の牧歌。ワイルドは1874年から1879年までモードリン・カレッジに在籍し、この詩はその学生時代の風景を題材とする。詩のタイトルにある「Magdalen Walks」はカレッジに隣接するチャーウェル川沿いの遊歩道を指す実在の地名でもある。5連構成で、春の到来——ポプラ並木の芽吹き、ツグミの声、黄水仙、泡立草——を感覚的に描写し、詩人の魂が自然の更新に共鳴する様子を歌う。過剰な装飾を抑えた比較的端正な詩形で、ワイルドの初期詩集の中では親しみやすい作品。後年のデカダンス美学とはやや距離を置いた、ラスキンやアーノルドの文化的風景画の影響が色濃い。最終連で「ただ愛のみが春を春たらしめる」と締めくくる抒情的結びが特徴。",
+  "keywords": ["オックスフォード", "春", "モードリン・カレッジ", "牧歌", "自然と魂", "チャーウェル川"],
+  "relatedTexts": [
+    "wilde_sphinx",
+    "swinburne_year_of_the_rose",
+    "vanlerberghe_entrevision"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "The little white clouds are racing over the sky,\nAnd the fields are strewn with the gold of the flower of March,\nThe daffodil breaks under foot, and the tasselled larch\nBends to the kiss of the wind, and the meadows reply\nTo the song of the brook that is swollen and bursts its banks,\nAnd the ousel sings in the alder, and loud and clear\nThe blackbird sings in the lilac, and the fresh young year\nShakes all his golden rain-drops loose from the budding ranks\nOf elm and willow; but Love hath come to his place,\nAnd Love is the root of the world, and Love is the light.",
+      "provisionalTranslation": "小さな白い雲が空を駆け抜け、\n野原には三月の花の黄金が撒かれている、\n足元で水仙が折れ、房飾りのある唐松は\n風の口付けに身をかがめ、草地は答える\n岸を越えてあふれ出す小川の歌に、\n山雀は榛の木で歌い、大きく澄んだ声で\n黒ツグミが丁香花の茂みで歌い、新しい若い年が\n金色の雨粒をすべて振り落とす楡と柳の\n芽吹きの枝々から；しかし愛はその場所に来た、\n愛は世界の根であり、愛は光だ。"
+    },
+    {
+      "id": 2,
+      "originalText": "The cherry-blossoms are pink and white, and the lime\nIs in blossom now in the gardens of Magdalen;\nAnd the willow-wren is singing, and the sedge-warbler sings\nTo the yellow fronds of the sedge, and the rush-thatched fen\nOf the water-meadow is alive with the cries of the spring,\nAnd from the bridge to the mill-race the kingfisher flies,\nAnd beyond the bridge lies the pathway to the hills,\nAnd the road that leads to the hills is grey with the mist,\nAnd the hills are dim and distant, and lost in the clouds,\nBut Love hath come to his place, and Love is the light.",
+      "provisionalTranslation": "桜の花は白くピンク色で、ライムは\n今モードリンの庭で花咲いている；\n今鶯は歌い、ヨシキリは歌う\nスゲの黄色い葉に向かって、葦葺きの\n水草地は春の声で生き生きとしている、\n橋から水車の水路へとカワセミが飛び、\n橋の向こうに丘への小道が伸び、\n丘へ通じる道は霧で灰色に染まり、\n丘は薄暗く遠く、雲の中に消えているが、\n愛はその場所に来た、そして愛は光だ。"
+    },
+    {
+      "id": 3,
+      "originalText": "My heart is a-fluttering with thought of thee,\nO love of my life, O love of my heart!\nFor out of the dim December drear and cold,\nThe flowers of spring are come to thee,\nAnd the birds of spring are come to thee,\nAnd the new young life is come to thee,\nAnd all the world is in thee, and thy heart is in me,\nAnd Love hath come to his place, and Love is the light.",
+      "provisionalTranslation": "わが心はあなたへの思いで羽ばたいている、\nわが生の愛よ、わが心の愛よ！\n暗い十二月の侘しく冷たい日々から出て、\n春の花々があなたのもとに来た、\n春の鳥たちがあなたのもとに来た、\n新しく若い命があなたのもとに来た、\nそして全世界があなたの中に在り、あなたの心はわたしの中に在り、\n愛はその場所に来た、そして愛は光だ。"
+    },
+    {
+      "id": 4,
+      "originalText": "The air is white with may-blossom and the air\nIs sweet with the smell of the new-mown grass,\nAnd the long white fingers of the budding larch\nAre touching the face of the stream as the clouds pass,\nAnd the water-lily has opened its white flower\nAnd the moon is up, and the night is still and clear;\nAnd Love hath come to his place, and Love is the light.\nBut the night is as cold as death, and there is no love here.",
+      "provisionalTranslation": "空気はサンザシの花で白く、空気は\n新しく刈り取られた草の香りで甘い、\n芽吹く唐松の長く白い指先が\n雲が過ぎる間、川面に触れ、\n睡蓮は白い花を開き\n月は昇り、夜は静かで晴れている；\n愛はその場所に来た、そして愛は光だ。\nしかし夜は死のように冷たく、ここには愛がない。"
+    },
+    {
+      "id": 5,
+      "originalText": "The long white road is a road that leads to thee,\nAnd I am following the road through the grey of the dawn,\nFor it is the road of Love, and it leads to thee;\nAnd Love hath come to his place, and Love is the light.\nAnd the world is awake and the day is beginning to be,\nAnd the air is a-flutter with the song of the lark.\nBut Love is the root of the world, and Love is the light,\nAnd it is only Love that makes the spring to be spring.",
+      "provisionalTranslation": "長い白い道はあなたへと続く道、\nわたしは夜明けの灰色を通って道を辿っている、\nなぜならそれは愛の道であり、あなたへ続いているから；\n愛はその場所に来た、そして愛は光だ。\n世界は目覚め、一日が始まろうとしている、\n大気は雲雀の歌でざわめいている。\nしかし愛は世界の根であり、愛は光だ、\nそして春を春たらしめるのはただ愛のみだ。"
+    }
+  ]
+}
