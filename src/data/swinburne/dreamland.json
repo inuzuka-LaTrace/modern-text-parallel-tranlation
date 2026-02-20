@@ -1,0 +1,43 @@
+{
+  "id": "swinburne_ballad_dreamland",
+  "title": "A Ballad of Dreamland",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "4連＋エンヴォワのバラッド形式。「秘密の鳥の歌だけ」というリフレインが各連を閉じ、夢の国への逃避と強制的な覚醒の往復運動を生み出す。「薔薇の巣に心を隠した」という書き出しから、夢の国は地図に記されず、商人の市場でも売られない名もなき緑の土地として提示される——マラルメが「海の微風」で欲した「行ったこともない国」、ヴァン・レルベルグが「Entrevision」で垣間見た光の地と同一の構造を持つ。「秘密の鳥」はマラルメの白鳥と同様、言語化できない何かの象徴であり、夢の甘美さと現実への強制帰還を同時に意味する。エンヴォワ「夢の世界のなかでわたしは自分の役割を選んだ、/真の愛の真実も軽い愛の術も聞かず」という決意は、ワイルド「Theoretikos」の芸術的隠遁宣言と直接響き合う。バルトが「テクストの快楽」で論じた「ブリス（至福）」——意味を超えた純粋な感覚の振動——に最も近い英語詩のひとつ。",
+  "keywords": ["夢", "逃避", "薔薇", "秘密の鳥", "バラッド形式", "リフレイン"],
+  "relatedTexts": [
+    "wilde_theoretikos",
+    "wilde_helas",
+    "vanlerberghe_entrevision",
+    "mallarme_poetics",
+    "swinburne_forsaken_garden"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "I hid my heart in a nest of roses,\nOut of the sun's way, hidden apart;\nIn a softer bed than the soft white snow's is,\nUnder the roses I hid my heart.\nWhy would it sleep not? why should it start,\nWhen never a leaf of the rose-tree stirred?\nWhat made sleep flutter his wings and part?\nOnly the song of a secret bird.",
+      "provisionalTranslation": "わたしは心を薔薇の巣に隠した、\n太陽の届かないところ、離れて隠れて；\n白い柔らかい雪より柔らかい寝床に、\n薔薇の下にわたしは心を隠した。\nなぜ眠ろうとしないのか？なぜ飛び起きるのか、\n薔薇の木の葉一枚も揺れていないのに？\n何が眠りにその翼を羽ばたかせ去らせたのか？\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 2,
+      "originalText": "Lie still, I said, for the wind's wing closes,\nAnd mild leaves muffle the keen sun's dart;\nLie still, for the wind on the warm seas dozes,\nAnd the wind is unquieter yet than thou art.\nDoes a thought in thee still as a thorn's wound smart?\nDoes the fang still fret thee of hope deferred?\nWhat bids the lips of thy sleep dispart?\nOnly the song of a secret bird.",
+      "provisionalTranslation": "じっとしていろ、と言った、風の翼が閉じ、\n穏やかな葉が鋭い太陽の矢をくるんでいる；\nじっとしていろ、暖かい海の上で風は眠っている、\nそして風はまだ汝よりも落ち着きがない。\n汝のなかで何か思いが茨の傷のようにまだ痛むか？\n先延ばしにされた希望の牙がまだ汝を悩ませるか？\n何が汝の眠りの唇を開かせるのか？\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 3,
+      "originalText": "The green land's name that a charm encloses,\nIt never was writ in the traveller's chart,\nAnd sweet on its trees as the fruit that grows is,\nIt never was sold in the merchant's mart.\nThe swallows of dreams through its dim fields dart,\nAnd sleep's are the tunes in its tree-tops heard;\nNo hound's note wakens the wildwood hart,\nOnly the song of a secret bird.",
+      "provisionalTranslation": "魔法に囲まれたその緑の土地の名は、\n旅人の地図に記されたことは一度もない、\nそこに育つ果実のようにその木々の上で甘く、\n商人の市場で売られたことも一度もない。\n夢のツバメたちがその薄暗い野原を飛び交い、\n眠りのものである調べが梢に聞こえる；\n犬の遠吠えも森の牡鹿を目覚めさせない、\nただ秘密の鳥の歌だけが。"
+    },
+    {
+      "id": 4,
+      "originalText": "In the world of dreams I have chosen my part,\nTo sleep for a season and hear no word\nOf true love's truth or of light love's art,\nOnly the song of a secret bird.",
+      "provisionalTranslation": "夢の世界のなかでわたしは自分の役割を選んだ、\nひとしきり眠り、いかなる言葉も聞かないために、\n真の愛の真実も軽い愛の術も、\nただ秘密の鳥の歌だけを。"
+    }
+  ]
+}
