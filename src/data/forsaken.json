@@ -1,0 +1,73 @@
+{
+  "id": "swinburne_forsaken_garden",
+  "title": "A Forsaken Garden",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "イングランド西海岸の断崖の窪みに囲まれた廃園を描く、スウィンバーン最高傑作のひとつ。詩は「廃園の幽霊」という出発点から、かつてそこで愛し合った恋人たちの消滅、愛そのものの死、そして万物を飲み込む海の永遠性へと三段階で拡大する。ボードレール「悪の華」の「腐屍」が肉体の腐敗を通じて美を逆説的に肯定したように、スウィンバーンはここで廃滅と永続を重ね合わせ、「愛は海のように深く、薔薇のように枯れなければならない」という逆説に辿り着く。最終連「死は死んでいる」という結末は、ヴァン・レルベルグの「La Mort」が沈黙のうちに提示する死の詩学と鏡像をなし、マラルメ「エロディアード」の冷たく完璧な消去と共鳴する。詩全体を貫く8行連（4強弱格＋4行の最終行短縮）はスウィンバーン独自の音楽的形式であり、ゴーティエが「L'Art」で詩形の抵抗から美を生み出したように、厳格な韻律が廃墟のイメージを結晶化させる。",
+  "keywords": ["廃園", "愛と消滅", "海の永遠性", "死の詩学", "自然と時間", "薔薇"],
+  "relatedTexts": [
+    "vanlerberghe_la_mort",
+    "wilde_requiescat",
+    "gautier_l_art",
+    "baudelaire_delacroix_2",
+    "valmore_separees"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "In a coign of the cliff between lowland and highland,\n   At the sea-down's edge between windward and lee,\nWalled round with rocks as an inland island,\n   The ghost of a garden fronts the sea.\nA girdle of brushwood and thorn encloses\n   The steep square slope of the blossomless bed\nWhere the weeds that grew green from the graves of its roses\n            Now lie dead.",
+      "provisionalTranslation": "低地と高地の間、断崖の窪みに、\n　風上と風下の間、海岸の端に、\n岩に四方を囲まれた内陸の島のように、\n　廃園の幽霊が海に向かっている。\n灌木と茨の帯が取り巻く\n　花のない花壇の急な四角い斜面を、\nかつてその薔薇の墓から緑に育った雑草たちは\n　　　　　　今は死んでいる。"
+    },
+    {
+      "id": 2,
+      "originalText": "The fields fall southward, abrupt and broken,\n   To the low last edge of the long lone land.\nIf a step should sound or a word be spoken,\n   Would a ghost not rise at the strange guest's hand?\nSo long have the grey bare walks lain guestless,\n   Through branches and briars if a man make way,\nHe shall find no life but the sea-wind's, restless\n            Night and day.",
+      "provisionalTranslation": "野原は南へ、急勾配で、荒れ果てて落ちていく、\n　長く孤独な土地の低い最果ての端まで。\nもし足音がしたり言葉が発せられたりしたなら、\n　幽霊は見知らぬ客の手もとに立ち上がらないだろうか？\nこれほど長く、灰色の裸の小道は客を迎えていない、\n　枝と茨をかき分けて人が進んでも、\n彼は海風のもの以外いかなる生命も見つけられない、落ち着きのない\n　　　　　　夜も昼も。"
+    },
+    {
+      "id": 3,
+      "originalText": "The dense hard passage is blind and stifled\n   That crawls by a track none turn to climb\nTo the strait waste place that the years have rifled\n   Of all but the thorns that are touched not of time.\nThe thorns he spares when the rose is taken;\n   The rocks are left when he wastes the plain.\nThe wind that wanders, the weeds wind-shaken,\n            These remain.",
+      "provisionalTranslation": "密集した固い通路は暗く息詰まる、\n　誰も登ろうとしない道を這って進み、\n歳月が時間に触れられない茨だけを残して\n　残らず略奪した狭い荒廃の場所へと。\n薔薇が取られるとき、彼は茨を残す；\n　彼が平原を荒らすとき、岩が残される。\n彷徨う風、風に揺れる雑草、\n　　　　　　それらが残る。"
+    },
+    {
+      "id": 4,
+      "originalText": "Not a flower to be pressed of the foot that falls not;\n   As the heart of a dead man the seed-plots are dry;\nFrom the thicket of thorns whence the nightingale calls not,\n   Could she call, there were never a rose to reply.\nOver the meadows that blossom and wither\n   Rings but the note of a sea-bird's song;\nOnly the sun and the rain come hither\n            All year long.",
+      "provisionalTranslation": "落ちることのない足に踏みしめられる花ひとつない；\n　死んだ人の心のように種床は乾いている；\nナイチンゲールが呼びかけることのない茨の茂みから、\n　彼女が呼べたとしても、応えるべき薔薇は一輪もない。\n花咲き枯れる牧草地の上に\n　海鳥の歌の一音だけが鳴り響く；\n太陽と雨だけがここへやってくる\n　　　　　　年中ずっと。"
+    },
+    {
+      "id": 5,
+      "originalText": "The sun burns sere and the rain dishevels\n   One gaunt bleak blossom of scentless breath.\nOnly the wind here hovers and revels\n   In a round where life seems barren as death.\nHere there was laughing of old, there was weeping,\n   Haply, of lovers none ever will know,\nWhose eyes went seaward a hundred sleeping\n            Years ago.",
+      "provisionalTranslation": "太陽は枯れを焼き、雨は乱す\n　香りのない息の、ひとつの痩せた陰鬱な花を。\n風だけがここで舞い踊る\n　生命が死と同じく不毛に見える円環のなかで。\nかつてここでは笑いがあり、泣き声があった、\n　おそらく、誰も永遠に知ることのない恋人たちの、\n眼が百年の眠りの前に\n　　　　　　海へと向かった恋人たちの。"
+    },
+    {
+      "id": 6,
+      "originalText": "Heart handfast in heart as they stood, \"Look thither,\"\n   Did he whisper? \"look forth from the flowers to the sea;\nFor the foam-flowers endure when the rose-blossoms wither,\n   And men that love lightly may die—but we?\"\nAnd the same wind sang and the same waves whitened,\n   And or ever the garden's last petals were shed,\nIn the lips that had whispered, the eyes that had lightened,\n            Love was dead.",
+      "provisionalTranslation": "心と心を固く繋いで立ちながら、「あちらを見て」\n　彼は囁いたのか？「花から海へと目を向けて；\n薔薇の花が枯れるとき泡の花は耐え続ける、\n　そして軽く愛する者は死ぬかもしれない——でも私たちは？」\nそして同じ風が歌い、同じ波が白く輝いた、\n　そして園の最後の花びらが散る前に、\n囁いた唇のなかで、輝いた瞳のなかで、\n　　　　　　愛は死んでいた。"
+    },
+    {
+      "id": 7,
+      "originalText": "Or they loved their life through, and then went whither?\n   And were one to the end—but what end who knows?\nLove deep as the sea as a rose must wither,\n   As a rose-red seaweed that mocks the rose.\nShall the dead take thought for the dead to love them?\n   What love was ever as deep as a grave?\nThey are loveless now as the grass above them\n            Or the wave.",
+      "provisionalTranslation": "あるいは彼らは生涯を愛し尽くし、それからどこへ行ったのか？\n　そして最後まで一つだった——しかしどんな終わりか誰が知る？\n海のように深い愛は薔薇のように枯れなければならない、\n　薔薇を嘲る薔薇色の海藻のように。\n死者は自分を愛してくれる死者のことを考えるだろうか？\n　いかなる愛が墓ほど深かったか？\n彼らは今、自分たちの上の草のように\n　　　　　　あるいは波のように、愛することのない存在となった。"
+    },
+    {
+      "id": 8,
+      "originalText": "All are at one now, roses and lovers,\n   Not known of the cliffs and the fields and the sea.\nNot a breath of the time that has been hovers\n   In the air now soft with a summer to be.\nNot a breath shall there sweeten the seasons hereafter\n   Of the flowers or the lovers that laugh now or weep,\nWhen as they that are free now of weeping and laughter\n            We shall sleep.",
+      "provisionalTranslation": "今や皆ひとつだ、薔薇も恋人たちも、\n　断崖にも野原にも海にも知られることなく。\n過ぎ去った時のいかなる息吹も漂わない\n　これから来る夏に柔らかい空気のなかに。\nこれからの季節をいかなる息吹も甘くしない\n　今泣いたり笑ったりする花々や恋人たちの、\n彼らのように泣きも笑いもすることから自由になった者として\n　　　　　　わたしたちが眠るとき。"
+    },
+    {
+      "id": 9,
+      "originalText": "Here death may deal not again for ever;\n   Here change may come not till all change end.\nFrom the graves they have made they shall rise up never,\n   Who have left nought living to ravage and rend.\nEarth, stones, and thorns of the wild ground growing,\n   While the sun and the rain live, these shall be;\nTill a last wind's breath upon all these blowing\n            Roll the sea.",
+      "provisionalTranslation": "ここでは死はもはや永遠に手を下せない；\n　ここでは変化はすべての変化が終わるまで来ることができない。\n彼らが作った墓から彼らは決して蘇らない、\n　荒らし裂くべき生けるものを何も残さなかった者たちは。\n大地、石、荒野に育つ茨、\n　太陽と雨が生きている間、これらはあるだろう；\n最後の風の息吹がこれらすべての上に吹いて\n　　　　　　海が転がって来るまで。"
+    },
+    {
+      "id": 10,
+      "originalText": "Till the slow sea rise and the sheer cliff crumble,\n   Till terrace and meadow the deep gulfs drink,\nTill the strength of the waves of the high tides humble\n   The fields that lessen, the rocks that shrink,\nHere now in his triumph where all things falter,\n   Stretched out on the spoils that his own hand spread,\nAs a god self-slain on his own strange altar,\n            Death lies dead.",
+      "provisionalTranslation": "緩やかな海が上がり、断崖が崩れるまで、\n　テラスと牧草地を深い淵が飲み込むまで、\n高潮の波の力が辱めるまで\n　縮む野原を、小さくなる岩を、\nここで今、すべてのものが揺らぐ彼の勝利のなかで、\n　自らの手が広げた戦利品の上に横たわって、\n自分自身の奇妙な祭壇の上で自ら命を絶った神のように、\n　　　　　　死は死んでいる。"
+    }
+  ]
+}
