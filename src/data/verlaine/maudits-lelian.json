@@ -1,0 +1,56 @@
+{
+  "id": "verlaine_poetes_maudits_lelian",
+  "title": "Les Poètes maudits (VI) — Pauvre Lélian",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1888",
+  "firstPublication": "Les Poètes maudits, édition augmentée, Léon Vanier, 1888",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★★",
+  "context": "『呪われた詩人たち』増補版（1888）第6章・最終章。ヴェルレーヌが自らのアナグラム「パーヴル・レリアン（貧しきレリアン）」を名乗って自己を論じる異色の章。三人称で書かれた自己批評であり、自己神話化と自己嘲笑が共存する。",
+  "keywords": ["autobiographie", "ironie", "alcool", "péché", "grâce"],
+  "relatedTexts": ["verlaine_poetes_maudits_corbiere", "verlaine_poetes_maudits_rimbaud", "verlaine_poetes_maudits_mallarme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Pauvre Lélian est un anagramme de Paul Verlaine. C'est sous ce masque transparent que le dernier des poètes maudits — le plus maudit peut-être — se présente lui-même à la postérité. Qu'on ne s'y trompe pas : cette modestie affectée est une coquetterie, et cette coquetterie est une forme d'orgueil.",
+      "provisionalTranslation": "パーヴル・レリアンはポール・ヴェルレーヌのアナグラムだ。呪われた詩人たちの最後の者——おそらく最も呪われた者——はこの透明な仮面の下に後世に自らを提示する。惑わされてはならない。この衒った謙遜は媚態であり、この媚態は誇りの一形態だ。"
+    },
+    {
+      "id": 2,
+      "french": "Pauvre Lélian est né à Metz en 1844. Dès son enfance, il a montré des dispositions remarquables pour la poésie et des dispositions non moins remarquables pour tout ce qui pouvait compromettre sa vie et sa carrière. Ces deux dispositions ne l'ont jamais quitté.",
+      "provisionalTranslation": "パーヴル・レリアンは1844年メスに生まれた。幼い頃から詩への並外れた素質と、生活と経歴を損ないうるすべてへの同様に並外れた素質を示した。この二つの素質は彼を決して離れなかった。"
+    },
+    {
+      "id": 3,
+      "french": "Sa poésie est une musique avant d'être une parole. Elle agit sur l'âme comme la musique, par des voies que l'intelligence ne contrôle pas, par des harmonies dont elle ne comprend pas toujours le principe mais dont elle subit irrésistiblement l'effet.",
+      "provisionalTranslation": "その詩は言葉である前に音楽だ。知性が制御しない経路によって、原理を常には理解しないが効果には抗いがたく従う調和によって、音楽のように魂に作用する。"
+    },
+    {
+      "id": 4,
+      "french": "Pauvre Lélian a beaucoup péché, il le sait et il l'avoue. Il a bu, il a erré, il a scandalise. Mais dans tous ses péchés, dans toutes ses erreurs, il n'a jamais cessé d'être poète. Et peut-être que ses péchés mêmes ont nourri sa poésie, lui ont donné cette connaissance intime de la souffrance et de la honte sans laquelle il n'est pas de grande poésie.",
+      "provisionalTranslation": "パーヴル・レリアンは多く罪を犯した、それを知り告白する。飲み、さすらい、スキャンダルを起こした。しかしすべての罪において、すべての過ちにおいて、詩人であることをやめなかった。そしておそらく罪そのものが詩を養い、偉大な詩なしには不可能な苦悩と恥辱の内密な知識を詩に与えた。"
+    },
+    {
+      "id": 5,
+      "french": "Il est catholique, profondément catholique, d'une façon peut-être scandaleuse pour les catholiques bien-pensants. Son catholicisme est fait de repentir et de rechute, de grâce et de péché, d'extase mystique et de chute dans la boue. Mais c'est un catholicisme vécu, brûlé, non pas une religion de convention.",
+      "provisionalTranslation": "彼はカトリックだ、深くカトリックだ、おそらく思慮深いカトリック信者には醜聞的なやり方で。そのカトリシズムは悔悛と再犯、恩寵と罪、神秘的な法悦と泥への転落でできている。しかしそれは生きられ、燃やされたカトリシズムであり、慣習の宗教ではない。"
+    },
+    {
+      "id": 6,
+      "french": "Ce qui est remarquable chez Pauvre Lélian, c'est que sa vie désastreuse n'a pas tué sa poésie. Au contraire : chaque catastrophe a semblé nourrir son inspiration. Il est sorti de prison avec de beaux poèmes. Il est sorti de l'hôpital avec de beaux poèmes. Il sortira de la vie avec un beau poème.",
+      "provisionalTranslation": "パーヴル・レリアンにおいて注目すべきは、その悲惨な生が詩を殺さなかったことだ。それどころか——各災厄がインスピレーションを養ったように見える。美しい詩を携えて牢獄から出た。美しい詩を携えて病院から出た。美しい詩を携えて人生から出るだろう。"
+    },
+    {
+      "id": 7,
+      "french": "Pauvre Lélian ! Il est pauvre, il est seul, il est malade. Mais il est poète. Et être poète, dans ce monde où l'argent est dieu et l'utilité reine, c'est déjà être maudit. Mais c'est aussi, peut-être, être sauvé.",
+      "provisionalTranslation": "パーヴル・レリアン！ 貧しく、孤独で、病んでいる。しかし詩人だ。そして金が神であり有用性が女王であるこの世界で詩人であることは、すでに呪われていることだ。しかしまた、おそらく、救われていることでもある。"
+    },
+    {
+      "id": 8,
+      "french": "Son Art poétique dit tout : « De la musique avant toute chose. » Voilà le programme de Pauvre Lélian, voilà sa loi, voilà son évangile. La musique d'abord, la nuance d'abord, la suggestion d'abord. Et le reste est littérature.",
+      "provisionalTranslation": "その「詩法」がすべてを語る——「何よりもまず音楽を」と。これがパーヴル・レリアンのプログラムであり、法であり、福音だ。まず音楽を、まずニュアンスを、まず示唆を。そして残りは文学だ。"
+    }
+  ]
+}ts_lelian.json     （Ⅵ章）
