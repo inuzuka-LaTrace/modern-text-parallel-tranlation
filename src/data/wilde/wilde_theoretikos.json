@@ -1,0 +1,32 @@
+{
+  "id": "wilde_theoretikos",
+  "title": "Theoretikos",
+  "author": "Oscar Wilde",
+  "source": "Poems",
+  "year": "1881",
+  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "difficulty": "中級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「エレウテリア（自由）」連作の掉尾を飾るソネット。題名はギリシャ語で「観想的な者」を意味し、プラトン的な「観想的生活（bios theoretikos）」への回帰を宣言する。前半オクターヴで「この帝国はただ粘土の足しか持たない」とイギリス帝国主義を断罪し、後半セステットで「芸術の夢と最高の教養のなかに立ち退く」という美的隠遁を宣言する。「神のためにも、その敵のためにも」という最終行は、ボードレール「悪の華」の「徳にも悪にも奉仕しない」詩人観と直接響き合い、ゴーティエ「芸術のための芸術」——有用性からの完全な自律——の英語的実践として読める。フーコーが「自己への配慮」と呼ぶ実践の美学的形式を、政治的離脱として提示したテクスト。",
+  "keywords": ["芸術のための芸術", "観想的生活", "帝国批判", "美的隠遁", "ソネット", "教養"],
+  "relatedTexts": [
+    "wilde_helas",
+    "gautier_l_art",
+    "baudelaire_gautier",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "This mighty empire hath but feet of clay:\nOf all its ancient chivalry and might\nOur little island is forsaken quite:\nSome enemy hath stolen its crown of bay,\nAnd from its hills that voice hath passed away\nWhich spake of Freedom: O come out of it,\nCome out of it, my Soul, thou art not fit\nFor this vile traffic-house, where day by day",
+      "provisionalTranslation": "この偉大な帝国はただ粘土の足しか持たない：\nその古の騎士道と力のすべてにおいて、\nわれらの小さな島は完全に見捨てられた：\n何者かが月桂の冠を盗み去り、\nその丘から、自由を語った\nかの声は消え去った：さあ、そこから出よ、\nわが魂よ、そこから出よ、汝はふさわしくない\nこの卑しい取引所には、日々"
+    },
+    {
+      "id": 2,
+      "originalText": "Wisdom and reverence are sold at mart,\nAnd the rude people rage with ignorant cries\nAgainst an heritage of centuries.\nIt mars my calm: wherefore in dreams of Art\nAnd loftiest culture I would stand apart,\nNeither for God, nor for his enemies.",
+      "provisionalTranslation": "英知と畏敬が市場で売られ、\n粗野な民衆が無知な叫びで猛り狂う\n幾世紀の遺産に向かって。\nそれはわが平静を乱す：ゆえに芸術の夢と\n最高の教養のなかに、わたしは孤立して立とう、\n神のためにも、その敵のためにも——どちらでもなく。"
+    }
+  ]
+}
