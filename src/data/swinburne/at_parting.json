@@ -1,0 +1,37 @@
+{
+  "id": "swinburne_at_parting",
+  "title": "At Parting",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "初級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★☆☆",
+  "context": "愛の神エロスに支えられた一夜の逢瀬の回顧と別れを歌う短詩。3連構成で、各連はほぼ同じ6行詩形を持ちながら、それぞれが「愛の神がいた時」「愛の神が隠してくれた時」「愛の神が去る今」という三つの時制を担う。各連の末尾行「一日と一夜のあいだ（For a day and a night）」というリフレインが詩を結び、愛の時間の極端な短さを骨格として固定する。スウィンバーンの恋愛詩の中では珍しく、欲望と喪失よりも甘やかな感謝と受容が基調となっており、官能的な過剰を特徴とする第一詩集（1866）とは対照的な成熟した抒情を示す。月桃（ミルトス）への言及はウェヌス（ヴィーナス）の神木への参照であり、禁じられた愛の聖地という含意を持つ。詩形の規則性と意味的な明快さから、スウィンバーン入門として適切な一篇。",
+  "keywords": ["愛の神", "別れ", "一夜", "リフレイン", "月桃", "感謝と受容"],
+  "relatedTexts": [
+    "swinburne_year_of_the_rose",
+    "swinburne_ballad_dreamland",
+    "valmore_separees",
+    "valmore_adieu"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "For a day and a night Love sang to us, played with us,\nFolded us round from the dark and the light;\nAnd our hearts were fulfilled of the music he made with us,\nMade with our hearts and our lips while he stayed with us,\nStayed in mid passage his pinions from flight\nFor a day and a night.",
+      "provisionalTranslation": "一日と一夜のあいだ、愛はわれわれに歌い、遊んだ、\n暗闇と光からわれわれを包み込んで；\nそしてわれわれの心は彼がわれわれとともに作った音楽で満たされた、\nわれわれの心とわれわれの唇とともに作られた、彼がわれわれとともにいた間に、\n飛翔から翼を途中で止めながら\n一日と一夜のあいだ。"
+    },
+    {
+      "id": 2,
+      "originalText": "From his foes that kept watch with his wings had he hidden us,\nCovered us close from the eyes that would smite,\nFrom the feet that had tracked and the tongues that had chidden us\nSheltering in shade of the myrtles forbidden us\nSpirit and flesh growing one with delight\nFor a day and a night.",
+      "provisionalTranslation": "その翼で見張りをしていた敵たちからわれわれを彼は隠してくれた、\n打ちたいと思う目からわれわれをしっかりと覆って、\nわれわれを追跡した足とわれわれを叱った舌から\nわれわれに禁じられた月桃の木陰に避難させて\n精神と肉体が喜びとともに一つになって\n一日と一夜のあいだ。"
+    },
+    {
+      "id": 3,
+      "originalText": "But his wings will not rest and his feet will not stay for us:\nMorning is here in the joy of its might;\nWith his breath has he sweetened a night and a day for us:\nNow let him pass, and the myrtles make way for us;\nLove can but last in us here at his height\nFor a day and a night.",
+      "provisionalTranslation": "しかし彼の翼はわれわれのために休まず、足は留まらない：\n朝がその力の喜びとともにここにある；\n彼の息でわれわれのために一夜と一日を甘くしてくれた：\n今彼を通過させ、月桃がわれわれのために道を開けるようにしよう；\n愛はわれわれの中でその最高点においてのみここで続くことができる\n一日と一夜のあいだ。"
+    }
+  ]
+}
