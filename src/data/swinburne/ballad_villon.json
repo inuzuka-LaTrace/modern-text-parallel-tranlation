@@ -1,0 +1,41 @@
+{
+  "id": "swinburne_ballad_villon",
+  "title": "A Ballad of François Villon, Prince of All Ballad-Makers",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, Second Series",
+  "year": "1878",
+  "firstPublication": "Poems and Ballads, Second Series (Chatto & Windus, 1878)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "15世紀フランスの詩人フランソワ・ヴィヨン（1431年頃–1463年頃没）に捧げたバラッド。スウィンバーンはこの詩集に「ヴィヨン訳詩集」を別途収録しており、フランス詩との対話がこの詩集の重要な軸となっている。バラッド形式（3連＋エンヴォワ）の各連は「ヴィヨン、われわれの悲しく悪く楽しく狂った兄弟の名よ！（Villon, our sad bad glad mad brother's name!）」というリフレインで締められ、エンヴォワのみ「Villon, our sad bad glad mad brother's name.」と感嘆符が消えて終止する。この形式的な変化が詩全体の調子の変容——叫びから静かな受容へ——を示している。第1連ではヴィヨンを夜明けの鳥として神話化し、第2連では牢獄と飢えの生涯を描き、第3連では死後の浄化を歌い、エンヴォワで「恥が彼の歌を汚し、歌が彼の恥を贖った（Shame soiled thy song, and song assoiled thy shame）」という逆説的な和解に至る。スウィンバーンは同じ詩集でヴィヨンの代表詩を英訳しており、本詩はその批評的注釈として機能する。",
+  "keywords": ["ヴィヨン", "バラッド形式", "詩人の神話化", "恥と贖罪", "リフレイン", "フランス詩"],
+  "relatedTexts": [
+    "swinburne_ave_atque_vale",
+    "swinburne_memorial_gautier",
+    "verlaine_poetes_maudits_corbiere"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Bird of the bitter bright grey golden morn\nScarce risen upon the dusk of dolorous years,\nFirst of us all and sweetest singer born\nWhose far shrill note the world of new men hears\nCleave the cold shuddering shade as twilight clears;\nWhen song new-born put off the old world's attire\nAnd felt its tune on her changed lips expire,\nWrit foremost on the roll of them that came\nFresh girt for service of the latter lyre,\nVillon, our sad bad glad mad brother's name!",
+      "provisionalTranslation": "苦い輝かしい灰色の黄金の夜明けの鳥よ\n悲しい歳月の薄明のうちにかろうじて昇った、\nわれわれすべての中の最初で最も甘い生まれながらの歌い手よ\nその遠く甲高い音を新しい人々の世界が聞く\n薄明が晴れるにつれて冷たく震える影を切り裂きながら；\n歌が新しく生まれ古い世界の装いを脱ぎ\n変わった唇の上でその調べが息絶えるのを感じた時、\n後の竪琴への奉仕のために新たに帯びて来た\n者たちの名簿の最初に記された、\nヴィヨン、われわれの悲しく悪く楽しく狂った兄弟の名よ！"
+    },
+    {
+      "id": 2,
+      "originalText": "Alas the joy, the sorrow, and the scorn,\nThat clothed thy life with hopes and sins and fears,\nAnd gave thee stones for bread and tares for corn\nAnd plume-plucked gaol-birds for thy starveling peers\nTill death clipt close their flight with shameful shears;\nTill shifts came short and loves were hard to hire,\nWhen lilt of song nor twitch of twangling wire\nCould buy thee bread or kisses; when light fame\nSpurned like a ball and haled through brake and briar,\nVillon, our sad bad glad mad brother's name!",
+      "provisionalTranslation": "ああ喜び、悲しみ、そして軽蔑よ、\n汝の生涯を希望と罪と恐れで纏わせた、\nそして汝にパンの代わりに石を、穀物の代わりに毒麦を与え\n汝の飢えた仲間に羽を抜かれた囚われた鳥たちを与えた\n死が恥の鋏でその飛翔を近くで断ち切るまで；\n手段が尽き愛が雇いにくくなるまで、\n歌の節も弦の響きのひっかきも\n汝にパンも口付けも買えなかった時；軽い名声が\n球のように蹴られ藪と茨を引きずられた、\nヴィヨン、われわれの悲しく悪く楽しく狂った兄弟の名よ！"
+    },
+    {
+      "id": 3,
+      "originalText": "Poor splendid wings so frayed and soiled and torn!\nPoor kind wild eyes so dashed with light quick tears!\nPoor perfect voice, most blithe when most forlorn,\nThat rings athwart the sea whence no man steers\nLike joy-bells crossed with death-bells in our ears!\nWhat far delight has cooled the fierce desire\nThat like some ravenous bird was strong to tire\nOn that frail flesh and soul consumed with flame,\nBut left more sweet than roses to respire,\nVillon, our sad bad glad mad brother's name?",
+      "provisionalTranslation": "なんと擦り切れ汚れ裂けた哀れな壮麗な翼よ！\nなんと光る素早い涙を散らした哀れな優しく野性的な目よ！\nなんと哀れな完璧な声よ、最も見捨てられた時に最も陽気な、\n誰も舵を取らない海の向こうに響く\n喜びの鐘と死の鐘がわれわれの耳の中で交差するように！\n何という遠い喜びがあの激しい欲望を冷ましたか\n何か飢えた鳥のように強く疲弊させた\n炎で燃え尽きたあの脆い肉体と魂を、\nしかし薔薇より甘く息をするものを残した、\nヴィヨン、われわれの悲しく悪く楽しく狂った兄弟の名よ？"
+    },
+    {
+      "id": 4,
+      "originalText": "Prince of sweet songs made out of tears and fire,\nA harlot was thy nurse, a God thy sire;\nShame soiled thy song, and song assoiled thy shame.\nBut from thy feet now death has washed the mire,\nLove reads out first at head of all our quire,\nVillon, our sad bad glad mad brother's name.",
+      "provisionalTranslation": "涙と炎から作られた甘い歌の王子よ、\n娼婦が汝の乳母、神が汝の父だった；\n恥が汝の歌を汚し、歌が汝の恥を贖った。\nしかし今や死が汝の足から泥を洗い流し、\n愛はわれわれの合唱隊すべての先頭で最初に読み上げる、\nヴィヨン、われわれの悲しく悪く楽しく狂った兄弟の名。"
+    }
+  ]
+}
