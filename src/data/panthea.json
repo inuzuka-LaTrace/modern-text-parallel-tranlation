@@ -1,0 +1,72 @@
+{
+  "id": "wilde_panthea",
+  "title": "Panthea",
+  "author": "Oscar Wilde",
+  "source": "Poems (1881)",
+  "year": "1881",
+  "firstPublication": "Poems (David Bogue, 1881)",
+  "difficulty": "上級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「パンテア（Panthea）」はギリシャ語で「すべての神々」を意味し、汎神論的宇宙観そのものを題名とする。1881年の詩集『Poems』に収録。全30連（各6行、aabbcc韻）という大規模な哲学詩で、ワイルドの思想的達成として「ヒューマニタッド（Humanitad）」と並ぶ最重要作品。\n\n詩は三部に分かれる。第Ⅰ部（1–15連）：夏の夜、若い恋人たちへの呼びかけ——哲学的問いを捨て、感覚と情熱に身を委ねよ。老いた神々はもはや人間の苦悩に応えず、黄蓮の飲み物で眠っている。死後の来世も、ステュクスの渡し舟も幻想だ。第Ⅱ部（16–23連）：転換点。死は終わりではなく変容だ。われわれの身体は水仙や睡蓮へと生まれ変わり、大地を肥やし、少年と少女として再び感じ合う。個は宇宙的生命のリズム（「システォルとダイアストール」）の一部をなす。第Ⅲ部（24–30連）：愛した者たちの魂は山羊座の牧神、ケンタウロス、ツグミ、鷲として生き続ける。自然のすべての美——水仙、薔薇、蜂の愛——は人間の愛のおかげで存在する。最後の連でわれわれは「宇宙的魂と混じり合い」「宇宙そのものがわれわれの不死性となる」と結ばれる。\n\nスウィンバーンの「アタランタ」やシェリーの「アドナイス」の汎神論的死生観を継承しつつ、ダーウィン進化論（「上位から下位細胞へ」）とスペンサー的宇宙論（システォル・ダイアストール）を詩的言語に溶融させた野心作。ワイルドのオックスフォード時代（1874–79）の精神的熱狂の結晶。",
+  "keywords": ["汎神論", "死と変容", "宇宙的魂", "進化論", "エロス", "不死", "スウィンバーン", "シェリー"],
+  "relatedTexts": [
+    "wilde_sphinx",
+    "wilde_ballad_reading_gaol",
+    "swinburne_ave_atque_vale",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Nay, let us walk from fire unto fire,\nFrom passionate pain to deadlier delight,—\nI am too young to live without desire,\nToo young art thou to waste this summer night\nAsking those idle questions which of old\nMan sought of seer and oracle, and no reply was told.\n\nFor, sweet, to feel is better than to know,\nAnd wisdom is a childless heritage,\nOne pulse of passion—youth's first fiery glow,—\nAre worth the hoarded proverbs of the sage:\nVex not thy soul with dead philosophy,\nHave we not lips to kiss with, hearts to love and eyes to see!",
+      "provisionalTranslation": "いや、炎から炎へと歩もう、\n情熱的な苦痛からより致死的な歓楽へ、——\nわたしは欲望なしに生きるには若すぎる、\nそなたも若すぎるこの夏の夜を無駄にするには\n昔から人が預言者や神託に問い求めて\n何も答えを得られなかった、あの無駄な問いを立てるには。\n\nなぜなら、いとしいひとよ、感じることは知ることより優れているから、\n知恵とは子のない遺産であり、\n情熱の一搏動——青春の初めの燃え立つ輝き——は\n賢人の蓄えられた格言に匹敵する：\n死んだ哲学で魂を悩ますな、\nわれわれには口付けする唇も、愛する心も、見る目もあるではないか！"
+    },
+    {
+      "id": 2,
+      "originalText": "Dost thou not hear the murmuring nightingale,\nLike water bubbling from a silver jar,\nSo soft she sings the envious moon is pale,\nThat high in heaven she is hung so far\nShe cannot hear that love-enraptured tune,—\nMark how she wreathes each horn with mist, yon late and labouring moon.\n\nWhite lilies, in whose cups the gold bees dream,\nThe fallen snow of petals where the breeze\nScatters the chestnut blossom, or the gleam\nOf boyish limbs in water,—are not these\nEnough for thee, dost thou desire more?\nAlas! the Gods will give nought else from their eternal store.",
+      "provisionalTranslation": "そなたは夜鶯のさやかな声が聞こえないか、\n銀の壺からほとばしる水のように、\nあれほど柔らかく歌うから嫉妬深い月が青ざめ、\n天の高みに遠くかかっているため\nあの愛に恍惚とした旋律を聞くことができない、——\nご覧、ヴェールのような霧を両角に巻きつけているあの遅く重そうな月を。\n\n黄金の蜂が夢見る杯をもつ白百合、\n微風がマロニエの花を撒き散らすところの\n花びらの降り積もる雪、あるいは水の中の\n少年の手足の輝き、——これらはそなたには\n足りないか、もっと望むか？\nああ！神々はその永遠の蓄えから他には何も与えないのだ。"
+    },
+    {
+      "id": 3,
+      "originalText": "For our high Gods have sick and wearied grown\nOf all our endless sins, our vain endeavour\nFor wasted days of youth to make atone\nBy pain or prayer or priest, and never, never,\nHearken they now to either good or ill,\nBut send their rain upon the just and the unjust at will.\n\nThey sit at ease, our Gods they sit at ease,\nStrewing their leaves of rose their scented wine,\nThey sleep, they sleep, beneath the rocking trees\nWhere asphodel and yellow lotus twine,\nMourning the old glad days before they knew\nWhat evil things the heart of man could dream, and dreaming do.",
+      "provisionalTranslation": "なぜならわれわれの高き神々は病み疲れてしまったから\nわれわれの終わりなき罪のすべてに、無駄な努力に、\n青春の浪費した日々を\n苦痛や祈りや司祭で償おうとする試みに、そして決して、決して、\n今は善いことにも悪いことにも耳を傾けず、\nただ意のままに正しき者にも正しからぬ者にも雨を降らすだけだ。\n\n彼らはのんびり座っている、われわれの神々はのんびり座っている、\n薔薇の花弁を撒き、芳しいぶどう酒を撒きながら、\n彼らは眠っている、眠っている、揺れる木々の下で\n水仙と黄色い蓮がからまる場所で、\n人間の心がどんな悪しきことを夢見て、夢見ながら行うかを\n知る以前の昔の喜ばしい日々を嘆きながら。"
+    },
+    {
+      "id": 4,
+      "originalText": "And far beneath the brazen floor they see\nLike swarming flies the crowd of little men,\nThe bustle of small lives, then wearily\nBack to their lotus-haunts they turn again\nKissing each others' mouths, and mix more deep\nThe poppy-seeded draught which brings soft purple-lidded sleep.\n\nThere all day long the golden-vestured sun,\nTheir torch-bearer, stands with his torch ablaze\nAnd, when the gaudy web of noon is spun\nBy its twelve maidens, through the crimson haze\nFresh from Endymion's arms comes forth the moon\nAnd the immortal Gods in toils of mortal passions swoon.",
+      "provisionalTranslation": "そして真鍮の床の遥か下に彼らは見る\n群れ飛ぶ蝿のように小さな人間の群れを、\n小さな生命のざわめきを、そして疲れたように\n再び自分たちの蓮の棲み処へと引き返す\n互いの口に口付けしながら、そして一層深く混ぜ合わせる\n柔らかな紫の瞼の眠りをもたらす罌粟の種入り飲み物を。\n\nそこでは一日中黄金の衣を纏った太陽が、\n彼らの松明持ちが、松明を燃え立てて立ち、\n正午の派手な網が\n十二人の乙女によって織られると、深紅の霞の中を\n新鮮にエンデュミオンの腕から出てくる月、\nそして不滅の神々は人間的情熱の絡み合いに気を失う。"
+    },
+    {
+      "id": 5,
+      "originalText": "O we are wearied of this sense of guilt,\nWearied of pleasure's paramour despair,\nWearied of every temple we have built,\nWearied of every right, unanswered prayer,\nFor man is weak; God sleeps; and heaven is high;\nOne fiery-coloured moment: one great love; and lo! we die.\n\nAh! but no ferry-man with labouring pole\nNears his black shallop to the flowerless strand,\nNo little coin of bronze can bring the soul\nOver Death's river to the sunless land,\nVictim and wine and vow are all in vain,\nThe tomb is sealed; the soldiers watch; the dead rise not again.",
+      "provisionalTranslation": "ああわれわれはこの罪悪感に疲れ果てた、\n快楽の情婦である絶望に疲れ、\n建ててきたすべての神殿に疲れ、\nすべての正当な、答えられない祈りに疲れ、\nなぜなら人間は弱く；神は眠り；天は高い；\n一つの炎色の瞬間：一つの偉大な愛；そしてみよ！われわれは死ぬ。\n\nああ！しかし苦労しながら棹を操る渡し守は\n花のない岸辺に黒い小舟を近づけず、\n小さな青銅の硬貨一枚では魂を\n死の川を越えて日の射さない土地へ運べない、\n供犠もぶどう酒も誓いもすべて無駄で、\n墓は封じられ；兵士は見張り；死者は再び蘇らない。"
+    },
+    {
+      "id": 6,
+      "originalText": "We are resolved into the supreme air,\nWe are made one with what we touch and see,\nWith our heart's blood each crimson sun is fair,\nWith our young lives each spring-impassioned tree\nFlames into green, the wildest beasts that range\nThe moor our kinsmen are, all life is one, and all is change.\n\nWith beat of systole and of diastole\nOne grand great life throbs through earth's giant heart,\nAnd mighty waves of single Being roll\nFrom nerveless germ to man, for we are part\nOf every rock and bird and beast and hill,\nOne with the things that prey on us, and one with what we kill.",
+      "provisionalTranslation": "われわれは最高の大気に溶け込み、\nわれわれは触れるものと見るものと一つになる、\nわれわれの心の血とともにすべての深紅の太陽は美しく、\nわれわれの若い生命とともに春に情熱した各々の木は\n緑に燃え立ち、荒野を駆け回る最も野性の獣たちは\nわれわれの同族で、すべての生命は一つ、そしてすべては変化する。\n\n心収縮と心拡張の鼓動とともに\n一つの壮大な大きな生命が大地の巨大な心臓を通じて鼓動し、\nひとつの存在の強大な波が\n神経のない胚芽から人間まで流れ、なぜならわれわれは\nすべての岩と鳥と獣と丘の一部であり、\nわれわれを捕食するものと一つ、そしてわれわれが殺すものと一つだから。"
+    },
+    {
+      "id": 7,
+      "originalText": "From lower cells of waking life we pass\nTo full perfection; thus the world grows old:\nWe who are godlike now were once a mass\nOf quivering purple flecked with bars of gold,\nUnsentient or of joy or misery,\nAnd tossed in terrible tangles of some wild and wind-swept sea.\n\nThis hot hard flame with which our bodies burn\nWill make some meadow blaze with daffodil,\nAy! and those argent breasts of shine will turn\nTo water-lilies; the brown fields men till\nWill be more fruitful for our love to-night,\nNothing is lost in nature, all things live in Death's despite.",
+      "provisionalTranslation": "目覚める生命の低い細胞から私たちは移行する\n完全な完成へと；かくして世界は老いる：\n今は神のように見えるわれわれも、かつては\n金の縞が斑になった震える紫の塊だった、\n喜びにも悲しみにも感覚を持たず、\nどこかの野生の風に吹かれた海の恐るべき絡まりに投げ込まれて。\n\nわれわれの身体を燃やすこの熱く硬い炎は\nどこかの草地を水仙で燃え立たせるだろう、\nそう！そしてあのきらめく銀白の乳房は\n睡蓮に変わるだろう；人が耕す褐色の野は\n今夜のわれわれの愛のためにより実り豊かになるだろう、\n自然の中では何も失われない、すべての物は死に抗して生きる。"
+    },
+    {
+      "id": 8,
+      "originalText": "The boy's first kiss, the hyacinth's first bell,\nThe man's last passion, and the last red spear\nThat from the lily leaps, the asphodel\nWhich will not let its blossoms blow for fear\nOf too much beauty, and the timid shame\nOf the young bridegroom at his lover's eyes,—these with the same\n\nOne sacrament are consecrate, the earth\nNot we alone hath passions hymeneal,\nThe yellow buttercups that shake for mirth\nAt daybreak know a pleasure not less real\nThan we do, when in some fresh-blossoming wood\nWe draw the spring into our hearts, and feel that life is good.",
+      "provisionalTranslation": "少年の最初の口付け、ヒヤシンスの最初の鐘、\n男の最後の情熱、そして百合から跳び出す\n最後の赤い穂、美しすぎることを恐れて\n花を開かせようとしないアスフォデル、\nそして若い花婿の恋人の目に向けた臆病な羞恥心、——これらは同じ\n\nひとつの秘儀によって聖なるものとされる、大地は\nわれわれだけでなく婚礼の情熱を持ち、\n夜明けに喜びで震える黄色い金鳳花は\nわれわれが何か花咲く木立で\n春をわれわれの心に引き込んで、生命は素晴らしいと感じる時よりも\n劣らない快楽を知っている。"
+    },
+    {
+      "id": 9,
+      "originalText": "So when men bury us beneath the yew\nThy crimson-stainèd mouth a rose will be,\nAnd thy soft eyes lush bluebells dimmed with dew,\nAnd when the white narcissus wantonly\nKisses the wind its playmate some faint joy\nWill thrill our dust, and we will be again fond maid and boy.\n\nAnd thus without life's conscious torturing pain\nIn some sweet flower we will feel the sun,\nAnd from the linnet's throat will sing again,\nAnd as two gorgeous-mailèd snakes will run\nOver our graves, or as two tigers creep\nThrough the hot jungle where the yellow-eyed huge lions sleep",
+      "provisionalTranslation": "かくして人々がわれわれをイチイの木の下に葬る時\nそなたの深紅に染まった口は薔薇になるだろう、\nそしてそなたの柔らかい目は露に翳ったブルーベルになり、\n白い水仙が気まぐれに\n遊び相手の風に口付けする時、かすかな喜びが\nわれわれの塵を震わせ、われわれは再び愛し合う乙女と少年になる。\n\nかくして生命の意識的な苦悶の痛みもなく\nどこかの美しい花の中でわれわれは太陽を感じ、\nアトリの喉から再び歌い、\nそして二匹の豪華な鎧を持つ蛇のように走り回る\nわれわれの墓の上を、あるいは二頭の虎のように忍び込む\n黄色い目の巨大なライオンが眠る熱帯のジャングルを"
+    },
+    {
+      "id": 10,
+      "originalText": "And give them battle! How my heart leaps up\nTo think of that grand living after death\nIn beast and bird and flower, when this cup,\nBeing filled too full of spirit, bursts for breath\nAnd with the pale leaves of some autumn day\nThe soul earth's earliest conqueror becomes earth's last great prey.\n\nO think of it! We shall inform ourselves\nInto all sensuous life, the goat-foot Faun\nThe Centaur, or the merry bright-eyed Elves\nThat leave their dancing rings to spite the dawn\nUpon the meadows, shall not be more near\nThan you and I to nature's mysteries, for we shall hear\n\nThe thrush's heart beat, and the daisies grow,\nAnd the wan snowdrop sighing for the sun\nOn sunless days in winter, we shall know\nBy whom the silver gossamer is spun,\nWho paints the diapered fritillaries,\nOn what wide wings from shivering pine to pine the eagle flies.\n\nAy! had we never loved at all, who knows\nIf yonder daffodil had lured the bee\nInto its gilded womb, or any rose\nHad hung with crimson lamps its little tree!\nMethinks no leaf would ever bud in spring\nBut for the lovers' lips that kiss, the poets' lips that sing.\n\nIs the light vanished from our golden sun,\nOr is this dædal-fashioned earth less fair,\nThat we are nature's heritors, and one\nWith every pulse of life that beats the air?\nRather new suns across the sky shall pass,\nNew splendour come unto the flower, new glory to the grass.\n\nAnd we two lovers shall not sit afar,\nCritics of nature, but the joyous sea\nShall be our raiment, and the bearded star\nShoot arrows at our pleasure! We shall be\nPart of the mighty universal whole,\nAnd through all æons mix and mingle with the Kosmic Soul!\n\nWe shall be notes in that great Symphony\nWhose cadence circles through the rhythmic spheres,\nAnd all the live World's throbbing heart shall be\nOne with our heart; the stealthy creeping years\nHave lost their terrors now, we shall not die,\nThe Universe itself shall be our Immortality.",
+      "provisionalTranslation": "そして彼らに戦いを挑む！わが心はいかに高鳴ることか\n死後のあの壮大な生を思えば\n獣と鳥と花の中での生を、この盃が\n精神で満ちすぎて息継ぎのために破裂し\nある秋の日の青白い葉とともに\n大地の最初の征服者であった魂が大地の最後の大きな獲物となる時の。\n\nおお考えてみよ！われわれはすべての感覚的な生命へと\n自らを溶かし込むだろう、山羊脚の牧神、\nケンタウロス、あるいは踊りの輪を残して夜明けを欺く\n陽気な輝く目のエルフたちが\n草地で、あなたとわたしが自然の神秘に近いよりも\n近くはないだろう、なぜならわれわれは聞くだろうから\n\nツグミの心音、デイジーが育つ音、\nそして冬の日差しのない日に太陽を恋しがって溜め息つく\n青白い雪の花、われわれは知るだろう\n誰が銀色の蜘蛛の糸を紡ぐかを、\n誰が格子模様のヒョウモンソウを描くかを、\n鷲がどんな広い翼で震える松から松へと飛ぶかを。\n\nそう！われわれが一度も愛さなかったなら、誰が知ろう\nあの水仙が蜂を\nその黄金の胎内へ誘い込んだかどうかを、あるいはどんな薔薇が\n深紅の灯りを小さな木に吊るしたかどうかを！\n春に葉の芽吹くものなど一枚もないだろうと思う\n口付けする恋人の唇、歌う詩人の唇がなければ。\n\nわれわれの黄金の太陽から光が消えたのか、\nあるいはこの精巧に作られた大地は美しくなくなったのか、\nわれわれが自然の相続人となり、大気を打つ\n生命のあらゆる鼓動と一つになることで？\nむしろ新しい太陽が空を渡り、\n花に新しい輝きが来て、草に新しい栄光が来るだろう。\n\nそしてわれわれ二人の恋人は遠く離れて座ることなく、\n自然の批評家となることなく、歓喜の海が\nわれわれの衣となり、毛むくじゃらの星が\nわれわれの喜びのために矢を射るだろう！われわれは\n偉大な宇宙の全体の一部となり、\nすべての時代を経て宇宙的魂と混じり合うだろう！\n\nわれわれは律動する天球を巡る旋律の\nあの偉大な交響楽の音符となり、\n生き生きとした世界の全鼓動する心が\nわれわれの心と一つになるだろう；忍び寄る歳月は\n今や恐怖を失った、われわれは死なないのだ、\n宇宙それ自体がわれわれの不死性となるだろう。"
+    }
+  ]
+}
