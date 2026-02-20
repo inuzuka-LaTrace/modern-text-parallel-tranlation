@@ -1,0 +1,42 @@
+{
+  "id": "wilde_impression_matin",
+  "title": "Impression du Matin",
+  "author": "Oscar Wilde",
+  "source": "Poems",
+  "year": "1881",
+  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "difficulty": "初級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "フランス語の題名（「朝の印象」）が示すように、フランス印象主義の感覚詩をロンドンの夜明け景観で実践した作品。三連が純粋な都市風景の断章——霧、テムズ川、建物の輪郭、鈍い日の出——を積み重ね、最終連で「ひとりの蒼白な女」がガス灯の下に立つイメージへと収束する。「炎の唇と石の心」という最終行の対照がすべてを異化する——それまでの静謐な都市印象が娼婦の存在によって突然の社会的現実に変貌する。ゴーティエ「Contralto」の両義的美の詩学、ボードレール「近代生活の画家」の「ひとりの蒼白な女」的存在への視線と直接の対話関係にある。",
+  "keywords": ["印象主義", "ロンドン", "夜明け", "都市と孤独", "娼婦", "近代性"],
+  "relatedTexts": [
+    "wilde_symphony_yellow",
+    "wilde_harlots_house",
+    "baudelaire_peintre_4",
+    "gautier_carmen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "The Thames nocturne of blue and gold\nChanged to a Harmony in grey:\nA barge with ochre-coloured hay\nDropt from the wharf: and chill and cold",
+      "provisionalTranslation": "テムズ川の青と金の夜想曲が\n灰色のハーモニーへと変わった：\nオークル色の干し草を積んだ荷舟が\n桟橋から離れ——冷たく、ひんやりと"
+    },
+    {
+      "id": 2,
+      "originalText": "The yellow fog came creeping down\nThe bridges, till the houses' walls\nSeemd changed to shadows and St. Paul's\nLoomed like a bubble o'er the town.",
+      "provisionalTranslation": "黄色い霧が橋の上を這い降りてきて、\n家々の壁が影に変わったように見え、\nセント・ポール大聖堂は\n町の上に泡のように浮かびあがった。"
+    },
+    {
+      "id": 3,
+      "originalText": "Then suddenly arose the clang\nOf waking life; the streets were stirred\nWith country waggons: and a bird\nFlew to the glistening roofs and sang.",
+      "provisionalTranslation": "やがて突然、目覚める生の\n喧騒が湧き起こった；街路は\n田舎の荷馬車で賑わい：鳥が\n輝く屋根へと飛んで歌った。"
+    },
+    {
+      "id": 4,
+      "originalText": "But one pale woman all alone,\nThe daylight kissing her wan hair,\nLoitered beneath the gas lamps' flare,\nWith lips of flame and heart of stone.",
+      "provisionalTranslation": "しかしただひとり、ひとりの蒼白な女が、\n夜明けの光に萎れた髪を照らされながら、\nガス灯の炎の下に佇んでいた、\n炎の唇と石の心をもって。"
+    }
+  ]
+}
