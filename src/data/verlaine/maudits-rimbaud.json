@@ -1,0 +1,56 @@
+{
+  "id": "verlaine_poetes_maudits_rimbaud",
+  "title": "Les Poètes maudits (II) — Arthur Rimbaud",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1884",
+  "firstPublication": "Les Poètes maudits, Léon Vanier, 1884",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★★",
+  "context": "『呪われた詩人たち』初版（1884）第2章。ヴェルレーヌはランボーを「天使と悪魔が同居する存在」として描き、『酔いどれ船』『地獄の季節』を中心に論じる。ランボーがすでに詩を捨てアフリカにいる時点での批評であることが独特の緊張感を生む。",
+  "keywords": ["voyant", "révolte", "génie", "enfance", "sauvage"],
+  "relatedTexts": ["verlaine_poetes_maudits_corbiere", "verlaine_poetes_maudits_mallarme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Arthur Rimbaud est né à Charleville en 1854. Dès ses premières poésies, écrites à seize ans, il est évident que nous sommes en présence d'un génie absolument extraordinaire. Non pas d'un talent précoce, non pas d'un enfant prodige, mais d'un génie véritable, sauvage, indomptable.",
+      "provisionalTranslation": "アルチュール・ランボーは1854年シャルルヴィルに生まれた。十六歳で書かれた最初の詩からすでに、絶対的に並外れた天才の前にいることは明白だ。早熟な才能でもなく、神童でもなく、真の、野性的な、手なずけがたい天才だ。"
+    },
+    {
+      "id": 2,
+      "french": "Ce qui frappe d'abord chez Rimbaud, c'est la révolte. Une révolte totale, absolue, contre tout : contre la société, contre la famille, contre la religion, contre la littérature elle-même. Il veut tout détruire pour tout reconstruire autrement. C'est un révolutionnaire de l'esprit.",
+      "provisionalTranslation": "ランボーにおいてまず目を打つのは反抗だ。すべてに対する全面的で絶対的な反抗——社会に対して、家族に対して、宗教に対して、文学そのものに対して。すべてを破壊して別様に再建しようとする。精神の革命家だ。"
+    },
+    {
+      "id": 3,
+      "french": "Sa théorie du voyant, exposée dans ses lettres à Izambard et à Demeny, est une des conceptions les plus audacieuses et les plus profondes de la poésie moderne. Le poète doit se faire voyant par un long, immense et raisonné dérèglement de tous les sens. Voilà le programme.",
+      "provisionalTranslation": "イザンバールとドムニーへの手紙で展開された彼の「見者」の理論は、近代詩の最も大胆で最も深い構想のひとつだ。詩人はすべての感覚の長く、広大で、理性的な錯乱によって見者たらしめなければならない。これがプログラムだ。"
+    },
+    {
+      "id": 4,
+      "french": "Le Bateau ivre est peut-être le plus beau poème du dix-neuvième siècle. Certes, il y a Baudelaire, il y a Hugo, il y a Mallarmé. Mais Le Bateau ivre a quelque chose que les autres n'ont pas : une liberté absolue, une ivresse de création qui emporte tout sur son passage comme un torrent.",
+      "provisionalTranslation": "『酔いどれ船』はおそらく19世紀最も美しい詩だ。確かにボードレールがおり、ユゴーがおり、マラルメがいる。しかし『酔いどれ船』には他の者が持たない何かがある——絶対的な自由、急流のようにすべてを押し流す創造の陶酔だ。"
+    },
+    {
+      "id": 5,
+      "french": "Une Saison en Enfer est un livre unique. Ce n'est pas de la poésie, ce n'est pas de la prose, ce n'est pas un roman, ce n'est pas un essai. C'est quelque chose qui n'existait pas avant Rimbaud et qui n'a pas existé après lui. Un cri, une confession, un adieu.",
+      "provisionalTranslation": "『地獄の季節』は唯一の書だ。詩でも散文でも小説でも評論でもない。ランボー以前には存在せず、彼の後も存在しなかった何かだ。叫びであり、告白であり、別れだ。"
+    },
+    {
+      "id": 6,
+      "french": "Et puis il s'est tu. À dix-neuf ans, il a cessé d'écrire. Il est parti en Afrique, il a fait le commerce des armes et du café, il a vécu la vie la plus prosaïque qui soit. Pourquoi ? On ne sait pas. On ne saura sans doute jamais. Ce silence est peut-être la plus grande œuvre de Rimbaud.",
+      "provisionalTranslation": "そして彼は沈黙した。十九歳で書くことをやめた。アフリカへ去り、武器とコーヒーの取引をし、考えうる最も散文的な生を生きた。なぜか。わからない。おそらく決してわからないだろう。この沈黙はおそらくランボーの最大の作品だ。"
+    },
+    {
+      "id": 7,
+      "french": "Rimbaud est maudit parce qu'il est allé trop loin, trop vite, trop haut. Il a brûlé toutes ses réserves en quelques années d'une intensité prodigieuse. Et quand il n'avait plus rien à brûler, il s'est arrêté. C'est la logique implacable du génie absolu.",
+      "provisionalTranslation": "ランボーは呪われている、なぜなら遠くに行きすぎ、速すぎ、高すぎたからだ。驚異的な激度の数年間ですべての蓄えを燃やし尽くした。もはや燃やすものが何もなくなった時、立ち止まった。これが絶対的天才の容赦ない論理だ。"
+    },
+    {
+      "id": 8,
+      "french": "Il a dix-sept ans dans notre mémoire, il les aura toujours. Et ces dix-sept ans sont plus riches, plus puissants, plus vivants que toute une longue vie d'un poète ordinaire. Voilà ce que c'est que le génie : une intensité qui rachète tout, même le silence.",
+      "provisionalTranslation": "彼はわれわれの記憶の中に十七歳でいる、いつまでもそうだろう。そしてこの十七歳は、平凡な詩人の長い生涯全体よりも豊かで、強く、生き生きとしている。これが天才というものだ——すべてを、沈黙さえも贖う強度。"
+    }
+  ]
+}
