@@ -1,0 +1,117 @@
+{
+  "id": "wilde_sphinx",
+  "title": "The Sphinx",
+  "author": "Oscar Wilde",
+  "source": "The Sphinx (1894)",
+  "year": "1894",
+  "firstPublication": "The Sphinx (Elkin Mathews and John Lane, 11 June 1894)",
+  "difficulty": "上級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "1874年のオックスフォード在学時から書き継がれ、20年の歳月を経て1894年に刊行された長詩。シャルル・リケッツが挿画を手がけた豪華限定版（200部）として刊行され、フランスの象徴派詩人マルセル・シュヴォブに献呈された。詩の形式は各行を二行に折り畳んだ2行連句（各行22音節）で、ポーの「大鴉」の複雑な韻律構造を英語デカダンス美学に接続する試み。構造は三部に分かれる：Ⅰ（1–9連）語り手の部屋の暗がりでスフィンクスを目撃し呼び覚ます；Ⅱ（10–32連）スフィンクスの過去——神々、英雄、怪物との交情——を問い質す。エジプト、ギリシャ、ローマの神話・歴史上の人物（アンティノウス、クレオパトラ、アモン、キメラ等）が百科全書的に召喚される；Ⅲ（33–37連）狂気的幻想に気づいた語り手がスフィンクスを拒絶し、磔刑像（キリスト）に帰依する。ボードレール『悪の花』の猫のソネット群、フロベール『聖アントワーヌの誘惑』、ゴーティエ『モーパン嬢』と『七宝と珠玉』が主な源泉。スウィンバーンの「ドロレス」との影響関係も顕著。デカダンス詩の決定版的テクストとして位置づけられる。",
+  "keywords": ["スフィンクス", "デカダンス", "エジプト神話", "エロス", "アンティノウス", "キリスト教との対立", "豪華本", "象徴主義"],
+  "relatedTexts": [
+    "wilde_ballad_reading_gaol",
+    "swinburne_ave_atque_vale",
+    "baudelaire_reine",
+    "baudelaire_delacroix_2"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "In a dim corner of my room for longer than my fancy thinks\nA beautiful and silent Sphinx has watched me through the shifting gloom.\nInviolate and immobile she does not rise she does not stir\nFor silver moons are nought to her and nought to her the suns that reel.",
+      "provisionalTranslation": "わが部屋の薄暗い隅に、わが空想が思うよりも長いあいだ\n美しく無言のスフィンクスが揺れる薄闇を通してわれを見つめてきた。\n侵されず動かぬまま彼女は立ち上がらず、身じろぎもしない\n銀の月など彼女には無なのだ、揺れ続ける太陽さえも無。"
+    },
+    {
+      "id": 2,
+      "originalText": "Red follows grey across the air, the waves of moonlight ebb and flow\nBut with the Dawn she does not go and in the night-time she is there.\nDawn follows Dawn and Nights grow old and all the while this curious cat\nLies couching on the Chinese mat with eyes of satin rimmed with gold.",
+      "provisionalTranslation": "空を赤が灰を追い、月光の波が満ち引きする\nしかし暁とともに彼女は去らず、夜の間も彼女はそこにいる。\n暁が暁を追い夜々は老いてゆく、その間ずっとこの奇妙な猫は\n朱の唐草の敷物の上にうずくまり、金縁の緞子の目で横になっている。"
+    },
+    {
+      "id": 3,
+      "originalText": "Upon the mat she lies and leers and on the tawny throat of her\nFlutters the soft and silky fur or ripples to her pointed ears.\nCome forth, my lovely seneschal! so somnolent, so statuesque!\nCome forth you exquisite grotesque! half woman and half animal!\nCome forth my lovely languorous Sphinx! and put your head upon my knee!",
+      "provisionalTranslation": "敷物の上に横たわり流し目を送り、その黄褐色の喉に\n柔らかく絹のような毛皮がそよいで尖った耳まで波立つ。\n出てこい、わが美しき家司よ！あれほど眠そうに、あれほど彫像のように！\n出てこい、汝この精緻なグロテスクよ！半分は女で半分は獣！\n出てこい、わが美しくものうげなスフィンクスよ！そしてわが膝に頭を乗せるがよい！"
+    },
+    {
+      "id": 4,
+      "originalText": "Lift up your large black satin eyes which are like cushions where one sinks!\nFawn at my feet, fantastic Sphinx! and sing me all your memories!\nSing to me of the Jewish maid who wandered with the Holy Child,\nAnd how you led them through the wild, and how they slept beneath your shade.",
+      "provisionalTranslation": "その大きな黒い緞子の目を持ち上げてくれ、沈み込みたくなるような枕のような目を！\nわが足元にまとわりつけ、幻想のスフィンクスよ！そして汝のすべての記憶をわれに歌え！\nユダヤの乙女のことをわれに歌ってくれ、聖なる幼子とともに漂った者を、\nそしてどうして汝が荒野を通って彼らを導き、汝の影の下で眠ったかを。"
+    },
+    {
+      "id": 5,
+      "originalText": "Sing to me of that odorous green eve when crouching by the marge\nYou heard from Adrian's gilded barge the laughter of Antinous,\nAnd lapped the stream, and fed your drouth, and watched with hot and hungry stare\nThe ivory body of that rare young slave with his pomegranate mouth.",
+      "provisionalTranslation": "あの芳しい緑の夕べのことをわれに歌え、岸辺にうずくまり\n汝がアドリアヌスの黄金の舟からアンティノウスの笑い声を聞いた時のことを、\nそして流れを舐め、渇きを潤し、熱く貪欲な視線で見守った\nあの希有な若い奴隷の象牙の身体を、その柘榴の口をした者を。"
+    },
+    {
+      "id": 6,
+      "originalText": "Sing to me of the Labyrinth in which the two-formed bull was stalled!\nSing to me of the night you crawled across the temple's granite plinth\nWhen through the purple corridors the screaming scarlet Ibis flew\nIn terror, and a horrid dew dripped from the moaning Mandragores.",
+      "provisionalTranslation": "ラビュリントスのことをわれに歌え、二形の牛が繋がれていた迷宮を！\nあの夜のことをわれに歌え、汝が神殿の花崗岩の基台を這い渡った時を\n紫の回廊を通って朱の朱鷺が叫びながら飛び去った\n恐怖の中で、そして嘆くマンドラゴラから恐ろしい露が滴り落ちた時を。"
+    },
+    {
+      "id": 7,
+      "originalText": "And the great torpid crocodile within the tank shed slimy tears,\nAnd tare the jewels from his ears and staggered back into the Nile,\nAnd the Priests cursed you with shrill psalms as in your claws you seized their snake\nAnd crept away with it to slake your passion by the shuddering palms.",
+      "provisionalTranslation": "そして水槽の中の巨大なうとうとしたワニは粘ついた涙を流し、\n耳の宝石を引きはがし、よろよろとナイルに引き戻った、\nそして司祭たちは甲高い詩篇で汝を呪った、汝がその爪に彼らの蛇を掴み\n震えるヤシ並木のそばへとそれを持ち去って情欲を満たそうとした時に。"
+    },
+    {
+      "id": 8,
+      "originalText": "Who were your lovers? who were they who wrestled for you in the dust?\nWhich was the vessel of your Lust? What Leman had you, every day?\nDid giant Lizards come and crouch before you on the reedy banks?\nDid Gryphons with great metal flanks leap on you in your trampled couch?",
+      "provisionalTranslation": "汝の恋人たちは誰だったか？汝のために塵の中で格闘したのは誰か？\n汝の欲望の器はどれだったか？毎日どんな情夫を持ったのか？\n巨大なトカゲたちが来て葦の岸辺で汝の前にうずくまったか？\nグリフォンたちが巨大な金属の脇腹で踏み荒らされた汝の寝台に跳びかかったか？"
+    },
+    {
+      "id": 9,
+      "originalText": "Did monstrous hippopotami come sidling past in sleepy droves?\nDid the slim Unicorn whose horns break through the cedar-tops in droves\nCome down from the white Libyan glare, or did the fierce Chimæra come\nWith fearful head and fearful form, across the moon-drenched Afric dome?",
+      "provisionalTranslation": "巨大なカバたちが眠そうな群れで横歩きして過ぎたか？\n杉の頂を角で砕く痩せた一角獣が\nリビアの白い眩しさから降りてきたか、あるいは凶猛なキメラが\n恐ろしい頭と恐ろしい形で、月に浸されたアフリカの丸天井を越えて来たか？"
+    },
+    {
+      "id": 10,
+      "originalText": "Or had you shameful secret quests and did you harry, breed by breed,\nTame Asses stiffened into speed and thrust their muzzles deep in blood?\nOr did you love the God of Flies who plagued the Hebrews and was splashed\nWith wine unto the waist, and lashed with raisin-clusters as he ran?",
+      "provisionalTranslation": "それとも恥ずべき秘密の遍歴があったのか、品種ごとに狩り立て、\n馴らされた驢馬たちを速さに硬直させて銃口を深く血に突っ込ませたのか？\nそれともヘブライ人を苦しめた蠅の神を愛したのか、腰まで\nぶどう酒で浸された者を、走りながら干しぶどうの房で鞭打たれた者を？"
+    },
+    {
+      "id": 11,
+      "originalText": "Or were you more amorous laid when Ammon was your bedfellow,\nYour pillow was the matted hair of that great Head the priests did know,\nHis lips were wet with hemlock foam, his forehead crowned with monstrous horn,\nAnd all the river-ooze was worn by his brown body lithe and long.",
+      "provisionalTranslation": "それともアモンが汝の床の友だった時にもっと情熱的に横たわっていたのか、\n汝の枕は司祭たちが知っていたあの偉大な頭の絡まった髪だった、\n彼の唇はヘムロックの泡で濡れ、額には怪物の角が冠せられ、\n川の泥土はすべて彼の茶色いしなやかに長い身体で摩耗されていた。"
+    },
+    {
+      "id": 12,
+      "originalText": "How subtle-secret is your smile! Did you love none then? Nay, I know\nGreat Ammon was your bedfellow! He lay with you beside the Nile!\nThe river-horses in the slime trumpeted when they saw him come\nOdorous with Syrian galbanum and smeared with spikenard and with thyme.",
+      "provisionalTranslation": "汝の微笑はなんと巧みに秘密めいていることか！では誰も愛さなかったのか？いや、わかっている\n偉大なアモンが汝の床の友だった！彼はナイルのそばで汝と横たわっていた！\n泥の中の河馬たちは彼が来るのを見て号した\nシリアのガルバナムの香りを漂わせ、甘松と百里香を塗りたくって。"
+    },
+    {
+      "id": 13,
+      "originalText": "He came along the river bank like some tall galley argent-sailed,\nHe strode across the waters, mailed in beauty, and the waters bent\nDown from his white feet! and he came into your chamber in the south.\nThere glowed the body of Antinous! his hair was starred with flowers!",
+      "provisionalTranslation": "彼は川岸に沿って来た、銀の帆を張った高い船のように、\n彼は水の上を歩んだ、美しさを鎧として、水は折れ曲がった\n彼の白い足元から！そして彼は南の汝の閨に入った。\nアンティノウスの身体が燃え輝いた！その髪は花々で飾られていた！"
+    },
+    {
+      "id": 14,
+      "originalText": "There in the green land of the Nile\nThe God of Beauty came to thee — and thee to him!\nAnd all the wide and silver-sided sea\nWas dim and noiseless! he was king!",
+      "provisionalTranslation": "ナイルの緑の土地で\n美の神は汝のもとに来た——そして汝は彼のもとに！\nそして広く銀色の側面を持つ海はすべて\n薄暗く無音だった！彼は王だった！"
+    },
+    {
+      "id": 15,
+      "originalText": "Was it for this that the great Osiris moaned in his dark tomb?\nWas it for this that he set up his pillar in the shining room?\nWas it for this that Isis came and looked on him with reverent eyes?\nWas it for this that the dim priests danced and chanted and said their sacrifice?",
+      "provisionalTranslation": "このためにあの偉大なオシリスが暗い墓の中で唸ったのか？\nこのためにあの輝く部屋に自分の柱を立てたのか？\nこのためにイシスが来て敬虔な目で彼を見つめたのか？\nこのためにもの暗い司祭たちが踊り、詠唱し、生贄を捧げたのか？"
+    },
+    {
+      "id": 16,
+      "originalText": "Nay, you have had your fill of lust, I see it in your eyes,\nThe foam is on your lips; you rise, half-drunk with dream and shame;\nAnd the great God, the God of Flies, looks down on you with eyes of shame,\nAnd all the gods that are gone are aghast, and you are not sane.",
+      "provisionalTranslation": "いや、汝は情欲を満たした、汝の目にそれが見える、\n口元に泡が立っている；汝は立ち上がる、夢と恥に半ば酔って；\nそして偉大な神、蠅の神が、恥じた目で汝を見下ろし、\n去っていったすべての神々が愕然としている、そして汝は正気ではない。"
+    },
+    {
+      "id": 17,
+      "originalText": "Your lovers are not dead, I know. They will rise up and hear your voice\nAnd clash their cymbals and rejoice and run to kiss your mouth!\nAnd Ammon will take his sword and shield and stab the night with his javelin,\nAnd sweep the sky with his broad sail and conquer the uncouth.",
+      "provisionalTranslation": "汝の恋人たちは死んではいない、わかっている。彼らは立ち上がって汝の声を聞き\nシンバルを打ち鳴らして喜び、汝の口に口付けをしようと走ってくるだろう！\nそしてアモンは剣と盾を取り、槍で夜を刺し、\n広い帆で空を掃き、野蛮なものを征服するだろう。"
+    },
+    {
+      "id": 18,
+      "originalText": "O coward Love! I hate thee! thou hast made my strong soul weak.\nO bitter Love! I hate thee! thou hast come between the moon and me.\nO treacherous Love! I hate thee! thou hast lit a torch within my brain\nThat burns me up with flame and pain, and shows me what I cannot see.",
+      "provisionalTranslation": "おお臆病な愛よ！汝が憎い！汝はわが強い魂を弱くした。\nおお苦い愛よ！汝が憎い！汝は月とわれとのあいだに入り込んだ。\nおお裏切りの愛よ！汝が憎い！汝はわが脳内に篝火を灯した\n炎と苦痛でわれを焼き尽くし、見えないものを見せる松明を。"
+    },
+    {
+      "id": 19,
+      "originalText": "False Sphinx! False Sphinx! By reedy Styx old Charon, leaning on his oar,\nWaits for my coin. Go thou before, and leave me to my crucifix,\nWhose pallid burden, sick with pain, watches the world with wearied eyes,\nAnd weeps for every soul that dies, and weeps for every soul in vain.",
+      "provisionalTranslation": "偽りのスフィンクスよ！偽りのスフィンクスよ！葦の生えるステュクスのほとりで、老いたカロンが楫に身を預けて\nわれの銀貨を待っている。汝よ先に行け、そしてわれを十字架にかけられた者のもとに残してゆけ、\n苦痛に病んでその青ざめた重みで世界を疲れた目で見守り、\n死ぬすべての魂のために泣き、すべての魂のために徒に泣く者のもとに。"
+    }
+  ]
+}
