@@ -1,0 +1,51 @@
+{
+  "id": "verlaine_poetes_maudits_corbiere",
+  "title": "Les Poètes maudits (I) — Tristan Corbière",
+  "author": "Paul Verlaine",
+  "source": "Les Poètes maudits",
+  "year": "1884",
+  "firstPublication": "Les Poètes maudits, Léon Vanier, 1884",
+  "difficulty": "上級",
+  "category": "verlaine_critique",
+  "modernRelevance": "★★★★☆",
+  "context": "『呪われた詩人たち』初版（1884）第1章。ブルターニュの詩人トリスタン・コルビエール（1845-1875）を論じる。自嘲と激情が混在する特異なスタイル、海と死への偏愛、「反詩」としての逆説的美学を論じる。アプリ未収録作家の導入批評として機能する。",
+  "keywords": ["ironie", "Bretagne", "mer", "paradoxe", "humour"],
+  "relatedTexts": ["verlaine_poetes_maudits_rimbaud", "verlaine_poetes_maudits_mallarme"],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Tristan Corbière est un poète qui n'a jamais été jeune, ou plutôt qui a été vieux dès sa naissance. Il est né avec toutes les désillusions, toutes les ironies, tous les dégoûts d'un homme qui a tout vécu et tout raté. Et pourtant, sous cette carapace de cynisme et d'ironie, il y a un cœur qui saigne.",
+      "provisionalTranslation": "トリスタン・コルビエールは若かったことのない詩人だ。あるいはむしろ生まれながらにして老いていた詩人だ。すべてを生き、すべてを失敗した人間の幻滅、皮肉、嫌悪のすべてを生まれ持っていた。それでも、この冷笑と皮肉の甲羅の下に、血を流す心がある。"
+    },
+    {
+      "id": 2,
+      "french": "Son livre, Les Amours jaunes, est un des livres les plus singuliers de ce siècle. Singulier par la forme, qui bouscule toutes les conventions, qui mélange les genres, qui invente un langage nouveau fait de familiarité et de grandeur, de trivialité et de sublime.",
+      "provisionalTranslation": "その書『黄色い恋』は今世紀最も特異な書のひとつだ。あらゆる慣習を覆し、ジャンルを混ぜ合わせ、親密さと壮大さ、卑俗と崇高で作られた新しい言語を発明する形式において特異だ。"
+    },
+    {
+      "id": 3,
+      "french": "Corbière est breton jusqu'aux moelles. La mer, les tempêtes, les naufrages, les matelots, les pardons bretons, tout cela est dans ses vers avec une vérité, une puissance d'évocation qui n'appartient qu'à lui. On sent le sel, on entend le vent, on voit les rochers.",
+      "provisionalTranslation": "コルビエールは骨の髄までブルターニュ人だ。海、嵐、난파、水夫、ブルターニュの赦罪祭——これらすべてが彼だけに属する真実と喚起の力をもってその詩句にある。塩の味がし、風の音が聞こえ、岩が見える。"
+    },
+    {
+      "id": 4,
+      "french": "Il est maudit parce qu'il ne ressemble à rien de connu. On ne peut pas le classer, on ne peut pas le ranger dans une école. Il est seul, absolument seul, dans son coin de Bretagne et dans son coin de littérature. Et cette solitude est à la fois sa malédiction et sa grandeur.",
+      "provisionalTranslation": "彼は呪われている、なぜなら既知の何にも似ていないからだ。分類できず、流派に収めることができない。ブルターニュの片隅に、文学の片隅に、ただ一人、絶対的に一人だ。そしてこの孤独が同時に彼の呪いであり偉大さだ。"
+    },
+    {
+      "id": 5,
+      "french": "L'ironie de Corbière est une ironie désespérée, une ironie qui pleure en riant, qui blasphème en adorant. C'est l'ironie de quelqu'un qui a trop aimé et qui a été trop déçu pour pouvoir encore aimer sans se moquer de lui-même.",
+      "provisionalTranslation": "コルビエールの皮肉は絶望的な皮肉、笑いながら泣き、崇拝しながら冒涜する皮肉だ。愛しすぎ、失望しすぎて、もはや自嘲せずには愛せない者の皮肉だ。"
+    },
+    {
+      "id": 6,
+      "french": "Sa mort, à trente ans, a été une perte immense pour la poésie française. On ne sait pas ce qu'il aurait pu donner encore. Mais ce qu'il a donné suffit à lui assurer une place unique dans notre littérature. Une place inconfortable, inclassable, mais unique.",
+      "provisionalTranslation": "三十歳での死は、フランス詩にとって甚大な損失だった。さらに何を与えることができたかわからない。しかし彼が与えたものは、我々の文学における唯一の地位を確保するに足る。居心地が悪く、分類不能だが、唯一の地位を。"
+    },
+    {
+      "id": 7,
+      "french": "Lisez Les Amours jaunes. Laissez-vous déconcerter d'abord, puis pénétrer, puis envahir. C'est un livre qui résiste, qui ne se donne pas facilement, mais qui, une fois conquis, ne se lâche plus. Tels sont les grands livres.",
+      "provisionalTranslation": "『黄色い恋』を読め。まず当惑させられ、次に浸透され、次に侵略されるがままにせよ。抵抗する、容易に身を委ねない書だ。しかし一度征服すると、もう手放せない。偉大な書とはそういうものだ。"
+    }
+  ]
+}
