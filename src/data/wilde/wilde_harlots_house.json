@@ -1,0 +1,82 @@
+{
+  "id": "wilde_harlots_house",
+  "title": "The Harlot's House",
+  "author": "Oscar Wilde",
+  "source": "Poems (Uncollected Poems 1876–1893)",
+  "year": "1885",
+  "firstPublication": "The Dramatic Review (April, 1885)",
+  "difficulty": "中級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "月明かりの夜、語り手と「わたしの愛する人」が娼家の前で立ち止まり、窓の影を通して機械仕掛けの踊り手たちを目撃する詩。「糸で引かれる自動人形」「幽霊のような踊り手」「骸骨」というイメージ群は、ゴーティエ「Contralto」の彫像的両義性を腐敗・死の方向へ反転させ、ボードレール「近代生活の画家」の都市的視線を官能と死の境界に置く。中盤で愛人が音楽に誘われて娼家に入る——「愛は欲望の家へ入った」——という決定的な行為ののち、夜明けが「怯えた少女のように」忍び足でやってくる結末は、ロラン・バルトが「テクストの快楽」で論じた物語的「転落」の典型例として読むことができる。マラルメの「エロディアード」的な冷たい美の崩壊過程とも共鳴する。",
+  "keywords": ["娼家", "機械仕掛け", "都市", "愛と欲望", "夜明け", "デカダンス", "幽霊"],
+  "relatedTexts": [
+    "wilde_impression_matin",
+    "wilde_symphony_yellow",
+    "baudelaire_peintre_4",
+    "gautier_contralto"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "We caught the tread of dancing feet,\nWe loitered down the moonlit street,\nAnd stopped beneath the harlot's house.",
+      "provisionalTranslation": "わたしたちは踊る足音を捉えながら、\n月明かりの街路をぶらぶらと歩き、\n娼家の下で立ち止まった。"
+    },
+    {
+      "id": 2,
+      "originalText": "Inside, above the din and fray,\nWe heard the loud musicians play\nThe 'Treues Liebes Herz' of Strauss.",
+      "provisionalTranslation": "中では、喧騒と騒乱を超えて、\n楽師たちが大きな音で弾いていた——\nシュトラウスの「真の愛の心」を。"
+    },
+    {
+      "id": 3,
+      "originalText": "Like strange mechanical grotesques,\nMaking fantastic arabesques,\nThe shadows raced across the blind.",
+      "provisionalTranslation": "奇妙な機械仕掛けのグロテスクのように、\n幻想的なアラベスクを描きながら、\n影たちがブラインドを横切って競い走った。"
+    },
+    {
+      "id": 4,
+      "originalText": "We watched the ghostly dancers spin\nTo sound of horn and violin,\nLike black leaves wheeling in the wind.",
+      "provisionalTranslation": "わたしたちは幽霊のような踊り手たちが\nホルンとヴァイオリンの音に合わせて回るのを見た、\n風に舞う黒い葉のように。"
+    },
+    {
+      "id": 5,
+      "originalText": "Like wire-pulled automatons,\nSlim silhouetted skeletons\nWent sidling through the slow quadrille.",
+      "provisionalTranslation": "糸で引かれる自動人形のように、\nほっそりとしたシルエットの骸骨たちが\nゆっくりとしたカドリールをよろよろと踊った。"
+    },
+    {
+      "id": 6,
+      "originalText": "They took each other by the hand,\nAnd danced a stately saraband;\nTheir laughter echoed thin and shrill.",
+      "provisionalTranslation": "彼らは互いの手を取り、\n荘重なサラバンドを踊った；\n彼らの笑い声は細く鋭く響いた。"
+    },
+    {
+      "id": 7,
+      "originalText": "Sometimes a clockwork puppet pressed\nA phantom lover to her breast,\nSometimes they seemed to try to sing.",
+      "provisionalTranslation": "時に、ぜんまい仕掛けの人形が\n幻の恋人を胸に押し抱き、\n時に彼らは歌おうとするように見えた。"
+    },
+    {
+      "id": 8,
+      "originalText": "Sometimes a horrible marionette\nCame out, and smoked its cigarette\nUpon the steps like a live thing.",
+      "provisionalTranslation": "時に、恐ろしいマリオネットが\n出てきて、階段の上で\n生き物のようにタバコをくゆらせた。"
+    },
+    {
+      "id": 9,
+      "originalText": "Then, turning to my love, I said,\n'The dead are dancing with the dead,\nThe dust is whirling with the dust.'",
+      "provisionalTranslation": "それからわたしの愛する人の方を向いて、わたしは言った、\n「死者たちが死者たちと踊っている、\n塵が塵と舞っている」と。"
+    },
+    {
+      "id": 10,
+      "originalText": "But she—she heard the violin,\nAnd left my side, and entered in:\nLove passed into the house of lust.",
+      "provisionalTranslation": "しかし彼女は——彼女はヴァイオリンを聴き、\nわたしの傍を離れ、中へ入っていった：\n愛は欲望の家へと入った。"
+    },
+    {
+      "id": 11,
+      "originalText": "Then suddenly the tune went false,\nThe dancers wearied of the waltz,\nThe shadows ceased to wheel and whirl.",
+      "provisionalTranslation": "突然、調べが狂い始め、\n踊り手たちはワルツに疲れ果て、\n影たちは回転することをやめた。"
+    },
+    {
+      "id": 12,
+      "originalText": "And down the long and silent street,\nThe dawn, with silver-sandalled feet,\nCrept like a frightened girl.",
+      "provisionalTranslation": "そして長く静かな街路を、\n夜明けが、銀の草履を履いて、\n怯えた少女のように忍び足でやってきた。"
+    }
+  ]
+}
