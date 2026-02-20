@@ -1,0 +1,116 @@
+{
+  "id": "gautier_contralto",
+  "title": "Contralto",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées",
+  "year": "1852",
+  "firstPublication": "Émaux et Camées, 1852 (Charpentier)",
+  "difficulty": "中級",
+  "category": "gautier",
+  "modernRelevance": "★★★★☆",
+  "context": "両性具有の彫像——ルーヴルのエルマフロディトスと思しき——から出発し、彫刻の両義的な美が音楽のコントラルト声部へと「変容」する詩。ゴーティエにとって芸術諸ジャンル間の照応は理念ではなく感覚的体験であり、この詩はボードレール「照応」詩の具体的な先例を示す。オペラの登場人物リスト（シンデレラ、タンクレード、デスデモナ、ゼルリーナ）が声の多様性を体現し、「ギュルナレのように / あるラーラのカレドとなれる者」という最終イメージは、性の流動性と芸術の至高性を重ねる。",
+  "keywords": ["両性具有", "声", "変容", "芸術の照応", "彫刻と音楽", "エルマフロディトス"],
+  "relatedTexts": [
+    "gautier_symphonie_blanc",
+    "gautier_affinites_secretes",
+    "baudelaire_gautier",
+    "baudelaire_wagner_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "On voit dans le Musée antique,\nSur un lit de marbre sculpté,\nUne statue énigmatique\nD'une inquiétante beauté.",
+      "provisionalTranslation": "古代の美術館に見える、\n彫刻された大理石の寝台の上、\n不安をかき立てる美を持つ\n謎めいた像が。"
+    },
+    {
+      "id": 2,
+      "french": "Est-ce un jeune homme ? est-ce une femme,\nUne déesse, ou bien un dieu ?\nL'amour, ayant peur d'être infâme,\nHésite et suspend son aveu.",
+      "provisionalTranslation": "若者か？女か、\n女神か、それとも神か？\n恥辱を恐れる愛が\n躊躇し、その告白を宙吊りにする。"
+    },
+    {
+      "id": 3,
+      "french": "Dans sa pose malicieuse,\nElle s'étend, le dos tourné\nDevant la foule curieuse,\nSur son coussin capitonné.",
+      "provisionalTranslation": "いたずらめいたその姿勢で、\n背を向け、\n好奇の群衆を前に、\nふっくらしたクッションの上に横たわる。"
+    },
+    {
+      "id": 4,
+      "french": "Pour faire sa beauté maudite,\nChaque sexe apporta son don.\nTout homme dit : C'est Aphrodite !\nToute femme : C'est Cupidon !",
+      "provisionalTranslation": "その呪われた美を作るために、\n両方の性がそれぞれの贈り物をもたらした。\nすべての男は言う：アフロディテだ！\nすべての女は言う：クピドだ！と。"
+    },
+    {
+      "id": 5,
+      "french": "Sexe douteux, grâce certaine,\nOn dirait ce corps indécis\nFondu, dans l'eau de la fontaine,\nSous les baisers de Salmacis.",
+      "provisionalTranslation": "曖昧な性、確かな優雅さ、\nこの定まらぬ体は\n泉の水の中で\nサルマキスの接吻に溶けたと言えよう。"
+    },
+    {
+      "id": 6,
+      "french": "Chimère ardente, effort suprême\nDe l'art et de la volupté,\nMonstre charmant, comme je t'aime\nAvec ta multiple beauté !",
+      "provisionalTranslation": "熱烈なキマイラ、芸術と\n官能の至高の努力よ、\n魅惑的な怪物、その多様な美で\n私はなんとあなたを愛することか！"
+    },
+    {
+      "id": 7,
+      "french": "Bien qu'on défende ton approche,\nSous la draperie aux plis droits\nDont le bout à ton pied s'accroche,\nMes yeux ont plongé bien des fois.",
+      "provisionalTranslation": "近づくことは禁じられているが、\n足元に垂れる\n真直ぐな褶の衣の下に\n私の目は幾度となく潜り込んだ。"
+    },
+    {
+      "id": 8,
+      "french": "Rêve de poète et d'artiste,\nTu m'as bien des nuits occupé,\nEt mon caprice qui persiste\nNe convient pas qu'il s'est trompé.\nMais seulement il se transpose,\nEt, passant de la forme au son,\nTrouve dans sa métamorphose\nLa jeune fille et le garçon.",
+      "provisionalTranslation": "詩人と芸術家の夢よ、\nあなたは幾夜も私を占めてきた、\nそして執拗に続く私の気まぐれは\n自分が誤ったとは認めない。\nただそれは転調するだけ——\n形から音へと移り、\nその変容の中に\n少女と少年を見出す。"
+    },
+    {
+      "id": 9,
+      "french": "Que tu me plais, ô timbre étrange !\nSon double, homme et femme à la fois,\nContralto, bizarre mélange,\nHermaphrodite de la voix !",
+      "provisionalTranslation": "なんと私を喜ばせることか、奇妙な音色よ！\n男と女を同時に持つ二重の音、\nコントラルト、奇妙な混合よ、\n声のエルマフロディトスよ！"
+    },
+    {
+      "id": 10,
+      "french": "C'est Roméo, c'est Juliette,\nChantant avec un seul gosier ;\nLe pigeon rauque et la fauvette\nPerchés sur le même rosier ;",
+      "provisionalTranslation": "それはロメオ、それはジュリエットが\nひとつの喉で歌うもの；\n同じバラ樹にとまる\r\nしゃがれた鳩と鶯；"
+    },
+    {
+      "id": 11,
+      "french": "C'est la châtelaine qui raille\nSon beau page parlant d'amour ;\nL'amant au pied de la muraille,\nLa dame au balcon de sa tour ;",
+      "provisionalTranslation": "愛を語る美しい小姓を\n嘲る城の女主人；\n城壁の下の恋人と、\n塔のバルコニーの貴婦人；"
+    },
+    {
+      "id": 12,
+      "french": "Le papillon, blanche étincelle,\nQu'en ses détours et ses ébats\nPoursuit un papillon fidèle,\nL'un volant haut et l'autre bas ;",
+      "provisionalTranslation": "白い閃光、蝶を、\nその蛇行と戯れの中で\n忠実な蝶が追いかける、\n一方は高く、他方は低く飛びながら；"
+    },
+    {
+      "id": 13,
+      "french": "L'ange qui descend et qui monte\nSur l'escalier d'or voltigeant ;\nLa cloche mêlant dans sa fonte\nLa voix d'airain, la voix d'argent ;",
+      "provisionalTranslation": "舞いながら金の階段を\n降り昇る天使；\n鋳造の中で青銅の声と\n銀の声とを混ぜ合わせる鐘；"
+    },
+    {
+      "id": 14,
+      "french": "La mélodie et l'harmonie,\nLe chant et l'accompagnement ;\nÀ la grâce la force unie,\nLa maîtresse embrassant l'amant !",
+      "provisionalTranslation": "メロディーとハーモニー、\n歌と伴奏；\n力と結ばれた優雅さ、\n恋人を抱く女主人！"
+    },
+    {
+      "id": 15,
+      "french": "Sur le pli de sa jupe assise,\nCe soir, ce sera Cendrillon\nCausant près du feu qu'elle attise\nAvec son ami le grillon ;",
+      "provisionalTranslation": "スカートの裾に座り、\n今夜はシンデレラになるだろう、\n友達のコオロギと共に\n自ら搔き立てる炎の傍で語らいながら；"
+    },
+    {
+      "id": 16,
+      "french": "Demain le valeureux Arsace\nÀ son courroux donnant l'essor,\nOu Tancrède avec sa cuirasse,\nSon épée et son casque d'or ;",
+      "provisionalTranslation": "明日は勇敢なアルサーチェが\n怒りを爆発させ、\nあるいはタンクレードが鎧甲冑と\n剣と黄金の兜をまとって；"
+    },
+    {
+      "id": 17,
+      "french": "Desdemona chantant le Saule,\nZerline bernant Mazetto,\nOu Malcolm le plaid sur l'épaule ;\nC'est toi que j'aime, ô contralto !",
+      "provisionalTranslation": "「柳の歌」を歌うデズデモーナ、\nマゼットをからかうゼルリーナ、\nあるいは肩にタータンをかけたマルコム；\n私が愛するのはあなた、コントラルトよ！"
+    },
+    {
+      "id": 18,
+      "french": "Nature charmante et bizarre\nQue Dieu d'un double attrait para,\nToi qui pourrais, comme Gulnare,\nÊtre le Kaled d'un Lara,",
+      "provisionalTranslation": "神が二重の魅力で飾った\n魅惑的で奇妙な本性よ、\nグルナーレのように\nあるラーラのカレドになれるあなた、"
+    },
+    {
+      "id": 19,
+      "french": "Et dont la voix, dans sa caresse,\nRéveillant le coeur endormi,\nMêle aux soupirs de la maîtresse\nL'accent plus mâle de l'ami !",
+      "provisionalTranslation": "そしてその声が、その愛撫の中で、\n眠った心を目覚めさせながら、\n女主人のため息に\n友人のより男性的な音調を混ぜる！"
+    }
+  ]
+}
