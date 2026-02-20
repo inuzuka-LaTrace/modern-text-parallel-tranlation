@@ -725,7 +725,7 @@ export default function App() {
                         <span className={`text-xs font-semibold px-2 py-0.5 rounded ${darkMode ? 'bg-green-900/50 text-green-300 border border-green-800' : 'bg-green-600 text-white'}`}>
                           仮訳
                         </span>
-                        <p className={`mt-2 leading-relaxed ${textClass} ${
+                        <p className={`mt-2 leading-relaxed whitespace-pre-line ${textClass} ${
                           fontSize === 'xlarge' ? 'text-xl' :
                           fontSize === 'large'  ? 'text-lg' :
                           fontSize === 'medium' ? 'text-base' : 'text-sm'
@@ -768,7 +768,7 @@ export default function App() {
                         ) : (
                           <div className="mt-2">
                             {userTranslations[para.id] ? (
-                              <p className={`leading-relaxed ${textClass} text-sm mb-2`}>
+                              <p className={`leading-relaxed whitespace-pre-line ${textClass} text-sm mb-2`}>
                                 {userTranslations[para.id].text}
                               </p>
                             ) : (
