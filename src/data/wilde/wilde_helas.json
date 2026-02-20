@@ -1,0 +1,32 @@
+{
+  "id": "wilde_helas",
+  "title": "Hélas!",
+  "author": "Oscar Wilde",
+  "source": "Poems",
+  "year": "1881",
+  "firstPublication": "Poems, 1881 (David Bogue, London)",
+  "difficulty": "中級",
+  "category": "wilde",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "詩集『詩篇』（1881）の巻頭に置かれた唯一のソネット。「ああ！」という嘆息の題名が示すように、すべての情念に流される魂を「あらゆる風が弾ける弦楽器」と喩え、青年期の美的放縦と知的自制の放棄を悔恨する。ワイルドの詩学全体の序文的宣言であり、ゴーティエの「L'Art」が形式への信仰を謳うのとは対照的に、形式なき欲望の甘い危険を告白する。ロマンスの蜜に「ほんのわずか触れた」だけで「魂の遺産」を失いうるという逆説は、ボードレール的な美と堕落の不可分性をイギリス的ソネット形式で結晶化する。デリダの「署名・出来事・コンテクスト」が問う「自己への遺産の割り当て」という問題を先取りするテクストとも読める。",
+  "keywords": ["ソネット", "欲望と自制", "美的堕落", "遺産", "告白詩", "巻頭詩"],
+  "relatedTexts": [
+    "gautier_l_art",
+    "baudelaire_gautier",
+    "wilde_harlots_house",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "To drift with every passion till my soul\nIs a stringed lute on which all winds can play,\nIs it for this that I have given away\nMine ancient wisdom, and austere control?\nMethinks my life is a twice-written scroll\nScrawled over on some boyish holiday\nWith idle songs for pipe and virelay,\nWhich do but mar the secret of the whole.",
+      "provisionalTranslation": "あらゆる情念に流されて、わが魂が\nいかなる風も弾ける弦楽器となるために、\nわたしは古の英知と、厳格な自制を\n捨て去ったのだろうか？\nわが生は書き直された羊皮紙のように思われる、\n少年の休日にでたらめに書き散らされた\n笛とヴィルレーのための怠惰な歌で、\n全体の秘密を汚すだけの。"
+    },
+    {
+      "id": 2,
+      "originalText": "Surely there was a time I might have trod\nThe sunlit heights, and from life's dissonance\nStruck one clear chord to reach the ears of God:\nIs that time dead? lo! with a little rod\nI did but touch the honey of romance—\nAnd must I lose a soul's inheritance?",
+      "provisionalTranslation": "かつてはきっと、陽光に満ちた高みを踏み、\n生の不協和音から、神の耳に届く\n澄んだ一音を打ち出せる時があったはずだ。\nその時は死んだのか？ みよ！ 細い杖で\nわたしはロマンスの蜜に触れたにすぎないのに——\nそれだけで魂の遺産を失わなければならないのか？"
+    }
+  ]
+}
