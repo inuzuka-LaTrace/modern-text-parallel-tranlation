@@ -1,0 +1,91 @@
+{
+  "id": "gautier_l_art",
+  "title": "L'Art",
+  "author": "Théophile Gautier",
+  "source": "Émaux et Camées",
+  "year": "1858",
+  "firstPublication": "Émaux et Camées, édition de 1858 (Charpentier)",
+  "difficulty": "中級",
+  "category": "gautier",
+  "modernRelevance": "★★★★★",
+  "context": "1852年刊行の詩集『エマーとカメオ』に1858年版から追加された詩論詩。「芸術のための芸術」の最も凝縮された宣言として、パルナス派の綱領詩となった。6音節と2音節を組み合わせた独特の四行連句（ヘクサシラブとディシラブ）の形式そのものが、詩の主張——形式の抵抗こそが美を生む——を体現している。ボードレールは『悪の華』をゴーティエに捧げた献辞で「不完全な詩人への、完全な詩人へ（au poète impeccable）」と称え、マラルメはこの詩の彫刻的理想をソネットの硬質な形式と純粋語への追求へと引き継いだ。",
+  "keywords": ["芸術のための芸術", "形式", "彫刻", "永遠性", "工芸", "パルナス派", "抵抗"],
+  "relatedTexts": [
+    "baudelaire_gautier",
+    "gautier_symphonie_blanc",
+    "mallarme_poetics",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Oui, l'œuvre sort plus belle\nD'une forme au travail\nRebelle,\nVers, marbre, onyx, émail.",
+      "provisionalTranslation": "そう、作品はより美しく生まれる\n素材の抵抗に\n抗う形式から——\n詩句よ、大理石よ、瑪瑙よ、エナメルよ。"
+    },
+    {
+      "id": 2,
+      "french": "Point de contraintes fausses !\nMais que pour marcher droit\nTu chausses,\nMuse, un cothurne étroit.",
+      "provisionalTranslation": "偽りの制約は要らない！\nしかし真っ直ぐに歩むために\n履け、\nミューズよ、狭い悲劇の靴底を。"
+    },
+    {
+      "id": 3,
+      "french": "Fi du rhythme commode,\nComme un soulier trop grand,\nDu mode\nQue tout pied quitte et prend !",
+      "provisionalTranslation": "安易な韻律など、ば\n大きすぎる靴のように、\nどんな足にも\n脱ぎ履きできる型など、くそくらえだ！"
+    },
+    {
+      "id": 4,
+      "french": "Statuaire, repousse\nL'argile que pétrit\nLe pouce\nQuand flotte ailleurs l'esprit :",
+      "provisionalTranslation": "彫刻家よ、退けよ\n魂が他所をさまよいながら\n親指でこねる\n粘土を："
+    },
+    {
+      "id": 5,
+      "french": "Lutte avec le carrare,\nAvec le paros dur\nEt rare,\nGardiens du contour pur ;",
+      "provisionalTranslation": "カッラーラの大理石と格闘せよ、\n純粋な輪郭の守護者たる\n硬くて希少な\nパロス島の石と；"
+    },
+    {
+      "id": 6,
+      "french": "Emprunte à Syracuse\nSon bronze où fermement\nS'accuse\nLe trait fier et charmant ;",
+      "provisionalTranslation": "シュラクサイから借りよ\n誇り高く魅惑的な\n線がくっきりと刻まれた\nブロンズを；"
+    },
+    {
+      "id": 7,
+      "french": "D'une main délicate\nPoursuis dans un filon\nD'agate\nLe profil d'Apollon.",
+      "provisionalTranslation": "繊細な手で\nメノウの\n一筋の脈の中に\nアポロンの横顔を追え。"
+    },
+    {
+      "id": 8,
+      "french": "Peintre, fuis l'aquarelle,\nEt fixe la couleur\nTrop frêle\nAu four de l'émailleur.",
+      "provisionalTranslation": "画家よ、水彩を避けよ、\nあまりに脆い色彩を\nエナメル師の窯で\n焼き固めよ。"
+    },
+    {
+      "id": 9,
+      "french": "Fais les sirènes bleues,\nTordant de cent façons\nLeurs queues,\nLes monstres des blasons ;",
+      "provisionalTranslation": "青い人魚を作れ、\n幾百もの形に\n尾をくねらせた、\n紋章の怪物たちを；"
+    },
+    {
+      "id": 10,
+      "french": "Dans son nimbe trilobe\nLa Vierge et son Jésus,\nLe globe\nAvec la croix dessus.",
+      "provisionalTranslation": "三葉の光輪の中に\n聖母とその御子を、\n十字架を戴いた\n地球儀を。"
+    },
+    {
+      "id": 11,
+      "french": "Tout passe. - L'art robuste\nSeul a l'éternité.\nLe buste\nSurvit à la cité.",
+      "provisionalTranslation": "すべては過ぎ去る。——頑強な芸術だけが\n永遠を持つ。\n胸像は\n都市よりも長く生き残る。"
+    },
+    {
+      "id": 12,
+      "french": "Et la médaille austère\nQue trouve un laboureur\nSous terre\nRévèle un empereur.",
+      "provisionalTranslation": "そして農夫が\n土の下に見つける\n厳粛なメダルが\nひとりの皇帝を明かす。"
+    },
+    {
+      "id": 13,
+      "french": "Les dieux eux-mêmes meurent,\nMais les vers souverains\nDemeurent\nPlus forts que les airains.",
+      "provisionalTranslation": "神々でさえ死ぬ、\nしかし至高の詩句は\n留まる、\n青銅よりも強く。"
+    },
+    {
+      "id": 14,
+      "french": "Sculpte, lime, cisèle ;\nQue ton rêve flottant\nSe scelle\nDans le bloc résistant !",
+      "provisionalTranslation": "彫れ、磨け、刻め；\nそなたの漂う夢が\n封じられるよう\n抵抗する塊の中に！"
+    }
+  ]
+}
