@@ -1,0 +1,43 @@
+{
+  "id": "george_haengenden_gaerten_10",
+  "title": "Das schöne beet betracht ich mir im harren",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "『架空庭園の書』（Das Buch der hängenden Gärten, 1895）は、古代バビロンの「空中庭園（hängende Gärten）」を舞台に、名も明かされぬ二人の愛の誕生・成就・別れを30篇の詩によって描く連作詩集。マラルメの象徴主義とペルシア・アラビア詩の官能性を融合させたゲオルゲ初期の傑作。\n\nこの詩は連作の第10番（シェーンベルク op.15 では X として選ばれた）にあたる。語り手が「待ちながら（im harren）」美しい花壇を見つめる——その花壇は「紫黒のいばら（purpurn-schwarzem dorne）」で囲まれ、中に「斑点のある距を持つ萼（kelche mit geflecktem sporne）」、「ビロード状の羽毛を持つ傾いたシダ（sammtgefiederte geneigte farren）」、「水草の緑の綿毛の束（flockenbüschel wassergrün）」が茂り、中心には「白く柔らかな鐘形の花（glocken weiss und mild）」が「ある息吹（odem）」によって湿った口を持ち、「天上の野の甘い果実のよう」に佇む。\n\n詩は植物学的な精密さと官能的な比喩が重なり合う。花壇の「いばら」による囲いは保護であり隔絶であり、その内側の植物たちが醸し出す官能性は「あなた」——愛する人——の身体への欲望の置換として読める。「ある息吹（ein odem）」という不定冠詞は意図的な曖昧さで、神の息・愛人の息・風のいずれとも解しうる。\n\n【シェーンベルクとの交差】シェーンベルクは1908〜09年にかけて同詩集から15篇を選んで歌曲集『架空庭園の書』op.15を作曲した。第10曲に選ばれたこの詩では、G♯–A–D という核心動機が冒頭小節に垂直・水平の両方向で提示され、作品全体を通じて転置・反転・並べ替えによって展開される。機能和声は完全に放棄され、フレーズの終わりに終止形はなく、「非三度和音（non-tertial harmonies）」が感情の色彩として機能する。op.15はop.11ピアノ曲3篇とともにシェーンベルクの「無調期」の起点を画する記念碑的作品として音楽史に刻まれている。ウィーン初演は1910年1月14日。",
+  "keywords": [
+    "架空庭園",
+    "花壇",
+    "象徴的官能性",
+    "シェーンベルク op.15",
+    "無調音楽",
+    "いばら",
+    "鐘形の花",
+    "待望",
+    "音楽史"
+  ],
+  "relatedTexts": [
+    "george_haengenden_gaerten_9",
+    "george_haengenden_gaerten_11",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Das schöne beet betracht ich mir im harren:\nEs ist umzäunt mit purpurn-schwarzem dorne\nDrin ragen kelche mit geflecktem sporne\nUnd sammtgefiederte geneigte farren",
+      "provisionalTranslation": "われは待ちながら美しい花壇を眺める：\nそれは紫黒のいばらで囲まれている\nその中に斑点のある距を持つ萼が聳え\nビロード状の羽毛を持つ傾いたシダがある"
+    },
+    {
+      "id": 2,
+      "originalText": "Und flockenbüschel wassergrün und rund\nUnd in der mitte glocken weiss und mild –\nVon einem odem ist ihr feuchter mund\nWie süsse frucht vom himmlischen gefild.",
+      "provisionalTranslation": "そして水草の緑の丸い綿毛の束があり\n中心には白く柔らかな鐘形の花——\nある息吹によってその湿った口は\n天上の野の甘い果実のようだ。"
+    }
+  ],
+  "opNumber": "op.15 / X"
+}
