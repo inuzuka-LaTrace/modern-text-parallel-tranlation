@@ -1,0 +1,33 @@
+{
+  "id": "george_haengenden_gaerten_4",
+  "title": "Da meine lippen reglos sind und brennen",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / IV",
+  "context": "op.15 第4曲。「唇が動かずに燃える」という逆説的な冒頭——愛の炎で言葉を失う。同時に語り手は「他の主の領域」、つまり相手がすでに婚約していることに気づく。「高い格子越しの眼差し」が愛の合図か、単なる好奇心か——その曖昧さが詩の緊張を生む。シェーンベルクはここに半音階的な不安定さを与えた。",
+  "keywords": [
+    "他の主",
+    "禁じられた愛",
+    "格子越しの眼差し",
+    "唇の灼熱",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Da meine lippen reglos sind und brennen\nBeacht ich erst wohin mein fuss geriet:\nIn andrer herren prächtiges gebiet.\nNoch war vielleicht mir möglich mich zu trennen ·\nDa schien es dass durch hohe gitterstäbe\nDer blick vor dem ich ohne lass gekniet\nMich fragend suchte oder zeichen gäbe.",
+      "provisionalTranslation": "わが唇が動かずに燃えているとき\nわれはようやく気づく、わが足がどこに来たかを：\n他の主たちの豪華な領域の中へ。\nまだ別れることができたかもしれない ·\nそのとき思われた、高い格子越しに\nわれが絶えず跪いていた眼差しが\nわれを問いかけながら探しているか、あるいは合図を送っているようだと。"
+    }
+  ]
+}
