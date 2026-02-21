@@ -1,0 +1,43 @@
+{
+  "id": "trakl_de_profundis",
+  "title": "De profundis",
+  "author": "Georg Trakl",
+  "source": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "year": "1912",
+  "firstPublication": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de",
+  "color": "blue-700",
+  "modernRelevance": "★★★★★",
+  "context": "1912年秋〜冬に書かれ、Gedichte（1913）に収録。タイトルは詩篇130篇の冒頭句「De profundis clamavi ad te, Domine（深みからあなたへ呼び求める、主よ）」に由来し、ボードレール「Spleen et Idéal」の「De profundis clamavi」とも響き合う。しかしトラークルのそれは祈禱でも嘆願でもなく、神の沈黙を「泉から飲む」という内向的な行為として記述する——神への呼びかけが内部への下降に転じている。\n\n詩は4段落（自由詩）で構成される。第1段落：三つの「Es ist...（〜がある）」による反復法——刈り株畑に黒い雨・孤独な褐色の木・空の小屋を巡る囁き風——が並置され、「なんと悲しいこの夕べ」という感嘆で閉じる。旧約創世記を思わせる列挙の形式はホフマンスタール「Ballade des äußeren Lebens」の「Und...Und...」連鎖と対照できる。どちらも世界を等価に列挙するが、トラークルの列挙は創造ではなく荒廃の記録。\n\n第2段落：「柔かな孤児」がルツ記的身振りで穂を拾い集め、「天上の花婿を待つ」——キリスト教的純潔の象徴。第3段落：羊飼いたちの帰路に「甘い身体が茨の藪に腐って」見つかる——純潔は現世では保護されない。語り手は「影（Schatten）」として自己を定義し、「神の沈黙を泉から飲む」。第4段落：「冷たい金属が額を踏む」「蜘蛛が心を探す」「口の中で光が消える」——身体の内部に侵入する異物の連続。夜の荒れ地で「星の塵と汚物」に晒されながら、ハシバミの藪から「水晶の天使が鳴り響く」という幻聴で終わる。\n\nこの詩の逆説的構造：救済のシグナル（天使）が廃墟の中に出現する。水晶の天使は慰めではなく幻覚であり、現実の荒廃をむしろ際立たせる。信仰の語彙（天上の花婿・神の沈黙・天使）が機能不全に陥った世界——これがトラークルの「深みから」の独特の位相。\n\n色彩推移：黒い雨・褐色の木（第1段落）→黄金の目（第2段落）→冷たい金属（第4段落）→水晶（終行）。黒から金属光沢・水晶という、温度を持たない光への移行がトラークル典型の色調推移を示す。W・H・オーデン、ジェームズ・ライトら英語圏詩人が特に高く評価した詩。",
+  "keywords": ["De profundis", "詩篇130篇", "神の沈黙", "孤児", "水晶の天使", "反復法", "荒廃", "黒い雨", "影", "ルツ記"],
+  "relatedTexts": [
+    "trakl_verfall",
+    "hofmannsthal_ballade",
+    "baudelaire_romantisme_complet",
+    "george_haengenden_gaerten_15"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Es ist ein Stoppelfeld, in das ein schwarzer Regen fällt.\nEs ist ein brauner Baum, der einsam dasteht.\nEs ist ein Zischelwind, der leere Hütten umkreist.\nWie traurig dieser Abend.",
+      "provisionalTranslation": "黒い雨が降り込む刈り株畑がある。\n孤独に立つ褐色の木がある。\n空の小屋を巡る囁き風がある。\nなんと悲しいこの夕べ。"
+    },
+    {
+      "id": 2,
+      "originalText": "Am Weiler vorbei\nSammelt die sanfte Waise noch spärliche Ähren ein.\nIhre Augen weiden rund und goldig in der Dämmerung\nUnd ihr Schoß harrt des himmlischen Bräutigams.",
+      "provisionalTranslation": "村を通りすぎながら\n柔かな孤児がまだ少ない穂を拾い集める。\nその目は薄明の中で丸く黄金に広がり\nその胸は天上の花婿を待つ。"
+    },
+    {
+      "id": 3,
+      "originalText": "Bei der Heimkehr\nFanden die Hirten den süßen Leib\nVerwest im Dornenbusch.\nEin Schatten bin ich ferne finsteren Dörfern.\nGottes Schweigen\nTrank ich aus dem Brunnen des Hains.",
+      "provisionalTranslation": "帰路に\n羊飼いたちは甘い身体を見つけた\n茨の藪の中で腐っているのを。\nわれは影、暗い村々から遠く。\n神の沈黙を\nわれは林の泉から飲んだ。"
+    },
+    {
+      "id": 4,
+      "originalText": "Auf meine Stirne tritt kaltes Metall.\nSpinnen suchen mein Herz.\nEs ist ein Licht, das in meinem Mund erlöscht.\nNachts fand ich mich auf einer Heide,\nStarrend von Unrat und Staub der Sterne.\nIm Haselgebüsch\nKlangen wieder kristallne Engel.",
+      "provisionalTranslation": "冷たい金属がわが額を踏む。\n蜘蛛がわが心を探す。\nわが口の中で消える光がある。\n夜、われは荒れ地に自分を見つけた、\n汚物と星の塵で覆われながら。\nハシバミの藪の中で\n水晶の天使がまた鳴り響いた。"
+    }
+  ]
+}
