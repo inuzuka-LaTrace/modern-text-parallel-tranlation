@@ -1,0 +1,67 @@
+{
+  "id": "hofmannsthal_vorfruehling",
+  "title": "Vorfrühling",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Gedichte (Insel-Verlag, Leipzig, 1922)",
+  "year": "1892",
+  "firstPublication": "Blätter für die Kunst (Georg George Hrsg., Berlin, 1892)",
+  "difficulty": "中級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "ホフマンスタールが18歳のとき、ゲオルゲ主宰の「芸術のための冊子（Blätter für die Kunst）」1892年号に発表した詩。ホフマンスタールはゲオルゲと1891年に知り合い、同誌への寄稿は二人の最初の文学的協働を示す。この詩はその後ホフマンスタール自身が自分の詩集を編む際に常に冒頭に置いており、みずからの詩的出発点として生涯大切にした。\n\n詩の主役は「春の風（Frühlingswind）」——固有名詞ではなく象徴的行為者として機能する。風は「裸の並木道（kahle Alleen）」を走り、泣き声のあった場所で揺れ、乱れた髪に寄り添い、アカシアの花びらを振り落とし、笑いながら唇に触れ、フルートを通って啜り泣くような叫び声として滑り出て、囁く部屋を飛び回り、ランプの輝きを消す。詩の最初の連が7番目に繰り返されたあと、最後の2連でトーンが変わる——「滑らかな裸の並木道」を「蒼白い影たち」が駆り立てられ、昨夜からの「香り」が運ばれてくる。\n\nホフマンスタールの印象主義的な手法の核心がここにある。風は何かを「見る」のではなく、さまざまな人間的経験の痕跡を「感覚」として記憶し、運搬する。感情・身体・空間が分離されず、共感覚的な連続体として流れる。ゲオルゲの「Nach der Lese」が秋の公園の視覚的解像度を高めるのに対し、この詩は春の風の触覚・聴覚・嗅覚による世界の横断を描く——同じ「象徴主義的な感覚」でも方法論が対照的で、並べて読む価値が高い。\n\n詩はリヒャルト・シュトラウスのオペラ「ナクソス島のアリアドネ」のホフマンスタール・リブレットでは直接引用されていないが、同じ「風の感受性」の詩学がシュトラウスとの協働全体を貫く。マントの詩作曲者アレクサンダー・ブルクスタラー（1912）をはじめ複数の作曲家が歌曲化した。",
+  "keywords": ["春の風", "印象主義", "感覚の横断", "共感覚", "Blätter für die Kunst", "ゲオルゲとの協働", "ウィーン世紀末", "フィン・ド・シエクル"],
+  "relatedTexts": [
+    "hofmannsthal_terzinen",
+    "george_komm_in_den_park",
+    "george_wir_schreiten",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Es läuft der Frühlingswind\nDurch kahle Alleen,\nSeltsame Dinge sind\nIn seinem Wehn.",
+      "provisionalTranslation": "春の風が走る\n裸の並木道を、\n不思議なものたちが\nそのそよぎの中にある。"
+    },
+    {
+      "id": 2,
+      "originalText": "Er hat sich gewiegt,\nWo Weinen war,\nUnd hat sich geschmiegt\nIn zerrüttetes Haar.",
+      "provisionalTranslation": "風は揺れ動いた、\n泣き声のあった場所で、\nそして寄り添った\n乱れた髪に。"
+    },
+    {
+      "id": 3,
+      "originalText": "Er schüttelte nieder\nAkazienblüten\nUnd kühlte die Glieder,\nDie atmend glühten.",
+      "provisionalTranslation": "風は振り落とした\nアカシアの花びらを\nそして冷やした、手足を、\n息をしながら燃えている手足を。"
+    },
+    {
+      "id": 4,
+      "originalText": "Lippen im Lachen\nHat er berührt,\nDie weichen und wachen\nFluren durchspürt.",
+      "provisionalTranslation": "笑いの中の唇に\n風は触れた、\n柔らかで目覚めている\n野原を感じ取りながら。"
+    },
+    {
+      "id": 5,
+      "originalText": "Er glitt durch die Flöte\nAls schluchzender Schrei,\nAn dämmernder Röte\nFlog er vorbei.",
+      "provisionalTranslation": "風はフルートを通って滑り出た\n啜り泣くような叫び声として、\n薄明の赤さのそばを\n風は飛び過ぎた。"
+    },
+    {
+      "id": 6,
+      "originalText": "Er flog mit Schweigen\nDurch flüsternde Zimmer\nUnd löschte im Neigen\nDer Ampel Schimmer.",
+      "provisionalTranslation": "風は沈黙のうちに飛んだ\n囁く部屋々を通り抜けて\nそして傾きながら消した\nランプの輝きを。"
+    },
+    {
+      "id": 7,
+      "originalText": "Es läuft der Frühlingswind\nDurch kahle Alleen,\nSeltsame Dinge sind\nIn seinem Wehn.",
+      "provisionalTranslation": "春の風が走る\n裸の並木道を、\n不思議なものたちが\nそのそよぎの中にある。"
+    },
+    {
+      "id": 8,
+      "originalText": "Durch die glatten\nKahlen Alleen\nTreibt sein Wehn\nBlasse Schatten.",
+      "provisionalTranslation": "滑らかな\n裸の並木道を\n風のそよぎが追い立てる\n蒼白い影たちを。"
+    },
+    {
+      "id": 9,
+      "originalText": "Und den Duft,\nDen er gebracht,\nVon wo er gekommen\nSeit gestern nacht.",
+      "provisionalTranslation": "そして香りを、\n風が運んできた香りを、\nどこから来たかという香りを\n昨夜からの。"
+    }
+  ]
+}
