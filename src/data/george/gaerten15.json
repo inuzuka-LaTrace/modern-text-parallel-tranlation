@@ -1,0 +1,34 @@
+{
+  "id": "george_haengenden_gaerten_15",
+  "title": "Wir bevölkerten die abend-düstern",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / XV",
+  "context": "op.15 第15曲・最終曲。「われわれはかつてここを賑わわせた」という過去形から始まる回想と別れ。「今や真実だ、彼女が永遠に去ることが（nun ist wahr dass sie für immer geht）」——静かな確認の一行。かつての花は色あせ・割れ・朽ち・刺す。見えない手が葉を追い立て、楽園の壁は青ざめ、夜は曇って蒸し暑い。連作全体の終末として、庭園は廃墟と化す。シェーンベルクはこの最終曲を全曲中最も長く（51小節）設定し、連作の重量的な終止符とした。初演の演奏時間でも最終曲だけで他の曲群と同等の時間をとる。",
+  "keywords": [
+    "永遠の別れ",
+    "廃墟となった庭",
+    "過去の回想",
+    "朽ちた楽園",
+    "最終曲",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wir bevölkerten die abend-düstern\nLauben · lichten tempel · pfad und beet\nFreudig – sie mit lächeln ich mit flüstern –\nNun ist wahr dass sie für immer geht.\nHohe blumen blassen oder brechen ·\nEs erblasst und bricht der weiher glas\nUnd ich trete fehl im morschen gras ·\nPalmen mit den spitzen fingern stechen.\nMürber blätter zischendes gewühl\nJagen ruckweis unsichtbare hände\nDraussen um des edens fahle wände.\nDie nacht ist überwölkt und schwül.",
+      "provisionalTranslation": "われわれは夕暮れの薄暗い\n東屋を · 明るい神殿を · 小径と花壇を\n喜びながら賑わわせた——彼女は微笑みで、われは囁きで——\n今や真実だ、彼女が永遠に去ることが。\n高い花々が色あせるか折れる ·\n池の鏡面が色あせ割れる\nそしてわれは朽ちた草の中で踏み外す ·\n棕梠が尖った指でわれを刺す。\n脆い葉のざわめき騒ぐ群れを\n見えない手々が断続的に追い立てる\n楽園の青ざめた壁の外で。\n夜は曇って蒸し暑い。"
+    }
+  ]
+}
