@@ -1,0 +1,87 @@
+{
+  "id": "hofmannsthal_terzinen",
+  "title": "Terzinen über Vergänglichkeit",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Gedichte (Insel-Verlag, Leipzig, 1922)",
+  "year": "1894",
+  "firstPublication": "I: Blätter für die Kunst (Berlin, 1896) / II・III: Pan (Berlin, 1895)",
+  "difficulty": "上級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "ホフマンスタール20歳の夏（1894年）に書かれた三篇のテルツィーネ（三行連句）詩。ダンテの『神曲』が用いたイタリアの詩形式テルツィーナ（ABA BCB CDC…という連鎖韻）をドイツ語に移植した試みであり、ダンテ的な「下降と上昇」ではなく「現在に侵入する過去・自己の不可知性・夢と現実の同質性」というウィーン世紀末の主題を盛り込んでいる。\n\n第I篇「Noch spür ich ihren Atem auf den Wangen（まだわれは頰にその人の息吹を感じる）」：詩は突然始まる——「近い日々がすでに永遠に過ぎ去っている、どうしてそれが可能なのか？」という問いから。時間の不可解さから詩人は「自分自身の幼年期の自己」「先祖たちの亡霊」へと拡張する。「わが固有の自己が……犬のように不気味に黙って見知らぬものとして（Wie ein Hund unheimlich stumm und fremd）われを見る」という自己疎隔の感覚が詩の核心。\n\n第II篇「Die Stunden! wo wir auf das helle Blauen（その時間！われわれが明るい青を見つめるとき）」：海の青を見て死を理解する瞬間——「軽やかに荘厳に、恐れなしに」。「大きな目をした、常に凍えている、青白い少女たち」がある夕べ黙って前を見つめ、生命が身体から樹木と草へと静かに流れ出ていることを知っている比喩。聖女が血を流すように生命が滲み出る——ここでの「死の理解」は恐怖ではなく静かな認識。\n\n第III篇「Wir sind aus solchem Zeug, wie das zu Träumen（われわれは夢を成すような素材から作られている）」：シェイクスピア『テンペスト』IV幕（「われわれはそのような素材からできている / 夢が作られるような」プロスペローの台詞）を意識的に参照しながら、「夢」と「われわれ」の同質性を展開する。さまざまな夢が語られるが——「小さな子供たちが桜の木の下で……」「自分が大きな犬だという夢」——最終行「そして三つは一つ：一人の人間、一つの物、一つの夢（Und drei sind eins: ein Mensch, ein Ding, ein Traum）」がキリスト教的三位一体の語彙を借りて神秘的な同一性を宣言する。\n\n三篇を貫くテーマは「時間・自己・他者の境界の溶解」。現在に侵入してくる過去の感触（頰の息吹）、自己を見知らぬものとして見る分裂、生と死の静かな連続、夢と現実の同質性——これらはホフマンスタール後期の言語批判（「チャンドス卿の手紙」1902年）へと直結する。ゲオルゲ「Das Wort」の言語論と対照して読むと、同世代の二詩人が「言語と現実の関係」をまったく異なる方向から問い詰めていることが際立つ。\n\n歌曲化：ヴォルフガング・フォルトナー（1965、男声とピアノ）、ロベルト・フュルステンタール（歌声とピアノ）、ヤームニツ・シャーンドル op.2（1920年代）ほか。",
+  "keywords": ["テルツィーネ", "無常", "自己疎隔", "夢と現実", "先祖の亡霊", "シェイクスピア参照", "言語と現実", "ウィーン世紀末"],
+  "relatedTexts": [
+    "hofmannsthal_vorfruehling",
+    "george_das_wort",
+    "george_entrueckung",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "I\n\nNoch spür ich ihren Atem auf den Wangen:\nWie kann das sein, daß diese nahen Tage\nFort sind, für immer fort, und ganz vergangen?",
+      "provisionalTranslation": "I\n\nまだわれは頰にその人の息吹を感じる：\nどうしてそれが可能なのか、これほど近い日々が\n過ぎ去った、永遠に過ぎ去って、完全に消えたということが？"
+    },
+    {
+      "id": 2,
+      "originalText": "Dies ist ein Ding, das keiner voll aussinnt,\nUnd viel zu grauenvoll, als daß man klage:\nDaß alles gleitet und vorüberrinnt.",
+      "provisionalTranslation": "これは誰もが完全には考え抜けないことであり、\nあまりにも恐ろしすぎて嘆くことさえできない：\nすべてが滑り、流れ過ぎていくということが。"
+    },
+    {
+      "id": 3,
+      "originalText": "Und daß mein eignes Ich, durch nichts gehemmt,\nHerüberglitt aus einem kleinen Kind\nMir wie ein Hund unheimlich stumm und fremd.",
+      "provisionalTranslation": "そしてわが固有の自己が、何にも妨げられずに\n小さな子供から滑り渡ってきて\n犬のように不気味に黙って見知らぬものとしてわれに向き合う。"
+    },
+    {
+      "id": 4,
+      "originalText": "Dann: daß ich auch vor hundert Jahren war\nUnd meine Ahnen, die im Totenhemd,\nMit mir verwandt sind wie mein eignes Haar,",
+      "provisionalTranslation": "それから：われが百年前にも存在していたこと\nそして死に装束を纏った先祖たちが\nわれ自身の髪の毛と同じようにわれと繋がっていること、"
+    },
+    {
+      "id": 5,
+      "originalText": "So eins mit mir als wie mein eignes Haar.\n\nII\n\nDie Stunden! wo wir auf das helle Blauen\nDes Meeres starren und den Tod verstehn,",
+      "provisionalTranslation": "われ自身の髪の毛と同じほどわれと一つであること。\n\nII\n\nその時間！われわれが海の\n明るい青を見つめて死を理解する時間、"
+    },
+    {
+      "id": 6,
+      "originalText": "So leicht und feierlich und ohne Grauen,\nWie kleine Mädchen, die sehr blaß aussehn,\nMit großen Augen, und die immer frieren,",
+      "provisionalTranslation": "軽やかに荘厳に、そして恐れなしに、\n青白い顔をした小さな少女たちのように、\n大きな目をした、常に凍えている少女たちのように、"
+    },
+    {
+      "id": 7,
+      "originalText": "An einem Abend stumm vor sich hinsehn\nUnd wissen, daß das Leben jetzt aus ihren\nSchlaftrunknen Gliedern still hinüberfließt",
+      "provisionalTranslation": "ある夕べ黙って前を見つめながら\n生命が今、眠りに酔った自分たちの手足から\n静かに流れ出ていることを知っている少女たちのように、"
+    },
+    {
+      "id": 8,
+      "originalText": "In Bäum' und Gras, und sich matt lächelnd zieren\nWie eine Heilige, die ihr Blut vergießt.\n\nIII\n\nWir sind aus solchem Zeug, wie das zu Träumen,",
+      "provisionalTranslation": "樹木と草の中へと、そして疲れたように微笑みながら装う\n自らの血を流す聖女のように。\n\nIII\n\nわれわれは夢を成すような素材から作られている、"
+    },
+    {
+      "id": 9,
+      "originalText": "Und Träume schlagen so die Augen auf\nWie kleine Kinder unter Kirschenbäumen,",
+      "provisionalTranslation": "そして夢は目を開く\n桜の木の下の小さな子供たちのように、"
+    },
+    {
+      "id": 10,
+      "originalText": "Aus deren Augen nichts als Seligkeit.\nUnd jene Stunde, draus sie aufgetaucht,\nVergessen, ganz und gar, und nichts von ihr",
+      "provisionalTranslation": "その目からは至福しか流れ出ない目で。\nそして夢たちが浮かび上がってきたあの時間は\n完全に忘れられ、それについての何も"
+    },
+    {
+      "id": 11,
+      "originalText": "Im ganzen Leben ihnen abgelauscht\nAls diese: daß die Welt so schöne war.",
+      "provisionalTranslation": "生涯を通じて彼らから盗み聞かれなかった\nこれだけを除いては：世界がこれほど美しかったということを。"
+    },
+    {
+      "id": 12,
+      "originalText": "Und daß wir manchmal so zusammen tun,\nAls ob ein Hund träumt, und als läg er schwer\nUnd atmete und hätte Ruh.",
+      "provisionalTranslation": "そしてわれわれは時々こんなことをする、\n犬が夢を見ているかのように、重く横たわり\n息をして安らいでいるかのように。"
+    },
+    {
+      "id": 13,
+      "originalText": "Und drei sind eins: ein Mensch, ein Ding, ein Traum.",
+      "provisionalTranslation": "そして三つは一つ：一人の人間、一つの物、一つの夢。"
+    }
+  ]
+}
