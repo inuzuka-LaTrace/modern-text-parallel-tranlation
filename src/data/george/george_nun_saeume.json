@@ -1,0 +1,37 @@
+{
+  "id": "george_nun_saeume",
+  "title": "Nun säume nicht die gaben zu erhaschen",
+  "author": "Stefan George",
+  "source": "Das Jahr der Seele — Nach der Lese (1897)",
+  "year": "1897",
+  "firstPublication": "Das Jahr der Seele (Georg Bondi, Berlin, 1897)",
+  "difficulty": "中級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★☆",
+  "context": "『魂の年』「Nach der Lese」サイクルの8番目の詩。カイロス（好機の瞬間）の詩。別れの「輝かしい行列（scheidenden gepränges）」が過ぎ去ってしまう前に、その贈り物を急いで受け取るよう「あなた」に促す。灰色の雲が集まり、霧が近づき、嵐の前に野が凍りついてしまう——その前に「最後の善意（lezte güte）」がなお土地を「きらめくダマスク織り（beglänzendem damaste）」で包んでいるうちに。\n\n第2連では折れた枝から「弱いフルートの音（schwaches flöten von zerpflücktem aste）」が聞こえ——自然が最後の息で奏でる音楽——、大地がまだ「きらめくダマスク織り」をまとっていると告げる。第3連では視点が転換し、蜜源の閉じた花芽から飛び去ったスズメバチのイメージから、二人が舟で「青銅色の茶色の葉の群島（bronzebraunen laubes inselgruppen）」をゆっくり巡る場面へ。\n\n「ダマスク織り」「群島」「スズメバチの金緑の鱗」という具体的で官能的なイメージが詩を彩る。好機を逃すまいとする焦りと、それでもなお舟で水面をゆったり進む静けさが同居する。\n\nゲオルゲ独自の正書法として、名詞を含むすべての語を小文字で表記し、句読点に代えてダッシュを用いる。",
+  "keywords": ["カイロス", "秋の終わり", "ダマスク織り", "スズメバチ", "舟の漕ぎ出し", "好機", "嵐の予感", "魂の年"],
+  "relatedTexts": [
+    "george_komm_in_den_park",
+    "george_wir_schreiten",
+    "george_umkreisen_wir",
+    "george_wir_werden"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Nun säume nicht die gaben zu erhaschen\nDes scheidenden gepränges vor der wende –\nDie grauen wolken sammeln sich behende –\nDie nebel können bald uns überraschen.",
+      "provisionalTranslation": "今は躊躇うな、過ぎ去る輝かしい行列の\n転換点の前にその贈り物を掴み取るのを——\n灰色の雲がすばやく集まる——\n霧がじきにわれわれを不意に覆うかもしれない。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ein schwaches flöten von zerpflücktem aste\nVerkündet dir dass lezte güte weise\nDas land (eh es im nahen sturm vereise)\nNoch hülle mit beglänzendem damaste.",
+      "provisionalTranslation": "折られた枝からの弱いフルートの音が\nあなたに告げる——最後の善意が賢くも\n（近づく嵐に凍りつく前に）大地をなお\nきらめくダマスク織りで包んでいると。"
+    },
+    {
+      "id": 3,
+      "originalText": "Die wespen mit den goldengr ünen schuppen\nSind von verschlossnen kelchen fortgeflogen –\nWir fahren mit dem kahn in weitem bogen\nUm bronzebraunen laubes inselgruppen.",
+      "provisionalTranslation": "金緑色の鱗を持つスズメバチたちは\n閉じた花芽から飛び去った——\nわれわれは舟で大きな弧を描いて進む\n青銅色の茶色い葉の群島の周りを。"
+    }
+  ]
+}
