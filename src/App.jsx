@@ -9,7 +9,7 @@ import gautierData from './data/gautier';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
 import georgeData from './data/george';
-import hofmannstahlData from './data/hofmannstahl';
+import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
@@ -131,7 +131,7 @@ export default function App() {
       ...wildeData,
       ...swinburneData,
       ...georgeData,
-　　　　...hofmannstahlData,
+　　　　...hofmannsthalData,
       ...traklData,
     };
     setTexts(allTexts);
@@ -170,7 +170,7 @@ export default function App() {
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     george:                     { name: 'ゲオルゲ' },
-    hofmannstahl:                { name: 'ホフマンスタール' },
+    hofmannsthal:                { name: 'ホフマンスタール' },
     trakl:                      { name: 'トラークル' },
   };
 
@@ -329,7 +329,7 @@ export default function App() {
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     george:                  'ゲオルゲ',
-    hofmannstahl:             'ホフマンスタール',
+    hofmannsthal:            'ホフマンスタール',
     trakl:                   'トラークル',
   };
 
@@ -344,8 +344,8 @@ export default function App() {
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
-    if (cat?.startsWith('hofmannstahl'))  return darkMode ? 'bg-gold-900/40 text-gold-300' : 'bg-gold-100 text-gold-800';
-    if (cat?.startsWith('trakl'))        return darkMode ? 'bg-royalblue-900/40 text-royalblue-300' : 'bg-royalblue-100 text-royalblue-800';
+    if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-gold-900/40 text-gold-300' : 'bg-gold-100 text-gold-800';
+    if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-700-900/40 text-blue-700-300' : 'bg-blue-700-100 text-blue-700-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 
