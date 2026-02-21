@@ -9,7 +9,7 @@ import gautierData from './data/gautier';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
 import georgeData from './data/george';
-import hofmanstahlData from './data/hofmanstahl';
+import hofmannstahlData from './data/hofmannstahl';
 import traklData from './data/trakl';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
@@ -131,7 +131,7 @@ export default function App() {
       ...wildeData,
       ...swinburneData,
       ...georgeData,
-　　　　...hofmanstahlData,
+　　　　...hofmannstahlData,
       ...traklData,
     };
     setTexts(allTexts);
@@ -170,7 +170,7 @@ export default function App() {
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     george:                     { name: 'ゲオルゲ' },
-    hofmanstahl:                { name: 'ホフマンスタール' },
+    hofmannstahl:                { name: 'ホフマンスタール' },
     trakl:                      { name: 'トラークル' },
   };
 
@@ -329,7 +329,7 @@ export default function App() {
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     george:                  'ゲオルゲ',
-    hofmanstahl:             'ホフマンスタール',
+    hofmannstahl:             'ホフマンスタール',
     trakl:                   'トラークル',
   };
 
@@ -344,7 +344,7 @@ export default function App() {
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
-    if (cat?.startsWith('hofmanstahl'))  return darkMode ? 'bg-gold-900/40 text-gold-300' : 'bg-gold-100 text-gold-800';
+    if (cat?.startsWith('hofmannstahl'))  return darkMode ? 'bg-gold-900/40 text-gold-300' : 'bg-gold-100 text-gold-800';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-royalblue-900/40 text-royalblue-300' : 'bg-royalblue-100 text-royalblue-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
