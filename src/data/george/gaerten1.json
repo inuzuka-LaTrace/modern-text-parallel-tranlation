@@ -1,0 +1,34 @@
+{
+  "id": "george_haengenden_gaerten_1",
+  "title": "Unterm schutz von dichten blättergründen",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / I",
+  "context": "シェーンベルク op.15「架空庭園の書」の第1曲。連作全体の序。古代バビロンの「空中庭園」をモデルにした象徴的庭園の全景が描かれる。神話の獣・大理石の噴水・小川の嘆き——豪奢な宮廷庭園の情景の中に、ろうそくで灌木に火が点けられ「白い形たち」が水を割って現れる。これが二人の愛人の予型として読める。シェーンベルクはこの詩を、まだ機能和声の残滓を持ちながらも浮遊する和音で処理し、サイクル全体の出発点とした。",
+  "keywords": [
+    "空中庭園",
+    "神話の獣",
+    "白い形",
+    "序",
+    "宮廷庭園",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Unterm schutz von dichten blättergründen\nWo von sternen feine flocken schneien ·\nSachte stimmen ihre leiden künden ·\nFabeltiere aus den braunen schlünden\nStrahlen in die marmorbecken speien ·\nDraus die kleinen bäche klagend eilen:\nKamen kerzen das gesträuch entzünden ·\nWeisse formen das gewässer teilen.",
+      "provisionalTranslation": "密な葉叢の庇護のもとで\n星たちが細かな雪片を降らせる場所で ·\n柔かな声々が嘆きを告げる ·\n茶色い洞から神話の獣たちが\n大理石の水盤へ光の水を噴く ·\nそこから小さな流れが嘆きながら急ぐ：\n灌木に火を点けるろうそくが来て ·\n白い形たちが水を二つに分ける。"
+    }
+  ]
+}
