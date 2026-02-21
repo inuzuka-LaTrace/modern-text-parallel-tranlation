@@ -1,0 +1,33 @@
+{
+  "id": "george_haengenden_gaerten_8",
+  "title": "Wenn ich heut nicht deinen leib berühre",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / VIII",
+  "context": "op.15 第8曲。愛のクライマックスに向かう直前の緊張。「今日触れられなければ魂の糸が切れる」という肉体的渇望の極限表現。「張りすぎた腱（gespannte sehne）」という比喩は楽器の弦とも読め、音楽的文脈でも機能する。「熱病（fieberheiss）」「よろめき」——シェーンベルクは激しい跳躍音型でこの肉体的危機を表現した。",
+  "keywords": [
+    "身体への渇望",
+    "魂の糸",
+    "熱病",
+    "愛のクライマックス前夜",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wenn ich heut nicht deinen leib berühre\nWird der faden meiner seele reissen\nWie zu sehr gespannte sehne.\nLiebe zeichen seien trauerflöre\nMir der leidet seit ich dir gehöre.\nRichte ob mir solche qual gebühre ·\nKühlung sprenge mir dem fieberheissen\nDer ich wankend draussen lehne.",
+      "provisionalTranslation": "今日そなたの身体に触れられなければ\nわが魂の糸は張りすぎた腱のように\n切れてしまうだろう。\n愛の印が喪の薄絹であってくれ\nそなたのものとなってから苦しんでいるわれのために。\n裁いてくれ、かかる苦悩がわれにふさわしいかを ·\n涼しさを振りかけてくれ、熱病で燃えているわれに\nよろめきながら外に寄り掛かっているわれに。"
+    }
+  ]
+}
