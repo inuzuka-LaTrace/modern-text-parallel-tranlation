@@ -1,0 +1,27 @@
+{
+  "id": "swinburne_cameo",
+  "title": "A Cameo",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, First Series (1866)",
+  "year": "1866",
+  "firstPublication": "Poems and Ballads (Moxon, 1866)",
+  "difficulty": "中級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★☆",
+  "context": "「カメオ（浮き彫り細工）」というタイトルが示すとおり、詩自体が精緻な浮き彫り工芸品の描写として構成された14行詩（変形ソネット）。『詩謡と民謡』第一集（1866年）所収。ゴーティエの「芸術」（L'Art）——大理石、エナメル、宝石の不滅の硬さを詩学の理想とする——に呼応する「芸術のための芸術」宣言詩として読まれる。\n\n構造は八行詩＋六行詩のソネット形式をとりながら、ペトラルカ的な恋愛主題の代わりに「欲望（Desire）」「苦痛（Pain）」「快楽（Pleasure）」「飽食（Satiety）」「罪（Sins）」「死（Death）」という擬人化された抽象概念群が浮き彫り細工の画面を横切るアレゴリーとして描かれる。欲望は「黄金地に赤い血で描かれた」彫像として現れ、その左手首を「満たされることのない飽食」が冷たく握り締める。快楽は痩せこけた手で報酬を掴み、苦痛の肉体は炎のように輝く。六行詩では「感覚と悲嘆と罪」「愛が憎しみの乳房を吸う奇妙な愛」が翼と鰭を翻す獣のように後に続き、最後の一行——「その錠前には"おそらく"と書かれていた」——で詩は終わる。生と死の境界に立つ「死」はあくびをする柵の後ろに立ち、「おそらく（Peradventure）」という不確実性だけを答えとして示す。\n\nゴーティエ『七宝と珠玉（Émaux et Camées）』との影響関係は表題レベルで明示的であり、ボードレール「悪の花」の道徳的擬人化の伝統とも接続する。スウィンバーン特有の暗色の抽象美学の凝縮した実例。",
+  "keywords": ["カメオ", "擬人化", "欲望", "飽食", "芸術のための芸術", "ゴーティエ", "デカダンス", "ソネット"],
+  "relatedTexts": [
+    "swinburne_forsaken_garden",
+    "swinburne_memorial_verses",
+    "baudelaire_reine",
+    "baudelaire_delacroix_1"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "There was a graven image of Desire\nPainted with red blood on a ground of gold\nPassing between the young men and the old,\nAnd by him Pain, whose body shone like fire,\nAnd Pleasure with gaunt hands that grasped their hire.\nOf his left wrist, with fingers clenched and cold,\nThe insatiable Satiety kept hold,\nWalking with feet unshod that pashed the mire.\nThe senses and the sorrows and the sins,\nAnd the strange loves that suck the breasts of Hate\nTill lips and teeth bite in their sharp indenture,\nFollowed like beasts with flap of wings and fins.\nDeath stood aloof behind a gaping grate,\nUpon whose lock was written Peradventure.",
+      "provisionalTranslation": "欲望の彫像があった\n黄金地に赤い血で描かれた、\n若者と老人のあいだを通り過ぎ、\nその傍らには苦痛、その肉体は炎のように輝き、\n快楽は痩せこけた手で報酬を掴んでいた。\nその左手首を、握り締めた冷たい指で、\n満たされることのない飽食が握っていた、\n泥を踏み砕く素足で歩きながら。\n感覚と悲嘆と罪、\nそして憎しみの乳房を吸う奇妙な愛たちが\n唇と歯がその鋭い噛み跡に食い込むまで、\n翼と鰭を翻す獣のように後に続いた。\n死はあくびをする柵の後ろに離れて立ち、\nその錠前には「おそらく」と書かれていた。"
+    }
+  ]
+}
