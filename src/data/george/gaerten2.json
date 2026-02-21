@@ -1,0 +1,33 @@
+{
+  "id": "george_haengenden_gaerten_2",
+  "title": "Hain in diesen paradiesen",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / II",
+  "context": "op.15 第2曲。庭園の豊かさと多様性が列挙されるが、最終行で「しかしわが夢はただ一つのものだけを追う（doch mein traum verfolgt nur eines）」と転換する。鷺・魚の池・鳥の列・金色の藺草という視覚的豊饒さのすべてが、語り手にとって無意味となる瞬間。シェーンベルクの音楽はこの転換を、最終行で突如として和声的停止をもって示す。",
+  "keywords": [
+    "楽園の庭",
+    "夢の焦点",
+    "転換",
+    "多様と一",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Hain in diesen paradiesen\nWechselt ab mit blütenwiesen\nHallen · buntbemalten fliesen.\nSchlanker störche schnäbel kräuseln\nTeiche die von fischen schillern ·\nVögel-reihen matten scheines\nAuf den schiefen firsten trillern\nUnd die goldnen binsen säuseln –\nDoch mein traum verfolgt nur eines.",
+      "provisionalTranslation": "この楽園の中では樹林が\n花咲く草地と交互に連なる\n広間、色とりどりに彩られた石畳の。\nほっそりとした鷺の嘴が\n魚で虹色に輝く池を波立てる ·\n鈍い輝きの鳥の列が\n傾いた棟木でさえずり\n金色の藺草がさやさやと鳴る——\nしかしわが夢はただ一つのものだけを追う。"
+    }
+  ]
+}
