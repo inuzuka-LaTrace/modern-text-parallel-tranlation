@@ -1,0 +1,36 @@
+{
+  "id": "george_haengenden_gaerten_14",
+  "title": "Sprich nicht immer",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / XIV",
+  "context": "op.15 第14曲。連作中最も短い詩（14行）であり、シェーンベルクの設定でも最も短く（11小節・約30秒）、アドルノが「最も先鋭的な曲」と評した。「常に語るな」という命令形——滅び・落葉・マルメロの破砕・年末の破壊者・嵐のトンボ・灯りのちらつき——これらの「移ろいやすさ」の語りを止めよと告げる。皮肉なことに詩自体がそれらを列挙している。シェーンベルクの設定は三全音（es-a-es）を核心動機とし、調性を完全に消去した最も無調的な一曲。アドルノは「連作中で最も先鋭的（avanciertest）」と評した。",
+  "keywords": [
+    "沈黙の命令",
+    "落葉",
+    "マルメロ",
+    "トンボ",
+    "最短の詩",
+    "三全音",
+    "アドルノ",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Sprich nicht immer\nVon dem laub ·\nWindes raub ·\nVom zerschellen\nReifer quitten ·\nVon den tritten\nDer vernichter\nSpät im jahr.\nVon dem zittern\nDer libellen\nIn gewittern\nUnd der lichter\nDeren flimmer\nWandelbar.",
+      "provisionalTranslation": "常に語るな\n落ち葉のことを ·\n風の略奪を ·\n熟れたマルメロが\n砕け散ることを ·\n年の暮れに\n破壊者が\n歩くことを。\n嵐の中で\nトンボが\n震えることを\nそして灯りたちの\nちらつきが\n移ろいやすいことを。"
+    }
+  ]
+}
