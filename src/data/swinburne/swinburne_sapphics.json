@@ -1,0 +1,72 @@
+{
+  "id": "swinburne_sapphics",
+  "title": "Sapphics",
+  "author": "Algernon Charles Swinburne",
+  "source": "Poems and Ballads, First Series (1866)",
+  "year": "1866",
+  "firstPublication": "Poems and Ballads (Moxon, 1866)",
+  "difficulty": "上級",
+  "category": "swinburne",
+  "originalLang": "en-GB",
+  "modernRelevance": "★★★★★",
+  "context": "「サッポー詩形で」という意味のタイトルが示すとおり、詩全体がサッポー詩形（Sapphic metre）——三行の11音節句と一行の短い5音節句（アドニウス）からなる四行連——で書かれている。古代ギリシャのサッポーが発明したこの詩形をラテン語でカトゥルスとホラティウスが採用し、スウィンバーンはそれを英語に移植した。\n\n詩の内容は、眠れぬ夜に語り手がアフロディテの幻視を見る体験を描く。アフロディテはレスボス島のミュティレネーを後に向かいながら飛び去り、その背後でサッポー（「第十のムーサ」）が歌う——九人のムーサたちを沈黙させ、神々さえも青ざめさせるほどの歌を。しかしサッポー自身はアフロディテの涙にも鳩の羽ばたきにも気づかず、レスボスの女たちのあいだで歌の中に生きている。最後の連では、今は亡くレスボスの地が「不毛で音楽だけが満ちる」場所となり、追放された女たちの亡霊が夕暮れの海辺で嘆きの歌を歌い続けていると結ばれる。\n\n詩はサッポーへのオマージュであると同時に、女性同士の愛（「男たちよりも美しい選ばれた者たち、口と口、手に手を重ねて琴越しに口付けするレスボスの女たち」）の讃美詩として、ヴィクトリア朝の詩の中でも特に大胆な作品。ヴェルレーヌの「女友達（Amies）」やボードレール「呪われた女たち（Femmes damnées）」と並んで読まれる。スウィンバーン特有の音楽的反復——「見た（Saw）」「聞いた（Heard）」「見なかった（saw not）」の三重の平行構造——が詩の視覚と聴覚の交錯した法悦状態を作り出す。",
+  "keywords": ["サッポー", "アフロディテ", "サッポー詩形", "レスボス", "女性同士の愛", "ムーサ", "歌の神話", "幻視"],
+  "relatedTexts": [
+    "swinburne_ave_atque_vale",
+    "swinburne_ballad_villon",
+    "swinburne_memorial_verses",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "All the night sleep came not upon my eyelids,\nShed not dew, nor shook nor unclosed a feather,\nYet with lips shut close and with eyes of iron\n   Stood and beheld me.",
+      "provisionalTranslation": "一夜中、眠りはわが瞼の上に来なかった、\n露を降らせず、羽一枚揺らすことも開くこともなく、\nしかし唇を固く閉じ、鉄の目をして\n　　立ってわれを見つめていた。"
+    },
+    {
+      "id": 2,
+      "originalText": "Then to me so lying awake a vision\nCame without sleep over the seas and touched me,\nSoftly touched mine eyelids and lips; and I too,\n   Full of the vision,",
+      "provisionalTranslation": "そのようにして目覚めたまま横たわるわれのもとへ一つの幻視が\n眠りなしに海を越えて来てわれに触れた、\n柔らかくわれの瞼と唇に触れた；そしてわれもまた、\n　　幻視に満たされて、"
+    },
+    {
+      "id": 3,
+      "originalText": "Saw the white implacable Aphrodite,\nSaw the hair unbound and the feet unsandalled\nShine as fire of sunset on western waters;\n   Saw the reluctant\n\nFeet, the straining plumes of the doves that drew her,\nLooking always, looking with necks reverted,\nBack to Lesbos, back to the hills whereunder\n   Shone Mitylene;",
+      "provisionalTranslation": "白く情け容赦ないアフロディテを見た、\n解かれた髪と裸足の足が\n西の水面の夕陽の炎のように輝くのを見た；\n　　後ろ髪を引かれる\n\n足を、彼女を引く鳩の張り詰めた羽を見た、\nいつも振り返り、首を反らして振り返りながら、\nレスボスへ、その麓に\n　　ミュティレネーが輝く丘々へ；"
+    },
+    {
+      "id": 4,
+      "originalText": "Heard the flying feet of the Loves behind her\nMake a sudden thunder upon the waters,\nAs the thunder flung from the strong unclosing\n   Wings of a great wind.\n\nSo the goddess fled from her place, with awful\nSound of feet and thunder of wings around her;\nWhile behind a clamour of singing women\n   Severed the twilight.",
+      "provisionalTranslation": "後ろに続く愛の神々の飛ぶ足が\n水面に突然の雷鳴を轟かせるのを聞いた、\n大風の力強く開く翼から\n　　投げつけられた雷鳴のように。\n\nかくして女神はその場所から逃れた、恐ろしい\n足音と翼の雷鳴を周囲に響かせながら；\n後ろでは歌う女たちの騒めきが\n　　薄明を引き裂いた。"
+    },
+    {
+      "id": 5,
+      "originalText": "Ah the singing, ah the delight, the passion!\nAll the Loves wept, listening; sick with anguish,\nStood the crowned nine Muses about Apollo;\n   Fear was upon them,\n\nWhile the tenth sang wonderful things they knew not.",
+      "provisionalTranslation": "ああ歌声よ、ああ歓喜よ、情熱よ！\n愛の神々はみな泣きながら聴き；苦悩に病んで、\n冠を戴いた九人のムーサたちがアポローンの傍らに立った；\n　　恐怖が彼らの上にあった、\n\n第十が彼らの知らなかった不思議なことを歌う間。"
+    },
+    {
+      "id": 6,
+      "originalText": "Ah the tenth, the Lesbian! the nine were silent,\nNone endured the sound of her song for weeping;\nLaurel by laurel,\nFaded all their crowns; but about her forehead,\nRound her woven raiment and tresses,\nShone a light of fire as a crown for ever.",
+      "provisionalTranslation": "ああ第十の、レスボスの女よ！九人は沈黙し、\n誰も泣かずに彼女の歌声に耐えられなかった；\n月桂樹が次々と、\nすべての冠が色褪せた；しかし彼女の額の周りに、\n織られた衣と髪の束の周りに、\n永遠の冠として炎の光が輝いた。"
+    },
+    {
+      "id": 7,
+      "originalText": "Yea, almost the implacable Aphrodite\nPaused, and almost wept; such a song was that song.\nYea, by her name too\n   Called her, saying, \"Turn to me, O my Sappho;\"\n\nYet she turned her face from the Loves, she saw not\nTears for laughter darken immortal eyelids,\nHeard not about her\n   Fearful fitful wings of the doves departing,\n\nSaw not how the bosom of Aphrodite\nShook with weeping, saw not her shaken raiment,\n   Saw not her hands wrung;",
+      "provisionalTranslation": "そう、情け容赦ないアフロディテでさえほぼ\n立ち止まり、ほぼ泣いた；そのような歌だったのだ、その歌は。\nそう、彼女の名でさえも\n　　呼んだ、「わが方を向いて、おおわがサッポーよ」と；\n\nしかし彼女は愛の神々から顔を背け、見なかった\n不死の瞼を笑いの代わりに涙が暗くするのを、\n聞かなかった、周囲の\n　　去りゆく鳩の恐ろしくて不規則な羽ばたきを、\n\n見なかったアフロディテの胸が\n泣きで震えるのを、見なかった揺れる衣を、\n　　見なかった絞られる両手を；"
+    },
+    {
+      "id": 8,
+      "originalText": "Saw the Lesbians kissing across their smitten\nLutes with lips more sweet than the sound of lute-strings,\nmouth to mouth and hand upon hand, her chosen,\n   Fairer than all men;\n\nOnly saw the beautiful lips and fingers,\nFull of songs and kisses and little whispers,\nFull of music; only beheld among them\n   Soar, as a bird soars\n\nNewly fledged, her visible song, a marvel,\nMade of perfect sound and exceeding passion,\nSweetly shapen, terrible, full of thunders,\n   Clothed with the wind's wings.",
+      "provisionalTranslation": "見た、レスボスの女たちが打ち鳴らされた琴越しに\n琴弦の音より甘い唇で口付けするのを、\n口と口、手に手を重ねて、選ばれた者たちを、\n　　男たちよりも美しい；\n\nただ美しい唇と指だけを見た、\n歌と口付けと小さなささやきに満ちた、\n音楽に満ちた；ただそれらのあいだで\n　　飛翔するのだけを見た、鳥が飛翔するように\n\n初めて羽ばたく、目に見える彼女の歌が、一つの驚異が、\n完全な音と溢れる情熱から成る、\n美しく形作られ、恐ろしく、雷鳴に満ち、\n　　風の翼を纏った。"
+    },
+    {
+      "id": 9,
+      "originalText": "Then rejoiced she, laughing with love, and scattered\nRoses, awful roses of holy blossom;\nThen the Loves thronged sadly with hidden faces\n   Round Aphrodite,\n\nThen the Muses, stricken at heart, were silent;\nYea, the gods waxed pale; such a song was that song.\nAll reluctant, all with a fresh repulsion,\n   Fled from before her.\n\nAll withdrew long since, and the land was barren,\nFull of fruitless women and music only.",
+      "provisionalTranslation": "そのとき彼女は喜び、愛に笑いながら、撒き散らした\n薔薇を、聖なる花の恐ろしい薔薇を；\nそのとき愛の神々は顔を隠して悲しみながら群れた\n　　アフロディテの周りに、\n\nそのとき心を打たれてムーサたちは沈黙した；\nそう、神々は青ざめた；そのような歌だったのだ、その歌は。\n皆後ろ髪を引かれながら、皆新たな反発とともに、\n　　彼女の前から逃れた。\n\n皆はるか以前に退き、土地は不毛になった、\n不実な女たちと音楽だけに満ちた。"
+    },
+    {
+      "id": 10,
+      "originalText": "Now perchance, when winds are assuaged at sunset,\nLulled at the dewfall,\nBy the grey sea-side, unassuaged, unheard of,\nUnbeloved, unseen in the ebb of twilight,\nGhosts of outcast women return lamenting,\n   Purged not in Lethe,\n\nClothed about with flame and with tears, and singing\nSongs that move the heart of the shaken heaven,\nSongs that break the heart of the earth with pity,\n   Hearing, to hear them.",
+      "provisionalTranslation": "今やおそらく、日没に風が和らぎ、\n露の降るころに静まるとき、\n灰色の海辺に、和らがぬまま、語られることなく、\n愛されることなく、薄明の引き潮の中で見えない、\n追放された女たちの亡霊が嘆きながら戻ってくる、\n　　レーテーでも清められぬまま、\n\n炎と涙に包まれて、歌いながら\n揺れ動く天の心を動かす歌を、\n憐れみで大地の心を砕く歌を、\n　　聴くために、彼女たちを聴くために。"
+    }
+  ]
+}
