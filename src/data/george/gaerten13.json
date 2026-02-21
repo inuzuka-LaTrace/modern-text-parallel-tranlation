@@ -1,0 +1,34 @@
+{
+  "id": "george_haengenden_gaerten_13",
+  "title": "Du lehnest wider eine silberweide",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / XIII",
+  "context": "op.15 第13曲。別離の始まり。語り手は舟の中にいて、岸辺の「彼女」を見ている——彼女は舟に乗ることを拒んだ。扇を稲妻のように振る「彼女」の身振りは自己保護であり拒絶の合図。柳が水面に更に垂れ、花々が流れていく——別れの象徴的情景。シェーンベルクはこの距離感を、声とピアノの間に空白を作ることで表現した。",
+  "keywords": [
+    "銀柳",
+    "舟と岸辺",
+    "別離の始まり",
+    "扇",
+    "流れる花",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Du lehnest wider eine silberweide\nAm ufer · mit des fächers starren spitzen\nUmschirmest du das haupt dir wie mit blitzen\nUnd rollst als ob du spieltest dein geschmeide.\nIch bin im boot das laubgewölbe wahren\nIn das ich dich vergeblich lud zu steigen..\nDie weiden seh ich die sich tiefer neigen\nUnd blumen die verstreut im wasser fahren.",
+      "provisionalTranslation": "そなたは銀柳にもたれる\n岸辺で · 扇の硬い先端で\nそなたは頭を稲妻のように護り\nそして装身具を弄ぶように転がす。\nわれは舟の中にいる、葉の天蓋を保ちながら\nわれがそなたに乗り込むよう虚しく誘った舟の中に。\n柳が更に深く傾くのを見る\nそして水の上を散り散りに流れる花々を。"
+    }
+  ]
+}
