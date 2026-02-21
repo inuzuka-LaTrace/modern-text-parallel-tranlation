@@ -1,0 +1,33 @@
+{
+  "id": "george_haengenden_gaerten_3",
+  "title": "Als neuling trat ich ein in dein gehege",
+  "author": "Stefan George",
+  "source": "Das Buch der hängenden Gärten (1895)",
+  "year": "1895",
+  "firstPublication": "Die Bücher der Hirten- und Preisgedichte, der Sagen und Sänge und der hängenden Gärten (Verlag der Blätter für die Kunst, Berlin, Dezember 1895)",
+  "difficulty": "上級",
+  "category": "george",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "opNumber": "op.15 / III",
+  "context": "op.15 第3曲。語り手（若者）が「そなたの囲い（dein gehege）」＝庭園・愛人の領域に初めて踏み込む詩。見る前は何も感じなかった——それが愛の誕生の正確な記述。「若い手を組み合わせる（junge hände faltung）」という祈禱の身振りが、愛を宗教的な帰依として位置づける。シェーンベルクはこの詩を、緊張感のある静けさの中で処理した。",
+  "keywords": [
+    "初めての出会い",
+    "愛の誕生",
+    "新参者",
+    "祈りの身振り",
+    "架空庭園の書"
+  ],
+  "relatedTexts": [
+    "george_das_schoene_beet",
+    "george_entrueckung",
+    "george_das_wort"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Als neuling trat ich ein in dein gehege\nKein staunen war vorher in meinen mienen ·\nKein wunsch in mir eh ich dich blickte rege.\nDer jungen hände faltung sieh mit huld ·\nEinst schone mit erbarmender geduld\nDen der noch strauchelt auf so fremdem stege.",
+      "provisionalTranslation": "新参者としてわれはそなたの囲いの中に入った\nそれ以前、わが表情に驚きはなかった ·\nそなたを見る前にわが中に欲望もなかった。\n若い手を組み合わせるのを恵み深くご覧あれ ·\nどうか憐れみの忍耐でかつて庇ってほしい\nかくも見知らぬ渡り板の上でまだ躓く者を。"
+    }
+  ]
+}
