@@ -1,0 +1,43 @@
+{
+  "id": "trakl_verfall",
+  "title": "Verfall",
+  "author": "Georg Trakl",
+  "source": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "year": "1909",
+  "firstPublication": "Der Brenner (Innsbruck, 1912) / Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "color": "blue-700",
+  "modernRelevance": "★★★★★",
+  "context": "トラークル22歳頃の作。1912年にインスブルックの文芸誌「Der Brenner」に発表され、翌1913年の詩集「Gedichte」（Kurt Wolff Verlag）に収録された。トラークルの詩の中でほぼ唯一の完全なソネット形式を保つ作品であり、表現主義詩人としてのトラークルが象徴主義の伝統的詩形をいかに受容・変形したかを示す点で重要。\n\n詩の構造はイタリア式ソネット（ペトラルカ形式）に近い——第1・2クヴァルテット（四行連）が観察と夢想を描き、第1・2テルツェット（三行連）が転換をもたらす。しかし韻律は ABBA ABBA の包み韻に始まりながら、テルツェットでは CDC EDE という変形クロス韻に崩れる。この「形式の亀裂」そのものが「頽廃（Verfall）」という主題の身体化である。\n\n内容の二部構造も鮮明。前半（両クヴァルテット）：夕べの鐘が平和を告げる中、語り手は渡り鳥の「より明るい運命（hellere Geschicken）」を夢見て空へと追う——時計の針が止まったかのような時間の弛緩。後半（両テルツェット）：「頽廃の気息」が語り手を戦慄させるとともに、クロウタドリが枯れ木で嘆き、赤い葡萄の蔦が錆びた格子で揺れ、そして最終行——「蒼白い子どもたちの死の輪舞のように、風の中に震えながら青いアスターが傾く（Im Wind sich fröstelnd blaue Astern neigen）」。\n\n「青いアスター」はトラークルの詩全体を貫く中心象徴の一つ。青（blau）はトラークル語彙において霊的純潔・死・抒情的距離が複合した色であり、「蒼白い子どもたち」「死の輪舞」「風の震え」と重ねられることで、美と滅びの不可分性を一語に凝縮する。ゲオルゲ「Komm in den totgesagten park」が秋の公園に隠れた生を発見するのに対し、トラークルの公園は死の舞踏に満ちている——同じ「秋の庭」という素材からの二方向への分岐。\n\n歌曲化：Stefan Heucke op.1 no.1（1978/80、高声と弦楽五重奏）、Felix Wolfes（1953）、Steffen Schleiermacher（1984/85、無伴奏合唱）ほか。",
+  "keywords": ["頽廃", "秋", "ソネット", "青いアスター", "渡り鳥", "死の輪舞", "鐘", "象徴主義から表現主義へ", "クロウタドリ"],
+  "relatedTexts": [
+    "trakl_de_profundis",
+    "george_komm_in_den_park",
+    "george_wir_werden",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Am Abend, wenn die Glocken Frieden läuten,\nFolg ich der Vögel wundervollen Flügen,\nDie lang geschart, gleich frommen Pilgerzügen,\nEntschwinden in den herbstlich klaren Weiten.",
+      "provisionalTranslation": "夕べ、鐘が平和を告げるとき、\nわれは鳥たちの不思議な飛翔に続く、\n長く連なり、敬虔な巡礼の列のように、\n秋の澄んだ遠方へと消えていく鳥たちに。"
+    },
+    {
+      "id": 2,
+      "originalText": "Hinwandelnd durch den dämmervollen Garten\nTräum ich nach ihren helleren Geschicken\nUnd fühl der Stunden Weiser kaum mehr rücken.\nSo folg ich über Wolken ihren Fahrten.",
+      "provisionalTranslation": "薄明に満ちた庭を歩きながら\nわれは彼らのより明るい運命を夢見る\nそして時計の針がほとんど動かなくなったように感じる。\nそのようにして雲の上で彼らの旅に続く。"
+    },
+    {
+      "id": 3,
+      "originalText": "Da macht ein Hauch mich von Verfall erzittern.\nDie Amsel klagt in den entlaubten Zweigen.\nEs schwankt der rote Wein an rostigen Gittern,",
+      "provisionalTranslation": "その時、頽廃の気息がわれを戦慄させる。\nクロウタドリが葉を落とした枝で嘆く。\n赤い葡萄の蔦が錆びた格子で揺れる、"
+    },
+    {
+      "id": 4,
+      "originalText": "Indes wie blasser Kinder Todesreigen\nUm dunkle Brunnenränder, die verwittern,\nIm Wind sich fröstelnd blaue Astern neigen.",
+      "provisionalTranslation": "その間に、蒼白い子どもたちの死の輪舞のように\n風化する暗い泉の縁の周りで、\n風の中に震えながら青いアスターが傾く。"
+    }
+  ]
+}
