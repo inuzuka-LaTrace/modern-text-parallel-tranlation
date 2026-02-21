@@ -1,6 +1,6 @@
 {
-  "id": "swinburne_cameo",
-  "title": "A Cameo",
+  "id": "swinburne_garden_of_proserpine",
+  "title": "The Garden of Proserpine",
   "author": "Algernon Charles Swinburne",
   "source": "Poems and Ballads, First Series (1866)",
   "year": "1866",
@@ -8,20 +8,75 @@
   "difficulty": "中級",
   "category": "swinburne",
   "originalLang": "en-GB",
-  "modernRelevance": "★★★★☆",
-  "context": "「カメオ（浮き彫り細工）」というタイトルが示すとおり、詩自体が精緻な浮き彫り工芸品の描写として構成された14行詩（変形ソネット）。『詩謡と民謡』第一集（1866年）所収。ゴーティエの「芸術」（L'Art）——大理石、エナメル、宝石の不滅の硬さを詩学の理想とする——に呼応する「芸術のための芸術」宣言詩として読まれる。\n\n構造は八行詩＋六行詩のソネット形式をとりながら、ペトラルカ的な恋愛主題の代わりに「欲望（Desire）」「苦痛（Pain）」「快楽（Pleasure）」「飽食（Satiety）」「罪（Sins）」「死（Death）」という擬人化された抽象概念群が浮き彫り細工の画面を横切るアレゴリーとして描かれる。欲望は「黄金地に赤い血で描かれた」彫像として現れ、その左手首を「満たされることのない飽食」が冷たく握り締める。快楽は痩せこけた手で報酬を掴み、苦痛の肉体は炎のように輝く。六行詩では「感覚と悲嘆と罪」「愛が憎しみの乳房を吸う奇妙な愛」が翼と鰭を翻す獣のように後に続き、最後の一行——「その錠前には"おそらく"と書かれていた」——で詩は終わる。生と死の境界に立つ「死」はあくびをする柵の後ろに立ち、「おそらく（Peradventure）」という不確実性だけを答えとして示す。\n\nゴーティエ『七宝と珠玉（Émaux et Camées）』との影響関係は表題レベルで明示的であり、ボードレール「悪の花」の道徳的擬人化の伝統とも接続する。スウィンバーン特有の暗色の抽象美学の凝縮した実例。",
-  "keywords": ["カメオ", "擬人化", "欲望", "飽食", "芸術のための芸術", "ゴーティエ", "デカダンス", "ソネット"],
+  "modernRelevance": "★★★★★",
+  "context": "「プロセルピナの庭」は『詩謡と民謡』第一集（1866年）所収。全12連・各8行（abab/cccb韻）の構成。プロセルピナ（ペルセポネーのラテン語名）はデメテルの娘にして冥界の王プルートーの妻であり、大地は彼女が地上にいる半年（春夏）のみ実り、地下に戻る半年（秋冬）には枯れる。スウィンバーンの詩では、この神話の春の再生面は意図的に抑制され、永遠の眠りと死の静寂の女神としてのプロセルピナだけが前景化される。\n\n詩の主題はヴィクトリア朝の信仰の危機——ダーウィン進化論の衝撃後に拡がった、キリスト教的死後世界への疑念——であり、語り手は「死者は再び蘇らない（dead men rise up never）」と明言することでキリスト教の復活信仰を正面から否定する。代わりに提示される死のイメージは「永遠の眠り」「川が海に静かに流れ込む自然な合一」——苦悩の消滅としての解放だ。\n\n詩はスウィンバーンの最もよく知られた連句で締めくくられる：「どんな生命も永遠には生きない / 死者は再び蘇らない / 疲れ果てた川でさえ / どこか海へと安全に流れ着く」。この最終三連（11連末四行）は、ルモニー・スニケットの小説シリーズ『世にも不幸なできごと』で謎のモットー「世界はここで静かだ（The World is Quiet Here）」の原型として引用されたことで新世代の読者にも知られる。\n\n英語デカダンス詩における「愛・美・生の疲弊と死への渇望」の最も端正な表現のひとつ。「エア・ヴァーグネール」（1861）でボードレールが見出した「疲労と渇望」の美学に直接対応する。",
+  "keywords": ["プロセルピナ", "死と眠り", "信仰の危機", "永遠の安息", "ヴィクトリア朝", "異教", "疲弊", "川と海"],
   "relatedTexts": [
     "swinburne_forsaken_garden",
-    "swinburne_memorial_verses",
-    "baudelaire_reine",
-    "baudelaire_delacroix_1"
+    "swinburne_ave_atque_vale",
+    "wilde_sphinx",
+    "baudelaire_romantisme_complet"
   ],
   "paragraphs": [
     {
       "id": 1,
-      "originalText": "There was a graven image of Desire\nPainted with red blood on a ground of gold\nPassing between the young men and the old,\nAnd by him Pain, whose body shone like fire,\nAnd Pleasure with gaunt hands that grasped their hire.\nOf his left wrist, with fingers clenched and cold,\nThe insatiable Satiety kept hold,\nWalking with feet unshod that pashed the mire.\nThe senses and the sorrows and the sins,\nAnd the strange loves that suck the breasts of Hate\nTill lips and teeth bite in their sharp indenture,\nFollowed like beasts with flap of wings and fins.\nDeath stood aloof behind a gaping grate,\nUpon whose lock was written Peradventure.",
-      "provisionalTranslation": "欲望の彫像があった\n黄金地に赤い血で描かれた、\n若者と老人のあいだを通り過ぎ、\nその傍らには苦痛、その肉体は炎のように輝き、\n快楽は痩せこけた手で報酬を掴んでいた。\nその左手首を、握り締めた冷たい指で、\n満たされることのない飽食が握っていた、\n泥を踏み砕く素足で歩きながら。\n感覚と悲嘆と罪、\nそして憎しみの乳房を吸う奇妙な愛たちが\n唇と歯がその鋭い噛み跡に食い込むまで、\n翼と鰭を翻す獣のように後に続いた。\n死はあくびをする柵の後ろに離れて立ち、\nその錠前には「おそらく」と書かれていた。"
+      "originalText": "Here, where the world is quiet;\nHere, where all trouble seems\nDead winds' and spent waves' riot\nIn doubtful dreams of dreams;\nI watch the green field growing\nFor reaping folk and sowing,\nFor harvest-time and mowing,\nA sleepy world of streams.",
+      "provisionalTranslation": "ここ、世界が静かなところ；\nここ、すべての悩みが\n死んだ風と使い果たした波の騒ぎに\n思えるところ、疑わしい夢の夢の中で；\nわたしは青い野が育つのを眺める\n刈り取る人と種まく人のために、\n収穫の季節と草刈りのために、\n流れの眠そうな世界を。"
+    },
+    {
+      "id": 2,
+      "originalText": "I am tired of tears and laughter,\nAnd men that laugh and weep;\nOf what may come hereafter\nFor men that sow to reap:\nI am weary of days and hours,\nBlown buds of barren flowers,\nDesires and dreams and powers\nAnd everything but sleep.",
+      "provisionalTranslation": "わたしは涙と笑いに疲れた、\n笑い泣きする男たちにも；\n後に何が来るかということにも\n種を蒔いて刈る男たちのために：\nわたしは日々と時間に疲れ果てた、\n吹き飛ばされた不毛な花の蕾、\n欲望と夢と力、\nそして眠り以外のすべてに。"
+    },
+    {
+      "id": 3,
+      "originalText": "Here life has death for neighbour,\nAnd far from eye or ear\nWan waves and wet winds labour,\nWeak ships and spirits steer;\nThey drive adrift, and whither\nThey wot not who make thither;\nBut no such winds blow hither,\nAnd no such things grow here.",
+      "provisionalTranslation": "ここでは生命は死を隣人とし、\n目からも耳からも遠く\n青白い波と湿った風が労し、\n弱い船と精神が舵を取る；\n彼らは漂流する、そしてどこへ\n向かうかも知らずに目指す者たちも；\nしかしここには風は吹いてこない、\nそしてここではそのようなものは育たない。"
+    },
+    {
+      "id": 4,
+      "originalText": "No growth of moor or coppice,\nNo heather-flower or vine,\nBut bloomless buds of poppies,\nGreen grapes of Proserpine,\nPale beds of blowing rushes\nWhere no leaf blooms or blushes\nSave this whereout she crushes\nFor dead men deadly wine.",
+      "provisionalTranslation": "荒野や雑木林の植物もなく、\nヒースの花も葡萄の木もなく、\nただ花咲かぬ罌粟の蕾と、\nプロセルピナの緑の葡萄、\n揺れる藺草の青白い床が、\nどの葉も花咲かず紅潮せず\nただこれだけが彼女が搾り取る\n死者のための致死の葡萄酒を。"
+    },
+    {
+      "id": 5,
+      "originalText": "Pale, without name or number,\nIn fruitless fields of corn,\nThey bow themselves and slumber\nAll night till light is born;\nAnd like a soul belated,\nIn hell and heaven unmated,\nBy cloud and mist abated\nComes out of darkness morn.",
+      "provisionalTranslation": "青白く、名も数もなく、\n実らない麦畑で、\n彼らは身を屈めて眠る\n光が生まれるまで一晩中；\nそして遅れた魂のように、\n地獄にも天国にも連れ合いなく、\n雲と霞に和らげられて\n暗闇から朝が出てくる。"
+    },
+    {
+      "id": 6,
+      "originalText": "Though one were strong as seven,\nHe too with death shall dwell,\nNor wake with wings in heaven,\nNor weep for pains in hell;\nThough one were fair as roses,\nHis beauty clouds and closes;\nAnd well though love reposes,\nIn the end it is not well.",
+      "provisionalTranslation": "たとえ七人分の強さを持つ者でも、\n彼も死とともに住まうことになる、\n翼を持って天国で目覚めるのでも、\n地獄の苦しみに涙するのでもなく；\nたとえ薔薇のように美しい者でも、\nその美は曇り閉じていく；\n愛がいかによく休らうとも、\n終わりにはそれは良くはない。"
+    },
+    {
+      "id": 7,
+      "originalText": "Pale, beyond porch and portal,\nCrowned with calm leaves, she stands\nWho gathers all things mortal\nWith cold immortal hands;\nHer languid lips are sweeter\nThan love's who fears to greet her\nTo men that mix and meet her\nFrom many times and lands.",
+      "provisionalTranslation": "青白く、玄関廊と門の彼方に、\n静かな葉の冠を戴いて、彼女は立つ\nすべての死すべきものを集める者が\n冷たく不死の手で；\nその物憂げな唇は甘い\n彼女に会うことを恐れる愛よりも\n多くの時代と土地から\n彼女のもとへ交わり出会う男たちにとっては。"
+    },
+    {
+      "id": 8,
+      "originalText": "She waits for each and other,\nShe waits for all men born;\nForgets the earth her mother,\nThe life of fruits and corn;\nAnd spring and seed and swallow\nTake wing for her and follow\nWhere summer song rings hollow\nAnd flowers are put to scorn.",
+      "provisionalTranslation": "彼女はそれぞれを待ち、\n生まれたすべての人を待つ；\n大地である母を忘れ、\n果物と麦の生命を；\nそして春と種と燕が\n彼女のために翼を広げ従う\n夏の歌が空ろに響き\n花々が嘲られるところへ。"
+    },
+    {
+      "id": 9,
+      "originalText": "There go the loves that wither,\nThe old loves with wearier wings;\nAnd all dead years draw thither,\nAnd all disastrous things;\nDead dreams of days forsaken,\nBlind buds that snows have shaken,\nWild leaves that winds have taken,\nRed strays of ruined springs.",
+      "provisionalTranslation": "そこへ萎れた愛たちが向かう、\n疲れた翼を持つ古い愛たちが；\nすべての死んだ年々がそこへ引き寄せられ、\nすべての災いのものたちも；\n見捨てられた日々の死んだ夢、\n雪が揺さぶった盲目の蕾、\n風が運び去った野生の葉、\n廃れた春の赤い迷い子たち。"
+    },
+    {
+      "id": 10,
+      "originalText": "We are not sure of sorrow,\nAnd joy was never sure;\nToday will die tomorrow;\nTime stoops to no man's lure;\nAnd love, grown faint and fretful,\nWith lips but half regretful\nSighs, and with eyes forgetful\nWeeps that no loves endure.",
+      "provisionalTranslation": "われわれは悲しみを確かとしない、\nそして喜びも確かだったことはない；\n今日は明日死ぬ；\n時は誰の誘いにも屈しない；\nそして愛は、弱り苛立って、\n半ばだけ後悔する唇で\nため息をつき、忘れっぽい目で\nどんな愛も続かないことに涙する。"
+    },
+    {
+      "id": 11,
+      "originalText": "From too much love of living,\nFrom hope and fear set free,\nWe thank with brief thanksgiving\nWhatever gods may be\nThat no life lives for ever;\nThat dead men rise up never;\nThat even the weariest river\nWinds somewhere safe to sea.",
+      "provisionalTranslation": "生きることへの愛しすぎから、\n希望と恐怖から解き放たれて、\nわれわれは短い感謝とともに感謝する\nいかなる神々であれ\nどんな生命も永遠には生きないことを；\n死者は再び蘇らないことを；\n疲れ果てた川でさえも\nどこか海へと安全に流れ着くことを。"
+    },
+    {
+      "id": 12,
+      "originalText": "Then star nor sun shall waken,\nNor any change of light:\nNor sound of waters shaken,\nNor any sound or sight:\nNor wintry leaves nor vernal,\nNor days nor things diurnal;\nOnly the sleep eternal\nIn an eternal night.",
+      "provisionalTranslation": "そのとき星も太陽も目覚めさせず、\n光のいかなる変化もなく：\n揺れる水の音もなく、\nいかなる音も光景もなく：\n冬の葉も春の葉もなく、\n日々も日中のものも何もなく；\nただ永遠の眠りだけが\n永遠の夜の中に。"
     }
   ]
 }
