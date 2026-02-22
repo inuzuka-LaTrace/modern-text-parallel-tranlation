@@ -1,0 +1,54 @@
+{
+  "id": "hofmannsthal_manche_freilich",
+  "title": "Manche freilich …",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Die Gedichte: Ausgabe 1924 (in: Gesammelte Werke. Erste Reihe in drei Bänden, Band 1, Berlin 1924)",
+  "year": "1895",
+  "firstPublication": "Blätter für die Kunst (Berlin, Dritte Folge, 2. Band, März 1896)",
+  "difficulty": "上級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1895/96年作（ホフマンスタール21～22歳）、Blätter für die Kunst（Berlin, Dritte Folge, 2. Band, März 1896）初出、Gesammelte Werke Ausgabe 1924収録。4連20行（4+6+4+6行）。Rudolf Borchardtが1926年のアンソロジー「Ewiger Vorrat deutscher Poesie」に「Schicksalslied（運命の歌）」として収録して広く普及した。poemlakeコム・deutschelyrik・gedichte7・mein-lernen・bruchstuecke・harpers・lieder.net・wisc.edu・hor.de の9ソース完全一致確定。1907年4月22日、ホフマンスタール自身がウィーンのフォノグラム・アーカイブ（Phonogrammarchiv）でこの詩を朗読した録音が現存。\n\n**構造：4連と二つの世界**\n詩は「drunten（下に）／droben（上に）」という空間的対立を軸に展開する。前半2連が二つの連命の対照を描き、第3連が「影（Schatten）」による両者の秘密の結合を示し、第4連で「ich（私）」が初めて登場して詩人としての連帯と使命を宣言する。\n\n**第1連：二つの場所**\n古代ガレー船の船底の潏ぎ手と、上の舶従って鳥を占う者の対照。「Vogelflug（鳥の飛翔）」は古代占い（augury）への参照。\n\n**第2連：下の者たちの重さとシビュラ**\n「manche liegen immer mit schweren Gliedern / Bei den Wurzeln des verworrenen Lebens（惑れた生の根元に常に重い四肢で横たわっている）」。「Andern sind die Stühle gerichtet / Bei den Sibyllen, den Königinnen（他の者たちのためには席が用意されている、シビュラたちのもとに、女王たちのもとに）」——「Stühle gerichtet」はゲーテ「アウリスのイフィゲニエ」IV,5のパルツェンの歌への参照。「leichten Hauptes und leichter Hände（軽い頭で軽い手で）」が第1連の「schwer」と対照する。\n\n**第3連：影による結合**\n「影」が上から下へ「落ちる（fällt）」——光ではなく「影」が落ちるという逆転。「軽い者たちは重い者たちに、空気と大地のように結ばれている」——上下の結合は「自然的」でさえあるという逆説的認識。\n\n**第4連：詩人の登場と使命**\n「Ganz vergessener Völker Müdigkeiten / Kann ich nicht abtun von meinen Lidern（すっかり忘れられた民族たちの疲労を、私は自分の瑪こうら払うことができない）」——感受性による歴史的連帯。「Stummes Niederfallen ferner Sterne（遠い星々の無言の落下）」を「驚いた魂」から遠ざけることもできない。「Viele Geschicke weben neben dem meinen（多くの運命が私のものと並んで織られている）」。最終行「私の分け前はこの生の細い炎あるいは細い繭琴よりも多い（Und mein Teil ist mehr als dieses Lebens / Schlanke Flamme oder schmale Leier）」——「schmale Leier（細い繭琴）」はl’art pour l’artの象徴。「mehr」の内実は語られず、問いとして読者に残される。",
+  "keywords": [
+    "下と上",
+    "ガレー船",
+    "シビュラ",
+    "もつれた生の根元",
+    "影による結合",
+    "忘れられた民族の疲労",
+    "遠い星の落下",
+    "細い繭琴",
+    "Schicksalslied",
+    "1907年自筆録音"
+  ],
+  "relatedTexts": [
+    "hofmannsthal_ballade",
+    "hofmannsthal_weltgeheimnis",
+    "hofmannsthal_terzinen",
+    "hofmannsthal_erlebnis",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Manche freilich müssen drunten sterben,\nWo die schweren Ruder der Schiffe streifen,\nAndre wohnen bei dem Steuer droben,\nKennen Vogelflug und die Länder der Sterne.",
+      "provisionalTranslation": "ある人々は確かに下で死ななければならない、\n重い船の毛が掛る場所で、\n他の者たちは上の舶のそばに住み、\n鳥の飛翔と星々の国を知っている。"
+    },
+    {
+      "id": 2,
+      "originalText": "Manche liegen immer mit schweren Gliedern\nBei den Wurzeln des verworrenen Lebens,\nAndern sind die Stühle gerichtet\nBei den Sibyllen, den Königinnen,\nUnd da sitzen sie wie zu Hause,\nLeichten Hauptes und leichter Hände.",
+      "provisionalTranslation": "惑れた生の根元に常に重い四肢で\n横たわっている者たちもいる、\n他の者たちのためには席が用意されている\nシビュラたちのもとに、女王たちのもとに、\nそしてそこで彼らはわが家のように座っている、\n軽い頭で軽い手で。"
+    },
+    {
+      "id": 3,
+      "originalText": "Doch ein Schatten fällt von jenen Leben\nIn die anderen Leben hinüber,\nUnd die leichten sind an die schweren\nWie an Luft und Erde gebunden:",
+      "provisionalTranslation": "しかし彼らの生から影が\n他の生へと落ちてくる、\nそして軽い者たちは重い者たちに、\n空気と大地のように結ばれている："
+    },
+    {
+      "id": 4,
+      "originalText": "Ganz vergessener Völker Müdigkeiten\nKann ich nicht abtun von meinen Lidern,\nNoch weghalten von der erschrockenen Seele\nStummes Niederfallen ferner Sterne.\nViele Geschicke weben neben dem meinen,\nDurcheinander spielt sie alle das Dasein,\nUnd mein Teil ist mehr als dieses Lebens\nSchlanke Flamme oder schmale Leier.",
+      "provisionalTranslation": "すっかり忘れられた民族たちの疲労を\n私は自分の瑪こうら払うことができない、\n驚いた魂から遠ざけることもできない\n遠い星々の無言の落下を。\n多くの運命が私のものと並んで織られている、\n存在がそれらすべてを入り混じって演じる、\nそして私の分け前はこの生の\n細い炎あるいは細い繭琴よりも多い。"
+    }
+  ]
+}
