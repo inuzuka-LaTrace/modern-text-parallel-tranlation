@@ -1,0 +1,37 @@
+{
+  "id": "trakl_grodek",
+  "title": "Grodek",
+  "author": "Georg Trakl",
+  "source": "Offenbarung und Untergang (Nachlass, in: Das dichterische Werk, München, 1972)",
+  "year": "1914",
+  "firstPublication": "Der Brenner (Innsbruck, 1. Dezember 1914) / Offenbarung und Untergang (遺稿)",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1914年9月、ガリチア（現在のウクライナ）のグロデク（Gródek）の戦いの直後に書かれたトラークルの絶筆、あるいは絶筆に最も近い詩。1914年8月の第一次世界大戦開戦とともに召集されたトラークルは、k.u.k.（オーストリア＝ハンガリー帝国）陸軍の衛生准尉として東部戦線に送られた。グロデクの戦い（1914年9月）はオーストリア軍がロシア軍に大敗した最初の大規模戦闘の一つ。トラークルは一人で90名の重傷兵を小屋の中で看護する立場に置かれ、麻酔薬もなく治療不能の状態の中で、一人の負傷兵が頭を撃ち抜いて死ぬのを目撃した。外に飛び出すと、木々に吊るされた死体の列が並んでいた。この体験に続く精神崩壊から自殺を図り、クラクフの軍病院精神病棟に移送され、1914年11月4日にコカインの過剰摂取で死亡した（享年27歳、意図的かどうかは不明）。「Grodek」は彼の死後、1914年12月1日の「Der Brenner」に掲載された。\n\n2つの稿が存在する。第1稿（手稿、現在はオーストリア国立図書館蔵）と第2稿（友人ルートヴィヒ・フィッカーへの手紙に同封）。第2稿が決定版として広く収録され、本ファイルもこれに依拠する。主な異同は第2行（「goldnen Ebenen」vs「goldenen Ebenen」）と第7行（「stille sammelt」vs「Stille sammelt」——小文字か大文字か）。\n\n形式：17行の自由詩、無韻、無規則拍。行の長さは不均等で、句読点（セミコロン）が意図的に文を途中で切断する。ほぼすべての行が名詞で終わるが、第8行「Ein zürnender Gott（怒れる神）」のみが動詞で終わり、この行だけが詩全体のパターンを破る例外——神の怒りが文法的規則さえ歪める。\n\n内容の三段階：第1〜6行——夕べの森が致命的武器の音を響かせ、黄金の平野と青い湖の上を太陽が陰鬱に転がり、夜が死にかけの兵士たちと「砕かれた口の野性の嘆き（die wilde Klage ihrer zerbrochenen Münder）」を包む。第7〜10行——柳の谷で赤い雲が静かに集まり、「怒れる神が住む」赤い雲が流された血と月の冷気を集め、「すべての道が黒い腐敗に通じる（Alle Straßen münden in schwarze Verwesung）」。第11〜18行——夜の黄金の枝と星の下で「妹の影（der Schwester Schatten）」が沈黙の林を揺れながら歩き、英雄たちの霊と「血みどろの頭」に挨拶し、葦の中で秋の暗いフルートが低く鳴る。「ああ、誇り高き悲しみよ！青銅の祭壇よ——精神の熱い炎を今日は巨大な痛みが養う、生まれていない孫たちが（Die ungebornen Enkel）」。\n\n「妹の影」はトラークル詩全体で繰り返される中心的人物。実際の妹グレーテとの禁断の近親相姦的関係が伝記的に指摘されるが、詩的機能としては純潔・慰め・死者の間の媒介者として現れる。「すべての道が黒い腐敗に通じる」は英語圏で最も引用される行であり、Millingtonが「トラークルの詩業全体のテーマの最も簡潔な表現」と評した。「生まれていない孫たち」の最終行は「未来世代の抹消」を示し、詩を個人の死の歌から文明的カタストロフへと開く。詩は一人称を一度も使わず、前線詩としておそらく史上最も「非人称的」な作品（Millington）。\n\nRichard Millington（germanlit.sites.google.com）の分析、Wikipedia独語版詳細、zeno.org収録テキストで三重照合済み。歌曲化・管弦楽化：Heinz Winbeck 交響曲第3番（1985）、Manfred Trojahn「Grodek」（声とアンサンブル、1993）、Volker David Kirchner「Grodek」（1980）ほか。",
+  "keywords": ["絶筆", "戦争詩", "グロデクの戦い", "妹の影", "黒い腐敗", "生まれていない孫", "砕かれた口", "怒れる神", "青銅の祭壇", "第一次世界大戦"],
+  "relatedTexts": [
+    "trakl_abendlaendisches_lied",
+    "trakl_de_profundis",
+    "trakl_verfall",
+    "trakl_an_novalis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Am Abend tönen die herbstlichen Wälder\nVon tödlichen Waffen, die goldnen Ebenen\nUnd blauen Seen, darüber die Sonne\nDüstrer hinrollt; umfängt die Nacht\nSterbende Krieger, die wilde Klage\nIhrer zerbrochenen Münder.",
+      "provisionalTranslation": "夕べ、秋の森が響き渡る\n致命的な武器の音に、黄金の平野と\n青い湖の上を太陽が\n一層陰鬱に転がる；夜が包む\n死にかけの兵士たちを、野性の嘆きを\n砕かれた口々の。"
+    },
+    {
+      "id": 2,
+      "originalText": "Doch stille sammelt im Weidengrund\nRotes Gewölk, darin ein zürnender Gott wohnt\nDas vergossne Blut sich, mondne Kühle;\nAlle Straßen münden in schwarze Verwesung.",
+      "provisionalTranslation": "しかし柳の谷で静かに集まる\n赤い雲が、そこに怒れる神が住む\n流された血が、月の冷気が；\nすべての道が黒い腐敗に通じる。"
+    },
+    {
+      "id": 3,
+      "originalText": "Unter goldnem Gezweig der Nacht und Sternen\nEs schwankt der Schwester Schatten durch den schweigenden Hain,\nZu grüßen die Geister der Helden, die blutenden Häupter;\nUnd leise tönen im Rohr die dunkeln Flöten des Herbstes.\nO stolzere Trauer! ihr ehernen Altäre\nDie heiße Flamme des Geistes nährt heute ein gewaltiger Schmerz,\nDie ungebornen Enkel.",
+      "provisionalTranslation": "夜と星々の黄金の枝の下で\n妹の影が沈黙の林を揺れながら歩く、\n英雄たちの霊に、血みどろの頭に挨拶するために；\nそして葦の中で秋の暗いフルートが低く鳴る。\nああ、誇り高き悲しみよ！青銅の祭壇よ\n精神の熱い炎を今日は巨大な痛みが養う、\n生まれていない孫たちが。"
+    }
+  ]
+}
