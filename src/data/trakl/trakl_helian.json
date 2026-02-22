@@ -1,0 +1,103 @@
+{
+  "id": "trakl_helian",
+  "title": "Helian",
+  "author": "Georg Trakl",
+  "source": "Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "year": "1912",
+  "firstPublication": "Der Brenner (Innsbruck, August 1912) / Gedichte (Kurt Wolff Verlag, Leipzig, 1913)",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1912年春〜夏に書かれ、Der Brenner 1912年8月号に掲載後、Gedichte（1913）の最終詩として置かれた。75行16段落という規模はトラークルの詩の中で最長のもの（散文詩「Traum und Umnachtung」を詩形式で比較した場合）。ルートヴィヒ・フォン・フィッカーは「これはトラークルのすべての詩の中で最も完璧な作品」と評し、ゲオルク・ブッフナー賞受賞者ペーター・ハントケも「Helian」を繰り返し参照している。\n\n**名前の由来**：「Helian」という名は実在の人物や神話的存在に直接対応しない詩人の造語。語根「Hel-」はギリシア語「Helios（太陽）」を、「-ian」は「Julian（ユリアヌス）」「Sebastian」などのキリスト教殉教者名の語尾を示す。「太陽の殉教者」「光の息子」という合成的意味を持ち、異教（古代ギリシア）とキリスト教の融合を名前の構造そのものが体現する。詩中に現れる「パンの息子（Sohn des Pan）」（第1段落）はこの異教性の直接表現。\n\n**構成の概観**：詩は循環構造を持つ。第1〜3段落：夏・夕べのテラス・夜の静けさという牧歌的世界。第4〜6段落：秋の訪れ・収穫・死者への眼差し。第7〜9段落：修道院的沈黙・姉妹の手・孤独な散歩・人間存在の美。第10段落：「晩祷に異邦人が黒い十一月の破壊の中に消える」——「聖なる兄弟（heiliger Bruder）」が「狂気の柔かな弦楽に沈潜していた場所」で。第11段落：「世代の没落（Untergang des Geschlechts）」という頂点——「見る者の目に星の金が満ちる」。第12〜13段落：廃墟の鐘・死んだ兵士・蒼白い天使・父の家への帰還。第14段落：姉妹の腐敗——「銀の足で立つ彼の前でそこから死者が裸の部屋を出て来る（O wie starrt von Kot und Würmern ihr Haar, / Da er darein mit silbernen Füßen steht）」という詩全体で最も衝撃的な場面。第15段落：「O ihr Psalmen in feurigen Mitternachtsregen（ああ燃える真夜中の雨の中の詩篇よ）」——旧約の詩篇を喚起する叫び。第16段落（終連）：キドロン川（ゲッセマネの傍らを流れる川）・杉の木・錬の天使・焼かれる聖人の肉・復活した者たちの出会い・らい病者・香膏の風・「魂を求める愛の牧人（liebenden Hirten）」——詩全体の最終段落で複数の聖書的場面が同時に浮かぶ万華鏡的結末。\n\n**Helianという人物の軌跡**：詩の後半（第12段落以降）で三人称「der Sohn（息子）」として現れるHelianは、父の空き家に入り（「ein bleicher Engel / Tritt der Sohn ins leere Haus seiner Väter」）、姉妹の腐敗した姿と向き合い、「Helians Seele sich im rosigen Spiegel beschaut（ヘリアンの魂が薔薇色の鏡に自己を見る）」という唯一の名前による直接登場を経て、「静かな神が彼の上に青い瞼を閉じる（Der stille Gott die blauen Lider über ihn senkt）」という神の静かな介入で詩が終わる。これはキリストの受難（父の家・空墓・復活）の変形かつ異教的英雄の死の変形であり、どちらとも断定できない曖昧さが詩を開放的な空間にしている。\n\n**色彩と時間の変奏**：詩はtextlog.deの目視確認に基づき、夏（第1〜2段落）→夕べ（第2）→夜（第3）→秋（第4〜5）→晩秋（第10）→真夜中（第15）→不定の聖書的時間（第16）という時間の移行と、黄・茶（夏の壁）→白（星・池）→赤（桃・紅葉）→黒（十一月・黒い壁）→蒼白（天使）→薔薇色（鏡）→青（神の瞼）という色彩の移行が交差する。この二重の変奏がHelian全体の「楽章」的構成を生む。\n\nルートヴィヒ・ウィトゲンシュタインはトラークルの詩の熱烈な読者で「Der Brenner」に寄付を送り、フィッカーを通じてHelianを知った。ラルフ・レーモン・スミスは「Helian」を「西洋詩の伝統の中で最も難解な詩の一つ」と評している。",
+  "keywords": ["Helian", "太陽の殉教者", "世代の没落", "聖なる兄弟", "パンの息子", "キドロン川", "薔薇色の鏡", "燃える詩篇", "循環構造", "トラークル代表作"],
+  "relatedTexts": [
+    "trakl_sebastian_im_traum",
+    "trakl_fruehling_der_seele",
+    "trakl_abendlaendisches_lied",
+    "trakl_de_profundis",
+    "trakl_grodek"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "In den einsamen Stunden des Geistes\nIst es schön, in der Sonne zu gehn\nAn den gelben Mauern des Sommers hin.\nLeise klingen die Schritte im Gras; doch immer schläft\nDer Sohn des Pan im grauen Marmor.",
+      "provisionalTranslation": "精神の孤独な時間に\n太陽の中を歩くのは美しい\n夏の黄色い壁沿いに。\n足音が草の中で静かに響く；しかし常に眠っている\nパンの息子が灰色の大理石の中に。"
+    },
+    {
+      "id": 2,
+      "originalText": "Abends auf der Terrasse betranken wir uns mit braunem Wein.\nRötlich glüht der Pfirsich im Laub;\nSanfte Sonate, frohes Lachen.",
+      "provisionalTranslation": "夕べにテラスで褐色のワインに酔った。\n桃が葉の中で赤く輝く；\n柔かなソナタ、楽しい笑い。"
+    },
+    {
+      "id": 3,
+      "originalText": "Schön ist die Stille der Nacht.\nAuf dunklem Plan\nBegegnen wir uns mit Hirten und weißen Sternen.",
+      "provisionalTranslation": "夜の静けさは美しい。\n暗い野で\nわれわれは牧人たちと白い星々に出会う。"
+    },
+    {
+      "id": 4,
+      "originalText": "Wenn es Herbst geworden ist\nZeigt sich nüchterne Klarheit im Hain.\nBesänftigte wandeln wir an roten Mauern hin\nUnd die runden Augen folgen dem Flug der Vögel.\nAm Abend sinkt das weiße Wasser in Graburnen.",
+      "provisionalTranslation": "秋になると\n林に落ち着いた明澄さが現れる。\n穏やかになったわれわれは赤い壁沿いを歩き\n丸い目が鳥の飛翔を追う。\n夕べに白い水が墓壺の中へ沈む。"
+    },
+    {
+      "id": 5,
+      "originalText": "In kahlen Gezweigen feiert der Himmel.\nIn reinen Händen trägt der Landmann Brot und Wein\nUnd friedlich reifen die Früchte in sonniger Kammer.",
+      "provisionalTranslation": "裸の枝の中で天が祝う。\n農夫が清浄な手にパンとワインを持ち\n果実が日当たりの良い部屋の中で静かに熟れる。"
+    },
+    {
+      "id": 6,
+      "originalText": "O wie ernst ist das Antlitz der teueren Toten.\nDoch die Seele erfreut gerechtes Anschaun.",
+      "provisionalTranslation": "ああ、愛しい死者たちの顔はなんと厳かか。\nしかし魂は正しい観照に喜ぶ。"
+    },
+    {
+      "id": 7,
+      "originalText": "Gewaltig ist das Schweigen des verwüsteten Gartens,\nDa der junge Novize die Stirne mit braunem Laub bekränzt,\nSein Odem eisiges Gold trinkt.",
+      "provisionalTranslation": "荒廃した庭の沈黙は圧倒的だ、\n若い修練者が額を褐色の葉で冠にするとき、\n彼の息吹が氷の金を飲む。"
+    },
+    {
+      "id": 8,
+      "originalText": "Die Hände rühren das Alter bläulicher Wasser\nOder in kalter Nacht die weißen Wangen der Schwestern.",
+      "provisionalTranslation": "手が青みがかった水の古さに触れる\nあるいは冷たい夜に姉妹たちの白い頰に。"
+    },
+    {
+      "id": 9,
+      "originalText": "Leise und harmonisch ist ein Gang an freundlichen Zimmern hin,\nWo Einsamkeit ist und das Rauschen des Ahorns,\nWo vielleicht noch die Drossel singt.",
+      "provisionalTranslation": "穏やかで調和的だ、心地よい部屋沿いの歩みが、\n孤独とモミジの葉音があるところ、\nおそらくまだツグミが歌っているところ。"
+    },
+    {
+      "id": 10,
+      "originalText": "Schön ist der Mensch und erscheinend im Dunkel,\nWenn er staunend Arme und Beine bewegt,\nUnd in purpurnen Höhlen stille die Augen rollen.",
+      "provisionalTranslation": "美しい、人間は、そして暗闇の中で現れる、\n驚いて腕と脚を動かすとき、\nそして紫の洞窟の中で目が静かに転がるとき。"
+    },
+    {
+      "id": 11,
+      "originalText": "Zur Vesper verliert sich der Fremdling in schwarzer Novemberzerstörung,\nUnter morschem Geist, an Mauern voll Aussatz hin,\nWo vordem der heilige Bruder gegangen,\nVersunken in das sanfte Saitenspiel seines Wahnsinns,\n\nO wie einsam endet der Abendwind.\nErsterbend neigt sich das Haupt im Dunkel des Ölbaums.",
+      "provisionalTranslation": "晩祷に異邦人は黒い十一月の破壊の中へと消える、\n腐った精霊の下を、らい病に満ちた壁沿いに、\nかつて聖なる兄弟が歩いた場所、\n彼の狂気の柔かな弦楽の演奏に沈潜していた場所を。\n\nああ、夕べの風はなんと孤独に終わることか。\n死にながらオリーブの木の暗闇の中で頭が傾く。"
+    },
+    {
+      "id": 12,
+      "originalText": "Erschütternd ist der Untergang des Geschlechts.\nIn dieser Stunde füllen sich die Augen des Schauenden\nMit dem Gold seiner Sterne.",
+      "provisionalTranslation": "世代の没落は揺るがすほどだ。\nこの時間、見る者の目が\n彼の星々の金で満たされる。"
+    },
+    {
+      "id": 13,
+      "originalText": "Am Abend versinkt ein Glockenspiel, das nicht mehr tönt,\nVerfallen die schwarzen Mauern am Platz,\nRuft der tote Soldat zum Gebet.\n\nEin bleicher Engel\nTritt der Sohn ins leere Haus seiner Väter.",
+      "provisionalTranslation": "夕べに、もはや響かない鐘楼が沈み、\n広場の黒い壁が崩れ、\n死んだ兵士が祈りへと呼ぶ。\n\n蒼白い天使が——\n息子は父祖たちの空き家に入る。"
+    },
+    {
+      "id": 14,
+      "originalText": "Die Schwestern sind ferne zu weißen Greisen gegangen.\nNachts fand sie der Schläfer unter den Säulen im Hausflur,\nZurückgekehrt von traurigen Pilgerschaften.\n\nO wie starrt von Kot und Würmern ihr Haar,\nDa er darein mit silbernen Füßen steht,\nUnd jene verstorben aus kahlen Zimmern treten.",
+      "provisionalTranslation": "姉妹たちは遠く白い老人たちのもとへ去った。\n夜に眠る者は彼女たちを玄関の柱の下で見つけた、\n悲しい巡礼から帰ってきた彼女たちを。\n\nああ、彼女たちの髪は汚物と虫でどれほど固まっているか、\n彼が銀の足でその中に立つとき、\nそして死んだ彼女たちが裸の部屋から出て来る。"
+    },
+    {
+      "id": 15,
+      "originalText": "O ihr Psalmen in feurigen Mitternachtsregen,\nDa die Knechte mit Nesseln die sanften Augen schlugen,\nDie kindlichen Früchte des Hollunders\nSich staunend neigen über ein leeres Grab.\n\nLeise rollen vergilbte Monde\nÜber die Fieberlinnen des Jünglings,\nEh dem Schweigen des Winters folgt.",
+      "provisionalTranslation": "ああ、燃える真夜中の雨の中の詩篇よ、\n下僕たちがイラクサで柔かな目を叩いたとき、\n黒ニワトコの子どもらしい果実が\n驚いて空の墓の上に傾く。\n\n黄ばんだ月が静かに転がる\n若者の熱病のリネンの上を、\n冬の沈黙が続く前に。"
+    },
+    {
+      "id": 16,
+      "originalText": "Ein erhabenes Schicksal sinnt den Kidron hinab,\nWo die Zeder, ein weiches Geschöpf,\nSich unter den blauen Brauen des Vaters entfaltet,\nÜber die Weide nachts ein Schäfer seine Herde führt.\nOder es sind Schreie im Schlaf,\nWenn ein eherner Engel im Hain den Menschen antritt,\nDas Fleisch des Heiligen auf glühendem Rost hinschmilzt.\n\nUm die Lehmhütten rankt purpurner Wein,\nTönende Bündel vergilbten Korns,\nDas Summen der Bienen, der Flug des Kranichs.\nAm Abend begegnen sich Auferstandene auf Felsenpfaden.\n\nIn schwarzen Wassern spiegeln sich Aussätzige;\nOder sie öffnen die kotbefleckten Gewänder\nWeinend dem balsamischen Wind, der vom rosigen Hügel weht.\n\nSchlanke Mägde tasten durch die Gassen der Nacht,\nOb sie den liebenden Hirten fänden.\nSonnabends tönt in den Hütten sanfter Gesang.\n\nLastet das Lied auch des Knaben gedenken,\nSeines Wahnsinus, und weißer Brauen und seines Hingangs,\nDes Verwesten, der bläulich die Augen aufschlägt.\nO wie traurig ist dieses Wiedersehn.\n\nDie Stufen des Wahnsinns in schwarzen Zimmern,\nDie Schatten der Alten unter der offenen Tür,\nDa Helians Seele sich im rosigen Spiegel beschaut\nUnd Schnee und Aussatz von seiner Stirne sinken.\n\nAn den Wänden sind die Sterne erloschen\nUnd die weißen Gestalten des Lichts.\n\nDem Teppich entsteigt Gebein der Gräber,\nDas Schweigen verfallener Kreuze am Hügel,\nDes Weihrauchs Süße im purpurnen Nachtwind.\n\nO ihr zerbrochenen Augen in schwarzen Mündern,\nDa der Enkel in sanfter Umnachtung\nEinsam dem dunkleren Ende nachsinnt,\nDer stille Gott die blauen Lider über ihn senkt.",
+      "provisionalTranslation": "崇高な運命がキドロン川を下って沈思する、\n杉が、柔かな生き物が、\n父の青い眉の下で広がるところ、\n夜に羊飼いが牧場の上に群れを導くところ。\nあるいは眠りの中の叫びがある、\n錬の天使が林の中で人間に立ちはだかるとき、\n聖人の肉が輝く焼き格子の上で溶けていくとき。\n\n泥の小屋の周りに紫の葡萄の蔦がからまる、\n黄ばんだ麦の鳴り響く束、\n蜜蜂のうなり、鶴の飛翔。\n夕べに復活した者たちが岩の小径で出会う。\n\n黒い水の中にらい病者が映る；\nあるいは彼らは汚物で汚れた衣を開く\n薔薇色の丘から吹いてくる香膏の風に、泣きながら。\n\n細い下女たちが夜の路地を手探りする、\n愛する牧人を見つけられるかどうかと。\n土曜日に小屋の中で柔かな歌が響く。\n\n歌が少年のことも思い出させよ、\n彼の狂気と、白い眉と、彼の逝去を、\n腐りかけて青みがかった目を開く者を。\nああ、この再会はなんと悲しいことか。\n\n黒い部屋の狂気の段階、\n開いた扉の下の老人たちの影、\nヘリアンの魂が薔薇色の鏡の中に自己を見るとき\n雪とらい病が彼の額から落ちる。\n\n壁の星々は消えた\nそして光の白い姿たちも。\n\n絨毯から墓の骸骨が立ち上がる、\n丘の上の廃れた十字架の沈黙、\n紫の夜の風の中の乳香の甘さ。\n\nああ、黒い口の中の砕けた目たちよ、\n孫が柔かな夜の闇の中で\n孤独により暗い終わりを沈思するとき、\n静かな神が彼の上に青い瞼を閉じる。"
+    }
+  ]
+}
