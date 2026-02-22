@@ -11,6 +11,7 @@ import swinburneData from './data/swinburne';
 import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
+import hoelderlinData from './data/hoelderlin';
 
 // ユーティリティ：officialTranslation / provisionalTranslation 両対応
 const getTranslation = (para) =>
@@ -53,7 +54,7 @@ const SPEECH_RATES = {
 export default function App() {
   const [texts, setTexts] = useState({});
   const [loading, setLoading] = useState(true);
-  const [selectedText, setSelectedText] = useState('valery_crise');
+  const [selectedText, setSelectedText] = useState('');
   const [userTranslations, setUserTranslations] = useState({});
   const [editingParagraph, setEditingParagraph] = useState(null);
   const [showFrench, setShowFrench] = useState(true);
