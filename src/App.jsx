@@ -54,7 +54,7 @@ const SPEECH_RATES = {
 export default function App() {
   const [texts, setTexts] = useState({});
   const [loading, setLoading] = useState(true);
-  const [selectedText, setSelectedText] = useState('');
+  const [selectedText, setSelectedText] = useState('mallarme_musique_lettres');
   const [userTranslations, setUserTranslations] = useState({});
   const [editingParagraph, setEditingParagraph] = useState(null);
   const [showFrench, setShowFrench] = useState(true);
@@ -134,6 +134,7 @@ export default function App() {
       ...georgeData,
 　　　　...hofmannsthalData,
       ...traklData,
+      ...hoelderlinData,
     };
     setTexts(allTexts);
     setLoading(false);
@@ -171,8 +172,9 @@ export default function App() {
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     george:                     { name: 'ゲオルゲ' },
-    hofmannsthal:                { name: 'ホフマンスタール' },
+    hofmannsthal:               { name: 'ホフマンスタール' },
     trakl:                      { name: 'トラークル' },
+    hoelderlin:                 { name: 'ヘルダーリン' },
   };
 
   // カテゴリーで絞り込み後、さらに検索クエリで絞り込む（本文テキストも対象）
@@ -332,6 +334,7 @@ export default function App() {
     george:                  'ゲオルゲ',
     hofmannsthal:            'ホフマンスタール',
     trakl:                   'トラークル',
+    hoelderlin:              'ヘルダーリン',
   };
 
   const authorColor = (cat) => {
@@ -347,6 +350,7 @@ export default function App() {
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
+    if (cat?.startsWith('hoelderlin'))   return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
     return darkMode ? 'bg-gray-800 text-gray-300' : 'bg-gray-100 text-gray-700';
   };
 
@@ -809,7 +813,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · ゲオルゲ · ホフマンスタール · トラークル</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
