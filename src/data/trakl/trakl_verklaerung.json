@@ -1,0 +1,53 @@
+{
+  "id": "trakl_verklaerung",
+  "title": "Verklärung",
+  "author": "Georg Trakl",
+  "source": "Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "year": "1913",
+  "firstPublication": "Der Brenner (Innsbruck, 1913) / Sebastian im Traum (Kurt Wolff Verlag, Leipzig, 1915)",
+  "difficulty": "上級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "「Sebastian im Traum」（1915）の「Siebengesang des Todes（死の七声部歌）」章収録。章内では「Abendländisches Lied」の直後、「Föhn」の直前に位置する。「Untergang（没落）」→「Abendländisches Lied（西洋の歌）」→「Verklärung（変容）」という意味論的連鎖の終着点として、章全体の緊張を変容・光明への転換によって解消する役割を担う——ただしその変容は安易な救済ではなく、「青い花」という言語的凝縮によって示される。\n\nタイトル「Verklärung」はキリストの「変容（Mount Tabor での姿の輝き）」を指す神学用語であり、同時にロマン主義的な「美的変容・浄化」の語でもある。ノヴァーリスの「青い花（blaue Blume）」が最終行に置かれることで、「An Novalis」と直接の照応関係を持つ——「An Novalis」が「暗い大地に眠る異邦人」として開始し「青い花として歌が生き続ける」で閉じるなら、「Verklärung」は「青い花、黄ばんだ岩の中で静かに響く（Blaue Blume, / Die leise tönt in vergilbtem Gestein）」という同一の象徴で閉じる。\n\n詩は6段落18行の自由詩。各段落は2〜3行の短い単位で、沈黙・句読点によって区切られる。詩の「あなた（du, dich）」は不特定——神か、友人か、読者か、詩人自身の内的自己かという曖昧さが詩を開かれた空間にする。\n\n第1段落：「夕べになると、あなたから青い顔がそっと去る（Verläßt dich leise ein blaues Antlitz）」——「青い顔」が人物から離れていく。これは守護霊・天使・魂の一部の離脱を示す。タマリンドの木で小さな鳥が歌う——タマリンドはトラークルの詩に唯一ここだけに現れる異国的植物（熱帯・アジア原産）であり、幻想的・夢的な空間を示す。第2段落：「柔かな修道士が死んだ手を合わせる」「白い天使がマリアのもとを訪れる」——受胎告知（Verkündigung）の場面の縮小再現。「白い天使」の訪問は「青い天使」（トラークルにおける通常の天使）とは異なり、浄化・光の天使の変形。第3段落：「夜の環（nächtiger Kranz）がすみれ・麦・紫の葡萄で成る——これが「見る者（des Schauenden）の年」」——「Schauender（見る者）」は詩人・幻視者を指す自己参照。年（Jahr）が花環・冠として結晶する。第4段落：「足元で死者たちの墓が開く、あなたが銀の手に額を置くとき」——この「額を銀の手に置く」という身振りは休息・祈り・内省の典型的なトラークル的ポーズ。墓が開くのは最後の審判の日のイメージだが、恐怖ではなく静かな事実として提示される。第5段落：「口のところに秋の月が静かに宿る、ケシの汁に酔った暗い歌」——「秋の月」「ケシの汁（Mohnsaft）」はトラークルの麻薬・陶酔・幻覚の系列に属する。ケシの汁はトラークル自身のモルヒネ依存とも重なる自伝的要素。第6段落（終行）：「青い花、黄ばんだ岩の中で静かに響く」——「青い花」ノヴァーリスの象徴の直接引用。「黄ばんだ岩（vergilbtes Gestein）」は時間の経過・腐朽・古さを示し、変容は廃墟の中でのみ起きる——これがトラークル的変容の逆説。\n\n「Verklärung」と「An Novalis」の並読：両詩の最終行に「青い花（blaue Blume）」が置かれ、一方は「苦悩の夜の家の中で生き続ける」、他方は「黄ばんだ岩の中で静かに響く」という、生存の様態の微妙な差異がトラークルの象徴使用の精度を示す。歌曲化：Richard Stöhr op.29、Josef Schelb（1964）、Wilhelm Killmayer（1993）ほか。",
+  "keywords": ["変容", "青い顔", "タマリンド", "白い天使", "マリア", "ケシの汁", "青い花", "ノヴァーリス参照", "見る者", "秋の月"],
+  "relatedTexts": [
+    "trakl_untergang",
+    "trakl_an_novalis",
+    "trakl_abendlaendisches_lied",
+    "trakl_ein_winterabend",
+    "trakl_sebastian_im_traum"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Wenn es Abend wird,\nVerläßt dich leise ein blaues Antlitz.\nEin kleiner Vogel singt im Tamarindenbaum.",
+      "provisionalTranslation": "夕べになると、\nあなたから青い顔がそっと去る。\n小さな鳥がタマリンドの木で歌う。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ein sanfter Mönch\nFaltet die erstorbenen Hände.\nEin weißer Engel sucht Marien heim.",
+      "provisionalTranslation": "柔かな修道士が\n死んだ手を合わせる。\n白い天使がマリアのもとを訪れる。"
+    },
+    {
+      "id": 3,
+      "originalText": "Ein nächtiger Kranz\nVon Veilchen, Korn und purpurnen Trauben\nIst das Jahr des Schauenden.",
+      "provisionalTranslation": "すみれと麦と紫の葡萄の\n夜の環が\n見る者の年である。"
+    },
+    {
+      "id": 4,
+      "originalText": "Zu deinen Füßen\nÖffnen sich die Gräber der Toten,\nWenn du die Stirne in die silbernen Hände legst.",
+      "provisionalTranslation": "あなたの足元で\n死者たちの墓が開く、\nあなたが銀の手に額を置くとき。"
+    },
+    {
+      "id": 5,
+      "originalText": "Stille wohnt\nAn deinem Mund der herbstliche Mond,\nTrunken von Mohnsaft dunkler Gesang;",
+      "provisionalTranslation": "静かに宿る\nあなたの口のところに秋の月が、\nケシの汁に酔った暗い歌；"
+    },
+    {
+      "id": 6,
+      "originalText": "Blaue Blume,\nDie leise tönt in vergilbtem Gestein.",
+      "provisionalTranslation": "青い花、\n黄ばんだ岩の中で静かに響く。"
+    }
+  ]
+}
