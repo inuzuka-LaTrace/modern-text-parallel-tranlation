@@ -1,0 +1,33 @@
+{
+  "id": "trakl_hoelderlin",
+  "title": "Hölderlin",
+  "author": "Georg Trakl",
+  "source": "Unveröffentlichtes Gedicht (草稿・未刊行、1911年作)",
+  "year": "1911",
+  "firstPublication": "Hans Weichselbaum: 'Das Gedicht Hölderlin', in: Autorschaft und Poetik in Texten und Kontexten Georg Trakls (Otto Müller Verlag, Salzburg, 2016) / Ian Alexander Moore & Hans Weichselbaum: 'Georg Trakl's Poem Hölderlin', Journal of Continental Philosophy 1:2 (2020)",
+  "difficulty": "中級",
+  "category": "trakl",
+  "originalLang": "de",
+  "modernRelevance": "★★★★☆",
+  "context": "1911年作。2015年、ウィーンのある図書館解散時に、トラークルの旧蔵書であるヘルダーリン全集（Diederichs版、Jena, 1905）の前見返しに鉛筆書きで発見された。署名と「1911年10月」という日付がある。2016年、ハンス・ヴァイヒゼルバウムがザルツブルクのGedenkstätteで報告し、同年「Autorschaft und Poetik in Texten und Kontexten Georg Trakls」（Otto Müller Verlag）に収録。2020年、Ian Alexander MooreとWeichselbaumの英語訳・注釈が「Journal of Continental Philosophy」で発表され、国際的に知られるようになった。\n\n詩テキスト自体は1911年の作であり、著作者トラークル（1887–1914）は没後70年以上を経過しているためパブリックドメインに属する。\n\n詩は2連各4行、規則的な4強弱格のヤンブス、包み韻（ABBA）というトラークルがこの時期好んだ形式——「Verfall」や「Ein Winterabend」と同じ韻律・構造。第1連：秋の森、風の静止、動物の眠り、静かに流れる小川——完全な静寂の情景。第2連：ヘルダーリンの「高貴な頭（edles Haupt）」がその「美の輝きと悲しみの中で狂気（Wahnsinn）に暗くされた」とあり、その狂気は「夕べに草の間を囁く敬虔な戦慄（frommer Schauer）」として描かれる。\n\nテキストに「Wahnsinnn（狂気）」のnが3つという誤記が含まれる（通常はWahnsinn）。2020年論文でIan Alexander Mooreはこの「過剰なn」を単純な筆記ミスとして処理するハイデガー的読解に抗し、それがデリダ的な「書き過ぎ（excès d'écriture）」として語のなかに収まりきらない狂気を演じていると解釈した。本ファイルでは原典のまま「Wahnsinnn」と表記する。\n\nヴァイヒゼルバウムが指摘するように、第1連はトラークルが後に「Gedichte」（1913）に収録した「Melancholie des Abends（夕べの憂鬱）」の第1連と要素を共有し、そちらでは「森」「野獣」「影が垣根のように囲む」というモチーフが変形して再登場する。「Hölderlin」はいわば「Melancholie des Abends」の原型、あるいは素材集積の場として機能していた可能性がある。\n\nトラークルの詩においてヘルダーリンは単なる先人ではなく、「柔かな狂気（sanfter Wahnsinn）」「弦楽（Saitenspiel）」「聖性（das Heilige）」という三重の属性をもって出没する鬼神的存在として機能する——ヴァイヒゼルバウムの言う「分身（Doppelgänger）のように」。トラークル自身もヘルダーリン晩年のテュービンゲン塔幽閉を知っており、詩の狂気・自己喪失・精神崩壊という主題はトラークル自身の予感として読まれてきた。「An Novalis」とならびトラークルが伝統の中での自己位置づけを明示する唯一の献呈詩。",
+  "keywords": ["ヘルダーリン", "狂気", "Wahnsinn三重n", "草稿詩", "発見詩", "献呈詩", "秋の静寂", "敬虔な戦慄", "伝統の継承"],
+  "relatedTexts": [
+    "trakl_abendlaendisches_lied",
+    "trakl_verfall",
+    "trakl_de_profundis",
+    "trakl_ein_winterabend",
+    "hofmannsthal_terzinen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Der Wald liegt herbstlich ausgebreitet\nDie Winde ruhn, ihn nicht zu wecken\nDas Wild schläft friedlich in Verstecken,\nIndes der Bach ganz leise gleitet.",
+      "provisionalTranslation": "森は秋に広がって横たわる\n風は休む、それを目覚めさせないように\n獣は物陰で静かに眠る、\nその間に小川はとても静かに流れる。"
+    },
+    {
+      "id": 2,
+      "originalText": "So ward ein edles Haupt verdüstert\nIn seiner Schönheit Glanz und Trauer\nVon Wahnsinnn, den ein frommer Schauer\nAm Abend durch die Kräuter flüstert.",
+      "provisionalTranslation": "かくして高貴な頭は暗くされた\nその美の輝きと悲しみの中で\n狂気に——夕べに草の間を\n敬虔な戦慄として囁く狂気に。"
+    }
+  ]
+}
