@@ -1,0 +1,62 @@
+{
+  "id": "hofmannsthal_weltgeheimnis",
+  "title": "Weltgeheimnis",
+  "author": "Hugo von Hofmannsthal",
+  "source": "Die Gedichte: Ausgabe 1924 (in: Gesammelte Werke. Erste Reihe in drei Bänden, Band 1, Berlin 1924)",
+  "year": "1894",
+  "firstPublication": "Blätter für die Kunst (Berlin, Dritte Folge, 2. Band, März 1896)",
+  "difficulty": "上級",
+  "category": "hofmannsthal",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1894年作（ホフマンスタール20歳）、Blätter für die Kunst（Berlin, Dritte Folge, 2. Band, März 1896）初出、Gesammelte Werke Ausgabe 1924収録。8連各3行、24行。Rudolf Borchardtが1926年のアンソロジー「Ewiger Vorrat deutscher Poesie」に収録して広く普及した。\n\n**タイトル「Weltgeheimnis（世界の秘密）」：**\n「Geheimnis（秘密）」はドイツ語で「ge-heim」——「Heimat（故郷）」「heimlich（秘密の・家庭的な）」と同根で「家の奥に隠されたもの」を意味する。「世界の秘密」とは「世界という家の奥に仕舞われたもの」であり、詩はそれが言語として断片的に伝わり続ける様を描く。後年「チャンドス卿の手紙」（1902年）での言語への深い不信の前段階として、この詩は「言語がかつて世界と一体だった時代」への郷愁と喪失の記録として読める。\n\n**構造：リフレインと円環**\n第1連・第3連・第8連が「Der tiefe Brunnen weiß es wohl（深い井戸はそれをよく知っている）」の変奏で繰り返され、円環を成す。8×3=24行の厳密な形式の中に「世界の秘密」という無限の問いを閉じ込める身振り自体が詩学的主題を体現している。\n\n**第1〜2連：始原と喪失**\n「かつてはすべての者が深く無口で、すべての者がそれを知っていた（Einst waren alle tief und stumm, / Und alle wußten drum）」——言語崩壊以前の始原状態。現在はその言語が「魔法の言葉のように、後から唱えられ、底まで理解されないまま口から口へ伝わる（Wie Zauberworte, nachgelallt / Und nicht begriffen in den Grund, / So geht es jetzt von Mund zu Mund）」。「nachgelallt（後から唱えられた）」という語が現在の言語の本質——根拠（Grund）を失った反響——を示す。\n\n**第3〜4連：知ることと失うこと**\n「そこに身を屈めて一人の男がそれを会得した、会得してそして失った（begriffs ein Mann, / Begriff es und verlor es dann）」——「begreifen（把握する）」の物理的イメージと概念的イメージの両義。知識は保持できない——これがホフマンスタールの根本経験の一つ。失った後に「狂ったように語り、歌を歌った」——その「暗い鏡の上にいつかある子どもが身を屈めて恍惚とする（Sich einst ein Kind und wird entrückt）」。知識は「歌→鏡→子どもの恍惚」という迂回路で次世代に伝わる。\n\n**第5〜6連：愛による再発見**\n「育ち、自分自身について何も知らず一人の男に愛される女になる——愛がいかに深い消息を与えることか！（Wie Liebe tiefe Kunde gibt！）」——エロスによる真理開示のホフマンスタール版。「鈍く予感されたことが、彼女のキスの中で深く思い起こされる（In ihren Küssen tief gemahnt）」——身体的接触による前意識的認識の覚醒。\n\n**第7〜8連：言葉と宝石・円環の閉幕**\n「われわれの言葉の中にそれは潜んでいる、ちょうど乞食の足が砂利を踏むように、宝石の牢獄を（So tritt des Bettlers Fuß den Kies, / Der eines Edelsteins Verlies）」——最も卑賤なもの（乞食の足）と最も貴重なもの（宝石）が「踏む」という一点で接触する。言葉は知らぬうちに宝石を踏んでいる。最終連「今は円環の中で夢がぴくぴく動いている（Nun zuckt im Kreis ein Traum herum）」——世界の秘密は円環の中でかろうじて生き続けているが、誰にも把握されない。",
+  "keywords": ["世界の秘密", "深い井戸", "魔法の言葉", "口から口へ", "暗い鏡", "乞食の足と宝石", "円環の夢", "言語の喪失", "チャンドス卿の手紙", "リフレイン構造"],
+  "relatedTexts": [
+    "hofmannsthal_ballade",
+    "hofmannsthal_terzinen",
+    "hofmannsthal_erlebnis",
+    "hofmannsthal_manche_freilich"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Der tiefe Brunnen weiß es wohl,\nEinst waren alle tief und stumm,\nUnd alle wußten drum.",
+      "provisionalTranslation": "深い井戸はそれをよく知っている、\nかつてはすべての者が深く無口で、\nすべての者がそれを知っていた。"
+    },
+    {
+      "id": 2,
+      "originalText": "Wie Zauberworte, nachgelallt\nUnd nicht begriffen in den Grund,\nSo geht es jetzt von Mund zu Mund.",
+      "provisionalTranslation": "魔法の言葉のように、後から唱えられ\n底まで理解されないまま、\n今は口から口へ伝わる。"
+    },
+    {
+      "id": 3,
+      "originalText": "Der tiefe Brunnen weiß es wohl;\nIn den gebückt, begriffs ein Mann,\nBegriff es und verlor es dann.",
+      "provisionalTranslation": "深い井戸はそれをよく知っている；\nそこに身を屈めて一人の男がそれを会得した、\n会得してそして失った。"
+    },
+    {
+      "id": 4,
+      "originalText": "Und redet' irr und sang ein Lied,\nAuf dessen dunklen Spiegel bückt\nSich einst ein Kind und wird entrückt.",
+      "provisionalTranslation": "そして狂ったように語り、一つの歌を歌った、\nその暗い鏡の上にいつかある子どもが\n身を屈めて恍惚とする。"
+    },
+    {
+      "id": 5,
+      "originalText": "Und wächst und weiß nichts von sich selbst\nUnd wird ein Weib, das einer liebt\nUnd – wunderbar wie Liebe gibt!",
+      "provisionalTranslation": "そして育ち、自分自身について何も知らず\n一人の男に愛される女になる\n——そして愛がいかに与えることか！"
+    },
+    {
+      "id": 6,
+      "originalText": "Wie Liebe tiefe Kunde gibt!\nDa wird an Dinge, dumpf geahnt,\nIn ihren Küssen tief gemahnt.",
+      "provisionalTranslation": "愛がいかに深い消息を与えることか！\nそこでは鈍く予感されたことが、\n彼女のキスの中で深く思い起こされる。"
+    },
+    {
+      "id": 7,
+      "originalText": "In unsern Worten liegt es drin,\nSo tritt des Bettlers Fuß den Kies,\nDer eines Edelsteins Verlies.",
+      "provisionalTranslation": "われわれの言葉の中にそれは潜んでいる、\nちょうど乞食の足が砂利を踏むように、\n宝石の牢獄を。"
+    },
+    {
+      "id": 8,
+      "originalText": "Der tiefe Brunnen weiß es wohl,\nEinst aber wußten alle drum,\nNun zuckt im Kreis ein Traum herum.",
+      "provisionalTranslation": "深い井戸はそれをよく知っている、\nしかしかつてはすべての者が知っていた、\n今は円環の中で夢がぴくぴく動いている。"
+    }
+  ]
+}
