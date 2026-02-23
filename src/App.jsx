@@ -302,13 +302,9 @@ export default function App() {
   const getParaAnnotations = (paraId) =>
     (currentText?.annotations || []).filter(a => a.paragraphId === paraId);
 
-  // anchor付き注釈：原文テキストをハイライト分割してレンダリング
-  const renderTextWithAnchors = (text, annotations, paraId) => {
-    const anchored = annotations.filter(a => a.anchor);
-    if (!anchored.length) return <span>{text}</span>;
-
-    // テキストをanchor位置で分割
-    let parts = [{ text, type: 'plain' }];
+  // anchor付き注釈：1行分のテキストをparts配列に分割するヘルパー
+  const splitLineByAnchors = (lineText, anchored) => {
+    let parts = [{ text: lineText, type: 'plain' }];
     for (const ann of anchored) {
       const next = [];
       for (const part of parts) {
@@ -322,38 +318,72 @@ export default function App() {
       }
       parts = next;
     }
+    return parts;
+  };
+
+  // anchor付き注釈：行単位で分割してから各行をanchor処理し<br />で繋ぐ
+  // → whitespace-pre-line と button の混在による詩形崩れを防ぐ
+  const renderTextWithAnchors = (text, annotations, paraId) => {
+    const anchored = annotations.filter(a => a.anchor);
 
     const isActive = (ann) =>
       activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
     const typeDef = (ann) => getTypeDef(ann.type);
 
+    const renderPart = (part, i) =>
+      part.type === 'plain' ? (
+        <span key={i}>{part.text}</span>
+      ) : (
+        <span
+          key={i}
+          role="button"
+          tabIndex={0}
+          onClick={() => setActiveAnchor(
+            isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
+          )}
+          onKeyDown={(e) => e.key === 'Enter' && setActiveAnchor(
+            isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
+          )}
+          className={`relative inline border-b-2 transition-colors cursor-pointer rounded-sm px-0.5 ${
+            isActive(part.ann)
+              ? darkMode
+                ? `border-amber-400 ${typeDef(part.ann).colorDark} bg-opacity-60`
+                : `border-amber-500 bg-amber-50`
+              : darkMode
+                ? 'border-gray-600 hover:border-amber-500'
+                : 'border-gray-400 hover:border-amber-500'
+          }`}
+          title={`${getTypeDef(part.ann.type).label}：クリックで表示`}
+        >
+          {part.text}
+          <span className={`absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full ${typeDef(part.ann).dot}`} />
+        </span>
+      );
+
+    if (!anchored.length) {
+      // anchorなし：行ごとに<br />で繋ぐだけ
+      return (
+        <>
+          {text.split('\n').map((line, i, arr) => (
+            <span key={i}>{line}{i < arr.length - 1 && <br />}</span>
+          ))}
+        </>
+      );
+    }
+
+    // anchorあり：行ごとに分割 → 各行をanchor処理 → <br />で繋ぐ
+    const lines = text.split('\n');
     return (
       <>
-        {parts.map((part, i) =>
-          part.type === 'plain' ? (
-            <span key={i}>{part.text}</span>
-          ) : (
-            <button
-              key={i}
-              onClick={() => setActiveAnchor(
-                isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
-              )}
-              className={`relative inline border-b-2 transition-colors cursor-pointer rounded-sm px-0.5 ${
-                isActive(part.ann)
-                  ? darkMode
-                    ? `border-amber-400 ${typeDef(part.ann).colorDark} bg-opacity-60`
-                    : `border-amber-500 bg-amber-50`
-                  : darkMode
-                    ? 'border-gray-600 hover:border-amber-500'
-                    : 'border-gray-400 hover:border-amber-500'
-              }`}
-              title={`${getTypeDef(part.ann.type).label}：クリックで表示`}
-            >
-              {part.text}
-              <span className={`absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full ${typeDef(part.ann).dot}`} />
-            </button>
-          )
-        )}
+        {lines.map((line, lineIdx) => {
+          const parts = splitLineByAnchors(line, anchored);
+          return (
+            <span key={lineIdx}>
+              {parts.map((part, i) => renderPart(part, i))}
+              {lineIdx < lines.length - 1 && <br />}
+            </span>
+          );
+        })}
       </>
     );
   };
