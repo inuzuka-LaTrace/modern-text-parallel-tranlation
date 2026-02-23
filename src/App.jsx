@@ -74,6 +74,10 @@ export default function App() {
   const [readyToScroll, setReadyToScroll] = useState(null); // テキストIDを保持
   const [speakingId, setSpeakingId] = useState(null); // 'all' or paragraphId
   const [speechRate, setSpeechRate] = useState('normal');
+  // 注釈機能
+  const [showAnnotations, setShowAnnotations] = useState(true);
+  const [expandedAnnotations, setExpandedAnnotations] = useState({}); // paragraphId → bool
+  const [activeAnchor, setActiveAnchor] = useState(null); // { paraId, anchor }
   const settingsRef = useRef(null);
   const bodyRef = useRef(null); // 本文セクションへのref
 
@@ -243,6 +247,8 @@ export default function App() {
     setEditingParagraph(null);
     setCollapsedParagraphs({});
     setReadyToScroll(null);
+    setExpandedAnnotations({});
+    setActiveAnchor(null);
   };
 
   // vボタンのハンドラ：1回目→変色、2回目→スクロール
@@ -277,6 +283,110 @@ export default function App() {
     setCollapsedParagraphs(all);
   };
   const expandAll = () => setCollapsedParagraphs({});
+
+  // ─── 注釈ユーティリティ ────────────────────────────────────
+
+  // typeごとの表示定義
+  const ANNOTATION_TYPE_DEF = {
+    glossary:     { label: '語釈',     colorLight: 'bg-amber-100 text-amber-800 border-amber-300',   colorDark: 'bg-amber-900/40 text-amber-300 border-amber-700',   dot: 'bg-amber-400' },
+    allusion:     { label: '典拠',     colorLight: 'bg-rose-100 text-rose-800 border-rose-300',      colorDark: 'bg-rose-900/40 text-rose-300 border-rose-700',      dot: 'bg-rose-400' },
+    commentary:   { label: '注釈',     colorLight: 'bg-sky-100 text-sky-800 border-sky-300',         colorDark: 'bg-sky-900/40 text-sky-300 border-sky-700',         dot: 'bg-sky-400' },
+    intertextual: { label: '参照',     colorLight: 'bg-violet-100 text-violet-800 border-violet-300', colorDark: 'bg-violet-900/40 text-violet-300 border-violet-700', dot: 'bg-violet-400' },
+    prosody:      { label: '韻律',     colorLight: 'bg-teal-100 text-teal-800 border-teal-300',      colorDark: 'bg-teal-900/40 text-teal-300 border-teal-700',      dot: 'bg-teal-400' },
+  };
+
+  const getTypeDef = (type) =>
+    ANNOTATION_TYPE_DEF[type] ?? { label: type, colorLight: 'bg-gray-100 text-gray-700 border-gray-300', colorDark: 'bg-gray-800 text-gray-300 border-gray-600', dot: 'bg-gray-400' };
+
+  // 段落の注釈一覧取得
+  const getParaAnnotations = (paraId) =>
+    (currentText?.annotations || []).filter(a => a.paragraphId === paraId);
+
+  // anchor付き注釈：原文テキストをハイライト分割してレンダリング
+  const renderTextWithAnchors = (text, annotations, paraId) => {
+    const anchored = annotations.filter(a => a.anchor);
+    if (!anchored.length) return <span>{text}</span>;
+
+    // テキストをanchor位置で分割
+    let parts = [{ text, type: 'plain' }];
+    for (const ann of anchored) {
+      const next = [];
+      for (const part of parts) {
+        if (part.type !== 'plain') { next.push(part); continue; }
+        const idx = part.text.indexOf(ann.anchor);
+        if (idx === -1) { next.push(part); continue; }
+        if (idx > 0) next.push({ text: part.text.slice(0, idx), type: 'plain' });
+        next.push({ text: ann.anchor, type: 'anchor', ann });
+        const after = part.text.slice(idx + ann.anchor.length);
+        if (after) next.push({ text: after, type: 'plain' });
+      }
+      parts = next;
+    }
+
+    const isActive = (ann) =>
+      activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
+    const typeDef = (ann) => getTypeDef(ann.type);
+
+    return (
+      <>
+        {parts.map((part, i) =>
+          part.type === 'plain' ? (
+            <span key={i}>{part.text}</span>
+          ) : (
+            <button
+              key={i}
+              onClick={() => setActiveAnchor(
+                isActive(part.ann) ? null : { paraId, anchor: part.ann.anchor }
+              )}
+              className={`relative inline border-b-2 transition-colors cursor-pointer rounded-sm px-0.5 ${
+                isActive(part.ann)
+                  ? darkMode
+                    ? `border-amber-400 ${typeDef(part.ann).colorDark} bg-opacity-60`
+                    : `border-amber-500 bg-amber-50`
+                  : darkMode
+                    ? 'border-gray-600 hover:border-amber-500'
+                    : 'border-gray-400 hover:border-amber-500'
+              }`}
+              title={`${getTypeDef(part.ann.type).label}：クリックで表示`}
+            >
+              {part.text}
+              <span className={`absolute -top-1 -right-1 w-1.5 h-1.5 rounded-full ${typeDef(part.ann).dot}`} />
+            </button>
+          )
+        )}
+      </>
+    );
+  };
+
+  // 注釈パネル1件のレンダリング
+  const AnnotationItem = ({ ann, paraId }) => {
+    const def = getTypeDef(ann.type);
+    const colorClass = darkMode ? def.colorDark : def.colorLight;
+    const isHighlighted = ann.anchor && activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
+
+    return (
+      <div className={`rounded-lg border p-3 text-xs transition-all ${colorClass} ${isHighlighted ? 'ring-2 ring-amber-400' : ''}`}>
+        <div className="flex items-center justify-between gap-2 mb-1.5">
+          <span className={`font-bold uppercase tracking-wider text-xs opacity-70`}>{def.label}</span>
+          {ann.anchor && (
+            <span className={`font-mono text-xs px-1.5 py-0.5 rounded ${darkMode ? 'bg-black/30' : 'bg-white/60'}`}>
+              「{ann.anchor.length > 20 ? ann.anchor.slice(0, 20) + '…' : ann.anchor}」
+            </span>
+          )}
+        </div>
+        <p className="leading-relaxed">{ann.body}</p>
+        {ann.type === 'intertextual' && ann.targetId && texts[ann.targetId] && (
+          <button
+            onClick={() => handleTextChange(ann.targetId)}
+            className={`mt-2 flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity`}
+          >
+            → {texts[ann.targetId].title}
+            <span className="opacity-60">({texts[ann.targetId].author})</span>
+          </button>
+        )}
+      </div>
+    );
+  };
 
   if (loading) {
     return (
@@ -455,6 +565,7 @@ export default function App() {
                       [showFrench, setShowFrench, '原文', 'indigo'],
                       [showOfficial, setShowOfficial, '仮訳', 'green'],
                       [showUser, setShowUser, '自分の訳', 'purple'],
+                      [showAnnotations, setShowAnnotations, '注釈', 'amber'],
                     ].map(([checked, setter, label, color]) => (
                       <label key={label} className="flex items-center gap-2 cursor-pointer">
                         <input
@@ -674,6 +785,9 @@ export default function App() {
             const isCollapsed = collapsedParagraphs[para.id];
             const hasUserTrans = !!userTranslations[para.id];
             const translation = getTranslation(para);
+            const paraAnnotations = getParaAnnotations(para.id);
+            const hasAnnotations = paraAnnotations.length > 0;
+            const isAnnotationOpen = expandedAnnotations[para.id];
 
             return (
               <div
@@ -708,6 +822,9 @@ export default function App() {
                     {hasUserTrans && (
                       <span className="w-2 h-2 rounded-full bg-purple-500" title="自分の訳あり" />
                     )}
+                    {hasAnnotations && (
+                      <span className="w-2 h-2 rounded-full bg-amber-400" title="注釈あり" />
+                    )}
                     {/* 段落読み上げボタン */}
                     <button
                       onClick={(e) => { e.stopPropagation(); speakParagraph(para, currentText); }}
@@ -739,8 +856,46 @@ export default function App() {
                           fontSize === 'large'  ? 'text-xl' :
                           fontSize === 'medium' ? 'text-lg' : 'text-base'
                         }`}>
-                          {getOriginalText(para)}
+                          {showAnnotations && hasAnnotations
+                            ? renderTextWithAnchors(getOriginalText(para), paraAnnotations, para.id)
+                            : getOriginalText(para)
+                          }
                         </p>
+                      </div>
+                    )}
+
+                    {/* 注釈パネル */}
+                    {showAnnotations && hasAnnotations && (
+                      <div className={`mb-3 rounded-lg border ${darkMode ? 'border-amber-900/50 bg-amber-950/20' : 'border-amber-200 bg-amber-50/50'}`}>
+                        <button
+                          onClick={() => setExpandedAnnotations(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
+                          className={`w-full flex items-center justify-between px-3 py-2 text-xs font-medium transition-colors rounded-lg ${
+                            darkMode ? 'text-amber-300 hover:bg-amber-900/20' : 'text-amber-800 hover:bg-amber-100'
+                          }`}
+                        >
+                          <span className="flex items-center gap-2">
+                            <span>📝</span>
+                            <span>注釈 {paraAnnotations.length}件</span>
+                            {/* typeバッジ一覧（折りたたみ時） */}
+                            {!isAnnotationOpen && (
+                              <span className="flex gap-1">
+                                {[...new Set(paraAnnotations.map(a => a.type))].map(t => (
+                                  <span key={t} className={`px-1.5 py-0.5 rounded text-xs border ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
+                                    {getTypeDef(t).label}
+                                  </span>
+                                ))}
+                              </span>
+                            )}
+                          </span>
+                          <span>{isAnnotationOpen ? '▲' : '▼'}</span>
+                        </button>
+                        {isAnnotationOpen && (
+                          <div className="px-3 pb-3 space-y-2">
+                            {paraAnnotations.map((ann, i) => (
+                              <AnnotationItem key={i} ann={ann} paraId={para.id} />
+                            ))}
+                          </div>
+                        )}
                       </div>
                     )}
 
@@ -818,7 +973,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · イェイツ · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
