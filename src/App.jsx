@@ -759,7 +759,7 @@ export default function App() {
             </div>
           </div>
           {currentText.context && (
-            <div className={`mt-3 p-3 rounded-lg text-sm ${darkMode ? 'bg-indigo-950/50 text-indigo-300 border border-indigo-900' : 'bg-indigo-50 text-indigo-800 border border-indigo-100'}`}>
+            <div className={`mt-3 p-3 rounded-lg text-sm whitespace-pre-line ${darkMode ? 'bg-indigo-950/50 text-indigo-300 border border-indigo-900' : 'bg-indigo-50 text-indigo-800 border border-indigo-100'}`}>
               {currentText.context}
             </div>
           )}
