@@ -78,6 +78,9 @@ export default function App() {
   const [showAnnotations, setShowAnnotations] = useState(true);
   const [expandedAnnotations, setExpandedAnnotations] = useState({}); // paragraphId → bool
   const [activeAnchor, setActiveAnchor] = useState(null); // { paraId, anchor }
+  // 横断読解ビュー
+  const [crossMode, setCrossMode] = useState(false);
+  const [crossTexts, setCrossTexts] = useState([]);
   const settingsRef = useRef(null);
   const bodyRef = useRef(null); // 本文セクションへのref
   const paragraphRefs = useRef({}); // paragraphId → DOM要素ref
@@ -252,6 +255,8 @@ export default function App() {
     setActiveAnchor(null);
     setShowAnnotationIndex(false);
     setIntertextualExpanded({});
+    setCrossMode(false);
+    setCrossTexts([]);
   };
 
   // vボタンのハンドラ：1回目→変色、2回目→スクロール
@@ -533,6 +538,86 @@ export default function App() {
       </div>
     );
   };
+
+  // ─── 横断読解：1パネル分のレンダリング ───────────────────────
+  const CrossPanel = ({ textObj, panelIndex }) => {
+    const [collapsed, setCollapsed] = React.useState({});
+    const [showOrig, setShowOrig] = React.useState(true);
+    const [showTrans, setShowTrans] = React.useState(true);
+    const accentColors = [
+      { border: 'border-indigo-400', badge: darkMode ? 'bg-indigo-900/50 text-indigo-300' : 'bg-indigo-600 text-white', header: darkMode ? 'bg-indigo-950/40 border-indigo-800' : 'bg-indigo-50 border-indigo-200' },
+      { border: 'border-emerald-400', badge: darkMode ? 'bg-emerald-900/50 text-emerald-300' : 'bg-emerald-600 text-white', header: darkMode ? 'bg-emerald-950/40 border-emerald-800' : 'bg-emerald-50 border-emerald-200' },
+      { border: 'border-rose-400', badge: darkMode ? 'bg-rose-900/50 text-rose-300' : 'bg-rose-600 text-white', header: darkMode ? 'bg-rose-950/40 border-rose-800' : 'bg-rose-50 border-rose-200' },
+    ];
+    const ac = accentColors[panelIndex % accentColors.length];
+
+    return (
+      <div className={`flex flex-col rounded-xl border-2 ${ac.border} overflow-hidden ${darkMode ? 'bg-gray-900' : 'bg-white'}`}>
+        {/* パネルヘッダー */}
+        <div className={`px-4 py-3 border-b ${ac.header} shrink-0`}>
+          <div className="flex items-start justify-between gap-2">
+            <div className="min-w-0">
+              <h3 className={`font-serif text-sm font-semibold leading-snug ${textClass}`}>{textObj.title}</h3>
+              <p className={`text-xs mt-0.5 ${textSecondary}`}>{textObj.author}　{textObj.year}</p>
+            </div>
+            {/* 表示トグル */}
+            <div className="flex gap-1 shrink-0">
+              <button
+                onClick={() => setShowOrig(v => !v)}
+                className={`px-2 py-0.5 text-xs rounded transition-colors ${showOrig ? (darkMode ? 'bg-indigo-800 text-indigo-200' : 'bg-indigo-100 text-indigo-700') : (darkMode ? 'bg-gray-800 text-gray-500' : 'bg-gray-100 text-gray-400')}`}
+              >原</button>
+              <button
+                onClick={() => setShowTrans(v => !v)}
+                className={`px-2 py-0.5 text-xs rounded transition-colors ${showTrans ? (darkMode ? 'bg-green-800 text-green-200' : 'bg-green-100 text-green-700') : (darkMode ? 'bg-gray-800 text-gray-500' : 'bg-gray-100 text-gray-400')}`}
+              >訳</button>
+            </div>
+          </div>
+          {/* context（折りたたみ） */}
+          {textObj.context && (
+            <p className={`mt-2 text-xs leading-relaxed line-clamp-2 ${darkMode ? 'text-indigo-300/70' : 'text-indigo-700/70'}`}>
+              {textObj.context}
+            </p>
+          )}
+        </div>
+
+        {/* 段落リスト */}
+        <div className={`overflow-y-auto flex-1 space-y-1 p-2 ${fontSizeMap[fontSize]}`} style={{ maxHeight: '70vh' }}>
+          {textObj.paragraphs.map((para) => {
+            const isCol = collapsed[para.id];
+            const trans = getTranslation(para);
+            const orig = getOriginalText(para);
+            return (
+              <div key={para.id} className={`rounded-lg border ${darkMode ? 'border-gray-800' : 'border-gray-100'}`}>
+                {/* 段落ヘッダー */}
+                <button
+                  onClick={() => setCollapsed(prev => ({ ...prev, [para.id]: !prev[para.id] }))}
+                  className={`w-full flex items-center gap-2 px-3 py-2 text-left transition-colors ${darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'}`}
+                >
+                  <span className={`text-xs font-mono w-5 shrink-0 ${textSecondary}`}>{para.id}</span>
+                  {isCol && orig && (
+                    <span className={`text-xs truncate ${textClass}`}>{orig.split('\n')[0]}</span>
+                  )}
+                  <span className={`ml-auto text-xs ${textSecondary}`}>{isCol ? '▶' : '▼'}</span>
+                </button>
+                {/* 段落コンテンツ */}
+                {!isCol && (
+                  <div className={`px-3 pb-3 border-t ${borderClass}`}>
+                    {showOrig && orig && (
+                      <p className={`pt-2 leading-relaxed whitespace-pre-line ${textClass} text-sm`}>{orig}</p>
+                    )}
+                    {showTrans && trans && (
+                      <p className={`mt-2 leading-relaxed whitespace-pre-line text-xs border-l-2 border-green-400 pl-2 ${darkMode ? 'text-green-300/80' : 'text-green-800/80'}`}>{trans}</p>
+                    )}
+                  </div>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      </div>
+    );
+  };
+
 
   if (loading) {
     return (
@@ -896,6 +981,69 @@ export default function App() {
               ))}
             </div>
           )}
+
+          {/* 横断読解ボタン＋テキスト選択 */}
+          {(currentText.relatedTexts?.length > 0 || crossMode) && (
+            <div className={`mt-4 pt-4 border-t ${borderClass}`}>
+              <div className="flex items-center justify-between mb-2">
+                <span className={`text-xs font-semibold ${textSecondary}`}>横断読解</span>
+                <button
+                  onClick={() => { setCrossMode(v => !v); if (crossMode) setCrossTexts([]); }}
+                  className={`px-3 py-1 text-xs rounded-lg font-medium transition-colors ${
+                    crossMode
+                      ? darkMode ? 'bg-violet-700 text-white' : 'bg-violet-600 text-white'
+                      : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'
+                  }`}
+                >
+                  {crossMode ? '✕ 横断ビューを閉じる' : '⇄ 横断読解ビューを開く'}
+                </button>
+              </div>
+
+              {/* 比較テキスト選択チップ */}
+              {crossMode && (
+                <div>
+                  <p className={`text-xs mb-2 ${textSecondary}`}>
+                    比較するテキストを選択（最大2件）
+                  </p>
+                  <div className="flex flex-wrap gap-1.5">
+                    {(currentText.relatedTexts || []).filter(id => texts[id]).map(id => {
+                      const t = texts[id];
+                      const isSelected = crossTexts.includes(id);
+                      return (
+                        <button
+                          key={id}
+                          onClick={() => {
+                            if (isSelected) {
+                              setCrossTexts(prev => prev.filter(x => x !== id));
+                            } else if (crossTexts.length < 2) {
+                              setCrossTexts(prev => [...prev, id]);
+                            }
+                          }}
+                          className={`px-2.5 py-1 text-xs rounded-full border transition-all ${
+                            isSelected
+                              ? darkMode ? 'bg-violet-700 border-violet-500 text-white' : 'bg-violet-100 border-violet-400 text-violet-900'
+                              : crossTexts.length >= 2
+                                ? darkMode ? 'border-gray-700 text-gray-600 cursor-not-allowed' : 'border-gray-200 text-gray-300 cursor-not-allowed'
+                                : darkMode ? 'border-gray-700 text-gray-400 hover:border-violet-600 hover:text-violet-300' : 'border-gray-300 text-gray-600 hover:border-violet-400 hover:text-violet-700'
+                          }`}
+                          disabled={!isSelected && crossTexts.length >= 2}
+                        >
+                          {isSelected && <span className="mr-1">✓</span>}
+                          {t.title}
+                          <span className={`ml-1 opacity-60`}>({t.author.split(' ').pop()})</span>
+                        </button>
+                      );
+                    })}
+                  </div>
+                  {crossTexts.length > 0 && (
+                    <p className={`mt-2 text-xs ${textSecondary}`}>
+                      {crossTexts.length}件選択中 — 下のビューで並べて読めます
+                    </p>
+                  )}
+                </div>
+              )}
+            </div>
+          )}
         </div>
 
         {/* ─── 注釈インデックス ─────────────────────── */}
@@ -977,8 +1125,22 @@ export default function App() {
           </div>
         )}
 
-        {/* ─── 段落コントロールバー ─────────────────── */}
-        <div ref={bodyRef} className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
+        {/* ─── 横断読解ビュー ──────────────────────── */}
+        {crossMode && crossTexts.length > 0 && (
+          <div ref={bodyRef} className="mb-6">
+            <div className={`grid gap-4 pb-4`} style={{ gridTemplateColumns: `repeat(${crossTexts.length + 1}, minmax(0, 1fr))` }}>
+              {/* メインテキストパネル（常に左端） */}
+              <CrossPanel textObj={currentText} panelIndex={0} />
+              {/* 選択された比較テキストパネル */}
+              {crossTexts.map((id, i) => texts[id] && (
+                <CrossPanel key={id} textObj={texts[id]} panelIndex={i + 1} />
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* ─── 段落コントロールバー（通常ビューのみ） ─ */}
+        {!crossMode && <div ref={bodyRef} className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
           <div className="flex gap-2">
             <button
               onClick={expandAll}
@@ -1010,10 +1172,10 @@ export default function App() {
           >
             訳文をすべて削除
           </button>
-        </div>
+        </div>}
 
-        {/* ─── 段落リスト ───────────────────────────── */}
-        <div className={`space-y-2 pb-10 ${fontSizeMap[fontSize]}`}>
+        {/* ─── 段落リスト（通常ビューのみ） ────────── */}
+        {!crossMode && <div className={`space-y-2 pb-10 ${fontSizeMap[fontSize]}`}>
           {currentText.paragraphs.map((para) => {
             const isCollapsed = collapsedParagraphs[para.id];
             const hasUserTrans = !!userTranslations[para.id];
@@ -1203,7 +1365,7 @@ export default function App() {
               </div>
             );
           })}
-        </div>
+        </div>}
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
