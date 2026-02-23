@@ -80,6 +80,7 @@ export default function App() {
   const [activeAnchor, setActiveAnchor] = useState(null); // { paraId, anchor }
   const settingsRef = useRef(null);
   const bodyRef = useRef(null); // 本文セクションへのref
+  const paragraphRefs = useRef({}); // paragraphId → DOM要素ref
 
   // ── 読み上げ関数 ──────────────────────────────────────────
   const speak = (text, lang, id) => {
@@ -249,6 +250,7 @@ export default function App() {
     setReadyToScroll(null);
     setExpandedAnnotations({});
     setActiveAnchor(null);
+    setShowAnnotationIndex(false);
   };
 
   // vボタンのハンドラ：1回目→変色、2回目→スクロール
@@ -283,6 +285,24 @@ export default function App() {
     setCollapsedParagraphs(all);
   };
   const expandAll = () => setCollapsedParagraphs({});
+
+  // 注釈インデックス
+  const [showAnnotationIndex, setShowAnnotationIndex] = useState(false);
+
+  // インデックスから段落へジャンプ
+  const jumpToAnnotation = (ann) => {
+    const paraId = ann.paragraphId;
+    // 対象段落を展開
+    setCollapsedParagraphs(prev => ({ ...prev, [paraId]: false }));
+    // 注釈パネルを展開
+    setExpandedAnnotations(prev => ({ ...prev, [paraId]: true }));
+    // anchor付きなら原文ハイライトもセット
+    if (ann.anchor) setActiveAnchor({ paraId, anchor: ann.anchor });
+    // 少し待ってからスクロール
+    setTimeout(() => {
+      paragraphRefs.current[paraId]?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 60);
+  };
 
   // ─── 注釈ユーティリティ ────────────────────────────────────
 
@@ -394,12 +414,29 @@ export default function App() {
     const colorClass = darkMode ? def.colorDark : def.colorLight;
     const isHighlighted = ann.anchor && activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
 
+    // パネル側クリック → 原文側のanchorをハイライト（双方向フォーカス）
+    const handleCardClick = () => {
+      if (!ann.anchor) return;
+      if (isHighlighted) {
+        setActiveAnchor(null);
+      } else {
+        setActiveAnchor({ paraId, anchor: ann.anchor });
+      }
+    };
+
     return (
-      <div className={`rounded-lg border p-3 text-xs transition-all ${colorClass} ${isHighlighted ? 'ring-2 ring-amber-400' : ''}`}>
+      <div
+        onClick={handleCardClick}
+        className={`rounded-lg border p-3 text-xs transition-all ${colorClass} ${isHighlighted ? 'ring-2 ring-amber-400' : ''} ${ann.anchor ? 'cursor-pointer hover:opacity-90' : ''}`}
+      >
         <div className="flex items-center justify-between gap-2 mb-1.5">
-          <span className={`font-bold uppercase tracking-wider text-xs opacity-70`}>{def.label}</span>
+          <span className="font-bold uppercase tracking-wider text-xs opacity-70">{def.label}</span>
           {ann.anchor && (
-            <span className={`font-mono text-xs px-1.5 py-0.5 rounded ${darkMode ? 'bg-black/30' : 'bg-white/60'}`}>
+            <span className={`font-mono text-xs px-1.5 py-0.5 rounded flex items-center gap-1 ${darkMode ? 'bg-black/30' : 'bg-white/60'}`}>
+              {isHighlighted
+                ? <span className="text-amber-500">●</span>
+                : <span className="opacity-40">○</span>
+              }
               「{ann.anchor.length > 20 ? ann.anchor.slice(0, 20) + '…' : ann.anchor}」
             </span>
           )}
@@ -407,8 +444,8 @@ export default function App() {
         <p className="leading-relaxed">{ann.body}</p>
         {ann.type === 'intertextual' && ann.targetId && texts[ann.targetId] && (
           <button
-            onClick={() => handleTextChange(ann.targetId)}
-            className={`mt-2 flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity`}
+            onClick={(e) => { e.stopPropagation(); handleTextChange(ann.targetId); }}
+            className="mt-2 flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity"
           >
             → {texts[ann.targetId].title}
             <span className="opacity-60">({texts[ann.targetId].author})</span>
@@ -721,6 +758,14 @@ export default function App() {
                           <span>{text.difficulty}</span>
                         </>
                       )}
+                      {text.annotations?.length > 0 && (
+                        <>
+                          <span>·</span>
+                          <span className={`px-1.5 py-0.5 rounded text-xs ${darkMode ? 'bg-amber-900/40 text-amber-400' : 'bg-amber-100 text-amber-700'}`}>
+                            注釈{text.annotations.length}
+                          </span>
+                        </>
+                      )}
                     </div>
                   </button>
 
@@ -774,6 +819,85 @@ export default function App() {
           )}
         </div>
 
+        {/* ─── 注釈インデックス ─────────────────────── */}
+        {showAnnotations && (currentText.annotations?.length > 0) && (
+          <div className={`rounded-xl border mb-4 overflow-hidden ${cardBgClass}`}>
+            <button
+              onClick={() => setShowAnnotationIndex(v => !v)}
+              className={`w-full flex items-center justify-between px-4 py-3 text-sm font-medium transition-colors ${
+                darkMode ? 'hover:bg-gray-800/60' : 'hover:bg-gray-50'
+              } ${textClass}`}
+            >
+              <span className="flex items-center gap-2">
+                <span>📋</span>
+                <span>注釈インデックス</span>
+                <span className={`text-xs px-2 py-0.5 rounded-full ${darkMode ? 'bg-amber-900/50 text-amber-300' : 'bg-amber-100 text-amber-700'}`}>
+                  {currentText.annotations.length}件
+                </span>
+                {/* typeバッジ集計 */}
+                <span className="flex gap-1 ml-1">
+                  {[...new Set(currentText.annotations.map(a => a.type))].map(t => (
+                    <span key={t} className={`px-1.5 py-0.5 rounded text-xs border hidden sm:inline ${darkMode ? getTypeDef(t).colorDark : getTypeDef(t).colorLight}`}>
+                      {getTypeDef(t).label}
+                    </span>
+                  ))}
+                </span>
+              </span>
+              <span className={`text-xs ${textSecondary}`}>{showAnnotationIndex ? '▲' : '▼'}</span>
+            </button>
+
+            {showAnnotationIndex && (
+              <div className={`border-t ${borderClass}`}>
+                {/* 段落ごとにグループ化して表示 */}
+                {currentText.paragraphs
+                  .filter(p => (currentText.annotations || []).some(a => a.paragraphId === p.id))
+                  .map(p => {
+                    const anns = (currentText.annotations || []).filter(a => a.paragraphId === p.id);
+                    return (
+                      <div key={p.id} className={`border-b last:border-b-0 ${borderClass}`}>
+                        {/* 段落番号ヘッダー */}
+                        <div className={`px-4 py-1.5 text-xs font-mono font-semibold ${darkMode ? 'bg-gray-800/60 text-gray-400' : 'bg-gray-50 text-gray-500'}`}>
+                          § {p.id}
+                          <span className={`ml-2 font-sans font-normal opacity-60 truncate`}>
+                            {getOriginalText(p).split('\n')[0].slice(0, 40)}{getOriginalText(p).length > 40 ? '…' : ''}
+                          </span>
+                        </div>
+                        {/* 注釈リスト */}
+                        <div className="px-4 py-2 space-y-1.5">
+                          {anns.map((ann, i) => {
+                            const def = getTypeDef(ann.type);
+                            const isActive = ann.anchor && activeAnchor?.paraId === ann.paragraphId && activeAnchor?.anchor === ann.anchor;
+                            return (
+                              <button
+                                key={i}
+                                onClick={() => jumpToAnnotation(ann)}
+                                className={`w-full text-left flex items-start gap-2 px-2 py-1.5 rounded-lg text-xs transition-colors ${
+                                  isActive
+                                    ? darkMode ? 'bg-amber-900/40' : 'bg-amber-50'
+                                    : darkMode ? 'hover:bg-gray-800' : 'hover:bg-gray-50'
+                                }`}
+                              >
+                                <span className={`shrink-0 mt-0.5 px-1.5 py-0.5 rounded border text-xs ${darkMode ? def.colorDark : def.colorLight}`}>
+                                  {def.label}
+                                </span>
+                                <span className={`${textClass} leading-relaxed`}>
+                                  {ann.anchor
+                                    ? <><span className="font-mono opacity-70">「{ann.anchor.length > 15 ? ann.anchor.slice(0, 15) + '…' : ann.anchor}」</span> — {ann.body.slice(0, 60)}{ann.body.length > 60 ? '…' : ''}</>
+                                    : ann.body.slice(0, 70) + (ann.body.length > 70 ? '…' : '')
+                                  }
+                                </span>
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    );
+                  })}
+              </div>
+            )}
+          </div>
+        )}
+
         {/* ─── 段落コントロールバー ─────────────────── */}
         <div ref={bodyRef} className={`rounded-xl border p-3 mb-4 flex flex-wrap items-center justify-between gap-3 ${cardBgClass}`}>
           <div className="flex gap-2">
@@ -822,6 +946,7 @@ export default function App() {
             return (
               <div
                 key={para.id}
+                ref={el => { paragraphRefs.current[para.id] = el; }}
                 className={`rounded-xl border-2 overflow-hidden transition-all ${
                   selectedText && !isCollapsed ? 'shadow-sm' : ''
                 } ${
