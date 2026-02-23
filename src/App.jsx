@@ -8,6 +8,7 @@ import verlaineData from './data/verlaine';
 import gautierData from './data/gautier';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
+import yeatsData from './data/yeats';
 import georgeData from './data/george';
 import hofmannsthalData from './data/hofmannsthal';
 import traklData from './data/trakl';
@@ -131,6 +132,7 @@ export default function App() {
       ...gautierData,
       ...wildeData,
       ...swinburneData,
+      ...yeatsData,
       ...georgeData,
 　　　　...hofmannsthalData,
       ...traklData,
@@ -171,6 +173,7 @@ export default function App() {
     gautier:                    { name: 'ゴーティエ' },
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
+    yeats:                      { name: 'イェイツ' },
     george:                     { name: 'ゲオルゲ' },
     hofmannsthal:               { name: 'ホフマンスタール' },
     trakl:                      { name: 'トラークル' },
@@ -331,6 +334,7 @@ export default function App() {
     gautier:                 'ゴーティエ',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
+    yeats:                   'イェイツ',
     george:                  'ゲオルゲ',
     hofmannsthal:            'ホフマンスタール',
     trakl:                   'トラークル',
@@ -347,6 +351,7 @@ export default function App() {
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
     if (cat?.startsWith('wilde'))        return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('swinburne'))    return darkMode ? 'bg-indigo-900/40 text-indigo-300' : 'bg-indigo-100 text-indigo-800';
+    if (cat?.startsWith('yeats'))        return darkMode ? 'bg-slate-900/40 text-slate-300' : 'bg-slate-100 text-slate-800';
     if (cat?.startsWith('george'))       return darkMode ? 'bg-teal-900/40 text-teal-300' : 'bg-teal-100 text-teal-800';
     if (cat?.startsWith('hofmannsthal')) return darkMode ? 'bg-yellow-900/40 text-yellow-400' : 'bg-yellow-200 text-yellow-900';
     if (cat?.startsWith('trakl'))        return darkMode ? 'bg-blue-900/40 text-blue-400' : 'bg-blue-200 text-blue-900';
