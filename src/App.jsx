@@ -251,6 +251,7 @@ export default function App() {
     setExpandedAnnotations({});
     setActiveAnchor(null);
     setShowAnnotationIndex(false);
+    setIntertextualExpanded({});
   };
 
   // vボタンのハンドラ：1回目→変色、2回目→スクロール
@@ -288,6 +289,8 @@ export default function App() {
 
   // 注釈インデックス
   const [showAnnotationIndex, setShowAnnotationIndex] = useState(false);
+  // intertextualインライン展開: key = `${paraId}-${annIdx}`
+  const [intertextualExpanded, setIntertextualExpanded] = useState({});
 
   // インデックスから段落へジャンプ
   const jumpToAnnotation = (ann) => {
@@ -409,10 +412,12 @@ export default function App() {
   };
 
   // 注釈パネル1件のレンダリング
-  const AnnotationItem = ({ ann, paraId }) => {
+  const AnnotationItem = ({ ann, paraId, annIdx }) => {
     const def = getTypeDef(ann.type);
     const colorClass = darkMode ? def.colorDark : def.colorLight;
     const isHighlighted = ann.anchor && activeAnchor?.paraId === paraId && activeAnchor?.anchor === ann.anchor;
+    const expandKey = `${paraId}-${annIdx}`;
+    const isIntertextualOpen = intertextualExpanded[expandKey];
 
     // パネル側クリック → 原文側のanchorをハイライト（双方向フォーカス）
     const handleCardClick = () => {
@@ -424,11 +429,20 @@ export default function App() {
       }
     };
 
+    // intertextual：対象テキスト・段落データを取得
+    const targetText = ann.type === 'intertextual' && ann.targetId ? texts[ann.targetId] : null;
+    const targetParas = targetText
+      ? ann.targetParagraphId
+        ? targetText.paragraphs.filter(p => p.id === ann.targetParagraphId)
+        : targetText.paragraphs
+      : [];
+
     return (
       <div
-        onClick={handleCardClick}
-        className={`rounded-lg border p-3 text-xs transition-all ${colorClass} ${isHighlighted ? 'ring-2 ring-amber-400' : ''} ${ann.anchor ? 'cursor-pointer hover:opacity-90' : ''}`}
+        onClick={ann.type !== 'intertextual' ? handleCardClick : undefined}
+        className={`rounded-lg border p-3 text-xs transition-all ${colorClass} ${isHighlighted ? 'ring-2 ring-amber-400' : ''} ${ann.anchor && ann.type !== 'intertextual' ? 'cursor-pointer hover:opacity-90' : ''}`}
       >
+        {/* ヘッダー行 */}
         <div className="flex items-center justify-between gap-2 mb-1.5">
           <span className="font-bold uppercase tracking-wider text-xs opacity-70">{def.label}</span>
           {ann.anchor && (
@@ -441,15 +455,80 @@ export default function App() {
             </span>
           )}
         </div>
+
+        {/* 注釈本文 */}
         <p className="leading-relaxed">{ann.body}</p>
-        {ann.type === 'intertextual' && ann.targetId && texts[ann.targetId] && (
-          <button
-            onClick={(e) => { e.stopPropagation(); handleTextChange(ann.targetId); }}
-            className="mt-2 flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity"
-          >
-            → {texts[ann.targetId].title}
-            <span className="opacity-60">({texts[ann.targetId].author})</span>
-          </button>
+
+        {/* intertextual：展開ボタン＋インラインプレビュー */}
+        {ann.type === 'intertextual' && targetText && (
+          <div className="mt-2">
+            {/* ボタン行：展開トグル＋テキスト遷移 */}
+            <div className="flex items-center gap-2 flex-wrap">
+              <button
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setIntertextualExpanded(prev => ({ ...prev, [expandKey]: !prev[expandKey] }));
+                }}
+                className={`flex items-center gap-1 px-2 py-1 rounded text-xs font-medium transition-colors ${
+                  isIntertextualOpen
+                    ? darkMode ? 'bg-violet-800/60 text-violet-200' : 'bg-violet-200 text-violet-900'
+                    : darkMode ? 'bg-black/20 text-violet-300 hover:bg-black/30' : 'bg-white/70 text-violet-800 hover:bg-violet-100'
+                }`}
+              >
+                {isIntertextualOpen ? '▲ 折りたたむ' : '▼ 対照テキストを展開'}
+              </button>
+              <button
+                onClick={(e) => { e.stopPropagation(); handleTextChange(ann.targetId); }}
+                className="flex items-center gap-1 font-medium underline underline-offset-2 hover:opacity-70 transition-opacity text-xs"
+              >
+                → {targetText.title}
+                <span className="opacity-60">({targetText.author})</span>
+              </button>
+            </div>
+
+            {/* インライン展開パネル */}
+            {isIntertextualOpen && (
+              <div className={`mt-2 rounded-lg border overflow-hidden ${darkMode ? 'border-violet-800/50 bg-gray-950/60' : 'border-violet-200 bg-white/80'}`}>
+                {/* パネルヘッダー */}
+                <div className={`px-3 py-2 flex items-center justify-between border-b ${darkMode ? 'border-violet-800/40 bg-violet-950/40' : 'border-violet-100 bg-violet-50'}`}>
+                  <div>
+                    <span className={`font-serif text-xs font-semibold ${darkMode ? 'text-violet-200' : 'text-violet-900'}`}>
+                      {targetText.title}
+                    </span>
+                    <span className={`ml-2 text-xs opacity-60 ${darkMode ? 'text-violet-300' : 'text-violet-700'}`}>
+                      {targetText.author}
+                    </span>
+                  </div>
+                  {ann.targetParagraphId && (
+                    <span className={`text-xs font-mono opacity-50 ${darkMode ? 'text-violet-300' : 'text-violet-700'}`}>
+                      § {ann.targetParagraphId}
+                    </span>
+                  )}
+                </div>
+
+                {/* 対象段落テキスト */}
+                <div className="px-3 py-2 space-y-2">
+                  {targetParas.map(p => (
+                    <div key={p.id}>
+                      {!ann.targetParagraphId && (
+                        <span className={`text-xs font-mono opacity-40 mr-2 ${darkMode ? 'text-gray-400' : 'text-gray-500'}`}>
+                          {p.id}
+                        </span>
+                      )}
+                      <span className={`font-serif leading-relaxed whitespace-pre-line text-xs ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
+                        {getOriginalText(p)}
+                      </span>
+                      {getTranslation(p) && (
+                        <p className={`mt-1 text-xs leading-relaxed whitespace-pre-line border-l-2 pl-2 ${darkMode ? 'border-green-700 text-green-300/70' : 'border-green-400 text-green-800/70'}`}>
+                          {getTranslation(p)}
+                        </p>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
         )}
       </div>
     );
@@ -1047,7 +1126,7 @@ export default function App() {
                         {isAnnotationOpen && (
                           <div className="px-3 pb-3 space-y-2">
                             {paraAnnotations.map((ann, i) => (
-                              <AnnotationItem key={i} ann={ann} paraId={para.id} />
+                              <AnnotationItem key={i} ann={ann} paraId={para.id} annIdx={i} />
                             ))}
                           </div>
                         )}
