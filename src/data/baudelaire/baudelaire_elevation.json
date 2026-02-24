@@ -1,0 +1,108 @@
+{
+  "id": "baudelaire_elevation",
+  "title": "Élévation",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal (Michel Lévy frères, Paris, 1857); 2e éd. (Poulet-Malassis, 1861)",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal (Michel Lévy frères, Paris, 1857)",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』第3篇。「Spleen et Idéal（憂鬱と理想）」サイクルの冒頭近くに置かれ、腐敗・重力・憂鬱に縛られた地上から精神が上昇して「理解される言語」を聴き取るという運動を描く。サイクル全体の理想の極を体現する詩として、後続の「Spleen」詩群と対をなす。",
+  "keywords": ["上昇", "理想", "Spleen et Idéal", "言語", "精神", "浄化", "エーテル"],
+  "relatedTexts": [
+    "baudelaire_une_charogne",
+    "baudelaire_romantisme_complet",
+    "mallarme_crise_de_vers",
+    "hofmannsthal_manche_freilich",
+    "hoelderlin_hyperions_schicksalslied"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Au-dessus des étangs, au-dessus des vallées,\nDes montagnes, des bois, des nuages, des mers,\nPar delà le soleil, par delà les éthers,\nPar delà les confins des sphères étoilées,",
+      "provisionalTranslation": "池の上を、谷の上を、\n山々、森、雲、海の上を、\n太陽の彼方、エーテルの彼方、\n星の球の果ての彼方へ、"
+    },
+    {
+      "id": 2,
+      "french": "Mon esprit, tu te meus avec agilité,\nEt, comme un bon nageur qui se pâme dans l'onde,\nTu sillonnes gaiement l'immensité profonde\nAvec une indicible et mâle volupté.",
+      "provisionalTranslation": "わが精神よ、お前は軽やかに動く、\nそして波に恍惚とする泳ぎ上手のように、\n深い広大さをお前は喜々として切り裂いていく\n言い表せぬ、雄々しい快楽とともに。"
+    },
+    {
+      "id": 3,
+      "french": "Envole-toi bien loin de ces miasmes morbides ;\nVa te purifier dans l'air supérieur,\nEt bois, comme une pure et divine liqueur,\nLe feu clair qui remplit les espaces limpides.",
+      "provisionalTranslation": "この病的な瘴気から遠く飛び去れ；\n上方の大気の中で身を清めよ、\nそして純粋で神聖な液体のように飲め、\n澄んだ空間を満たす明るい火を。"
+    },
+    {
+      "id": 4,
+      "french": "Derrière les ennuis et les vastes chagrins\nQui chargent de leur poids l'existence brumeuse,\nHeureux celui qui peut d'une aile vigoureuse\nS'élancer vers les champs lumineux et sereins !",
+      "provisionalTranslation": "重荷のように霧がかった実存を圧する\n倦怠と広大な悲しみの向こうへ、\n幸いなるかな、力強い翼で\n明るく穏やかな野へと飛び立てる者は！"
+    },
+    {
+      "id": 5,
+      "french": "Celui dont les pensées, comme des alouettes,\nVers les cieux le matin prennent un libre essor,\nQui plane sur la vie, et comprend sans effort\nLe langage des fleurs et des choses muettes !",
+      "provisionalTranslation": "その思想が、雲雀のように、\n朝、天へと自由に飛翔する者、\n生の上を滑空し、努力なく理解する者\n花々と無言の事物の言語を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "ソネット拡張形式（5連20行、ABBA ABBA CCD EDE）。「Par delà」の3回繰り返しが垂直的上昇の運動を音響的に体現する。au-dessus（上を）→ par delà（彼方へ）という空間語の段階的拡大が、地上から宇宙への上昇軌跡を構造化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "les éthers",
+      "body": "「エーテル（複数形）」。古代ギリシャ哲学・中世宇宙論の天上物質（quinta essentia）。複数形 éthers は天球の重なりを示し、地上の物質的領域を超えた純粋な空間の連なりを示す。ボードレールは科学的概念として使うのではなく、感覚的・詩的な浄化の空間として用いる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「池・谷・山・海の上を」という地上からの離脱の運動は、ヘルダーリン「Hyperions Schicksalslied」の droben（上）／hinab（下）という垂直的二元論と構造的に共鳴する。ただしヘルダーリンでは神々だけが「上」にいられるのに対し、ボードレールでは精神（esprit）が能動的に上昇する点で対照的。",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "indicible et mâle volupté",
+      "body": "「言い表せぬ、雄々しい快楽」。indicible（言語化不可能）という形容詞が、この上昇体験を通常の言語を超えた感覚として定位する。mâle（雄々しい）は19世紀的性差の語彙だが、ボードレールにおいては精神的エネルギーの強度・能動性を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "miasmes morbides",
+      "body": "「病的な瘴気」。miasme（瘴気）は19世紀の医学用語で、腐敗した有機物から発生する有害な気体。当時は疫病の原因と考えられていた。地上の重さ・腐敗・病を一語に凝縮し、逃れるべき「下」の領域を規定する。「Une Charogne」の腐敗するイメージと対照的。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "bois, comme une pure et divine liqueur,\nLe feu clair",
+      "body": "「純粋で神聖な液体のように明るい火を飲む」。液体と火の矛盾——「火を飲む」——が感覚的な逆説を生む。boireという飲む行為が上昇体験の官能的・身体的次元を示す。神聖さ（divine）と官能性（volupté）の共存はボードレールの詩学の核心の一つ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "existence brumeuse",
+      "body": "「霧がかった実存」。brumeuse（霧がかった・ぼんやりした）は「Spleen」詩群に繰り返し現れる視覚的イメージ。霧は方向感覚の喪失・閉塞・憂鬱を示す。ennuis（倦怠）と chagrins（悲しみ）が「重荷（poids）」として実存を圧するという身体的比喩が、上昇への対比を鮮明にする。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Le langage des fleurs et des choses muettes",
+      "body": "「花々と無言の事物の言語」。詩の到達点。上昇した精神が獲得するのは「理解される言語（langage）」——通常の人間的言語でなく、事物そのものが発する沈黙の言語。choses muettes（無言の事物）はマラルメの「事物の不在」概念や、ボードレール自身の「照応（Correspondances）」の理論と連動する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「花々と無言の事物の言語を努力なく理解する」という到達点は、ホフマンスタール「Ballade des äußeren Lebens」で「夕べ（Abend）」という一語に世界全体が凝縮されるという言語的発見と響き合う。どちらも通常の言語を超えた、事物と言葉の直接的な一致という詩的理想を指し示す。",
+      "targetId": "hofmannsthal_ballade",
+      "targetParagraphId": 7
+    }
+  ]
+}
