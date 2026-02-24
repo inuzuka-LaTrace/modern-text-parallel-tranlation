@@ -1,5 +1,5 @@
 /* 1行目に追加：外部からの呼び声（Inaugural Call） */
-@import url('https://fonts.googleapis.com/css2?family=Alice&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=IM+Fell+English:ital@0;1&family=UnifrakturMaguntia&family=Noto+Serif+JP:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Hina+Mincho&family=IM+Fell+English:ital@0;1&family=Noto+Serif+JP:wght@400;700&family=Shippori+Mincho+B1:wght@400;700&family=UnifrakturMaguntia&display=swap');
 
 @tailwind base;
 @tailwind components;
