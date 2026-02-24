@@ -9,7 +9,7 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "「Sebastian im Traum」（1915）の「Siebengesang des Todes（死の七声部歌）」章収録。章内では「Abendländisches Lied」の直後、「Föhn」の直前に位置する。「Untergang（没落）」→「Abendländisches Lied（西洋の歌）」→「Verklärung（変容）」という意味論的連鎖の終着点として、章全体の緊張を変容・光明への転換によって解消する役割を担う——ただしその変容は安易な救済ではなく、「青い花」という言語的凝縮によって示される。\n\nタイトル「Verklärung」はキリストの「変容（Mount Tabor での姿の輝き）」を指す神学用語であり、同時にロマン主義的な「美的変容・浄化」の語でもある。ノヴァーリスの「青い花（blaue Blume）」が最終行に置かれることで、「An Novalis」と直接の照応関係を持つ——「An Novalis」が「暗い大地に眠る異邦人」として開始し「青い花として歌が生き続ける」で閉じるなら、「Verklärung」は「青い花、黄ばんだ岩の中で静かに響く（Blaue Blume, / Die leise tönt in vergilbtem Gestein）」という同一の象徴で閉じる。\n\n詩は6段落18行の自由詩。各段落は2〜3行の短い単位で、沈黙・句読点によって区切られる。詩の「あなた（du, dich）」は不特定——神か、友人か、読者か、詩人自身の内的自己かという曖昧さが詩を開かれた空間にする。\n\n第1段落：「夕べになると、あなたから青い顔がそっと去る（Verläßt dich leise ein blaues Antlitz）」——「青い顔」が人物から離れていく。これは守護霊・天使・魂の一部の離脱を示す。タマリンドの木で小さな鳥が歌う——タマリンドはトラークルの詩に唯一ここだけに現れる異国的植物（熱帯・アジア原産）であり、幻想的・夢的な空間を示す。第2段落：「柔かな修道士が死んだ手を合わせる」「白い天使がマリアのもとを訪れる」——受胎告知（Verkündigung）の場面の縮小再現。「白い天使」の訪問は「青い天使」（トラークルにおける通常の天使）とは異なり、浄化・光の天使の変形。第3段落：「夜の環（nächtiger Kranz）がすみれ・麦・紫の葡萄で成る——これが「見る者（des Schauenden）の年」」——「Schauender（見る者）」は詩人・幻視者を指す自己参照。年（Jahr）が花環・冠として結晶する。第4段落：「足元で死者たちの墓が開く、あなたが銀の手に額を置くとき」——この「額を銀の手に置く」という身振りは休息・祈り・内省の典型的なトラークル的ポーズ。墓が開くのは最後の審判の日のイメージだが、恐怖ではなく静かな事実として提示される。第5段落：「口のところに秋の月が静かに宿る、ケシの汁に酔った暗い歌」——「秋の月」「ケシの汁（Mohnsaft）」はトラークルの麻薬・陶酔・幻覚の系列に属する。ケシの汁はトラークル自身のモルヒネ依存とも重なる自伝的要素。第6段落（終行）：「青い花、黄ばんだ岩の中で静かに響く」——「青い花」ノヴァーリスの象徴の直接引用。「黄ばんだ岩（vergilbtes Gestein）」は時間の経過・腐朽・古さを示し、変容は廃墟の中でのみ起きる——これがトラークル的変容の逆説。\n\n「Verklärung」と「An Novalis」の並読：両詩の最終行に「青い花（blaue Blume）」が置かれ、一方は「苦悩の夜の家の中で生き続ける」、他方は「黄ばんだ岩の中で静かに響く」という、生存の様態の微妙な差異がトラークルの象徴使用の精度を示す。歌曲化：Richard Stöhr op.29、Josef Schelb（1964）、Wilhelm Killmayer（1993）ほか。",
+  "context": "詩集「Sebastian im Traum」（1915）の「Siebengesang des Todes（死の七声部歌）」章収録。「Abendländisches Lied」の直後に位置し、章全体の緊張を「変容」によって解消する役割を担う。タイトル「Verklärung」はキリストのタボル山での変容を指す神学用語であると同時に、ロマン主義的な美的浄化の語でもある。6段落18行の自由詩。",
   "keywords": ["変容", "青い顔", "タマリンド", "白い天使", "マリア", "ケシの汁", "青い花", "ノヴァーリス参照", "見る者", "秋の月"],
   "relatedTexts": [
     "trakl_untergang",
@@ -48,6 +48,88 @@
       "id": 6,
       "originalText": "Blaue Blume,\nDie leise tönt in vergilbtem Gestein.",
       "provisionalTranslation": "青い花、\n黄ばんだ岩の中で静かに響く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "6段落18行の自由詩。詩の「あなた（du, dich）」は不特定——神か、友人か、読者か、詩人自身の内的自己かという曖昧さが詩を開かれた空間にする。各段落は2〜3行の短い単位で、沈黙と句読点によって区切られ、映像が連続するのではなく並置される構造をとる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "blaues Antlitz",
+      "body": "「青い顔」。Antlitz（顔・面）はGesichtより文語的・神話的な語。青い顔が人物からそっと「去る（verläßt）」という動態が、守護霊・魂の一部の離脱を示す。夕べという時間帯が生と死の境界として機能し、分離が穏やかに——「leise（そっと）」——起きる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Tamarindenbaum",
+      "body": "「タマリンドの木」。熱帯・アジア原産のマメ科植物。トラークルの詩全作品中でこの詩にのみ現れる異国的植物であり、夢的・幻想的な地理的空間を示す。現実の地理から切り離された夢の公園（Sebastian im Traumの「夢の中のセバスティアン」的空間）の指標として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ein weißer Engel sucht Marien heim",
+      "body": "「白い天使がマリアのもとを訪れる」。受胎告知（Verkündigung）の場面の縮小再現。トラークルの天使は通常「青い（blau）」だが、ここでは「白い（weiß）」——浄化・光の天使であり、青い天使の系列とは異なる。sucht heim（訪れる）という動詞が静かな訪問として告知を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "erstorbenen Hände",
+      "body": "「死んだ手」。ersterben（死に絶える・絶え入る）は完全な死でなく、感覚や生気が消えかかる状態を示す動詞。修道士の手が「合わさる（faltet）」という祈りの身振りと「死んだ」という形容詞の組み合わせが、生と死の境界に立つ者としての修道士を定位する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "des Schauenden",
+      "body": "「見る者の」。Schauender（見る者・幻視者）はトラークルの詩における詩人の自己参照的語彙。ただの「見る者」でなく、幻視・幻覚的認識を持つ者——現実と幻想の両界を同時に見る能力を持つ存在。年（Jahr）が花環・冠として結晶するという比喩が、時間そのものを詩的形式として捉える。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "nächtiger Kranz\nVon Veilchen, Korn und purpurnen Trauben",
+      "body": "「すみれと麦と紫の葡萄の夜の環」。三つの植物——すみれ（哀悼・謙虚）、麦（生命・復活）、紫の葡萄（受難・ワイン・典礼）——が花環（Kranz）として結ばれる。典礼的・宗教的な意味の重なりが「変容（Verklärung）」というタイトルと照応し、日常的植物が秘蹟的意味を帯びる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "die Stirne in die silbernen Hände legst",
+      "body": "「銀の手に額を置く」。休息・祈り・内省の典型的なトラークル的身体ポーズ。silbern（銀の）は月光・純潔・冷たさを帯びる色彩語。足元で墓が開くという最後の審判のイメージが、この静かな身振りの条件節として置かれ、恐怖でなく静かな事実として死者の復活が示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "Mohnsaft",
+      "body": "「ケシの汁」。Mohnsaft（ケシの汁・ケシの乳液）はアヘン・モルヒネの原料。トラークルの麻薬・陶酔・幻覚の語彙系列に属し、詩人自身のモルヒネ依存とも重なる自伝的要素を持つ。「酔った（trunken）暗い歌」という組み合わせが、陶酔状態で生まれる詩的言語として歌を定位する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "herbstliche Mond",
+      "body": "「秋の月」。トラークルの詩で繰り返し現れる核心的イメージ。月は女性的・霊的な光として機能し、太陽の活動的・男性的な光と対照をなす。「口のところに静かに宿る（Stille wohnt an deinem Mund）」という配置が、月を言語・歌そのものと結びつける。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Blaue Blume,\nDie leise tönt in vergilbtem Gestein",
+      "body": "「青い花、黄ばんだ岩の中で静かに響く」。詩の終行にして頂点。tönen（響く・鳴る）という音響動詞が視覚的な花に与えられる——共感覚的転換。vergilbtes Gestein（黄ばんだ岩）は時間の経過・腐朽・廃墟を示し、変容は廃墟の中でのみ起きるというトラークル的逆説を体現する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "allusion",
+      "anchor": "Blaue Blume",
+      "body": "「青い花」。ノヴァーリス『ハインリヒ・フォン・オフターディンゲン』（1802）の中心象徴の直接引用。ノヴァーリスにおいて青い花は詩・夢・無限への憧憬・詩人の使命を凝縮する象徴。トラークル「An Novalis」の最終行にも「青い花として歌が生き続ける」と置かれ、両詩の終行が同一の象徴で閉じる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「Verklärung」と「An Novalis」はいずれも最終行に「青い花（blaue Blume）」を置く。「An Novalis」では「苦悩の夜の家の中で青い花として歌が生き続ける」、「Verklärung」では「黄ばんだ岩の中で静かに響く」——生存の様態の微妙な差異（生き続けるvs響く、夜の家vs廃墟の岩）がトラークルの象徴使用の精度を示す。",
+      "targetId": "trakl_an_novalis",
+      "targetParagraphId": null
     }
   ]
 }
