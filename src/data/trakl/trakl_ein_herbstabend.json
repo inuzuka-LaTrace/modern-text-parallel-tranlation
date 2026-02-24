@@ -10,8 +10,19 @@
   "originalLang": "de",
   "modernRelevance": "★★★★☆",
   "dedication": "An Karl Röck",
-  "context": "Gedichte（1913）収録。副題に「An Karl Röck（カール・レックへ）」という献辞を持つ。カール・レックはトラークルの友人で教師・後見人的存在。ルートヴィヒ・フィッカーとともにトラークルを支援し、詩集「Gedichte」の出版にも尽力した人物。\n\n詩はトラークルが「Verfall」と並んで用いる完全なソネット形式（14行・4+4+3+3）。「Verfall」が秋の公園の夕べを語り手の夢想と戦慄を軸に描くのに対し、この詩は秋の農村の夕べを一種の地域絵画（Dorfbild）として展開する点で対照的な作品。\n\n構成を詳細に見ると、冒頭は「Das braune Dorf（褐色の村）」という名詞句と句点（ピリオド）——これは詩行ではなく見出し・タブローの銘板のように機能し、以下の14行全体がこの「褐色の村」の内部を描く絵として枠組みされる。第1クヴァルテット（4行）：秋の壁沿いを歩く「暗いもの（Ein Dunkles）」が姿を見せる——男も女も、死者たちが冷たい部屋を歩いてそれぞれのベッドを整える。生者と死者が「夕べの自然な共存」として描かれる。第2クヴァルテット（4行）：子どもたちが遊ぶ傍ら「重い影が褐色の汚水（Jauche）の上に広がり」、下女たちが「湿った青を通り抜け（feuchte Bläue）」歩き、「夜の鐘響きに満ちた目で」時折見回す。第1テルツェット（3行）：孤独な者たちのために酒場があり、「暗い丸天井の下で黄金のタバコの霞に包まれて」忍耐強く待つ。第2テルツェット（3行）：「しかし常にわが固有なるものは黒く近い（Doch immer ist das Eigne schwarz und nah）」——そして「酔漢が古い丸天井の影の中で / 遠くへ飛び去った野生の鳥を思う（den wilden Vögeln nach, die ferngezogen）」。\n\n「Das Eigne（固有なるもの）」はトラークル詩の複合的な核心語——自己・特有の宿命・罪・暗い内面という意味層を持つ。酔漢が「遠くへ飛び去った鳥」を追うのは、「Verfall」の語り手が渡り鳥の「より明るい運命を夢見る」のと同一の身振りで、現実の閉塞から逃れたいという欲動を示す。しかし「Das Eigne schwarz und nah（固有なるものは黒く近い）」という11行目が、この逃避の不可能性を断言する。ホフマンスタール「Ballade des äußeren Lebens」の「しかし常にわれわれの固有なるものは……」という問いと、「黒く近い」という断定の鮮やかな対照。\n\n「feuchte Bläue（湿った青）」はトラークルの青の変形の一つ——霊的距離・純潔としての「青」が「湿った（feucht）」という感触に変形されることで、下女たちの身体性と結びつく。同様に「夜の鐘響きに満ちた目（Augen, erfüllt von Nachtgeläuten）」は、聴覚的体験が視覚器官に侵入するという共感覚的表現。\n\nこの詩は「Ein Winterabend」の農村的・宗教的な静謐と「Im Herbst」の民謡的な収穫祝いの双方と対照して読める——秋の農村という共通素材でも、トラークルはまったく異なる色調と感情的焦点を選んでいる。歌曲化：Richard Stöhr op.29（1914）、Josef Schelb（1964）ほか。",
-  "keywords": ["秋の夕べ", "褐色の村", "死者の共存", "固有なるもの", "湿った青", "酔漢", "渡り鳥", "ソネット", "酒場", "An Karl Röck"],
+  "context": "Gedichte（1913）収録。献辞「An Karl Röck」——トラークルの友人・後見人で詩集出版を支援した教師。完全なソネット形式（4+4+3+3）で「Verfall」と並ぶトラークルの数少ない完全ソネット。「Verfall」が秋の公園の語り手の夢想を軸にするのに対し、この詩は秋の農村の夕べを死者と生者が共存するタブローとして展開する。",
+  "keywords": [
+    "秋の夕べ",
+    "褐色の村",
+    "死者の共存",
+    "固有なるもの",
+    "湿った青",
+    "酔漢",
+    "渡り鳥",
+    "ソネット",
+    "酒場",
+    "An Karl Röck"
+  ],
   "relatedTexts": [
     "trakl_verfall",
     "trakl_im_herbst",
@@ -39,6 +50,66 @@
       "id": 4,
       "originalText": "Doch immer ist das Eigne schwarz und nah.\nDer Trunkne sinnt im Schatten alter Bogen\nDen wilden Vögeln nach, die ferngezogen.",
       "provisionalTranslation": "しかし常にわが固有なるものは黒く近い。\n酔漢が古い丸天井の影の中で\n遠くへ飛び去った野生の鳥を思う。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "完全なソネット形式（14行・4+4+3+3、包み韻 ABBA ABBA CDC DCD）。「Verfall」と並ぶトラークルの数少ない完全ソネット。「Das braune Dorf.」という冒頭の名詞句＋句点が詩行の外に置かれ、以下の14行全体が「褐色の村」という額縁の内部に描かれる絵として枠組みされる——タブローの銘板のような機能。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ein Dunkles zeigt im Schreiten\nSich oft an Mauern",
+      "body": "「暗いものが歩みながら壁沿いにしばしば姿を見せる」。「Ein Dunkles（暗いもの）」という中性名詞が、男でも女でも死者でもない不定の「暗さ」として先行する——次行で「Gestalten: Mann wie Weib, Verstorbene（形ある者たち：男も女も、死者たち）」と具体化される前の、不定の気配として登場する。生者と死者が「秋の夕べの自然な共存」として描かれるトラークルの死生論的空間。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Verstorbene gehn\nIn kühlen Stuben jener Bett bereiten",
+      "body": "「死者たちが冷たい部屋でそれぞれのベッドを整える」。死者（Verstorbene）が家事という日常的行為——ベッドを整えること——を行う。kühlen Stuben（冷たい部屋）は死者の体温のなさを部屋の温度として示す。生者の子どもたちが次の連で「遊ぶ」のと並置されることで、死者と生者が同一の夕べの空間に共存する農村の情景が成立する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "feuchte Bläue",
+      "body": "「湿った青」。トラークルにおける「青（Blau）」の変形の一つ——霊的距離・純潔・超越を示す「青」が「湿った（feucht）」という身体的・感触的な形容詞に変形されることで、下女たちの労働する身体と結びつく。「Elis」§2 の「Bläue（青さ）」が霊的な鏡として機能するのに対し、この「feuchte Bläue」は地上的・物質的な空間の質感として現れる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Augen, erfüllt von Nachtgeläuten",
+      "body": "「夜の鐘響きに満ちた目」。聴覚的体験（鐘の響き）が視覚器官（目）に侵入するという共感覚的表現——トラークルに特徴的な感覚の越境。「Ein Winterabend」§1 の「夕べの鐘が長く鳴り響く（Lang die Abendglocke läutet）」と同一の鐘の音が、ここでは目の「中に満ちた状態」として内在化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Für Einsames ist eine Schenke da",
+      "body": "「孤独な者たちのために酒場がある」。Für Einsames（孤独な者たちのために）という与格が酒場の存在理由として置かれる——酒場は喜びや交流の場でなく、孤独を抱えた者たちの「忍耐強い待機（säumt geduldig）」の空間として定義される。黄金のタバコの霞（goldenem Tabaksgewölk）という唯一の温かみある色彩が、閉鎖的・内向きの空間の中に漂う。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "das Eigne schwarz und nah",
+      "body": "「固有なるものは黒く近い」。Das Eigne（固有なるもの・自己に固有の宿命）はトラークル詩の複合的な核心語——自己・特有の運命・内なる暗さ・罪という意味層を持つ。「schwarzes Verhängnis（黒い運命）」と読めるこの断言が、次行の「遠くへ飛び去った鳥を思う」という逃避の欲動の不可能性を先行して封じる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Den wilden Vögeln nach, die ferngezogen",
+      "body": "「遠くへ飛び去った野生の鳥を思う」。「Verfall」の語り手が「渡り鳥のより明るい運命を夢見る（träumt er von buntern Flattern）」のと同一の身振り——現実の閉塞から鳥の自由な飛翔へと意識が逃れようとする欲動。しかし「Verfall」では「夢見る」という動詞が可能性を開くのに対し、この詩では「Das Eigne schwarz und nah」という前行の断言が逃避を最初から封じている。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": 4
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「しかし常にわが固有なるものは黒く近い（Doch immer ist das Eigne schwarz und nah）」という断言は、ホフマンスタール「Ballade des äußeren Lebens」が「われわれ固有のもの（das Eigne）」を問いとして開放的に提示するのと鮮やかに対照する。ホフマンスタールが「固有なるもの」を未決の問いとして残すのに対し、トラークルはそれを「黒く近い」という閉鎖的・宿命的な断定として固定する——同一の語彙を用いた詩学的な問いと答えの関係。",
+      "targetId": "hofmannsthal_ballade",
+      "targetParagraphId": null
     }
   ]
 }
