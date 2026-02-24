@@ -1,0 +1,157 @@
+{
+  "id": "baudelaire_une_charogne",
+  "title": "Une Charogne",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal (Michel Lévy frères, Paris, 1857); 2e éd. (Poulet-Malassis, 1861)",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal (Michel Lévy frères, Paris, 1857)",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "『悪の華』「Spleen et Idéal」サイクル所収。恋人とともに夏の朝の散歩中に出くわした腐乱死体（charogne）を詳細に描写し、腐敗の中にある「形式」と「音楽」を発見し、最終連で恋人自身の将来の腐敗と詩による永続を告げる。初出時から激しい論争を呼び、1857年の裁判の訴追詩篇には含まれなかったが、近代詩における「醜の美学」の宣言として位置づけられる。",
+  "keywords": ["腐敗", "醜の美学", "メメント・モリ", "形式と物質", "Spleen et Idéal", "腐乱", "ペトラルカ的恋愛詩の転覆"],
+  "relatedTexts": [
+    "baudelaire_elevation",
+    "baudelaire_romantisme_complet",
+    "trakl_verfall",
+    "trakl_grodek",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Rappelez-vous l'objet que nous vîmes, mon âme,\nCe beau matin d'été si doux :\nAu détour d'un sentier une charogne infâme\nSur un lit jonché de cailloux,",
+      "provisionalTranslation": "思い出せ、わが魂よ、私たちが見たものを、\nあの柔らかな夏の美しい朝に：\n小道の曲がり角に、忌まわしい腐乱死体が\n小石の散らばった寝床の上に、"
+    },
+    {
+      "id": 2,
+      "french": "Les jambes en l'air, comme une femme lubrique,\nBrûlante et suant les poisons,\nOuvrait d'une façon nonchalante et cynique\nSon ventre plein d'exhalaisons.",
+      "provisionalTranslation": "脚を空へ向けて、淫らな女のように、\n焼けるように熱く毒を滲み出させながら、\nぞんざいで冷笑的なやり方で開いていた\n臭気を満たした腹を。"
+    },
+    {
+      "id": 3,
+      "french": "Le soleil rayonnait sur cette pourriture,\nComme afin de la cuire à point,\nEt de rendre au centuple à la grande Nature\nTout ce qu'ensemble elle avait joint ;",
+      "provisionalTranslation": "太陽がその腐乱の上に輝いていた、\nちょうど良く料理するかのように、\nそして偉大な自然に百倍にして返すために\nかつて自然が結び合わせていたものすべてを；"
+    },
+    {
+      "id": 4,
+      "french": "Et le ciel regardait la carcasse superbe\nS'épanouir comme une fleur ;\nLa puanteur était si forte, que sur l'herbe\nVous crûtes vous évanouir.",
+      "provisionalTranslation": "そして空が、素晴らしい骸を眺めていた\n花のように開花するのを；\n悪臭はあまりに強く、草の上で\nあなたは気を失いそうになった。"
+    },
+    {
+      "id": 5,
+      "french": "Les mouches bourdonnaient sur ce ventre putride,\nD'où sortaient de noirs bataillons\nDe larves, qui coulaient comme un liquide épais\nLe long de ces vivants haillons.",
+      "provisionalTranslation": "蝿が腐った腹の上で羽音を立てていた、\nそこから黒い軍勢が出ていた\n幼虫の、濃い液体のように流れる\n生きたぼろ切れの上を。"
+    },
+    {
+      "id": 6,
+      "french": "Tout cela descendait, montait comme une vague,\nOu s'élançait en pétillant ;\nOn eût dit que le corps, enflé d'un souffle vague,\nVivait en se multipliant.",
+      "provisionalTranslation": "それらすべてが波のように下り、上がり、\nあるいは弾けながら飛び出した；\n体が曖昧な息吹で膨らみ、\n増殖しながら生きているかのようだった。"
+    },
+    {
+      "id": 7,
+      "french": "Et ce monde rendait une étrange musique,\nComme l'eau courante et le vent,\nOu le grain qu'un vanneur d'un mouvement rythmique\nAgite et tourne dans son van.",
+      "provisionalTranslation": "そしてこの世界は奇妙な音楽を放っていた、\n流れる水や風のように、\nあるいは唐箕師が律動的な動きで\nふるいの中で振り回す穀物のように。"
+    },
+    {
+      "id": 8,
+      "french": "Les formes s'effaçaient et n'étaient plus qu'un rêve,\nUne ébauche lente à venir,\nSur la toile oubliée, et que l'artiste achève\nSeulement par le souvenir.",
+      "provisionalTranslation": "形は消えていき、もはや夢にすぎなかった、\n緩やかに来るスケッチ、\n忘れられたキャンバスの上に、そして芸術家が完成させる\n記憶によってのみ。"
+    },
+    {
+      "id": 9,
+      "french": "Derrière les rochers une chienne inquiète\nNous regardait d'un œil fâché,\nEpiant le moment de reprendre au squelette\nLe morceau qu'elle avait lâché.",
+      "provisionalTranslation": "岩の陰で、不安そうな雌犬が\n怒った目で私たちを見ていた、\n骨格から取り戻す瞬間を狙いながら\n放してしまった肉片を。"
+    },
+    {
+      "id": 10,
+      "french": "— Et pourtant vous serez semblable à cette ordure,\nÀ cette horrible infection,\nÉtoile de mes yeux, soleil de ma nature,\nVous, mon ange et ma passion !",
+      "provisionalTranslation": "——しかしあなたもこの汚物に似たものとなるだろう、\nこの恐ろしい腐敗に、\nわが目の星よ、わが本性の太陽よ、\nあなた、わが天使、わが情熱よ！"
+    },
+    {
+      "id": 11,
+      "french": "Oui ! telle vous serez, ô la reine des grâces,\nAprès les derniers sacrements,\nQuand vous irez, sous les herbes et les fraises fleuries,\nMoisir parmi les ossements.",
+      "provisionalTranslation": "そうだ！ あなたはそのようになるだろう、ああ優雅の女王よ、\n最後の秘蹟の後に、\nあなたが草と野苺の花の下で\n骨の中でカビて行くとき。"
+    },
+    {
+      "id": 12,
+      "french": "Alors, ô ma beauté ! dites à la vermine\nQui vous mangera de baisers,\nQue j'ai gardé la forme et l'essence divine\nDe mes amours décomposés !",
+      "provisionalTranslation": "そのとき、ああわが美よ！ 虫けらに告げてほしい\nあなたをキスで食い尽くす虫けらに、\n私はその形と神聖な本質を保ってきたと\n私の分解した愛の！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "12連48行。ABAB交差韻、ただしAの行（8音節）とBの行（4音節）が長短交互に組み合わさる変形形式。短い4音節行が腐敗の描写に鋭い切断をもたらす。「Rappelez-vous」という想起の呼びかけで始まるペトラルカ的恋愛詩の開幕句——しかしその「思い出」の対象が腐乱死体であるという転覆。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Rappelez-vous l'objet que nous vîmes, mon âme",
+      "body": "「思い出せ、わが魂よ、私たちが見たものを」。petrarchan sonetの呼びかけ（ラウラへの呼びかけ）を模した開口部でありながら、対象が腐乱死体という逆転。mon âme（わが魂）は恋人への呼びかけであると同時に詩人自身の魂への呼びかけでもある——恋愛詩と宗教的省察の重層。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "rendre au centuple à la grande Nature\nTout ce qu'ensemble elle avait joint",
+      "body": "「偉大な自然に百倍にして返す、かつて結び合わせていたものを」。腐敗を自然の資源循環として描く視点——腐乱は消滅でなく「返還」。大自然を擬人化した法的・経済的語彙（rendre, centuple）が腐敗を自然の秩序の中に位置づける。19世紀の自然科学的視線と詩的想像力の交点。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "carcasse superbe\nS'épanouir comme une fleur",
+      "body": "「素晴らしい骸が花のように開花する」。superbe（素晴らしい・誇り高い）という形容詞が腐乱死体に与えられる——これが詩の「醜の美学」の核心。s'épanouir（開花する）は生の充実・美の成就を示す動詞であり、腐敗が逆説的な「開花」として現れる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "étrange musique",
+      "body": "「奇妙な音楽」。腐乱死体から発せられる音——蝿・幼虫・腐敗ガスの音——が「音楽」として聴き取られる瞬間。これがボードレールの詩的認識の転換点。唐箕の「律動的な動き（mouvement rythmique）」という比喩が、腐敗の中に詩的リズムを発見する行為の比喩として機能する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Les formes s'effaçaient et n'étaient plus qu'un rêve",
+      "body": "「形は消えていき、もはや夢にすぎなかった」。腐敗による形の消失を「スケッチ（ébauche）」と「記憶による完成」として描く美学的転換。芸術家のアナロジーが明示され、詩人が腐敗する物質から「形と本質（forme et essence）」を救い出す者として定位される——第12連への伏線。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「形は消えていき、記憶によって完成される」という腐敗と形式の弁証法は、マラルメが「詩の危機」で展開する「事物の不在こそが詩の条件」という言語論と深く共鳴する。腐敗＝消去の中に美的形式を見出すという認識は近代詩の根幹的主題の一つ。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Étoile de mes yeux, soleil de ma nature",
+      "body": "「わが目の星よ、わが本性の太陽よ」。恋愛詩の伝統的な美称（星・太陽）が、腐敗の宣告（vous serez semblable à cette ordure）と直接接続される。§10は詩全体の転換点——描写から宣告へ、三人称から二人称直接呼びかけへ。ダッシュ（—）が劇的な転換を示す。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "j'ai gardé la forme et l'essence divine\nDe mes amours décomposés",
+      "body": "「私は形と神聖な本質を保ってきた、私の分解した愛の」。詩の結論。腐敗・分解（décomposés）に抗して詩が「形（forme）と本質（essence）」を保存するという宣言——ars longa, vita brevisの変奏。詩的言語が腐敗に対して何ができるかというボードレールの答え。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「腐敗に抗して形と本質を保つ」詩の機能は、「Élévation」で精神が「花々と無言の事物の言語」を理解するという上昇の到達点と対をなす。Élevationが上昇によって美を獲得するのに対し、Une Charogneは下降・腐敗の極限から美を救い出す——Spleen et Idéalの両極が一対の詩として照応する。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": 5
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「腐敗の中に音楽と形式を発見する」というボードレールの認識は、トラークル「Verfall（頽廃）」が「青いアスター」と「死の輪舞」という美と死の不可分なイメージで結ばれる構造と響き合う。どちらも腐敗・頽廃を美の条件として内側から捉え直す詩的認識を示す。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": null
+    }
+  ]
+}
