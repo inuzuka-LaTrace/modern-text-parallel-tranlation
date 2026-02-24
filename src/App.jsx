@@ -165,13 +165,16 @@ export default function App() {
 
   const categories = {
     all:                        { name: 'すべて' },
+    baudelaire:                 { name: 'ボードレール' },
     baudelaire_critique:        { name: 'ボードレール批評' },
+    mallarme:                   { name: 'マラルメ' },
     mallarme_critique:          { name: 'マラルメ批評' },
+    valery:                     { name: 'ヴァレリー' },
     valery_critique:            { name: 'ヴァレリー批評' },
-    valmore:                    { name: 'ヴァルモール' },
-    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
     gautier:                    { name: 'ゴーティエ' },
+    valmore:                    { name: 'ヴァルモール' },
+    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     yeats:                      { name: 'イェイツ' },
@@ -652,13 +655,17 @@ export default function App() {
 
   // カテゴリーラベルの短縮表示用マップ
   const catShort = {
+    baudelaire:              'ボードレール',
     baudelaire_critique:     'ボードレール批評',
+    mallarme:                'マラルメ',
     mallarme_critique:       'マラルメ批評',
+    valery:                  'ヴァレリー',
     valery_critique:         'ヴァレリー批評',
-    valmore:                 'ヴァルモール',
-    vanlerberghe:            'ヴァン・レルベルグ',
+    verlaine:                'ヴェルレーヌ',
     verlaine_critique:       'ヴェルレーヌ批評',
     gautier:                 'ゴーティエ',
+    valmore:                 'ヴァルモール',
+    vanlerberghe:            'ヴァン・レルベルグ',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     yeats:                   'イェイツ',
