@@ -10,7 +10,7 @@
   "originalLang": "de",
   "color": "blue-700",
   "modernRelevance": "★★★★★",
-  "context": "トラークル22歳頃の作。1912年にインスブルックの文芸誌「Der Brenner」に発表され、翌1913年の詩集「Gedichte」（Kurt Wolff Verlag）に収録された。トラークルの詩の中でほぼ唯一の完全なソネット形式を保つ作品であり、表現主義詩人としてのトラークルが象徴主義の伝統的詩形をいかに受容・変形したかを示す点で重要。\n\n詩の構造はイタリア式ソネット（ペトラルカ形式）に近い——第1・2クヴァルテット（四行連）が観察と夢想を描き、第1・2テルツェット（三行連）が転換をもたらす。しかし韻律は ABBA ABBA の包み韻に始まりながら、テルツェットでは CDC EDE という変形クロス韻に崩れる。この「形式の亀裂」そのものが「頽廃（Verfall）」という主題の身体化である。\n\n内容の二部構造も鮮明。前半（両クヴァルテット）：夕べの鐘が平和を告げる中、語り手は渡り鳥の「より明るい運命（hellere Geschicken）」を夢見て空へと追う——時計の針が止まったかのような時間の弛緩。後半（両テルツェット）：「頽廃の気息」が語り手を戦慄させるとともに、クロウタドリが枯れ木で嘆き、赤い葡萄の蔦が錆びた格子で揺れ、そして最終行——「蒼白い子どもたちの死の輪舞のように、風の中に震えながら青いアスターが傾く（Im Wind sich fröstelnd blaue Astern neigen）」。\n\n「青いアスター」はトラークルの詩全体を貫く中心象徴の一つ。青（blau）はトラークル語彙において霊的純潔・死・抒情的距離が複合した色であり、「蒼白い子どもたち」「死の輪舞」「風の震え」と重ねられることで、美と滅びの不可分性を一語に凝縮する。ゲオルゲ「Komm in den totgesagten park」が秋の公園に隠れた生を発見するのに対し、トラークルの公園は死の舞踏に満ちている——同じ「秋の庭」という素材からの二方向への分岐。\n\n歌曲化：Stefan Heucke op.1 no.1（1978/80、高声と弦楽五重奏）、Felix Wolfes（1953）、Steffen Schleiermacher（1984/85、無伴奏合唱）ほか。",
+  "context": "トラークル22歳頃の作。1912年に文芸誌「Der Brenner」に発表され、1913年の詩集「Gedichte」に収録。トラークルの作品中でほぼ唯一の完全なソネット形式を保つ詩であり、象徴主義の伝統的詩形を表現主義がいかに受容・変形したかを示す点で重要。",
   "keywords": ["頽廃", "秋", "ソネット", "青いアスター", "渡り鳥", "死の輪舞", "鐘", "象徴主義から表現主義へ", "クロウタドリ"],
   "relatedTexts": [
     "trakl_de_profundis",
@@ -38,6 +38,78 @@
       "id": 4,
       "originalText": "Indes wie blasser Kinder Todesreigen\nUm dunkle Brunnenränder, die verwittern,\nIm Wind sich fröstelnd blaue Astern neigen.",
       "provisionalTranslation": "その間に、蒼白い子どもたちの死の輪舞のように\n風化する暗い泉の縁の周りで、\n風の中に震えながら青いアスターが傾く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "イタリア式ソネット（ペトラルカ形式）の第1クヴァルテット。包み韻ABBA。「鐘」「渡り鳥」「巡礼」という連想連鎖が平和と超越への憧憬を形成し、前半2連が「夢見る語り手」の世界を確立する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "frommen Pilgerzügen",
+      "body": "「敬虔な巡礼の列」。渡り鳥を宗教的巡礼に喩えるイメージはロマン主義詩に広く見られるが、トラークルにおいては「向こう側（Jenseits）」への憧憬という固有の宗教的次元を持つ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "helleren Geschicken",
+      "body": "「より明るい運命」。比較級 heller（より明るい）は語り手自身の暗い現実との対比を示す。トラークルの詩でblau（青）と並ぶ核心語彙 hell（明るい）は、到達できない彼岸の光を指す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "der Stunden Weiser kaum mehr rücken",
+      "body": "「時計の針がほとんど動かなくなる」。夢想の中で時間が弛緩・停止する感覚。現実の時間から切り離された詩的恍惚の瞬間を描き、第3・4連での「頽廃」の侵入と対照をなす。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "prosody",
+      "anchor": null,
+      "body": "ソネットの「転換（volta）」にあたる第1テルツェット。包み韻ABBAから変形クロス韻CDCへの移行がここで起き、形式の亀裂が「頽廃（Verfall）」という主題を音響的・構造的に体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Hauch mich von Verfall erzittern",
+      "body": "「頽廃の気息がわれを戦慄させる」。Hauch（気息・そよ風）は不可視の力の到来を示す。Verfall（頽廃・崩壊・腐敗）はタイトル語であり、詩の主題の核心。戦慄（erzittern）は受動的・身体的反応として語り手の無力さを示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Amsel",
+      "body": "クロウタドリ（Turdus merula）。秋から冬にかけて鳴き声が変化するため、ドイツ語詩では季節の転換・哀愁のシンボルとして頻用される。葉を落とした枝（entlaubten Zweigen）との組み合わせが死と喪失の情景を凝縮する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「葉の落ちた枝でクロウタドリが嘆く」秋の庭は、ゲオルゲ「Komm in den totgesagten park」が「死んだ」と言われる公園に隠れた生を発見するのと対照的。同じ「秋の庭」という素材から、生の発見と死の舞踏という二方向への分岐が生じている。",
+      "targetId": "george_komm_in_den_park",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "blasser Kinder Todesreigen",
+      "body": "「蒼白い子どもたちの死の輪舞」。Todesreigen（死の輪舞）は中世の「死の舞踏（Totentanz）」図像への参照。子どもの蒼白さ（blasser）と死の踊りの組み合わせが、無垢と死滅の不可分性というトラークル固有のモチーフを形成する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "blaue Astern neigen",
+      "body": "「青いアスターが傾く」。青いアスター（Aster）はトラークル詩を貫く中心象徴の一つ。blau（青）はトラークル語彙において霊的純潔・死・抒情的距離が複合した色。風の中で震え傾く姿に、美と滅びの不可分性が凝縮される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "最終行の「青いアスター」と「蒼白い子どもたち」というモチーフは、ヘルダーリン「Hälfte des Lebens」の白鳥と黄の梨が美と喪失の瞬間に共存する構造と響き合う。どちらも美の頂点が滅びと不可分であることを示す。",
+      "targetId": "hoelderlin_haelfte_des_lebens",
+      "targetParagraphId": null
     }
   ]
 }
