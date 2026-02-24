@@ -647,9 +647,12 @@ export default function App() {
   const settingsBg      = darkMode ? 'bg-gray-900 border-gray-700 shadow-2xl' : 'bg-white border-gray-200 shadow-2xl';
 
   const fontFamilyStyle =
-    fontFamily === 'garamond' ? '"EB Garamond", "Noto Serif JP", serif' :
-    fontFamily === 'serif'    ? '"Noto Serif JP", serif' :
-    '"Inter", "Noto Sans JP", sans-serif';
+  fontFamily === 'garamond' ? '"EB Garamond", "Noto Serif JP", serif' :
+  fontFamily === 'im-fell'  ? '"IM Fell English", serif' :
+  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", serif' :
+  fontFamily === 'alice'    ? '"Alice", serif' :
+  fontFamily === 'serif'    ? '"Noto Serif JP", serif' :
+  '"Inter", "Noto Sans JP", sans-serif';
 
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
@@ -750,16 +753,27 @@ export default function App() {
                 <div className="mb-4">
                   <label className={`text-xs font-medium ${textClass} block mb-2`}>フォント</label>
                   <div className="flex flex-col gap-1">
-                    {[['garamond','Garamond (推奨)'],['serif','Noto Serif'],['sans','Sans']].map(([val, label]) => (
-                      <button
-                        key={val}
-                        onClick={() => setFontFamily(val)}
-                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${fontFamily === val ? 'bg-indigo-600 text-white' : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'}`}
-                      >
-                        {label}
-                      </button>
-                    ))}
-                  </div>
+                    {[
+                ['garamond', 'Garamond (推奨)'],
+                ['im-fell',  'IM Fell English (17世紀風)'],
+                ['fraktur',  'UnifrakturMaguntia (ドイツ古体)'],
+                ['alice',    'Alice (幻想的)'],
+                ['serif',    'Noto Serif'],
+                ['sans',     'Sans']
+              ].map(([val, label]) => (
+                <button
+                  key={val}
+                  onClick={() => setFontFamily(val)}
+                  className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${
+        fontFamily === val 
+          ? 'bg-indigo-600 text-white' 
+          : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+      }`}
+    >
+      {label}
+    </button>
+  ))}
+</div>
                 </div>
 
                 {/* 読み上げ速度 */}
