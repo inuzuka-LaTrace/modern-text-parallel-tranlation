@@ -1,0 +1,150 @@
+{
+  "id": "hoelderlin_brot_und_wein",
+  "title": "Brot und Wein",
+  "author": "Friedrich Hölderlin",
+  "source": "Sämtliche Werke (Stuttgarter Ausgabe, Bd. 2, hrsg. v. F. Beißner, Stuttgart 1951), S. 90–95; Erstdruck: Musenalmanach für das Jahr 1807 (Strophe 7 teilweise); vollständig: Sämmtliche Werke (Cotta, Stuttgart/Tübingen, 1826)",
+  "year": "1800",
+  "firstPublication": "Musenalmanach für das Jahr 1807 (Strophe 7 fragmentarisch); vollständig posthum 1826",
+  "difficulty": "上級",
+  "category": "hoelderlin",
+  "originalLang": "de",
+  "modernRelevance": "★★★★★",
+  "context": "1800〜01年草稿のエレギー。9連81行。「欠乏の時代に詩人はなんのために？（Wozu Dichter in dürftiger Zeit?）」という第7連の問いが、ヘルダーリン詩学・ハイデガー哲学の核心的問いとして広く参照される。ディオニュソスとキリストを「夜の聖物（Nachtsgeweiht）」として重ね合わせる宗教的混淆が、西洋精神史への根本的問いを詩的形式に結晶させた作品。",
+  "keywords": [
+    "欠乏の時代",
+    "詩人はなんのために",
+    "ディオニュソス",
+    "夜の旅",
+    "パンとワイン",
+    "神々の逃去",
+    "半神",
+    "エレギー",
+    "ハイデガー"
+  ],
+  "relatedTexts": [
+    "trakl_ein_winterabend",
+    "hoelderlin_hyperions_schicksalslied",
+    "hoelderlin_an_die_parzen",
+    "hoelderlin_andenken",
+    "hoelderlin_der_einzige",
+    "mallarme_crise_de_vers",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Rings um ruhet die Stadt; still wird die erleuchtete Gasse,\nUnd, mit Fackeln geschmückt, rauschen die Wagen hinweg.\nSatt gehn heim von Freuden des Tags zu ruhen die Menschen,\nUnd Gewinn und Verlust wäget ein sinniges Haupt\nWohlzufrieden zu Haus; leer steht von Trauben und Blumen,\nUnd von Werken der Hand ruht der geschäftige Markt.\nAber das Saitenspiel tönt fern aus Gärten; vielleicht, daß\nDort ein Liebendes spielt oder ein einsamer Mann\nFerner Freunde gedenkt und der Jugendzeit; und die Brunnen\nImmerquillend und frisch rauschen an duftendem Beet.\nStill in dämmriger Luft ertönen geläutete Glocken,\nUnd der Stunden gedenkt rufet ein Wächter die Zahl.\nJetzt auch kommet ein Weh'n und regt die Gipfel des Hains auf,\nSieh! und das Schattenbild unserer Erde, der Mond\nKommet geheim nun auch; die Schwärmerische, die Nacht kommt,\nVoll mit Sternen und wohl wenig bekümmert um uns,\nDie Erstaunenswürdige dort, die Fremdlingin unter den Menschen,\nÜber Gebirgshöh'n traurig und prächtig herauf.",
+      "provisionalTranslation": "街の周りは静まる；照らされた路地は静かになり、\n松明で飾られた馬車が走り去っていく。\n一日の喜びに満ちた人々が家路に就いて休もうとし、\nそして利得と損失を思慮深い頭が\n家でゆっくりと計る；葡萄と花もなく\n手仕事の品もなく、賑わう市場は空になる。\nしかし弦の音楽が遠く庭から響く；おそらく\nそこで愛する者が弾いているか、孤独な男が\n遠い友と若き日を偲んでいる；そして泉が\n湧き続け、芳しい花壇のほとりを新鮮に響かせる。\n薄暗い大気の中で打たれた鐘が静かに鳴り響き、\nそして時を覚えて番人が数を呼ぶ。\n今また風が来て木立の梢を揺さぶる、\n見よ！わが大地の影の形、月が\n今ひそかに来る；熱狂的な、夜が来る、\n星々に満ちてわれわれをほとんど気にかけず、\nそこに驚嘆すべき者、人々の間の異邦人が、\n山の峰を越えて悲しく壮麗に昇ってくる。"
+    },
+    {
+      "id": 2,
+      "originalText": "Wunderbar ist die Gunst der Hocherhabnen und niemand\nWeiß, von wannen und was einem geschiehet von ihr.\nSo bewegt sie die Welt und die hoffende Seele der Menschen,\nSelbst kein Weiser versteht, was sie bereitet, denn so\nWill es der oberste Gott, der sehr dich liebet, und darum\nIst noch lieber, wie sie, dir der besonnene Tag.\nAber zuweilen liebt auch klares Auge den Schatten\nUnd versuchet zu Lust, eh' es die Not ist, den Schlaf,\nOder es blickt auch gern ein treuer Mann in die Nacht hin,\nJa, es ziemt sich, ihr Weihn und Gesänge zu weihn,\nWeil den Irrenden sie heilig ist und den Toten,\nSelber aber besteht, ewig, in freiestem Geist.",
+      "provisionalTranslation": "崇高なる者の恩寵は不思議であり、誰も\nそれがどこから来て何が起きるか知らない。\nこのように彼女は世界と人々の希望する魂を動かし、\n賢者でさえ彼女が何を準備するか理解しない、なぜなら\n最高の神がそう望むからであり、神はお前をとても愛し、それゆえ\n彼女よりもお前には思慮深い昼の方がなお愛しい。\nしかし時には澄んだ目も影を愛し\n必要が来る前に、喜びとして眠りを試みる、\nあるいは誠実な男が夜の方をうれしそうに見つめる、\nそう、夜に献詞と歌を捧げることが似つかわしい、\n夜は道に迷う者と死者に聖なるものであり、\nしかし夜自身は永遠に最も自由な精神の中に立つ。"
+    },
+    {
+      "id": 3,
+      "originalText": "Aber sie muß uns auch, daß in der zaudernden Weile,\nDaß im Finstern für uns einiges Haltbare sei,\nUns die Vergessenheit und das Heiligtrunkene gönnen,\nGönnen das strömende Wort, das, wie die Liebenden, sei,\nSchlummerlos und vollern Pokal und kühneres Leben,\nHeilig Gedächtnis auch, wachend zu bleiben bei Nacht.\nAuch verbirgt sie uns wohl das schlafende Silber der Räume\nHinter Gewölken verbirgt, wo sonst das Silber hin ist,\nBiß Erzog'nes vollendet und Menschen- und Liebeswerk ist,\nHin zu Unsterblichen führt, welches vollendet wir sehn.\nWir sind herzlos, Schatten, bis uns, Vater Äther, erkenntest,\nDein Licht uns traf' dann singen wir und wachen auf.",
+      "provisionalTranslation": "しかし夜はまたわれわれに、その躊躇う間に、\n暗闇の中でわれわれのために何か確かなものがあるよう、\n忘却と聖なる酔いを与えてくれなければならない、\n流れる言葉を与えてくれなければならない、愛する者のようにあるような言葉を、\n眠らず、より満ちた杯と大胆な生を、\n聖なる記憶も、夜に目覚め続けるために。\nまた夜は空間の眠る銀を\n雲の後ろに隠す、銀が他にどこへ行くか、\nまで育まれたものが完成し人の愛の業となり、\n不死なるものへと導くまで、完成したものをわれわれが見る。\nわれわれは心なき者、影、父なる天空よ、お前がわれわれを認めるまでは、\nお前の光がわれわれを打ったとき、われわれは歌い、目覚める。"
+    },
+    {
+      "id": 4,
+      "originalText": "Selig Griechenland! du Haus der Himmlischen alle,\nAlso ist wahr, was einst wir in der Jugend gehört?\nFestlicher Saal! der Boden ist Meer! und Tische die Berge,\nWahrlich zu einzigem Brauch vor alters gebaut!\nAber die Thronen, wo? die Tempel, und wo die Gefäße,\nWo mit Nektar gefüllt, Göttern zu Lust der Gesang?\nWo, wo leuchten sie denn, die fernhintreffenden Sprüche?\nDelphi schlummert und wo tönet das große Geschick?\nWo ist das schnelle? wo bricht's, allgegenwärtigen Glücks voll,\nDonnernd aus heiterer Luft über die Augen herein?",
+      "provisionalTranslation": "祝福されたギリシア！すべての天上の者たちの家よ、\nそれはつまり真実なのか、若い頃に聞いたことが？\n祝祭の間よ！床は海であり、山々は食卓、\nまことに太古からただ一つの用途のために建てられた！\nしかし玉座はどこに？神殿は、器は、どこに、\nネクタルで満たされ、神々を喜ばせる歌は、どこに？\nどこに、どこで輝くのか、遠くまで届く神托は？\nデルポイは眠り、偉大な運命はどこで響くのか？\n迅速なものはどこに？遍在する幸運に満ちて、\n晴れた大気から雷鳴とともに目の前に砕けるのはどこで？"
+    },
+    {
+      "id": 5,
+      "originalText": "Vater Äther! so riefs und flog von Zunge zu Zunge\nTausendmal, es ertrug keiner das Leben allein;\nAusgeteilet erfreut solch Gut und getauschet, mit Fremden,\nWird's ein Jubel, es wächst schlafen der Raum und es wacht\nNächtlich das Wort der Nacht und in heiligen Armen, wie einst, so\nTrägt die Schwesterngestalt wechselnde Zeugen uns auf.\nHier und dort ist uns auch, wie Dionys, der Weingott,\nKommt; vom untersten Erd' auf zu dem Lichte herauf\nFroh und heilig, wie Dionys, und uns tragen wieder\nGöttliche Kräfte hinab und zu Menschen uns lenken.",
+      "provisionalTranslation": "父なる天空よ！とこのように叫び、舌から舌へと飛び\n千度も、誰も一人では生を担えなかった；\n分かち合われてこそそのような善は喜ばれ、異邦人と交換されると\n喜びとなる、空間は眠りながら育ち、夜に\n夜の言葉は目覚め、聖なる腕の中で、かつてのように\n姉妹の形が変わる証人たちをわれわれの上に担う。\nここにも彼処にも、われわれにもまた、ディオニュソス、ワインの神のように、\n最も深い大地から光の上へ来る；\n喜ばしく聖なる、ディオニュソスのように、そして神的な力が\nわれわれを再び下へ運び、人々の中へとわれわれを導く。"
+    },
+    {
+      "id": 6,
+      "originalText": "Darum denken wir auch dabei an die Himmlischen, die sich\nEhmals zeigten und die kehren in richtiger Zeit,\nDarum singen wir auch sie, fragen lang und allein, wer\nHilfe bringet und Nacht endet Beseelten den Tag.\nSo kommen wir aber zuletzt, ihr Freunde! zum Oriente,\nDort hat noch keiner den Segen gesehen, der gehn soll;\nDorthin gehen sie zwar, kommt aber der Gott nur leise,\nSicher umgehet er, wie Diebe, vorzüglich das Haus,\nJa! die Kühnen zuerst hat er allein zu versuchen\nWollen und führt sie hinweg, wo er sich findet, zurück.",
+      "provisionalTranslation": "それゆえわれわれはまたかつて姿を現し、しかるべき時に\n戻ってくる天上の者たちのことを考える、\nそれゆえわれわれはまた彼らを歌い、長く一人で問う、誰が\n助けをもたらし、魂ある者たちのために夜が昼を終えるかを。\nしかしわれわれはついに、友よ！東方に至る、\nそこでまだ誰も来るべき祝福を見ていない；\nそこへ彼らは確かに向かう、しかし神がただ静かに来るなら、\n確かに彼は泥棒のように家を迂回する、\nそう！大胆な者たちを彼はまず一人で試みようとし\n彼らを、彼自身が見つかる場所へと引き離し、また戻す。"
+    },
+    {
+      "id": 7,
+      "originalText": "Aber Freund! wir kommen zu spät. Zwar leben die Götter,\nAber oben im Licht, über dem Haupte zu sehr.\nSie wirken wenig für uns, es schönet ein Gott uns,\nDenn nicht immer vermag ein schwaches Gefäß sie zu fassen.\nNur zu Zeiten erträgt göttliche Fülle der Mensch.\nTraum von ihnen ist drauf das Leben. Aber das Irren\nHilft, wie Schlummer, und stark machet die Not und die Nacht,\nBiß daß Helden genug in der ehernen Wiege gewachsen,\nHerzen an Kraft, wie sonst, ähnlich den Himmlischen sind.\nDonnernd kommen sie drauf. Indessen dünket mir öfters\nBesser zu schlafen, wie so ohne Genossen zu sein,\nSo zu harren, und was zu tun indes und zu sagen,\nWeiß ich nicht und wozu Dichter in dürftiger Zeit?\nAber sie sind, sagst du, wie des Weingotts heilige Priester,\nWelche von Lande zu Land zogen in heiliger Nacht.",
+      "provisionalTranslation": "しかし友よ！われわれは遅すぎて来る。確かに神々は生きている、\nしかし上の光の中で、頭上に遠すぎる。\n彼らはわれわれのためにほとんど働かず、ある神はわれわれを気遣う、\nなぜなら弱い器はいつも彼らを掴まえられるわけではないから。\n神的な充溢を人間は時にのみ耐えられる。\nその後の生は彼らについての夢に過ぎない。しかし彷徨うことが\n眠りのように助けとなり、欠乏と夜が強くする、\n勇者たちが青銅の揺籠の中で十分に育つまで、\n心が、かつてのように、強さにおいて天上の者たちに似るまで。\nそのとき雷鳴を伴って彼らは来る。その間わたしにはしばしば思われる、\n仲間なしにそういるよりも眠る方がよいと、\nこのように待ち続けることが、そして何をその間にするか言うか、\nわたしは知らない、そして欠乏の時代に詩人はなんのために？\nしかし彼らはいる、お前は言う、ワインの神の聖なる司祭たちのように、\n聖なる夜に国から国へと渡り歩いた者たちのように。"
+    },
+    {
+      "id": 8,
+      "originalText": "Nämlich, als vor einiger Zeit, uns dünkt sie lange,\nDa sie aufwärts gingen, hinauf in das Licht, die Lebendigen,\nHier Taten taten und himmelnden Freude genoßen,\nUnd noch sahen wir sie, dem Element unterthan,\nAufgewacht, erst mit Staunen, da sprach die Mutter Erde,\nHimmelsgattin, erhabne, und fühlte sie auch gern,\nDa freute sich mit seeliger Fülle der Geist und wie oft\nErstaunte uns aus ihm ein liebendes Antlitz.\nSo war Christus. Noch lebt er unter uns, groß und wunderbar;\nJa! zum Schöne noch hat sich das Licht gewendet.\nUnter den Menschen ist er und keiner weiß es, und er ist\nDa, unter uns, im Licht ist, unbekannter Sohn des Vaters.\nSo auch ist er uns spät und früh das Leben zu preisen,\nSo das Große, das sich so hold dem uns Schwachen geneigt.",
+      "provisionalTranslation": "すなわち、しばらく前に、長く思われる頃に、\n生ける者たちが上へ、光の中へと上がっていったとき、\nここで行為をなし、天上の喜びを享受し、\nそしてまだわれわれは彼らを見た、元素に従いながら、\n目覚め、最初は驚きとともに、そのとき母なる大地が語った、\n天の妻として崇高な者として、そして彼らをうれしく感じ、\nそのとき精神は魂の充溢とともに喜んだ、そしてどれほどしばしば\nその精神から愛する顔がわれわれを驚かせたか。\nそのようにキリストがいた。彼はまだわれわれの中に生きている、大きく素晴らしく；\nそう！美へと光はまだ転じてきた。\n人々の間に彼はいて、誰も知らず、彼はそこにいる、\nわれわれの間に、光の中に、父の知られざる息子として。\nこのようにまた彼はわれわれに早くも遅くも生を讃えるものとして、\nこのような偉大なものが、われわれ弱き者にこれほど親しみをもって傾いてくれた。"
+    },
+    {
+      "id": 9,
+      "originalText": "Wohl! ich weiß es, die Lehre der Weisen ist weit von hier\nNicht, es schmerzet den Gott, daß seiner vergessen ihr,\nAber zuletzt kommt Dank. Indes laßt irren uns ruhig,\nBis zu jener Zeit, und es schönet ein Gott uns.\nFür die Himmlischen ist es gut, wenn wir ihnen\nEinen eigenen Tempel und Haus, das Feld und die Städte,\nGeben zum schönsten; aber der Hochmut scheidet uns ab.\nSo dem Gott der wachende Dienst gebühret und heilig\nIst er uns, ja, das ist er, mit ihm das Brot und den Wein.\nAber zuweilen leidet es nicht der Gott, daß sein Volk ihm\nGnadenlos dient und das Licht, welches er sandte, vergessen.\nUnd wie Feuer im Eisen, so geht durch Zeiten dem Göttern\nSchließlich das heilige Gut, welches an Händen bleibt, durch.",
+      "provisionalTranslation": "いや、わたしは知っている、賢者の教えはここから遠くない、\n神は痛みを感じる、お前たちが彼を忘れると、\nしかし最後には感謝が来る。その間われわれを静かに彷徨わせよ、\nあの時まで、そしてある神がわれわれを気遣う。\n天上の者たちのために良いことは、われわれが彼らのために\n固有の神殿と家、野と街を、\nこの上なく美しく与えることだ；しかし高慢がわれわれを切り離す。\nこのように神には目覚めた奉仕が相応しく、聖なるものとして\n神はわれわれにある、そう、そうなのだ、彼と共にパンとワインが。\nしかし時として神は我慢できない、彼の民が恵みなく彼に\n仕え、彼が送った光を忘れることを。\nそして鉄の中の火のように、時代を通じて神々の手の中に残る\n聖なる財が、最後には浸透していく。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "9連各9行（実際は各連の行数に若干の揺れあり）のエレギー形式——ヘクサメトロスとペンタメトロスの交替（ディスティコン）を基調とする。第1連は夜の都市の描写から月の登場まで、昼から夜への移行を段階的に捉える。詩全体は夜の旅の構造を持ち：夜の訪れ（§1〜2）→夜の役割（§2〜3）→ギリシア神話的過去（§4〜5）→神々の逃去と現在（§6〜7）→キリスト論（§8）→結び（§9）という弧を描く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "die Fremdlingin unter den Menschen",
+      "body": "「人々の間の異邦人（夜）」。夜が「Fremdlingin（異邦人・女性形）」として人格化される。「Elis」でトラークルが魂を「Fremdes auf Erden（地上の異邦人）」と定義するのと同じ語彙系列——ヘルダーリンにおける夜の「異邦性」がトラークルにおける魂の疎外として継承される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ja, es ziemt sich, ihr Weihn und Gesänge zu weihn",
+      "body": "「夜に献詞と歌を捧げることが似つかわしい」。詩人の夜への奉仕という主題の宣言。この「夜への歌」という身振りが、詩全体を「夜の旅」として構成する根拠となる。Weihn（聖なる・献ずる）という動詞が繰り返されることで、歌う行為そのものが聖化される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "das Heiligtrunkene",
+      "body": "「聖なる酔い（das Heiligtrunkene）」。heilig（聖なる）とtrunken（酔った）の複合形——ディオニュソス的な酔いがキリスト教的な聖性と融合する語。忘却と聖なる酔いを夜が「与えてくれる」という構文が、夜を単なる闇でなく保護・育成の空間として定義する。この語がヘルダーリンの宗教的混淆の象徴。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Aber die Thronen, wo? die Tempel, und wo die Gefäße",
+      "body": "「しかし玉座はどこに？神殿は、器は、どこに」。§4冒頭のギリシア礼賛から、この問いへの転換が詩の重心を変える。問いの連続（wo? wo? wo?）が神々の不在を言語的に演じる——かつてあったものの現在の空虚を、問いという形式が体現する。「Delphi schlummert（デルポイは眠る）」という一行が神託の沈黙を集約する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "glossary",
+      "anchor": "wie Dionys, der Weingott",
+      "body": "「ディオニュソス、ワインの神のように」。ヘルダーリンの神話論的想像力の核心——ディオニュソスが「最も深い大地から光の上へ」来るという死と再生の神の運動が、詩全体を貫く下降と上昇の弁証法を体現する。§8でキリストとの重ね合わせに向けた準備として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "wozu Dichter in dürftiger Zeit",
+      "body": "「欠乏の時代に詩人はなんのために？」。ヘルダーリン詩学の核心的問いであり、ハイデガー「ヘルダーリンと詩の本質」（1936）・「詩人はなんのために？」（1946）が詳細に論じた一行。dürftig（欠乏した・貧しい）は単なる物質的貧困でなく、神々が去った後の精神的・宗教的欠乏の時代を指す。この問いは答えられないまま提示され、次行の「ワインの神の聖なる司祭たち」という喩えが暫定的な応答として置かれる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "wie des Weingotts heilige Priester,\nWelche von Lande zu Land zogen in heiliger Nacht",
+      "body": "「ワインの神の聖なる司祭たちのように、聖なる夜に国から国へと渡り歩いた者たちのように」。詩人の定義——ディオニュソスの巡回司祭として、神の不在の時代に神を媒介する者。「夜に」という条件が、詩人の活動が闇・欠乏・不在の時代においてのみ意味を持つことを示す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "allusion",
+      "anchor": "So war Christus",
+      "body": "「そのようにキリストがいた」。ディオニュソス（§5・§7）からキリストへの転換——これがヘルダーリンの最も大胆な宗教的混淆。「そのように（So）」という一語が、ディオニュソスの神話的パターン（死と再生・神的充溢の降臨）をキリストに適用する接続詞として機能する。キリストはここで「夜の聖物（Nachtsgeweiht）」の系列に置かれ、神学的正統から外れた詩的・神話的存在として提示される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "heilig\nIst er uns, ja, das ist er, mit ihm das Brot und den Wein",
+      "body": "「神はわれわれにとって聖なるものとしてある、そうなのだ、彼とともにパンとワインが」。詩全体の到達点。「Brot und Wein（パンとワイン）」がここで初めて明示的に登場し、タイトルに戻る。聖餐のシンボルがディオニュソスとキリストの重ね合わせの後に置かれることで、キリスト教的典礼が古代的な神との共食として位置づけ直される。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "トラークル「Ein Winterabend」の終行「食卓の上にパンとワインが純粋な光の中で輝く」は、この詩第9連のタイトル語の到達点と直接照応する。ヘルダーリンが問いとして立てた「欠乏の時代の詩人」と「神とともにあるパンとワイン」を、トラークルは旅人の静かな到着という一瞬の情景に凝縮させる——問いへの詩的応答としての構造。",
+      "targetId": "trakl_ein_winterabend",
+      "targetParagraphId": 3
+    }
+  ]
+}
