@@ -10,8 +10,19 @@
   "originalLang": "de",
   "color": "blue-700",
   "modernRelevance": "★★★★★",
-  "context": "1912年秋〜冬に書かれ、Gedichte（1913）に収録。タイトルは詩篇130篇の冒頭句「De profundis clamavi ad te, Domine（深みからあなたへ呼び求める、主よ）」に由来し、ボードレール「Spleen et Idéal」の「De profundis clamavi」とも響き合う。しかしトラークルのそれは祈禱でも嘆願でもなく、神の沈黙を「泉から飲む」という内向的な行為として記述する——神への呼びかけが内部への下降に転じている。\n\n詩は4段落（自由詩）で構成される。第1段落：三つの「Es ist...（〜がある）」による反復法——刈り株畑に黒い雨・孤独な褐色の木・空の小屋を巡る囁き風——が並置され、「なんと悲しいこの夕べ」という感嘆で閉じる。旧約創世記を思わせる列挙の形式はホフマンスタール「Ballade des äußeren Lebens」の「Und...Und...」連鎖と対照できる。どちらも世界を等価に列挙するが、トラークルの列挙は創造ではなく荒廃の記録。\n\n第2段落：「柔かな孤児」がルツ記的身振りで穂を拾い集め、「天上の花婿を待つ」——キリスト教的純潔の象徴。第3段落：羊飼いたちの帰路に「甘い身体が茨の藪に腐って」見つかる——純潔は現世では保護されない。語り手は「影（Schatten）」として自己を定義し、「神の沈黙を泉から飲む」。第4段落：「冷たい金属が額を踏む」「蜘蛛が心を探す」「口の中で光が消える」——身体の内部に侵入する異物の連続。夜の荒れ地で「星の塵と汚物」に晒されながら、ハシバミの藪から「水晶の天使が鳴り響く」という幻聴で終わる。\n\nこの詩の逆説的構造：救済のシグナル（天使）が廃墟の中に出現する。水晶の天使は慰めではなく幻覚であり、現実の荒廃をむしろ際立たせる。信仰の語彙（天上の花婿・神の沈黙・天使）が機能不全に陥った世界——これがトラークルの「深みから」の独特の位相。\n\n色彩推移：黒い雨・褐色の木（第1段落）→黄金の目（第2段落）→冷たい金属（第4段落）→水晶（終行）。黒から金属光沢・水晶という、温度を持たない光への移行がトラークル典型の色調推移を示す。W・H・オーデン、ジェームズ・ライトら英語圏詩人が特に高く評価した詩。",
-  "keywords": ["De profundis", "詩篇130篇", "神の沈黙", "孤児", "水晶の天使", "反復法", "荒廃", "黒い雨", "影", "ルツ記"],
+  "context": "タイトルは詩篇130篇「De profundis clamavi ad te, Domine（深みからあなたへ呼び求める、主よ）」に由来し、ボードレール「Spleen et Idéal」の同名詩とも響き合う。しかしトラークルの詩は神への呼びかけでなく、神の沈黙を泉から「飲む」という内向きの行為として記述する——救済のシグナルが廃墟の中に出現しながら機能しないという逆説構造を持つ。1912年秋〜冬作、Gedichte（1913）収録。",
+  "keywords": [
+    "De profundis",
+    "詩篇130篇",
+    "神の沈黙",
+    "孤児",
+    "水晶の天使",
+    "反復法",
+    "荒廃",
+    "黒い雨",
+    "影",
+    "ルツ記"
+  ],
   "relatedTexts": [
     "trakl_verfall",
     "hofmannsthal_ballade",
@@ -38,6 +49,90 @@
       "id": 4,
       "originalText": "Auf meine Stirne tritt kaltes Metall.\nSpinnen suchen mein Herz.\nEs ist ein Licht, das in meinem Mund erlöscht.\nNachts fand ich mich auf einer Heide,\nStarrend von Unrat und Staub der Sterne.\nIm Haselgebüsch\nKlangen wieder kristallne Engel.",
       "provisionalTranslation": "冷たい金属がわが額を踏む。\n蜘蛛がわが心を探す。\nわが口の中で消える光がある。\n夜、われは荒れ地に自分を見つけた、\n汚物と星の塵で覆われながら。\nハシバミの藪の中で\n水晶の天使がまた鳴り響いた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4段落の自由詩。第1段落で「Es ist...（〜がある）」という反復法が三回連続し、荒廃した世界を等価に並置する。旧約創世記「〜があった（es war）」を思わせる列挙形式だが、創造でなく荒廃の記録として機能する。色彩推移：黒い雨・褐色の木（§1）→黄金の目（§2）→冷たい金属（§4）→水晶（§4終行）と、温度を持たない光へ段階的に移行する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Zischelwind, der leere Hütten umkreist",
+      "body": "「空の小屋を巡る囁き風」。Zischelwind（ジッシェルヴィント）はzischeln（囁く・シューシューと音を立てる）からの複合語——単なる「風」でなく、意味を持ちそうで持たない不気味な囁きとして定義される風。leere Hütten（空の小屋）という無人の住居が、人間の不在の後に残る廃墟の空間を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「Es ist...Es ist...Es ist...」という三重の反復列挙は、ホフマンスタール「Ballade des äußeren Lebens」の「Und...Und...」連鎖と対照できる。どちらも世界を等価に列挙する修辞だが、ホフマンスタールが「外的生」の無意味な豊穣を列挙するのに対し、トラークルは荒廃・空虚・孤独の三項のみを並べる——同一の修辞形式が対照的な世界認識を示す。",
+      "targetId": "hofmannsthal_ballade",
+      "targetParagraphId": 1
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "sanfte Waise noch spärliche Ähren ein",
+      "body": "「柔かな孤児がまだ少ない穂を拾い集める」。旧約聖書ルツ記（2章）への参照──異邦人ルツが夫の死後、ボアズの麦畑で落穂を拾い集める場面。「柔かな（sanfte）」という形容が聖書的な謙虚さ・貧しさを示し、「spärliche Ähren（少ない穂）」が豊穣の対極として世界の枯渇を具体化する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "himmlischen Bräutigams",
+      "body": "「天上の花婿」。キリスト教的純潔の象徴──花嫁（処女・魂）がキリスト（天上の花婿）を待つという雅歌的・神秘主義的イメージ。「Schoß（胸・子宮）」という語が身体的・性的な次元を持つことで、純潔の待機が官能性を帯びる。この「待機」が第3段落で「腐った甘い身体」の発見として裏切られる——純潔の保護不全という詩の逆説の準備。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Augen weiden rund und goldig in der Dämmerung",
+      "body": "「目は薄明の中で丸く黄金に広がる」。weiden（草を食む・放牧する）という動詞が目に与えられる──目が牧草地を食む動物のように「広がる」という共感覚的転換。goldig（黄金の）は第1段落の黒・褐色から唯一の温かい色彩として差し込む。「Elis」§1の「runde Augen（丸い目）」との照応——幼児的な無垢の視線として共通する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Fanden die Hirten den süßen Leib\nVerwest im Dornenbusch",
+      "body": "「羊飼いたちは甘い身体を茨の藪の中で腐っているのを見つけた」。第2段落で「天上の花婿を待つ」純潔な孤児が、第3段落で腐った死体として発見される──現世では純潔は保護されないという詩の中心的逆説。süßen Leib（甘い身体）という感覚的・官能的な形容が、腐敗（verwest）と並置されることでボードレール「Une Charogne」的な美と腐敗の弁証法を呼び起こす。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ein Schatten bin ich",
+      "body": "「われは影」。詩で初めて一人称「ich」が登場する瞬間──そして自己は「影（Schatten）」として定義される。Schatten は実体を持たない二次的存在、他の何かが光を受けることで生じる。「暗い村々から遠く（ferne finsteren Dörfern）」という空間的疎外が、影という存在の周縁性を地理的に確定する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "Gottes Schweigen\nTrank ich aus dem Brunnen des Hains",
+      "body": "「神の沈黙を林の泉から飲んだ」。詩篇130篇「De profundis clamavi（深みからあなたへ呼び求める）」という神への外向きの呼びかけが、ここでは「神の沈黙（Gottes Schweigen）」を「飲む（trank）」という内向きの行為に転じる。応答しない神の沈黙を泉の水として内部に取り込む——祈禱が内省・下降に変換されるトラークル固有の神学的転換。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Auf meine Stirne tritt kaltes Metall.\nSpinnen suchen mein Herz.",
+      "body": "「冷たい金属がわが額を踏む。蜘蛛がわが心を探す」。身体の内部に侵入する異物の連続──外部の金属が額を「踏む」、蜘蛛が心の中を「探す」という不可能な身体侵入が、自我の境界の崩壊として提示される。「Es ist ein Licht, das in meinem Mund erlöscht（わが口の中で消える光がある）」と続き、言語・声・呼びかけが内部で消滅する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Starrend von Unrat und Staub der Sterne",
+      "body": "「汚物と星の塵で覆われながら」。Unrat（汚物・塵芥）と Staub der Sterne（星の塵）という地上の最低と天上の最高が同列に並置される──荒れ地に倒れる語り手の身体が、この両極に同時に晒される。「星の塵（Sternenstaub）」は天文学的な宇宙塵でもあり、人体を構成する元素（われわれは星の塵からできている）という近代的認識の詩的変形でもある。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Im Haselgebüsch\nKlangen wieder kristallne Engel",
+      "body": "「ハシバミの藪の中で水晶の天使がまた鳴り響いた」。詩の終行。「また（wieder）」という副詞が以前にも聞こえたことを示し、この幻聴が繰り返されるものであることを明かす。水晶の天使は慰めではなく幻覚——現実の荒廃（汚物・星の塵・暗闇）をむしろ際立たせる逆説的な救済のシグナル。「Verklärung」の「青い花、黄ばんだ岩の中で静かに響く」と同様、廃墟の中でのみ美的変容が現れるトラークルの逆説構造。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "kristallne Engel",
+      "body": "「水晶の天使」。「Elis」§11の「kristallener Stirne（水晶の額）」、「Verklärung」終行の「leise tönt in vergilbtem Gestein（廃墟の岩の中で静かに響く）」と同列の「廃墟の中の水晶的純粋さ」のイメージ系列。どちらの詩でも水晶的なものは直接的な救済でなく、壊れた世界の中に閃く純粋さの幻として機能する。",
+      "targetId": "trakl_verklaerung",
+      "targetParagraphId": 6
     }
   ]
 }
