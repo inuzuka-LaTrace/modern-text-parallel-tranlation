@@ -651,7 +651,8 @@ export default function App() {
   fontFamily === 'im-fell'  ? '"IM Fell English", "Shippori Mincho B1", serif' :
   fontFamily === 'alice'  ? '"Alice", "Hina Mincho", serif' :
   fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", "Hina Mincho", serif' :
-
+  '"Inter", "EB Garamond", serif';
+    
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
   // カテゴリーラベルの短縮表示用マップ
