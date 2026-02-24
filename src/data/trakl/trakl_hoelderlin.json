@@ -9,8 +9,18 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★☆",
-  "context": "1911年作。2015年、ウィーンのある図書館解散時に、トラークルの旧蔵書であるヘルダーリン全集（Diederichs版、Jena, 1905）の前見返しに鉛筆書きで発見された。署名と「1911年10月」という日付がある。2016年、ハンス・ヴァイヒゼルバウムがザルツブルクのGedenkstätteで報告し、同年「Autorschaft und Poetik in Texten und Kontexten Georg Trakls」（Otto Müller Verlag）に収録。2020年、Ian Alexander MooreとWeichselbaumの英語訳・注釈が「Journal of Continental Philosophy」で発表され、国際的に知られるようになった。\n\n詩テキスト自体は1911年の作であり、著作者トラークル（1887–1914）は没後70年以上を経過しているためパブリックドメインに属する。\n\n詩は2連各4行、規則的な4強弱格のヤンブス、包み韻（ABBA）というトラークルがこの時期好んだ形式——「Verfall」や「Ein Winterabend」と同じ韻律・構造。第1連：秋の森、風の静止、動物の眠り、静かに流れる小川——完全な静寂の情景。第2連：ヘルダーリンの「高貴な頭（edles Haupt）」がその「美の輝きと悲しみの中で狂気（Wahnsinn）に暗くされた」とあり、その狂気は「夕べに草の間を囁く敬虔な戦慄（frommer Schauer）」として描かれる。\n\nテキストに「Wahnsinnn（狂気）」のnが3つという誤記が含まれる（通常はWahnsinn）。2020年論文でIan Alexander Mooreはこの「過剰なn」を単純な筆記ミスとして処理するハイデガー的読解に抗し、それがデリダ的な「書き過ぎ（excès d'écriture）」として語のなかに収まりきらない狂気を演じていると解釈した。本ファイルでは原典のまま「Wahnsinnn」と表記する。\n\nヴァイヒゼルバウムが指摘するように、第1連はトラークルが後に「Gedichte」（1913）に収録した「Melancholie des Abends（夕べの憂鬱）」の第1連と要素を共有し、そちらでは「森」「野獣」「影が垣根のように囲む」というモチーフが変形して再登場する。「Hölderlin」はいわば「Melancholie des Abends」の原型、あるいは素材集積の場として機能していた可能性がある。\n\nトラークルの詩においてヘルダーリンは単なる先人ではなく、「柔かな狂気（sanfter Wahnsinn）」「弦楽（Saitenspiel）」「聖性（das Heilige）」という三重の属性をもって出没する鬼神的存在として機能する——ヴァイヒゼルバウムの言う「分身（Doppelgänger）のように」。トラークル自身もヘルダーリン晩年のテュービンゲン塔幽閉を知っており、詩の狂気・自己喪失・精神崩壊という主題はトラークル自身の予感として読まれてきた。「An Novalis」とならびトラークルが伝統の中での自己位置づけを明示する唯一の献呈詩。",
-  "keywords": ["ヘルダーリン", "狂気", "Wahnsinn三重n", "草稿詩", "発見詩", "献呈詩", "秋の静寂", "敬虔な戦慄", "伝統の継承"],
+  "context": "1911年10月作。2015年にトラークル旧蔵のヘルダーリン全集（Diederichs版1905）の前見返しに鉛筆書きで発見された草稿詩。2016年ヴァイヒゼルバウムが報告、2020年Ian Alexander Moore・ヴァイヒゼルバウムの英語訳・注釈が「Journal of Continental Philosophy」で発表。「An Novalis」と並ぶトラークルが伝統の中での自己位置づけを明示する唯一の献呈詩——ヘルダーリン全集の前見返しに著者の狂気を悼む詩を書くという身振り自体がトラークルのヘルダーリン受容を体現する。",
+  "keywords": [
+    "ヘルダーリン",
+    "狂気",
+    "Wahnsinn三重n",
+    "草稿詩",
+    "発見詩",
+    "献呈詩",
+    "秋の静寂",
+    "敬虔な戦慄",
+    "伝統の継承"
+  ],
   "relatedTexts": [
     "trakl_abendlaendisches_lied",
     "trakl_verfall",
@@ -27,7 +37,55 @@
     {
       "id": 2,
       "originalText": "So ward ein edles Haupt verdüstert\nIn seiner Schönheit Glanz und Trauer\nVon Wahnsinnn, den ein frommer Schauer\nAm Abend durch die Kräuter flüstert.",
-      "provisionalTranslation": "かくして高貴な頭は暗くされた\nその美の輝きと悲しみの中で\n狂気に——夕べに草の間を\n敬虔な戦慄として囁く狂気に。"
+      "provisionalTranslation": "かくして高貴な頭は暗くされた\nその美の輝きと悲しみの中で\n狂気に──夕べに草の間を\n敬虔な戦慄として囁く狂気に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "2連各4行、4強弱格のヤンブス、包み韻（ABBA）──「Verfall」「Ein Winterabend」と同一の韻律・構造。この形式がトラークルの1910〜11年頃の好んだ定型であり、草稿詩「Hölderlin」がその形式的訓練の場として機能していたことを示す。第1連が完全な自然の静寂を準備し、第2連でヘルダーリンの名を出さずに「高貴な頭」として人物を導入する二部構成。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Die Winde ruhn, ihn nicht zu wecken",
+      "body": "「風は休む、それを目覚めさせないように」。風の擬人的な意図性（目覚めさせないために休む）が、森の静けさを自然現象でなく意図された保護として提示する。この「保護された眠り」が第2連のヘルダーリンの「暗くされた頭」への対照として機能する——自然は静かに守るが、人間の精神（頭）は「狂気に暗くされる」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "第1連の「森・風の静止・眠る獣・静かに流れる小川」という素材はトラークルが後に「Gedichte」（1913）に収録した「Melancholie des Abends」の第1連と要素を共有する——そちらでは「森」「野獣」「影が垣根のように囲む」というモチーフが変形して再登場する。「Hölderlin」はその原型・素材集積の場として機能した可能性がある。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Wahnsinnn",
+      "body": "「狂気（Wahnsinn）」の誤記──nが3つ（通常はWahnsinn）。原典の草稿に含まれるこの「過剰なn」を2020年の論文でIan Alexander Mooreはデリダ的な「書き過ぎ（excès d'écriture）」として解釈した——語のなかに収まりきらない狂気が文字を溢れさせているという読解。本ファイルでは原典のまま表記する。単純な筆記ミスという処理に抗したこの解釈は、詩のテキスト的物質性が意味を担う例として注目される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "frommer Schauer",
+      "body": "「敬虔な戦慄（frommer Schauer）」。Schauer は「戦慄・戦慄を引き起こすもの・夕立」という意味を持つ多義語──夕べの草の間を「囁く（flüstert）」という動詞と結びつくことで、鳥肌を立てるような微細な身体的体験として狂気が現れる。fromm（敬虔な）という形容詞が狂気に与えられることで、ヘルダーリンの狂気が呪われたものでなく神聖な苦悩として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "So ward ein edles Haupt verdüstert\nIn seiner Schönheit Glanz und Trauer",
+      "body": "「かくして高貴な頭はその美の輝きと悲しみの中で暗くされた」。ヘルダーリンの名は一度も登場しないが、「edles Haupt（高貴な頭）」という表現が19世紀のロマン主義的人物像（ハインリヒ・ハイネ等）を通じてヘルダーリンへの参照として読める。トラークルにとってヘルダーリンは詩の先人でなく「柔かな狂気・弦楽・聖性」という三重の属性を持つ分身（Doppelgänger）的存在——自身の予感としての読解を可能にする。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「高貴な頭が狂気に暗くされた」というテーマは、ヘルダーリン「Hyperions Schicksalslied」の「苦悩なく天上に宿る神々」と「人間の苦悩・没落（Untergang）」の対比と深く照応する。トラークルがヘルダーリン全集の前見返しにこの詩を書いたという事実——書物の最初のページに、その著者の狂気を悼む詩を書くという身振り——が、トラークルにとってのヘルダーリン受容の本質的な様態を示す。",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "targetParagraphId": 3
     }
   ]
 }
