@@ -9,12 +9,14 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "ホフマンスタール22歳の作。「外的生の歌謡（Ballade des äußeren Lebens）」というタイトルが示すように、詩は「内的生」と「外的生」の分裂を主題とする。ゲオルゲ主宰「Blätter für die Kunst」1896年号に初出。\n\n詩は変形テルツィーネ形式（ABA BCB CDC…）で書かれており、ホフマンスタールが「Terzinen über Vergänglichkeit」と同じ詩形を選んでいることが注目される。全7連のうち最初の4連は「Und（そして）」で始まる——子供たちが育ち死に、果実が腐り、風が吹き続け、言葉が交わされ、道路が伸び、場所が点在する。この連続するUndは旧約聖書の創世記を思わせる列挙の形式であると同時に、すべてが等価であり目的を欠くという虚無の修辞でもある。17回ものUndが最初の4連に重なる（Wolfgang Schneider計算）。\n\n第5・6連では一人称複数「われわれ（wir）」が初めて現れ、問いかける——「なぜこれらは建てられたのか？ なぜ笑いと泣きと蒼白が交替するのか？ これらの遊びは何のためか、われわれは大きく永遠に孤独で、さまよいながらいかなる目標も求めないのに？」\n\n最終連（4行）で詩は転換する。「しかし「夕べ」と言う者は多くを語る——深い意味と悲しみが流れ出る言葉、重い蜜が空洞の巣房から流れ出るように。」この最終行は、ゲオルゲ「Das Wort」の「言葉の欠けるところに物はない」と対話する——ゲオルゲが言葉の不在を嘆くのに対し、ホフマンスタールは「夕べ（Abend）」という一語の中に世界全体が凝縮されることを発見する。「外的生」の空虚な列挙を超えて到達する「一語の充実」が詩の到達点である。\n\n歌曲化：アルバン・ベルク（1905年、声とピアノ、Jugendlieder Vol.II 第63曲）。ベルクはこの詩を、前期作品の中で最も長大な歌曲として設定した。ヴォルフガング・フォルトナー（1970-80）ほか。",
+  "context": "ホフマンスタール22歳の作。ゲオルゲ主宰「Blätter für die Kunst」1896年号に初出。「外的生の歌謡」というタイトルが示すように、空虚な列挙として続く「外的生」の果てに「夕べ（Abend）」という一語の充実を発見する構造をとる。アルバン・ベルクが1905年に歌曲化（Op. posth., Jugendlieder Vol. II）。",
   "keywords": ["外的生", "虚無", "夕べ", "蜜の比喩", "言語論", "アルバン・ベルク", "テルツィーネ", "ウィーン世紀末", "孤独"],
   "relatedTexts": [
     "hofmannsthal_terzinen",
     "hofmannsthal_vorfruehling",
     "hofmannsthal_reiselied",
+    "hofmannsthal_manche_freilich",
+    "hoelderlin_hyperions_schicksalslied",
     "george_das_wort"
   ],
   "paragraphs": [
@@ -52,6 +54,78 @@
       "id": 7,
       "originalText": "Was frommt's, dergleichen viel gesehen haben?\nUnd dennoch sagt der viel, der „Abend\" sagt,\nEin Wort, daraus Tiefsinn und Trauer rinnt\nWie schwerer Honig aus den hohlen Waben.",
       "provisionalTranslation": "そのようなものを多く見たことに何の益があるのか？\nしかし「夕べ」と言う者は多くを語る、\n深い意味と悲しみが滲み出る一語を——\n重い蜜が空洞の巣房から流れ出るように。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "変形テルツィーネ形式（ABA BCB CDC…）。ホフマンスタールはこの詩形を「Terzinen über Vergänglichkeit」でも用いており、無常・時間の流れを語る詩形として意識的に選択している。第1〜4連はすべて「Und（そして）」で始まり、17回ものUndが重なる（Schneider計算）——旧約聖書的な列挙の形式であると同時に、すべてが等価であり目的を欠くという虚無の修辞。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "tiefen Augen,\nDie von nichts wissen",
+      "body": "「何も知らない深い目」。tief（深い）は知性や経験の深さを示唆しながら、同時に「何も知らない（von nichts wissen）」という空虚を帯びる。この逆説——深さと無知の一致——が詩全体の「外的生」の無意味さを凝縮している。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「子どもたちは育ち死に、すべての人間は道を行く」という無目的な時間経験は、ヘルダーリン「Hyperions Schicksalslied」第3連の「盲目的に一つの時間から別の時間へと落ちていく苦しむ人間たち」の継承として読める。どちらも人間の時間が方向も目的も持たないことを示す。",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "targetParagraphId": 3
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "fallen nachts wie tote Vögel nieder",
+      "body": "「夜には死んだ鳥のように落ちる」。果実の落下を死んだ鳥に喩えることで、自然の熟成・成就が同時に死として現れる。「夜（nachts）」という時間指定が不可視性・無意識性を強調し、誰にも目撃されない滅びとして果実の死を描く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "reden viele Worte",
+      "body": "「多くの言葉を語る」。第3連の「多くの言葉（viele Worte）」と第7連の「一語（Abend）」の対比が詩全体の構造的対立を形成する。多数の空虚な言葉から単一の充実した語への転換——これが詩の根本的な運動。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "prosody",
+      "anchor": "totenhaft verdorrte…",
+      "body": "第4連末の三点リーダー（…）は第1〜4連の「Und列挙」の終止を示す唯一の句読点的中断。その直後の第5連から問い（Wozu / Was）へと転換し、詩の構造的転換点（volta）を形成する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Wozu sind diese aufgebaut",
+      "body": "「なぜこれらは建てられたのか」。第5・6連で初めて問いかけの形式が現れ、一人称複数「われわれ（wir）」が登場する。それまでの「Und」による無人称的列挙から、問いかける主体の出現への移行——しかし問いは答えられないまま第7連へ渡される。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "groß und ewig einsam",
+      "body": "「大きく、永遠に孤独」。groß（大きい）とewig einsam（永遠に孤独）の組み合わせが人間の逆説的な条件を示す。偉大さと孤独が不可分——人間の「大きさ」はまさに目標なき彷徨い（wandernd）の中にある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "dennoch sagt der viel, der „Abend\" sagt",
+      "body": "「しかし『夕べ』と言う者は多くを語る」。dennoch（しかし・それでも）が詩全体の転換を担う接続詞。第1〜6連の空虚な列挙・無益な問いの果てに、一語「Abend（夕べ）」の中に世界全体が凝縮されることを発見する。「外的生」の虚無を超えた「語の充実」が詩の到達点。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "schwerer Honig aus den hohlen Waben",
+      "body": "「重い蜜が空洞の巣房から流れ出る」。巣房（Waben）は空洞（hohl）でありながら蜜を産出する——空虚と充実の逆説的共存。「重い（schwer）」という形容詞が蜜の粘性・濃度を示し、「夕べ」という語から滲み出る意味の密度を具象化する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「夕べ」という一語の充実は、ゲオルゲ「Das Wort」の「言葉の欠けるところに物はない（Kein ding sei wo das wort gebricht）」と対話する。ゲオルゲが言葉の不在による物の喪失を嘆くのに対し、ホフマンスタールは一語の存在が世界全体を開くという発見へと向かう——言語と存在の関係をめぐる二つの立場。",
+      "targetId": "george_das_wort",
+      "targetParagraphId": null
     }
   ]
 }
