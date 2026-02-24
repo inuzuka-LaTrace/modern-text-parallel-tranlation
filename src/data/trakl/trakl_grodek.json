@@ -9,7 +9,7 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "1914年9月、ガリチア（現在のウクライナ）のグロデク（Gródek）の戦いの直後に書かれたトラークルの絶筆、あるいは絶筆に最も近い詩。1914年8月の第一次世界大戦開戦とともに召集されたトラークルは、k.u.k.（オーストリア＝ハンガリー帝国）陸軍の衛生准尉として東部戦線に送られた。グロデクの戦い（1914年9月）はオーストリア軍がロシア軍に大敗した最初の大規模戦闘の一つ。トラークルは一人で90名の重傷兵を小屋の中で看護する立場に置かれ、麻酔薬もなく治療不能の状態の中で、一人の負傷兵が頭を撃ち抜いて死ぬのを目撃した。外に飛び出すと、木々に吊るされた死体の列が並んでいた。この体験に続く精神崩壊から自殺を図り、クラクフの軍病院精神病棟に移送され、1914年11月4日にコカインの過剰摂取で死亡した（享年27歳、意図的かどうかは不明）。「Grodek」は彼の死後、1914年12月1日の「Der Brenner」に掲載された。\n\n2つの稿が存在する。第1稿（手稿、現在はオーストリア国立図書館蔵）と第2稿（友人ルートヴィヒ・フィッカーへの手紙に同封）。第2稿が決定版として広く収録され、本ファイルもこれに依拠する。主な異同は第2行（「goldnen Ebenen」vs「goldenen Ebenen」）と第7行（「stille sammelt」vs「Stille sammelt」——小文字か大文字か）。\n\n形式：17行の自由詩、無韻、無規則拍。行の長さは不均等で、句読点（セミコロン）が意図的に文を途中で切断する。ほぼすべての行が名詞で終わるが、第8行「Ein zürnender Gott（怒れる神）」のみが動詞で終わり、この行だけが詩全体のパターンを破る例外——神の怒りが文法的規則さえ歪める。\n\n内容の三段階：第1〜6行——夕べの森が致命的武器の音を響かせ、黄金の平野と青い湖の上を太陽が陰鬱に転がり、夜が死にかけの兵士たちと「砕かれた口の野性の嘆き（die wilde Klage ihrer zerbrochenen Münder）」を包む。第7〜10行——柳の谷で赤い雲が静かに集まり、「怒れる神が住む」赤い雲が流された血と月の冷気を集め、「すべての道が黒い腐敗に通じる（Alle Straßen münden in schwarze Verwesung）」。第11〜18行——夜の黄金の枝と星の下で「妹の影（der Schwester Schatten）」が沈黙の林を揺れながら歩き、英雄たちの霊と「血みどろの頭」に挨拶し、葦の中で秋の暗いフルートが低く鳴る。「ああ、誇り高き悲しみよ！青銅の祭壇よ——精神の熱い炎を今日は巨大な痛みが養う、生まれていない孫たちが（Die ungebornen Enkel）」。\n\n「妹の影」はトラークル詩全体で繰り返される中心的人物。実際の妹グレーテとの禁断の近親相姦的関係が伝記的に指摘されるが、詩的機能としては純潔・慰め・死者の間の媒介者として現れる。「すべての道が黒い腐敗に通じる」は英語圏で最も引用される行であり、Millingtonが「トラークルの詩業全体のテーマの最も簡潔な表現」と評した。「生まれていない孫たち」の最終行は「未来世代の抹消」を示し、詩を個人の死の歌から文明的カタストロフへと開く。詩は一人称を一度も使わず、前線詩としておそらく史上最も「非人称的」な作品（Millington）。\n\nRichard Millington（germanlit.sites.google.com）の分析、Wikipedia独語版詳細、zeno.org収録テキストで三重照合済み。歌曲化・管弦楽化：Heinz Winbeck 交響曲第3番（1985）、Manfred Trojahn「Grodek」（声とアンサンブル、1993）、Volker David Kirchner「Grodek」（1980）ほか。",
+  "context": "1914年9月、グロデクの戦い（ガリチア、現ウクライナ）直後に書かれたトラークルの事実上の絶筆。オーストリア軍衛生准尉として東部戦線に送られたトラークルは、90名の重傷兵を一人で看護する極限状況に置かれ、精神崩壊・自殺未遂を経てクラクフ軍病院に移送、1914年11月4日に没した（享年27）。詩は死の翌月、「Der Brenner」誌に掲載された。17行自由詩・無韻。第2稿（友人フィッカーへの書簡同封版）が決定版。",
   "keywords": ["絶筆", "戦争詩", "グロデクの戦い", "妹の影", "黒い腐敗", "生まれていない孫", "砕かれた口", "怒れる神", "青銅の祭壇", "第一次世界大戦"],
   "relatedTexts": [
     "trakl_abendlaendisches_lied",
@@ -32,6 +32,72 @@
       "id": 3,
       "originalText": "Unter goldnem Gezweig der Nacht und Sternen\nEs schwankt der Schwester Schatten durch den schweigenden Hain,\nZu grüßen die Geister der Helden, die blutenden Häupter;\nUnd leise tönen im Rohr die dunkeln Flöten des Herbstes.\nO stolzere Trauer! ihr ehernen Altäre\nDie heiße Flamme des Geistes nährt heute ein gewaltiger Schmerz,\nDie ungebornen Enkel.",
       "provisionalTranslation": "夜と星々の黄金の枝の下で\n妹の影が沈黙の林を揺れながら歩く、\n英雄たちの霊に、血みどろの頭に挨拶するために；\nそして葦の中で秋の暗いフルートが低く鳴る。\nああ、誇り高き悲しみよ！青銅の祭壇よ\n精神の熱い炎を今日は巨大な痛みが養う、\n生まれていない孫たちが。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "17行自由詩・無韻・無規則拍。行の長さは不均等で、セミコロンが文を意図的に途中で切断する。ほぼすべての行が名詞で終わるが、第2段落第2行「ein zürnender Gott wohnt（怒れる神が住む）」のみ動詞で終わり、詩全体の文法的パターンを破る唯一の例外——神の怒りが規則さえ歪める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "zerbrochenen Münder",
+      "body": "「砕かれた口」。顔面・下顎を破壊された重傷兵の状態を直接指すと同時に、言語そのものの破壊を暗示する。詩が一人称を一切使わないことと呼応し、「声を持てない者たちの詩」という逆説的な構造を形成する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": null,
+      "body": "詩全体を通じて一人称（ich/wir）が一度も登場しない。これは前線詩としておそらく史上最も「非人称的」な作品であり（Millington）、個人の目撃証言ではなく宇宙的・神話的次元での出来事として戦争を描く詩的戦略である。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "zürnender Gott",
+      "body": "「怒れる神」。旧約聖書的な怒りの神のイメージ。トラークルにおける神は救済をもたらさず、むしろ破壊と流血の場に「住む（wohnt）」存在として現れる。現在形 wohnt が詩の唯一の動詞結末行であることも参照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Alle Straßen münden in schwarze Verwesung",
+      "body": "「すべての道が黒い腐敗に通じる」。英語圏で最も広く引用されるトラークルの行。Millingtonは「トラークルの詩業全体のテーマの最も簡潔な表現」と評した。Verwesung（腐敗・腐乱）は肉体的腐敗と道徳的腐敗の双義を持つ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「すべての道が黒い腐敗に通じる」という絶対的閉塞は、ヘルダーリン「Hyperions Schicksalslied」の「苦悩から苦悩へと年月をかけて落ちていく」人間の運命と共鳴する。どちらも神々（droben）と人間（hinab）の断絶を、垂直的な落下として描く。",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "der Schwester Schatten",
+      "body": "「妹の影」。トラークル詩全体で繰り返される中心的人物。実妹グレーテとの伝記的関係が指摘されるが、詩的機能としては純潔・慰め・死者の間の媒介者として現れる。「影（Schatten）」であることで、生者でも死者でもない境界的存在として位置づけられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "ehernen Altäre",
+      "body": "「青銅の祭壇」。「青銅（ehern）」は古代・永続性・不変性を含意し、同時にギリシャ悲劇の祭壇を想起させる。戦場が古代的犠牲の儀式の場として召喚され、個人の死が神話的・宗教的次元に引き上げられる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Die ungebornen Enkel",
+      "body": "「生まれていない孫たち」。詩の最終語。戦死者個人の死でなく、その子孫として生まれるはずだった無数の生の抹消を示す。詩を個人の哀悼から文明的カタストロフへと開く転換点であり、未来世代の喪失という主題は第一次世界大戦詩の中でも際立って先駆的。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「妹の影が沈黙の林を歩く」という死者の境界的存在は、イェイツ「The Second Coming」で砂漠の石像が「ゆっくりと腿を動かす」黙示録的ヴィジョンと対照的に読める。どちらも破滅的歴史の転換点で、非人間的・神話的形象が現れる。",
+      "targetId": "yeats_the_second_coming",
+      "targetParagraphId": null
     }
   ]
 }
