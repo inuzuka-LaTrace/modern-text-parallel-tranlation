@@ -649,8 +649,8 @@ export default function App() {
   const fontFamilyStyle =
   fontFamily === 'garamond' ? '"EB Garamond", "Shippori Mincho B1", serif' :
   fontFamily === 'im-fell'  ? '"IM Fell English", "Shippori Mincho B1", serif' :
-  fontFamily === 'alice'  ? '"Alice", "Hina Mincho", serif' :
-  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", "Hina Mincho", serif' :
+  fontFamily === 'alice'  ? '"Alice", "Shippori Mincho B1", serif' :
+  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", "Shippori Mincho B1", serif' :
   '"Inter", "EB Garamond", serif';
     
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
@@ -702,7 +702,7 @@ export default function App() {
       <header className={`sticky top-0 z-30 ${darkMode ? 'bg-gray-950/95 border-gray-800' : 'bg-white/95 border-gray-200'} border-b backdrop-blur-md shadow-sm`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
           <div className="flex-1 min-w-0">
-            <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
+            <h1 className={`text-lg font-Shippori Mincho B1 font-semibold ${textClass} truncate`}>
               近代西洋テクスト対訳
             </h1>
             <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
