@@ -9,8 +9,18 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "1913年末から1914年初頭にかけて書かれ、「Der Brenner」1914年1月1日号に掲載。トラークルの死（1914年11月）の直前期の作品であり、後期の代表詩として位置づけられる。「Sebastian im Traum」（1915年遺稿集）に収録。\n\nタイトルの「Abendland（西洋・夕べの国）」は地理的・文明論的双義を持つ。西洋キリスト教文明の歴史的展開が詩の内容であり、同時に「夕べ（Abend）」が象徴する没落・終わりという意味も重なる。第一次世界大戦勃発の直前に書かれたこと、そしてトラークル自身が数週間後にガリチア戦線で従軍衛生兵として精神崩壊に至ることを考えると、この詩は文明の終わりの予感として読み直しうる。\n\n詩は5つの大きな連（段落）からなる自由詩。各段落は「O（ああ）」という感嘆詞で始まり、ひとつの時代・情景を喚起する——この構造はホメロスの叙事詩における英雄的呼びかけ（invocatio）の変形として機能する。\n\n第1段落「魂の夜の翼音」：太古の牧人時代。人間が獣・花・泉と調和して歩いた原初の世界。炉の神（Heimchen）の声と生贄の石に咲く血、孤独な鳥の叫びが静寂を破る。第2段落「十字軍と肉の灼熱の苦悩」：中世キリスト教の戦争・殉教・黙示録的破壊。夕べの園（ゲッセマネを暗示）で「敬虔な弟子たちが歩いた場所に今は兵士たちが傷と星の夢から目覚める」——宗教的場所の世俗的汚染。紺碧の夜の束（Zyanenbündel）という一語が連の中心に配置される。第3段落「静寂と黄金の秋の時代」：修道院の葡萄酒造り、丘と森の輝き、狩りと城館の安らぎ、夕べに人が「神の生ける頭（Gottes lebendiges Haupt）をめぐって黙して祈る」——中世的敬虔の時代。第4〜5段落「没落の苦い時間」：最終2行「ああ、没落の苦い時間、われわれが黒い水の中に石の顔を見る時（O, die bittere Stunde des Untergangs, / Da wir ein steinernes Antlitz in schwarzen Wassern beschaun）」——石化した顔が暗い水に映る。石（Stein）はトラークルにおける死・硬直の象徴、黒い水は死の水域。\n\nGRIN論文（Leichsenring 2018）はこの詩を「トラークル固有の表現主義と象徴主義の交差点」と位置づける。ゲオルゲが「Der siebente Ring」（1907）でドイツ精神史をマクシミン神格化によって召喚するのに対し、トラークルは同じ西洋史の弧を没落の叙事詩として提示する——同じ「西洋の神話化」という操作の二つの極として対照的に読める。",
-  "keywords": ["西洋", "没落", "十字軍", "牧人", "石の顔", "黒い水", "夕べの国", "文明史詩", "感嘆詞の連鎖"],
+  "context": "タイトル「Abendland（西洋・夕べの国）」は地理的・文明論的双義を持つ——西洋キリスト教文明の歴史的展開と、「夕べ（Abend）」が示す没落・終わりという意味が重なる。第一次世界大戦勃発直前に書かれ、「Der Brenner」1914年1月1日号に掲載。「Sebastian im Traum」（1915年遺稿集）所収。4連の自由詩が古代牧人時代から没落の現在まで西洋史の弧を描く。",
+  "keywords": [
+    "西洋",
+    "没落",
+    "十字軍",
+    "牧人",
+    "石の顔",
+    "黒い水",
+    "夕べの国",
+    "文明史詩",
+    "感嘆詞の連鎖"
+  ],
   "relatedTexts": [
     "trakl_verfall",
     "trakl_de_profundis",
@@ -38,6 +48,64 @@
       "id": 4,
       "originalText": "O, die bittere Stunde des Untergangs,\nDa wir ein steinernes Antlitz in schwarzen Wassern beschaun.",
       "provisionalTranslation": "ああ、没落の苦い時間、\nわれわれが黒い水の中に石の顔を見る時。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4連の自由詩。各連が「O（ああ）」という感嘆詞で始まり、一つの時代・情景を喚起する——ホメロスの叙事詩における英雄的呼びかけ（invocatio）の変形として機能する。詩は古代牧人時代（§1）→中世十字軍（§2）→修道院的黄金時代（§3）→没落の現在（§4）という西洋史の弧を描く。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Ton des Heimchens",
+      "body": "「炉の神の音」。Heimchen（ハイムヒェン）は炉端に棲むコオロギの一種で、民間伝承では家の守護霊・炉神として家庭の平和の象徴。その「太古の音（uralter Ton）」が生贄の石の血・孤独な鳥の叫びと並置されることで、平和と暴力が太古から共存していたことを示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Blut blühend am Opferstein",
+      "body": "「生贄の石に咲く血」。blühend（咲く・花開く）という植物的動詞が血に与えられる——腐敗と美の同居というボードレール的認識の独語版。生贄（Opfer）というキリスト教以前の儀礼が「太古（uralt）」の時代に置かれ、宗教的暴力が人間の始原に刻まれていることを示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Abendgarten, wo vor Zeiten die frommen Jünger gegangen",
+      "body": "「かつて敬虔な弟子たちが歩いた夕べの園」。ゲッセマネの園（Gethsemane）への参照——キリストが逮捕前夜に弟子たちと過ごした「夕べの園」。「今は兵士たちが傷と星の夢から目覚める（Kriege sleute nun, erwachend aus Wunden und Sternenträumen）」という転換が、聖なる場所の世俗的・軍事的汚染として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "sanfte Zyanenbündel der Nacht",
+      "body": "「夜の柔かな紺碧の束」。Zyane（矢車草／コーンフラワー）は青い野花で、ドイツロマン主義の「青」の系列に属する。Bündel（束）という語が花の集合を示し、十字軍・殉教・破壊という暴力的な第2連の中心に「柔かな（sanft）」一語として置かれる——破壊の中の美の孤島。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Gottes lebendiges Haupt rang",
+      "body": "「神の生ける頭をめぐって黙して祈り格闘した」。ringen（格闘する）という動詞が祈りに与えられる——ヤコブが天使と格闘したように（創世記32章）、神と格闘しながら祈ることを示す。lebendiges Haupt（生ける頭）という具体的・身体的な表現が神を抽象化せず、直接の対峙として祈りを定義する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "friedliche Mönche die purpurne Traube gekeltert",
+      "body": "「平和な修道士として紫の葡萄を搾った」。修道院の葡萄酒造りは聖書的・典礼的行為（ワイン＝キリストの血）と日常的労働の一致を示す。「purpurne Traube（紫の葡萄）」の色彩が§2の「purpurne Früchte（紫の果実）が落ちる」と対照される——§2の果実が十字軍の文脈で「落ちる（Fallen）」のに対し、§3の葡萄は「搾られる（keltern）」という目的的行為として現れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "steinernes Antlitz in schwarzen Wassern",
+      "body": "「黒い水の中の石の顔」。詩全体の集約的イメージ。steinern（石化した）はトラークルにおける死・硬直の象徴語で、「Sebastian im Traum」§2でも少年が「石のように身を投げた（steinern sich warf）」と使われる。黒い水（schwarze Wasser）は死の水域——ナルキッソス的自己認識の暗い反転として、人間が「没落した文明」を自分の姿として水面に見る。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「西洋史の弧を没落の叙事詩として提示する」というこの詩の姿勢は、ゲオルゲ「Der siebente Ring」（1907）がドイツ精神史をマクシミン神格化によって召喚する操作と対照をなす。どちらも「西洋の神話化」という操作だが、ゲオルゲが更新・再生を目指すのに対し、トラークルは没落を受け入れる——同一の問いへの二つの答え。",
+      "targetId": "george_das_wort",
+      "targetParagraphId": null
     }
   ]
 }
