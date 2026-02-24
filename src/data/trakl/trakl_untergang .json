@@ -10,8 +10,19 @@
   "originalLang": "de",
   "dedication": "An Karl Borromäus Heinrich",
   "modernRelevance": "★★★★★",
-  "context": "1913年2月作。「Sebastian im Traum」（1915）の「Siebengesang des Todes（死の七声部歌）」章に収録。献辞「An Karl Borromäus Heinrich（カール・ボッロメウス・ハインリヒへ）」——ハインリヒはトラークルが1912年末にインスブルックで知り合った若い小説家。「Der Brenner」1913年3月号に掲載された彼の書簡では、トラークルの詩を三度読んで「深く感動し、驚き、衝撃を受け、困惑し、興奮した」と記している。詩はその数週間後に完成した。\n\n8行2段落という極めてコンパクトな構成。段落の切れ目（4行＋4行）は厳密ではなく、行の長さも不均等——最長の第4行「Beugt sich die zerbrochene Stirne der Nacht（夜の砕けた額が傾く）」は最短の第2行「Sind die wilden Vögel fortgezogen（野生の鳥たちが飛び去った）」の倍近い音節を持つ。この非対称性がリズム的な不安定さを生む。\n\n「unseren（われわれの）」という一人称複数が詩全体を特徴づける。「われわれの星々（unseren Sternen）」「われわれの墓（unsere Gräber）」——詩人と友人ハインリヒの二人が共に没落へと向かう。この「われわれ」はトラークルの詩では稀な表現で、通常は三人称や非人称が好まれる。「An Karl Borromäus Heinrich」という献辞と合わせて、この詩は友情と共同的運命の詩として読める。\n\n詩のイメージ連鎖：白い池→野生の鳥の飛去→夕べの氷の風→「われわれの星」→「われわれの墓」→「夜の砕けた額」→棕梠の下の銀の舟→白い城壁→茨の拱門→「O兄弟よ」→「盲目の時針（blinde Zeiger）」→真夜中へ。「blinde Zeiger gen Mitternacht（真夜中に向かって登る盲目の時針）」という最終行はトラークルの詩行の中で最も広く引用される句の一つ。フランツ・フューマンが1982年の著作「Der Sturz des Engels（天使の墜落）」の冒頭章でこの2行を繰り返し強迫的に引用したことで知られる。\n\n「夜の砕けた額（die zerbrochene Stirne der Nacht）」——額（Stirne）はトラークルにおいて意識・精神・自己の座であり、「砕けた（zerbrochene）」という形容は精神の崩壊を直接示す。「夜」がその砕けた額を「墓の上に傾ける（beugt sich über unsere Gräber）」——これは嘆きの身振りであり同時に圧迫の身振り。棕梠（Palmen）はトラークルの詩では異郷・死後の楽園・幻覚的南国として機能し、「銀の舟（silbernen Kahn）」とともに死の川を渡るという神話的モチーフを呼び起こすが、「揺れる（schaukeln）」という動詞の不安定さがそれを夢・錯覚の水準に留める。「白い城壁（weißen Mauern der Stadt）」は「Abendländisches Lied」の城塞イメージと接続し、「茨の拱門（Dornenbogen）」はキリストの茨の冠の転位として読める。\n\nSebastian im Traum「Siebengesang des Todes」章における位置：「Untergang」は章の中程に配され、直前に「Geistliche Dämmerung（霊的薄明）」、直後に「An einen Frühverstorbenen（早世者への）」が続く。「Abendländisches Lied」「Verklärung」と同章に並ぶことで、没落（Untergang）→変容（Verklärung）の弁証法的緊張が章全体に張られる。",
-  "keywords": ["没落", "われわれ", "友情", "盲目の時針", "真夜中", "砕けた額", "棕梠", "銀の舟", "茨の拱門", "An Karl Borromäus Heinrich"],
+  "context": "「Sebastian im Traum」（1915）「Siebengesang des Todes」章所収。献辞「An Karl Borromäus Heinrich」——トラークルが1912年末に知り合った小説家で「Der Brenner」同人。「われわれ（wir）」という一人称複数がほぼ全行を貫くトラークルの詩中でも稀な表現で、友情と共同的運命の詩として読める。最終行「盲目の時針として真夜中へ登る」はトラークル詩の中で最も広く引用される句の一つ。",
+  "keywords": [
+    "没落",
+    "われわれ",
+    "友情",
+    "盲目の時針",
+    "真夜中",
+    "砕けた額",
+    "棕梠",
+    "銀の舟",
+    "茨の拱門",
+    "An Karl Borromäus Heinrich"
+  ],
   "relatedTexts": [
     "trakl_verklaerung",
     "trakl_abendlaendisches_lied",
@@ -29,6 +40,52 @@
       "id": 2,
       "originalText": "Immer klingen die weißen Mauern der Stadt.\nUnter Dornenbogen\nO mein Bruder klimmen wir blinde Zeiger gen Mitternacht.",
       "provisionalTranslation": "白い城壁が常に鳴り響く。\n茨の拱門の下で\nああ兄弟よ、われわれは盲目の時針として真夜中へ登る。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "8行2段落の自由詩。「われわれ（wir / unseren / unsere）」という一人称複数がほぼ全行を貫く——通常三人称や非人称を好むトラークルの詩では極めて稀な表現。行の長さが非対称で、最長の第4行「Beugt sich die zerbrochene Stirne der Nacht」は最短の第2行「Sind die wilden Vögel fortgezogen」の倍近い音節を持ち、リズム的な不安定さを生む。献辞「An Karl Borromäus Heinrich」と合わせて、友情と共同的運命の詩として読める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Am Abend weht von unseren Sternen ein eisiger Wind",
+      "body": "「夕べにわれわれの星々から氷の風が吹く」。「われわれの星々（unseren Sternen）」という所有格が、星を個人的・共同的な運命の星として定義する——天文学的な天体でなく、詩人と友人が共有する宿命の星。「氷の風（eisiger Wind）」が星から吹いてくるという逆転が、守護されるべき星が脅威として働くことを示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "zerbrochene Stirne der Nacht",
+      "body": "「夜の砕けた額」。額（Stirne）はトラークルにおいて意識・精神・自己の座——「Frühling der Seele」§2の「kristallene Stirne」・「Helian」§7の「Stirne mit braunem Laub bekränzt（額を褐色の葉で冠にする）」と同系列の語彙。zerbrochen（砕けた）という形容が精神の崩壊を直接示す。「夜」がその砕けた額を墓の上に「傾ける（beugt sich）」——嘆きの身振りであり同時に圧迫の身振り。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Unter Palmen schaukeln wir auf einem silbernen Kahn",
+      "body": "「棕梠の下でわれわれは銀の舟の上で揺れる」。棕梠（Palmen）はトラークルの詩では異郷・死後の楽園・幻覚的南国として機能し、「銀の舟（silbernen Kahn）」とともに死の川を渡るという神話的モチーフを呼び起こす。しかし「揺れる（schaukeln）」という揺動する動詞が安定した到達を否定し、夢・幻覚の水準に留める。「Elis」§5の「黄金の舟がエリスの心を孤独な空で揺らす」と同一の揺動する舟のイメージ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Unter Dornenbogen",
+      "body": "「茨の拱門の下で」。Dornenbogen（茨の拱門）——「Frühling der Seele」§4の「silbern blühte der Dorn（茨が銀色に咲いた）」・「Elis」§7の「Dornengestrüpp（茨の茂み）」・「De profundis」§3の「Dornenbusch」と連なる茨の系列。ここでは拱門（Bogen）という建築的形態として現れ、キリストの茨の冠が門・入口として変形される——その下を通過することが受難・没落への道として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "blinde Zeiger gen Mitternacht",
+      "body": "「真夜中に向かって登る盲目の時針」。トラークルの詩行の中で最も広く引用される句の一つ。blinde Zeiger（盲目の時針）——時計の針が時刻を指し示す機能を「盲目」が無化する。「真夜中（Mitternacht）」は時間の終端・零点として、没落の到達点を示す。われわれが時針として真夜中へ「登る（klimmen）」——没落でありながら上昇するという逆説的運動。フランツ・フューマン「Der Sturz des Engels」（1982）が強迫的に引用した。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「夜の砕けた額（zerbrochene Stirne der Nacht）」は「Abendländisches Lied」§4の「黒い水の中の石の顔（steinernes Antlitz in schwarzen Wassern）」と対照される——どちらも水面・夜という否定的空間に硬質化した顔・額のイメージが現れ、文明または個人の没落の視覚的記号として機能する。「Untergang」が個の友情的没落を描くのに対し、「Abendländisches Lied」は西洋文明の集合的没落を描くという規模の違いも対応する。",
+      "targetId": "trakl_abendlaendisches_lied",
+      "targetParagraphId": 4
     }
   ]
 }
