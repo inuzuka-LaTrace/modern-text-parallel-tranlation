@@ -2,15 +2,20 @@
   "id": "valmore_avis",
   "title": "Avis",
   "author": "Marceline Desbordes-Valmore",
-  "source": "Poésies inédites",
+  "source": "Poésies inédites (1860)",
   "year": "1860",
   "firstPublication": "Poésies inédites, 1860",
   "difficulty": "初級",
   "category": "valmore",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★☆",
   "context": "詩集『Poésies inédites』（1860）の序詩。苦しむ女性読者たちへの呼びかけとして書かれ、施しと愛と歌を勧める。「与えることができる限り、死ぬことはない」という詩句をボードレールが引用し、ヴァルモール夫人論の核心語として位置づけた。",
   "keywords": ["don", "charité", "souffrance", "larmes", "sœurs"],
-  "relatedTexts": ["valmore_tristesse", "baudelaire_valmore_critique"],
+  "relatedTexts": [
+    "valmore_tristesse",
+    "baudelaire_valmore_critique",
+    "verlaine_poetes_maudits_valmore"
+  ],
   "paragraphs": [
     {
       "id": 1,
@@ -111,6 +116,96 @@
       "id": 20,
       "french": "Méprise-t-on l'oiseau qui répand sa chanson ?",
       "provisionalTranslation": "自らの歌を注ぎ出す鳥を誰が軽んじるだろうか？"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "20行詩、交差韻ABAB×5連。各連が4行単位で機能し、序詩としての説教的・勧告的トーンを支える。詩全体を貫く二人称「vous」への呼びかけが、読者を詩集の共同体へと引き込む構造をとる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Vous surtout",
+      "body": "「とりわけあなた方を」。Vous surtout の反復（§1・§2）が詩の開幕を強調する。対象は「愛されていない者」と「苦しむ者」——ヴァルモールの読者共同体は普遍的な苦しみの共有によって定義される。この呼びかけ構造は詩集全体の序詩として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "pleurs chantés les amères douceurs",
+      "body": "「歌われた涙の苦い甘さ」。amères douceurs（苦い甘さ）はオクシモロン——涙と歌の不可分性、苦しみと美の共存を一語に凝縮する。ヴァルモールの詩学の核心であり、ボードレールが「泣きながら歌う」詩人としてヴァルモールを論じた根拠の一つ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Prisonnière en ce livre une âme est contenue",
+      "body": "「この書の中に一つの魂が閉じ込められている」。書物＝魂の監獄というメタファーが、詩集を単なる文学作品でなく詩人の実存そのものとして提示する。prisonnière（囚われた女）という女性形が書き手の性を明示し、§7の「名もなく通り過ぎる私」と連動する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Pleureuses",
+      "body": "「泣き女たち」。pleureuses は古代ローマ・中東の葬儀で雇われた職業的泣き女を指す語。読者たちを「泣き女」と呼ぶことで、詩集を一種の哀悼の儀式として定義する。ヴァルモールの詩的共同体が苦しみと哀悼によって結ばれることを示す。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "cette cendre",
+      "body": "「この灰」。cendre（灰）は消えた火・過去の生・死後の残滓を指すとともに、灰の水（lessive）で汚れを落とす洗浄のイメージも持つ。vos fers（あなた方の鎖）を灰に浸すことで、苦しみそのものが解放の手段となるという逆説。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Chantez ! … Aimez ! … Donnez !",
+      "body": "§9・10・11の三つの命令形（Chantez / Aimez / Donnez）が詩の中心的勧告をなす三連鎖を形成する。歌・愛・与えること——この三項は詩人としての生の倫理であり、次の §12 の「与えることができる限り、死ぬことはない」という集約へ向けて準備される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Tant que l'on peut donner on ne veut pas mourir",
+      "body": "「与えることができる限り、死のうとは思わない」。詩全体の集約点であり、ボードレールが「ヴァルモール夫人論」でそのまま引用した行。donner（与える）という行為が生の意志そのものと同一視される——与えることの停止が死と等しいという逆説的な生の定義。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "intertextual",
+      "anchor": "Tant que l'on peut donner on ne veut pas mourir",
+      "body": "ボードレールは「ヴァルモール夫人論」においてこの行を引用し、ヴァルモールの詩学の核心として「与える詩人」という像を定義した。自己犠牲的な贈与の倫理は、ボードレール自身の詩論における「詩人の使命」概念とも共鳴する。",
+      "targetId": "baudelaire_valmore_critique",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 15,
+      "type": "glossary",
+      "anchor": "Absoudre, c'est prier ; prier, ce sont nos armes",
+      "body": "「赦すことは祈ること。祈ることはわれわれの武器」。A＝B、B＝C という連鎖的定義（パラロジスム）の構造。armes（武器）という戦闘的語彙が「赦し・祈り」という宗教的行為に与えられることで、苦しむ女性たちの受動的行為が積極的抵抗として再定義される。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "vent de la parole",
+      "body": "「言葉の風」。詩的言語を vent（風）——不可視で方向なく吹き、制御できない力——として喩える。§18の「少し理性を失わなければならない」と連動し、詩的インスピレーションの非合理的・非制御的性格を肯定する。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Qui donne son secret est plus tendre que folle",
+      "body": "「秘密を打ち明ける者は狂っているより優しい」。tendre（優しい・柔らかな）と folle（狂った女）の対比。詩を書くことへの社会的批判（女が「狂っている」）を逆転させ、「優しさ」という倫理的価値として詩作を正当化する。女性詩人への蔑視に対する静かな反駁。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "glossary",
+      "anchor": "l'oiseau qui répand sa chanson",
+      "body": "「自らの歌を注ぎ出す鳥」。鳥と詩人の同一視はロマン主義詩に広く見られる（ラマルティーヌ、ミュッセ）が、répand（注ぎ出す・広める）という動詞が歌の惜しみない贈与——§12の donner と同じ倫理——を示す。詩全体の締めくくりとして、詩人像を鳥の自然な歌声に重ねて詩作の正当性を穏やかに主張する。"
+    },
+    {
+      "paragraphId": 20,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「自らの歌を注ぎ出す鳥」という詩人像は、ヴェルレーヌが「呪われた詩人たち」のヴァルモール論で描いた「天与の声（voix naturelle）」としての詩人像と重なる。自己犠牲的な贈与としての詩作という主題が、ヴェルレーヌによる再評価の核心でもある。",
+      "targetId": "verlaine_poetes_maudits_valmore",
+      "targetParagraphId": null
     }
   ]
 }
