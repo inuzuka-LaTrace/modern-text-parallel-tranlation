@@ -9,8 +9,19 @@
   "category": "trakl",
   "originalLang": "de",
   "modernRelevance": "★★★★☆",
-  "context": "Gedichte（1913）収録。三連各四行、脚韻はABAB交差韻に変形リフレイン（各連に「Klosterglocken läuten darein」「Heut keltern sie den braunen Wein」が二度ずつ繰り返される）が組み合わさった独特の形式。このリフレイン構造がトラークルの詩のなかで最も民謡的・マリア賛歌的な響きを生んでおり、同時代の評者に「トラークルの最も平和な詩の一つ」と評された。\n\n内容は三段階の移行として読める。第1連：農村の秋の昼——ひまわりが柵で輝き、病人が日差しの中に座り、畑で女たちが歌いながら働く。修道院の鐘が鳴る。第2連：秋の夕べの収穫——鳥が遠くの物語を告げ、修道院の鐘が繰り返し響く。農場から弦楽が流れ、今日はワインの搾り取りの日。第3連：「するとそこで人は喜ばしく穏やかな様子を見せる（Da zeigt der Mensch sich froh und lind）」——そして最終の逆転：「霊廟が広く開いて / 日差しで美しく彩られている（Weit offen die Totenkammern sind / Und schön bemalt vom Sonnenschein）」。\n\nこの最終連こそトラークル的逆説の典型。「喜ばしく穏やかな人間」の姿と「広く開いた霊廟」が同じ「今日（heut）」「日差し（Sonnenschein）」の下に置かれる。霊廟は脅威ではなく「美しく彩られて」いる——生の祝祭と死の開口部が同一の光の中で共存する。「Totenkammern」という語の唐突さが詩の温かい表面に亀裂を走らせ、「Im Herbst」全体の穏やかさをひっくり返す読後感を生む。\n\nトラークル詩における秋の系列——「Verfall」（頽廃の戦慄）、「Verklärter Herbst」（変容した秋・年の壮大な終わり）、「Im Herbst」（収穫の喜びと開いた霊廟）——のなかで最も日常的・民衆的な位相に属し、他の秋詩との対照で読む価値が高い。リフレインの「修道院の鐘」は「Ein Winterabend」の「夕べの鐘（Abendglocke）」と響き合い、キリスト教的時間感覚がトラークルの季節詩を貫くことを示す。",
-  "keywords": ["秋", "収穫", "修道院の鐘", "ひまわり", "霊廟", "逆説", "リフレイン", "民謡形式", "ワイン", "日差し"],
+  "context": "Gedichte（1913）収録。三連各四行、ABAB交差韻に二つのリフレイン（修道院の鐘・ワインの搾り取り）が交互に出現する独特の形式——トラークルの詩中最も民謡的・マリア賛歌的な響きを持つ。秋詩系列（「Verfall」「Ein Herbstabend」）の中で最も日常的・民衆的な位相に属し、収穫の喜びと「広く開いた霊廟」が同一の日差しの下に共存する逆説的終行を持つ。",
+  "keywords": [
+    "秋",
+    "収穫",
+    "修道院の鐘",
+    "ひまわり",
+    "霊廟",
+    "逆説",
+    "リフレイン",
+    "民謡形式",
+    "ワイン",
+    "日差し"
+  ],
   "relatedTexts": [
     "trakl_verfall",
     "trakl_ein_winterabend",
@@ -33,6 +44,42 @@
       "id": 3,
       "originalText": "Da zeigt der Mensch sich froh und lind.\nHeut keltern sie den braunen Wein.\nWeit offen die Totenkammern sind\nUnd schön bemalt vom Sonnenschein.",
       "provisionalTranslation": "するとそこで人は喜ばしく穏やかな様子を見せる。\n今日は褐色のワインを搾り取る。\n霊廟が広く開いている\nそして日差しで美しく彩られている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "三連各四行、ABAB交差韻。各連に「Klosterglocken läuten darein」（§1末・§2頭）と「Heut keltern sie den braunen Wein」（§2末・§3頭）という二つのリフレインが交互に出現する独特の形式——トラークルの詩の中で最も民謡的・マリア賛歌的な響きを持つ。このリフレイン構造が日常的収穫と宗教的典礼（鐘・ワイン）を詩の音楽的骨格として反復する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Still sitzen Kranke im Sonnenschein",
+      "body": "「病人たちが日差しの中に静かに座っている」。Kranke（病人たち）という語が農村の祭祭的情景（ひまわり・歌う女たち）の中に静かに置かれる——働けない者・衰弱した者が日差しの中に「静かに座る」という受動的な姿。「Im Herbst」全体の穏やかな表面の最初の微細な亀裂であり、第3連の「霊廟」へと続く死の存在への伏線。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Heut keltern sie den braunen Wein",
+      "body": "「今日は褐色のワインを搾り取る」。リフレインとして繰り返されるワインの搾り取りは、ヘルダーリン「Brot und Wein」§9の「神とともにパンとワインが」という聖餐的な到達点と、「Helian」§5の「農夫が清浄な手にパンとワインを持ち」という農業的・典礼的行為の両方と照応する。日常的な農作業としてのワイン生産が宗教的・典礼的な意味域を担う。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": 9
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Weit offen die Totenkammern sind\nUnd schön bemalt vom Sonnenschein",
+      "body": "「霊廟が広く開いていて日差しで美しく彩られている」。詩の最終2行。Totenkammern（霊廟・納骨堂）という語の唐突さが詩の温かい表面に亀裂を走らせる——しかし「広く開いて（weit offen）」「美しく彩られて（schön bemalt）」という形容が脅威でなく開放的・美的な死の空間として提示する。生の祝祭（ワイン・歌・喜ばしい人間）と開いた死の空間が同一の「今日（heut）」「日差し（Sonnenschein）」の下で共存するトラークル的逆説の最も穏やかな表現。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "トラークルの秋詩系列——「Verfall」（頽廃の戦慄・渡り鳥への逃避衝動）、「Ein Herbstabend」（死者と生者の自然な共存・固有なるものの黒さ）、「Im Herbst」（収穫の喜びと開いた霊廟の共存）——の中でこの詩は最も日常的・民衆的な位相に属する。「Verfall」が孤独な語り手の夢想として秋の死を経験するのに対し、「Im Herbst」は共同体的な収穫祭の喜びとして同じ死の開口部を提示する。",
+      "targetId": "trakl_verfall",
+      "targetParagraphId": null
     }
   ]
 }
