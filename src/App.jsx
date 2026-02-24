@@ -648,11 +648,10 @@ export default function App() {
 
   const fontFamilyStyle =
   fontFamily === 'garamond' ? '"EB Garamond", "Noto Serif JP", serif' :
-  fontFamily === 'im-fell'  ? '"IM Fell English", serif' :
-  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", serif' :
-  fontFamily === 'alice'    ? '"Alice", serif' :
-  fontFamily === 'serif'    ? '"Noto Serif JP", serif' :
-  '"Inter", "Noto Sans JP", sans-serif';
+  fontFamily === 'im-fell'  ? '"IM Fell English", "Noto Serif JP", serif' :
+  fontFamily === 'alice'  ? '"Alice", "Noto Serif JP", serif' :
+  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", "Noto Serif JP", serif' :
+  '"Inter", "Noto Serif JP", serif';
 
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
@@ -755,11 +754,10 @@ export default function App() {
                   <div className="flex flex-col gap-1">
                     {[
                 ['garamond', 'Garamond (推奨)'],
+                ['alice',    'Alice (優雅)'],
                 ['im-fell',  'IM Fell English (17世紀風)'],
-                ['fraktur',  'UnifrakturMaguntia (ドイツ古体)'],
-                ['alice',    'Alice (幻想的)'],
+                ['fraktur',  'UnifrakturMaguntia (中世写本風)'],
                 ['serif',    'Noto Serif'],
-                ['sans',     'Sans']
               ].map(([val, label]) => (
                 <button
                   key={val}
