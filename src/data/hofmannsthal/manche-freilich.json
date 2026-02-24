@@ -9,7 +9,7 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "1895/96年作（ホフマンスタール21～22歳）、Blätter für die Kunst（Berlin, Dritte Folge, 2. Band, März 1896）初出、Gesammelte Werke Ausgabe 1924収録。4連20行（4+6+4+6行）。Rudolf Borchardtが1926年のアンソロジー「Ewiger Vorrat deutscher Poesie」に「Schicksalslied（運命の歌）」として収録して広く普及した。poemlakeコム・deutschelyrik・gedichte7・mein-lernen・bruchstuecke・harpers・lieder.net・wisc.edu・hor.de の9ソース完全一致確定。1907年4月22日、ホフマンスタール自身がウィーンのフォノグラム・アーカイブ（Phonogrammarchiv）でこの詩を朗読した録音が現存。\n\n**構造：4連と二つの世界**\n詩は「drunten（下に）／droben（上に）」という空間的対立を軸に展開する。前半2連が二つの連命の対照を描き、第3連が「影（Schatten）」による両者の秘密の結合を示し、第4連で「ich（私）」が初めて登場して詩人としての連帯と使命を宣言する。\n\n**第1連：二つの場所**\n古代ガレー船の船底の潏ぎ手と、上の舶従って鳥を占う者の対照。「Vogelflug（鳥の飛翔）」は古代占い（augury）への参照。\n\n**第2連：下の者たちの重さとシビュラ**\n「manche liegen immer mit schweren Gliedern / Bei den Wurzeln des verworrenen Lebens（惑れた生の根元に常に重い四肢で横たわっている）」。「Andern sind die Stühle gerichtet / Bei den Sibyllen, den Königinnen（他の者たちのためには席が用意されている、シビュラたちのもとに、女王たちのもとに）」——「Stühle gerichtet」はゲーテ「アウリスのイフィゲニエ」IV,5のパルツェンの歌への参照。「leichten Hauptes und leichter Hände（軽い頭で軽い手で）」が第1連の「schwer」と対照する。\n\n**第3連：影による結合**\n「影」が上から下へ「落ちる（fällt）」——光ではなく「影」が落ちるという逆転。「軽い者たちは重い者たちに、空気と大地のように結ばれている」——上下の結合は「自然的」でさえあるという逆説的認識。\n\n**第4連：詩人の登場と使命**\n「Ganz vergessener Völker Müdigkeiten / Kann ich nicht abtun von meinen Lidern（すっかり忘れられた民族たちの疲労を、私は自分の瑪こうら払うことができない）」——感受性による歴史的連帯。「Stummes Niederfallen ferner Sterne（遠い星々の無言の落下）」を「驚いた魂」から遠ざけることもできない。「Viele Geschicke weben neben dem meinen（多くの運命が私のものと並んで織られている）」。最終行「私の分け前はこの生の細い炎あるいは細い繭琴よりも多い（Und mein Teil ist mehr als dieses Lebens / Schlanke Flamme oder schmale Leier）」——「schmale Leier（細い繭琴）」はl’art pour l’artの象徴。「mehr」の内実は語られず、問いとして読者に残される。",
+  "context": "1895/96年作（ホフマンスタール21〜22歳）。「Blätter für die Kunst」（1896年3月）初出。4連20行（4+6+4+6行）。Rudolf Borchardtが1926年のアンソロジーに「Schicksalslied（運命の歌）」として収録して広く普及。1907年4月22日、ホフマンスタール自身がウィーンのフォノグラム・アーカイブでこの詩を朗読した録音が現存する。",
   "keywords": [
     "下と上",
     "ガレー船",
@@ -27,6 +27,7 @@
     "hofmannsthal_weltgeheimnis",
     "hofmannsthal_terzinen",
     "hofmannsthal_erlebnis",
+    "hoelderlin_hyperions_schicksalslied",
     "baudelaire_heroisme"
   ],
   "paragraphs": [
@@ -38,7 +39,7 @@
     {
       "id": 2,
       "originalText": "Manche liegen immer mit schweren Gliedern\nBei den Wurzeln des verworrenen Lebens,\nAndern sind die Stühle gerichtet\nBei den Sibyllen, den Königinnen,\nUnd da sitzen sie wie zu Hause,\nLeichten Hauptes und leichter Hände.",
-      "provisionalTranslation": "惑れた生の根元に常に重い四肢で\n横たわっている者たちもいる、\n他の者たちのためには席が用意されている\nシビュラたちのもとに、女王たちのもとに、\nそしてそこで彼らはわが家のように座っている、\n軽い頭で軽い手で。"
+      "provisionalTranslation": "乱れた生の根元に常に重い四肢で\n横たわっている者たちもいる、\n他の者たちのためには席が用意されている\nシビュラたちのもとに、女王たちのもとに、\nそしてそこで彼らはわが家のように座っている、\n軽い頭で軽い手で。"
     },
     {
       "id": 3,
@@ -48,7 +49,92 @@
     {
       "id": 4,
       "originalText": "Ganz vergessener Völker Müdigkeiten\nKann ich nicht abtun von meinen Lidern,\nNoch weghalten von der erschrockenen Seele\nStummes Niederfallen ferner Sterne.\nViele Geschicke weben neben dem meinen,\nDurcheinander spielt sie alle das Dasein,\nUnd mein Teil ist mehr als dieses Lebens\nSchlanke Flamme oder schmale Leier.",
-      "provisionalTranslation": "すっかり忘れられた民族たちの疲労を\n私は自分の瑪こうら払うことができない、\n驚いた魂から遠ざけることもできない\n遠い星々の無言の落下を。\n多くの運命が私のものと並んで織られている、\n存在がそれらすべてを入り混じって演じる、\nそして私の分け前はこの生の\n細い炎あるいは細い繭琴よりも多い。"
+      "provisionalTranslation": "すっかり忘れられた民族たちの疲労を\n私は自分の瞼から払うことができない、\n驚いた魂から遠ざけることもできない\n遠い星々の無言の落下を。\n多くの運命が私のものと並んで織られている、\n存在がそれらすべてを入り混じって演じる、\nそして私の分け前はこの生の\n細い炎あるいは細い繭琴よりも多い。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "詩は「drunten（下に）」で始まり「droben（上に）」が第3行に現れる空間的対立を軸とする。前半2連が二つの運命の対照、第3連が影による結合、第4連で初めて「ich（私）」が登場して詩人の使命宣言へと至る4連構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "drunten sterben",
+      "body": "「下で死ぬ」。drunten（下に・下のほうで）はヘルダーリン「Hyperions Schicksalslied」の droben（上で）と対をなす空間副詞。ヘルダーリンが神々の「droben」と人間の「hinab（下へ）」として垂直的二元論を示したのを、ホフマンスタールは社会的・実存的層位の問題として継承する。",
+      "targetId": "hoelderlin_hyperions_schicksalslied"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Vogelflug",
+      "body": "「鳥の飛翔」。古代ローマの augury（鳥占い）への参照。上層の者たちは鳥の飛翔を読む——つまり天空の徴候を解釈する能力を持つ——という特権的認識の象徴。「星々の国（Länder der Sterne）」との並置が彼らの宇宙的視野を示す。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「drunten（下）／droben（上）」の空間的二元論はヘルダーリン「Hyperions Schicksalslied」の droben（神々の領域）／hinab（人間の落下）から直接継承される。ヘルダーリンでは神と人間の存在論的断絶だったものが、ホフマンスタールでは同じ人間どうしの運命の非対称として展開される。",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "targetParagraphId": null
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Wurzeln des verworrenen Lebens",
+      "body": "「乱れた生の根元」。verworrenen（乱れた・もつれた）は「外的生の歌謡」の「外的生」と同じく、秩序なく続く現実の生を示す。「根元（Wurzeln）」という語が「下（drunten）」の者たちの位置——地下・根・暗闇——を空間的に確定する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Stühle gerichtet\nBei den Sibyllen, den Königinnen",
+      "body": "「シビュラたちのもとに、女王たちのもとに席が用意されている」。「Stühle gerichtet（席が整えられた）」はゲーテ「アウリスのイフィゲニエ」IV幕5場のパルツェン（運命の女神たち）の歌への参照。シビュラ（予言女神）と女王という上層の象徴が並置されることで、「droben」の世界が女性的・神話的権威として示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Leichten Hauptes und leichter Hände",
+      "body": "「軽い頭で軽い手で」。第1・2連全体を貫く「重い（schwer）／軽い（leicht）」の対立の集約。「重い船の橈（schwere Ruder）」「重い四肢（schwere Glieder）」が下の者たちの肉体的・実存的重さを示すのに対し、「軽い頭・軽い手」が上の者たちの精神的自由・軽さを示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ein Schatten fällt von jenen Leben\nIn die anderen Leben hinüber",
+      "body": "「彼らの生から影が他の生へと落ちる」。第3連の核心。上から下へ落ちるのは「光」ではなく「影（Schatten）」——これが詩の逆転。上の者たちの生が下の者たちを照らすのでなく、影を落とすことで両者を結ぶ。恩恵でも救済でもなく、影という不可視の連結として上下の関係が示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "die leichten sind an die schweren\nWie an Luft und Erde gebunden",
+      "body": "「軽い者たちは重い者たちに、空気と大地のように結ばれている」。空気と大地は相互依存的な自然的要素——この比喩が上下の結合を「自然的・必然的」なものとして示す逆説。軽い者は重い者なしには存在できない。詩の倫理的洞察の核心。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ganz vergessener Völker Müdigkeiten\nKann ich nicht abtun von meinen Lidern",
+      "body": "「すっかり忘れられた民族たちの疲労を私は自分の瞼から払うことができない」。第4連で初めて「ich（私）」が登場し、詩人としての感受性の過負荷が宣言される。歴史的・集合的苦しみを感じ取らずにいられない詩人像——これが「下の者たちへの感受性的連帯」の表明。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Stummes Niederfallen ferner Sterne",
+      "body": "「遠い星々の無言の落下」。stumm（無言の）という形容詞が宇宙的出来事の不可聴性を示す。「驚いた魂（erschrockenen Seele）」から遠ざけることができないこの無言の落下——詩人の魂は宇宙的なスケールの出来事に対しても開かれている。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "schmale Leier",
+      "body": "「細い繭琴（繊細なリラ）」。schmale Leier は l'art pour l'art（芸術のための芸術）、つまり内閉した唯美主義的芸術観の象徴。「私の分け前はこれよりも多い（mein Teil ist mehr）」という宣言は、純粋唯美主義を超えた詩人の使命——歴史的苦しみへの感受性と集合的運命への参与——を示す。ただし「mehr（より多い）」の内実は語られず、問いとして残される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「多くの運命が私のものと並んで織られている（Viele Geschicke weben neben dem meinen）」は、ボードレール「英雄的近代性」の「近代的生の英雄主義」——雑踏の中に埋もれた無名の生への詩人の眼差し——とつながる。どちらも詩人が個人の感受性を超えて集合的現実に連帯する使命を持つことを示す。",
+      "targetId": "baudelaire_heroisme",
+      "targetParagraphId": null
     }
   ]
 }
