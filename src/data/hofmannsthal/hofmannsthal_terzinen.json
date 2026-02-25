@@ -9,7 +9,7 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "ホフマンスタール20歳の夏（1894年）に書かれた三篇のテルツィーネ（三行連句）詩。ダンテの『神曲』が用いたイタリアの詩形式テルツィーナ（ABA BCB CDC…という連鎖韻）をドイツ語に移植した試みであり、ダンテ的な「下降と上昇」ではなく「現在に侵入する過去・自己の不可知性・夢と現実の同質性」というウィーン世紀末の主題を盛り込んでいる。\n\n第I篇「Noch spür ich ihren Atem auf den Wangen（まだわれは頰にその人の息吹を感じる）」：詩は突然始まる——「近い日々がすでに永遠に過ぎ去っている、どうしてそれが可能なのか？」という問いから。時間の不可解さから詩人は「自分自身の幼年期の自己」「先祖たちの亡霊」へと拡張する。「わが固有の自己が……犬のように不気味に黙って見知らぬものとして（Wie ein Hund unheimlich stumm und fremd）われを見る」という自己疎隔の感覚が詩の核心。\n\n第II篇「Die Stunden! wo wir auf das helle Blauen（その時間！われわれが明るい青を見つめるとき）」：海の青を見て死を理解する瞬間——「軽やかに荘厳に、恐れなしに」。「大きな目をした、常に凍えている、青白い少女たち」がある夕べ黙って前を見つめ、生命が身体から樹木と草へと静かに流れ出ていることを知っている比喩。聖女が血を流すように生命が滲み出る——ここでの「死の理解」は恐怖ではなく静かな認識。\n\n第III篇「Wir sind aus solchem Zeug, wie das zu Träumen（われわれは夢を成すような素材から作られている）」：シェイクスピア『テンペスト』IV幕（「われわれはそのような素材からできている / 夢が作られるような」プロスペローの台詞）を意識的に参照しながら、「夢」と「われわれ」の同質性を展開する。さまざまな夢が語られるが——「小さな子供たちが桜の木の下で……」「自分が大きな犬だという夢」——最終行「そして三つは一つ：一人の人間、一つの物、一つの夢（Und drei sind eins: ein Mensch, ein Ding, ein Traum）」がキリスト教的三位一体の語彙を借りて神秘的な同一性を宣言する。\n\n三篇を貫くテーマは「時間・自己・他者の境界の溶解」。現在に侵入してくる過去の感触（頰の息吹）、自己を見知らぬものとして見る分裂、生と死の静かな連続、夢と現実の同質性——これらはホフマンスタール後期の言語批判（「チャンドス卿の手紙」1902年）へと直結する。ゲオルゲ「Das Wort」の言語論と対照して読むと、同世代の二詩人が「言語と現実の関係」をまったく異なる方向から問い詰めていることが際立つ。\n\n歌曲化：ヴォルフガング・フォルトナー（1965、男声とピアノ）、ロベルト・フュルステンタール（歌声とピアノ）、ヤームニツ・シャーンドル op.2（1920年代）ほか。",
+  "context": "ホフマンスタール20歳の夏（1894年）に書かれた三篇のテルツィーネ詩。ダンテの『神曲』が用いたABA BCB CDC…という連鎖韻をドイツ語に移植した試み。三篇を貫くテーマは「時間・自己・他者の境界の溶解」——現在に侵入してくる過去の感触、自己を見知らぬものとして見る分裂、生と死の連続、夢と現実の同質性。いずれも1902年「チャンドス卿の手紙」への言語批判的主題の先行形として読める。",
   "keywords": ["テルツィーネ", "無常", "自己疎隔", "夢と現実", "先祖の亡霊", "シェイクスピア参照", "言語と現実", "ウィーン世紀末"],
   "relatedTexts": [
     "hofmannsthal_vorfruehling",
@@ -82,6 +82,115 @@
       "id": 13,
       "originalText": "Und drei sind eins: ein Mensch, ein Ding, ein Traum.",
       "provisionalTranslation": "そして三つは一つ：一人の人間、一つの物、一つの夢。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "テルツィーナ（Terzine）——ダンテ『神曲』の詩形式。ABA BCB CDC…という連鎖韻で、各連が次の連の韻を先取りしながら接続されていく。「無常（Vergänglichkeit）」という主題がこの連鎖韻の「終わりなき継続」という形式に体現されている——閉じようとしても次の連が始まる詩形が、時間の流れそのものを模倣する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Noch spür ich ihren Atem auf den Wangen",
+      "body": "「まだわれは頰にその人の息吹を感じる（Noch spür ich ihren Atem auf den Wangen）」——詩篇Iの冒頭が触覚的な感覚記憶から突然始まる。「誰の息吹か（ihren）」は明示されない——女性形の所有格だが、人物の同定を詩は拒む。感覚の確かさと時間の不可解さの緊張が第1連全体の基調。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Noch spür ich ihren Atem auf den Wangen",
+      "targetId": "hofmannsthal_vorfruehling",
+      "targetParagraphId": 2,
+      "body": "「Vorfrühling」§2「泣き声のあった場所で揺れ動いた」風が感情の痕跡・残響として機能するのと同様に、ここでの「頰の息吹」も過去の感触が現在の身体に残存する記憶の物質性を示す。ホフマンスタールにおける感覚の痕跡としての時間という一貫したモチーフ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "alles gleitet und vorüberrinnt",
+      "body": "「すべてが滑り、流れ過ぎていく（gleitet und vorüberrinnt）」——「gleiten（滑る）」という動詞がテルツィーナ形式の「連鎖」と対応する。§3の「herüberglitt（滑り渡ってきた）」、「Reiselied」§1の「Wasser stürzt（水が落ちる）」と共鳴する流動イメージ——ホフマンスタール詩における時間の液体的把握。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Mir wie ein Hund unheimlich stumm und fremd",
+      "body": "「犬のように不気味に黙って見知らぬものとしてわれに向き合う（wie ein Hund unheimlich stumm und fremd）」——詩篇I全体の感情的頂点。「unheimlich（不気味な）」はフロイト以前の語だが、「heim（家・故郷）」の否定形として「家ならざるもの・本来自分のものが見知らぬものになった状態」を示す——自己の中の疎隔感の凝縮表現。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "mein eignes Ich",
+      "targetId": "hoelderlin_mnemosyne",
+      "targetParagraphId": 1,
+      "body": "ヘルダーリン「Mnemosyne」§1「われわれは標識、解釈なき（deutungslos）」という自己規定との対照。ヘルダーリンでは「われわれ」という複数形での宇宙論的自己喪失であるのに対し、ホフマンスタールでは「わが固有の自己（mein eignes Ich）」という一人称単数が自己の内部で見知らぬものとして立ち現れる——集合的喪失と個的分裂の対照。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "meine Ahnen, die im Totenhemd",
+      "body": "「死に装束の先祖たち（Ahnen, die im Totenhemd）」——「Totenhemd（死装束）」という語の直接性が際立つ。先祖が「われ自身の髪の毛と同じほど（wie mein eignes Haar）」繋がっているという比喩——頭部から常に生えている髪のように、死者が現在の身体に接続されているという感触。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "den Tod verstehn",
+      "body": "「死を理解する（den Tod verstehn）」——篇IIの核心命題。「verstehn（理解する）」という語は通常の知的理解ではなく、海の青を「見つめること（starren）」によって到来する感覚的・身体的な了解。「軽やかに荘厳に、恐れなしに（leicht und feierlich und ohne Grauen）」という修飾が、この死の理解を恐怖でなく解放として提示する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "kleine Mädchen, die sehr blaß aussehn",
+      "body": "「青白い顔をした小さな少女たち、大きな目をした、常に凍えている」——死の理解の比喩として登場する少女像。蒼白・大きな目・常に凍えているという三つの特徴が、身体の境界が薄れた存在として描かれる。生と死の間に佇む媒介的な存在——篇IIの聖女像（§8）への布石。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Schlaftrunknen Gliedern still hinüberfließt",
+      "body": "「眠りに酔った手足から静かに流れ出ていく（aus schlaftrunknen Gliedern still hinüberfließt）」——「hinüberfließen（向こう側へ流れていく）」が生の自然な移行として死を描く。ホフマンスタール詩における流動イメージの最も穏やかな表現——§2の「vorüberrinnt（流れ過ぎる）」の緊張なき変奏として機能する。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "glossary",
+      "anchor": "Wie eine Heilige, die ihr Blut vergießt",
+      "body": "「自らの血を流す聖女のように（wie eine Heilige, die ihr Blut vergießt）」——篇IIの最終比喩。殉教的な血の流出が「疲れたように微笑みながら（matt lächelnd）」という形容を伴い、犠牲と優雅さが同居する。生命が樹木と草へ流れ出ることと聖女の殉教が同一の「流れ出す（fließt / vergießt）」動詞で繋がれる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Wir sind aus solchem Zeug, wie das zu Träumen",
+      "body": "「われわれは夢を成すような素材から作られている」——シェイクスピア『テンペスト』IV幕プロスペローの台詞「We are such stuff as dreams are made on」の意識的参照。しかしシェイクスピアが「夢の素材から作られた」と言うのに対し、ホフマンスタールは「夢を成すような素材」という間接的・迂回的な表現を選ぶ——存在と夢の同質性をより慎重に定式化している。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Wie kleine Kinder unter Kirschenbäumen",
+      "body": "「桜の木の下の小さな子供たちのように目を開く」——篇IIIが再び「子ども」のイメージに戻る（篇Iの「小さな子供（kleinen Kind）」、篇IIの「小さな少女たち（kleine Mädchen）」に続く第三の子どもイメージ）。桜の花びらが降る下で目を開く夢という至福の光景——三篇を通じた「子ども性」の深化。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "daß die Welt so schöne war",
+      "body": "「世界がこれほど美しかった（daß die Welt so schöne war）」——過去形「war」が重要。夢たちが生涯を通じて伝え続けるのはただこの一事——世界の美しさが「あった」という過去の証言。現在の美しさではなく、記憶・痕跡としての美しさという主題が三篇の「過去の侵入」という核心テーマを閉じる。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Als ob ein Hund träumt",
+      "body": "「犬が夢を見ているかのように（als ob ein Hund träumt）」——篇Iの「犬のように不気味に黙って見知らぬものとして（wie ein Hund unheimlich stumm und fremd）」に呼応する犬のイメージ。篇Iでは自己疎隔の比喩だった犬が、篇IIIでは夢を見て安らう存在として再登場する——疎隔と安息の間を行き来する「犬」が三篇の内的連関を示す。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "drei sind eins: ein Mensch, ein Ding, ein Traum",
+      "body": "「三つは一つ：一人の人間、一つの物、一つの夢」——詩全体の最終命題。キリスト教的三位一体（Dreieinigkeit）の語彙を借用しながら「人間・物・夢」の神秘的同一性を宣言する。テルツィーナ形式（三行連句）という「三」の反復が形式的に支持する結論。ダンテの三位一体的宇宙論がウィーン世紀末の存在論的曖昧性に変容した到達点。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "intertextual",
+      "anchor": "drei sind eins",
+      "targetId": "hofmannsthal_weltgeheimnis",
+      "targetParagraphId": 8,
+      "body": "「Weltgeheimnis」§8「今は円環の中で夢がぴくぴく動いている（Nun zuckt im Kreis ein Traum herum）」との対照。「Weltgeheimnis」では「夢」が円環の中で把握されないまま終わるのに対し、「Terzinen」では「夢」が「人間・物」と同一性を宣言されて詩を閉じる——同じ「夢」が把握不能の運動から存在論的同一性へと変容する。"
     }
   ]
 }
