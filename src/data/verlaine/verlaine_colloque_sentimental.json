@@ -1,0 +1,104 @@
+{
+  "id": "verlaine_colloque_sentimental",
+  "title": "Colloque sentimental",
+  "author": "Paul Verlaine",
+  "source": "Fêtes galantes, XXII (Alphonse Lemerre, Paris, 1869), p. 49–51; Œuvres complètes, vol. I (Léon Vanier, Paris, 1902), p. 114–115",
+  "year": "1868",
+  "firstPublication": "L'Artiste, 1er juillet 1868 (sous le titre «Nouvelles fêtes galantes»); Fêtes galantes (Alphonse Lemerre, Paris, 1869)",
+  "difficulty": "中級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「Fêtes galantes」（1869年刊）全22篇の最終詩。詩集のアルファ（「Clair de lune」）とオメガとして、開幕の「選ばれた風景としての魂」に対し「古く孤独で凍りついた公園」という終幕を置く。ドビュッシー「Fêtes galantes」第2集（1904年、FL 114）の終曲として歌曲化された。16行の対話詩——枠の語り手と二人の「形（spectres）」の対話という三層構造を持つ。",
+  "keywords": [
+    "対話詩",
+    "古い公園",
+    "幽霊",
+    "忘却",
+    "extase ancienne",
+    "L'espoir a fui",
+    "avoines folles",
+    "Fêtes galantes終幕",
+    "不可能な対話"
+  ],
+  "relatedTexts": [
+    "verlaine_clair_de_lune",
+    "verlaine_la_lune_blanche",
+    "verlaine_il_pleure_dans_mon_coeur",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Dans le vieux parc solitaire et glacé\nDeux formes ont tout à l'heure passé.",
+      "provisionalTranslation": "古く孤独で凍りついた公園の中を\n二つの形がさっき通り過ぎた。"
+    },
+    {
+      "id": 2,
+      "french": "Leurs yeux sont morts et leurs lèvres sont molles,\nEt l'on entend à peine leurs paroles.\n\nDans le vieux parc solitaire et glacé\nDeux spectres ont évoqué le passé.",
+      "provisionalTranslation": "彼らの目は死んでいて口唇は力がない、\nそして彼らの言葉はほとんど聞こえない。\n\n古く孤独で凍りついた公園の中で\n二つの幽霊が過去を呼び起こした。"
+    },
+    {
+      "id": 3,
+      "french": "— Te souvient-il de notre extase ancienne ?\n— Pourquoi voulez-vous donc qu'il m'en souvienne ?\n— Ton cœur bat-il toujours à mon seul nom ?\nToujours vois-tu mon âme en rêve ? — Non.\n\n— Ah ! les beaux jours de bonheur indicible\nOù nous joignions nos bouches ! — C'est possible.\nQu'il était bleu, le ciel, et grand l'espoir !\n— L'espoir a fui, vaincu, vers le ciel noir.",
+      "provisionalTranslation": "— かつての恍惚を覚えているか？\n— なぜあなたはわたしがそれを覚えていると思うのですか？\n— わたしの名前だけでまだ心臓は鼓動するか？\nいつも夢の中でわたしの魂が見えるか？— いいえ。\n\n— ああ！言葉にならない幸福の美しい日々、\nわたしたちが唇を重ねた！— そういうこともあったかもしれない。\n空はなんと青く、希望はなんと大きかったことか！\n— 希望は敗れ、黒い空へと逃げ去った。"
+    },
+    {
+      "id": 4,
+      "french": "Tels ils marchaient dans les avoines folles,\nEt la nuit seule entendit leurs paroles.",
+      "provisionalTranslation": "かくして彼らは野生の燕麦の中を歩き、\nそして夜だけが彼らの言葉を聞いた。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "16行の対話詩、alexandrin（12音節）。詩全体の構造：①語り手の枠（§1：外部描写）→②第二の枠（§2：人物の描写＋公園の反復）→③対話（§3：8行の問答）→④語り手の閉幕（§4：外部描写への回帰）という同心円的な入れ子構造。「Dans le vieux parc solitaire et glacé」という冒頭行の句全体が §2 の5行目に字句通り反復されることで、対話を公園という閉鎖的空間に封じ込める。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Dans le vieux parc solitaire et glacé\nDeux formes ont tout à l'heure passé.",
+      "body": "「古く孤独で凍りついた公園」。vieux（古い）・solitaire（孤独な）・glacé（凍りついた）という三つの形容詞の累積が詩全体の感情的気候を一行で設定する。「Clair de lune」の「選ばれた風景」が詩集の開幕に置かれていたのに対し、この「古い公園」は閉幕の廃墟として対応する。deux formes（二つの形）——名前も性別も輪郭も持たない最小限の存在として人物が導入される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Deux spectres ont évoqué le passé",
+      "body": "「二つの幽霊が過去を呼び起こした」。§1の「deux formes（二つの形）」が §2で「deux spectres（二つの幽霊）」へと格下げされる——形（物体的実在）から幽霊（非物体的存在）への移行が、詩を読む間に起きる静かな死亡宣告。évoquer le passé（過去を呼び起こす）という動詞が、以下の対話が「現在の対話」でなく「過去の残影の反復」であることを予告する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "— Pourquoi voulez-vous donc qu'il m'en souvienne ?\n— Ton cœur bat-il toujours à mon seul nom ?",
+      "body": "「なぜあなたはわたしがそれを覚えていると思うのですか？」。問いかける側（親密な «tu» で呼ぶ）と答える側（距離を置く丁寧な «vous» で返す）の代名詞の非対称——この一語の変化が対話全体の断絶を凝縮する。一方は過去の親密さを前提として «tu» で問い、他方は «vous» という距離を選ぶ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ah ! les beaux jours de bonheur indicible\nOù nous joignions nos bouches ! — C'est possible.",
+      "body": "「— ああ！言葉にならない幸福の美しい日々……— そういうこともあったかもしれない」。bonheur indicible（言葉にならない幸福）という最高の感情的充溢に対する答えが C'est possible（そういうこともあったかもしれない）という冷淡な可能性の留保——記憶の完全な消去でなく記憶への無関心という、より残酷な返答。最長の感嘆と最短の返答の非対称が詩のクライマックス。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "L'espoir a fui, vaincu, vers le ciel noir.",
+      "body": "「希望は敗れ、黒い空へと逃げ去った」。「Clair de lune」§3の «triste et beau» な月光が「Clair de lune」§2の «bleu» な空（«Qu'il était bleu, le ciel !»）と対応し、この «ciel noir（黒い空）» がその否定として機能する——詩集全体が «bleu → noir» という色彩の弧を描く。L'espoir a fui, vaincu（希望は逃げ去った、敗れて）——希望が主語として擬人化され、主体のいなくなった世界で希望だけが闘い、敗れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Et la nuit seule entendit leurs paroles.",
+      "body": "「夜だけが彼らの言葉を聞いた」。詩の最終行。seule（だけ・孤独に）という形容詞が証人としての夜を定義する——人間世界には対話が届かず、自然（夜）だけが聞いた。avoines folles（野生の燕麦）という植物の無秩序さが、かつての «parc（公園）» という人工的秩序の廃墟化を示す。この閉幕が詩集全体の終幕として、「Fêtes galantes」の全22篇が最終的に「夜だけが聞く言葉」へと収束することを宣言する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「古く孤独で凍りついた公園」での不可能な対話という構造は、ホフマンスタール「Ballade des äußeren Lebens」が「われわれは行く」という人間の移行・流過を外部から描写するのと対照をなす。ホフマンスタールの詩が人間の生を外側から観察し問いとして提示するのに対し、「Colloque sentimental」は内側の対話として提示しながら、最終的に «la nuit seule entendit» という外部視点に回帰する——内と外の往復によって忘却の不可逆性を演じる。",
+      "targetId": "hofmannsthal_ballade",
+      "targetParagraphId": null
+    }
+  ]
+}
