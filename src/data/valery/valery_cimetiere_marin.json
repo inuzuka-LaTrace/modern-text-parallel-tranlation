@@ -1,0 +1,165 @@
+{
+  "id": "valery_cimetiere_marin",
+  "title": "Le Cimetière marin",
+  "author": "Paul Valéry",
+  "source": "La Nouvelle Revue Française, no. 83, 1er juin 1920; Charmes (Gallimard/NRF, Paris, 1922); Œuvres complètes, vol. I (Gallimard, «Bibliothèque de la Pléiade», Paris, 1957)",
+  "year": "1920",
+  "firstPublication": "La Nouvelle Revue Française, no. 83, 1er juin 1920",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ヴァレリー最大の詩作品。24連144行、décasyllabe（6-4分割）、韻律 AABCCB。エピグラフ：ピンダロス「ピュティア颂歌」III「わが魂よ、不死の生を求めるな、しかし可能なるものの領野を汲み尽くせ」。セート（故郷）の海辺の墓地を舞台とする正午の黙想詩。本ファイルでは24連を2連ずつ12段落として収録する。ジャック・リヴィエールが草稿を奪って掲載したと伝わる——ヴァレリーは「完成はなく中断があるのみ」と述べた。",
+  "keywords": [
+    "海の墓地",
+    "正午",
+    "意識と身体",
+    "死の誘惑",
+    "ゼノン",
+    "Le vent se lève",
+    "ピンダロス",
+    "décasyllabe",
+    "永遠の変化",
+    "セート"
+  ],
+  "relatedTexts": [
+    "valery_les_grenades",
+    "mallarme_crise_de_vers",
+    "mallarme_sonnet_cygne",
+    "mallarme_coup_de_des",
+    "baudelaire_elevation",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ce toit tranquille, où marchent des colombes,\nEntre les pins palpite, entre les tombes ;\nMidi le juste y compose de feux\nLa mer, la mer, toujours recommencée !\nÔ récompense après une pensée\nQu'un long regard sur le calme des dieux !\n\nQuel pur travail de fins éclairs consume\nMaint diamant d'imperceptible écume,\nEt quelle paix semble se concevoir !\nQuand sur l'abîme un soleil se repose,\nOuvrages purs d'une éternelle cause,\nLe Temps scintille et le Songe est savoir.",
+      "provisionalTranslation": "鳩たちが歩く穏やかな屋根が\n松の木の間で、墓の間で脈動する；\n公正な正午がそこに火で構成する\n海を、海を、常に再開される海を！\nひとつの思考の後のなんと豊かな報酬か\n神々の静けさへの長い眼差しは！\n\n微細な稲妻の何と純粋な仕事が\n多くのダイヤモンドを目に見えない泡の中で燃やすことか、\nそして何と静けさが自ら構想されるようにみえることか！\n深淵の上に太陽が憩うとき、\n永遠の原因の純粋な産物として、\n時間が輝き、夢が知識となる。"
+    },
+    {
+      "id": 2,
+      "french": "Stable trésor, temple simple à Minerve,\nMasse de calme, et visible réserve,\nEau sourcilleuse, Œil qui gardes en toi\nTant de sommeil sous un voile de flamme,\nÔ mon silence !… Édifice dans l'âme,\nMais comble d'or aux mille tuiles, Toi !\n\nTemple du Temps, qu'un seul soupir résume,\nÀ ce point pur je monte et m'accoutume,\nTout entouré de mon regard marin ;\nEt comme aux dieux mon offrande suprême,\nLa scintillation sereine sème\nSur l'altitude un dédain souverain.",
+      "provisionalTranslation": "安定した宝庫、ミネルウァへの素朴な神殿、\n静けさの塊、そして目に見える貯蔵、\n眉をひそめる水、炎のヴェールの下に\n多くの眠りを蓄えている眼よ、\nわが沈黙よ！…魂の中の建築物よ、\nしかし千の瓦を持つ黄金の頂上よ、おまえよ！\n\nたったひとつの息に要約される時の神殿よ、\nわたしはこの純粋な点へと登り慣れていく、\nわたしの海の眼差しにすべて包まれながら；\nそして神々への最高の供物のように、\n静謐な煌めきが\n高みに主権的な軽蔑を撒く。"
+    },
+    {
+      "id": 3,
+      "french": "Comme le fruit se fond en jouissance,\nComme en délice il change son absence\nDans une bouche où sa forme se meurt,\nJe hume ici ma future fumée,\nEt le ciel chante à l'âme consumée\nLe changement des rives en rumeur.\n\nBeau ciel, vrai ciel, regarde-moi qui change !\nAprès tant d'orgueil, après tant d'étrange\nOisiveté, mais pleine de pouvoir,\nJe m'abandonne à ce brillant espace,\nSur les maisons des morts mon ombre passe\nQui m'apprivoise à son frêle mouvoir.",
+      "provisionalTranslation": "果実が喜びの中に溶け込むように、\n不在をその口の中で形が消えていく中で\n快楽へと変えるように、\nわたしはここで自分の未来の煙を嗅ぐ、\nそして天が燃やし尽くされた魂に歌う\n岸の変化を、ざわめきの中で。\n\n美しい天よ、真の天よ、変わりゆくわたしを見よ！\n多くの誇りの後、多くの奇妙な\nしかし力に満ちた怠惰の後、\nわたしはこの輝く空間に身を任せる、\n死者の家の上をわたしの影が通り過ぎる\n影がわたしにその脆い動きを慣れさせながら。"
+    },
+    {
+      "id": 4,
+      "french": "L'âme exposée aux torches du solstice,\nJe te soutiens, admirable justice\nDe la lumière aux armes sans pitié !\nJe te tends pure à ta place première :\nRegarde-toi !… Mais rendre la lumière\nSuppose d'ombre une morne moitié.\n\nÔ pour moi seul, à moi seul, en moi-même,\nAuprès d'un cœur, aux sources du poème,\nEntre le vide et l'événement pur,\nJ'attends l'écho de ma grandeur interne,\nAmère, sombre, et sonore citerne,\nSonnant dans l'âme un creux toujours futur !",
+      "provisionalTranslation": "至点の松明に魂を晒して、\nわたしはおまえを支える、光の\n容赦なき武器の賛美すべき正義よ！\nわたしはおまえを純粋におまえの最初の場所に差し出す：\n自分を見よ！…しかし光を返すことは\n陰の悲しい半分を前提とする。\n\nわたし一人のためだけに、わたし自身に、わたしの内部に、\nひとつの心の傍らで、詩の源に、\n虚無と純粋な出来事の間で、\nわたしは自分の内なる偉大さの反響を待つ、\n苦く、暗く、そして音響的な水槽よ、\n魂の中で常に未来の空洞を響かせながら！"
+    },
+    {
+      "id": 5,
+      "french": "Sais-tu, fausse captive des feuillages,\nGolfe mangeur de ces maigres grillages,\nSur mes yeux clos, secrets éblouissants,\nQuel corps me traîne à sa fin paresseuse,\nQuel front l'attire à cette terre osseuse ?\nUne étincelle y pense à mes absents.\n\nFermé, sacré, plein d'un feu sans matière,\nFragment terrestre offert à la lumière,\nCe lieu me plaît, dominé de flambeaux,\nComposé d'or, de pierre et d'arbres sombres,\nOù tant de marbre est tremblant sur tant d'ombres ;\nLa mer fidèle y dort sur mes tombeaux !",
+      "provisionalTranslation": "おまえは知っているか、葉叢の偽りの虜囚よ、\nこれらの痩せた柵を食い尽くす湾よ、\nわたしの閉じた目の上で、眩い秘密よ、\nどんな身体がわたしをその怠惰な終わりへと引っ張るか、\nどんな額がそれをこの骨の多い土地へと引きつけるか？\nそこでひとつの閃光がわたしの不在の者たちを思う。\n\n閉じられて、聖なるもの、物質なき火に満ちて、\n光に捧げられた大地の断片、\nこの場所がわたしには好ましい、松明に支配されて、\n金と石と暗い木々で構成されて、\n多くの影の上で多くの大理石が震えているところ；\n忠実な海がわたしの墓の上で眠る！"
+    },
+    {
+      "id": 6,
+      "french": "Chienne splendide, écarte l'idolâtre !\nQuand solitaire au sourire de pâtre,\nJe pais longtemps, moutons mystérieux,\nLe blanc troupeau de mes tranquilles tombes,\nÉloignes-en les prudentes colombes,\nLes songes vains, les anges curieux !\n\nIci venu, l'avenir est paresse.\nL'insecte net gratte la sécheresse ;\nTout est brûlé, défait, reçu dans l'air\nÀ je ne sais quelle sévère essence…\nLa vie est vaste, étant ivre d'absence,\nEt l'amertume est douce, et l'esprit clair.",
+      "provisionalTranslation": "壮麗な雌犬よ、偶像崇拝者を追い払え！\n羊飼いの微笑みで孤独なとき、\nわたしは長く牧する、不思議な羊たちよ、\nわたしの静かな墓の白い群れを、\n慎重な鳩たちを遠ざけよ、\n空しい夢を、好奇心旺盛な天使たちを！\n\nここに来たら、未来は怠惰だ。\nきれいな昆虫が乾いた地面を引っ掻く；\nすべてが燃やされ、解体され、空気の中に受け取られる\nわたしには分からない何らかの厳しい本質の中に……\n生命は広大だ、不在の中に酔って、\nそして苦さは甘く、精神は明澄だ。"
+    },
+    {
+      "id": 7,
+      "french": "Les morts cachés sont bien dans cette terre\nQui les réchauffe et sèche leur mystère.\nMidi là-haut, Midi sans mouvement\nEn soi se pense et convient à soi-même…\nTête complète et parfait diadème,\nJe suis en toi le secret changement.\n\nTu n'as que moi pour contenir tes craintes !\nMes repentirs, mes doutes, mes contraintes\nSont le défaut de ton grand diamant…\nMais dans leur nuit toute lourde de marbres,\nUn peuple vague aux racines des arbres\nA pris déjà ton parti lentement.",
+      "provisionalTranslation": "隠れた死者たちはこの土の中でよく在る\n土が彼らを温め、彼らの謎を乾かす。\n高みに正午、動かない正午が\n自らの中で自らを思い、自らにとって都合がいい……\n完全な頭と完璧な冠よ、\nわたしはおまえの中で秘密の変化だ。\n\nわたしだけがおまえの恐れを封じ込める！\nわたしの後悔、わたしの疑念、わたしの制約は\nおまえの大きなダイヤモンドの欠陥だ……\nしかし大理石の重みで重い彼らの夜の中で、\n木々の根元のもやがかった民が\nすでにゆっくりとおまえの味方についた。"
+    },
+    {
+      "id": 8,
+      "french": "Ils ont fondu dans une absence épaisse,\nL'argile rouge a bu la blanche espèce,\nLe don de vivre a passé dans les fleurs !\nOù sont des morts les phrases familières,\nL'art personnel, les âmes singulières ?\nLa larve file où se formaient les pleurs.\n\nLes cris aigus des filles chatouillées,\nLes yeux, les dents, les paupières mouillées,\nLe sein charmant qui joue avec le feu,\nLe sang qui brille aux lèvres qui se rendent,\nLes derniers dons, les doigts qui les défendent,\nTout va sous terre et rentre dans le jeu !",
+      "provisionalTranslation": "彼らは厚い不在の中に溶けた、\n赤い粘土が白い種族を飲み込んだ、\n生きることの贈り物が花々の中に移った！\n死者たちの親しみ深い言葉はどこにあるか、\n個人的な技、特異な魂たちは？\n涙が形成されていた場所で幼虫が糸を紡ぐ。\n\nくすぐられた少女たちの甲高い叫び声、\n目、歯、濡れた瞼、\n火と戯れる魅力的な胸、\n従う唇に輝く血、\n最後の贈り物、それを防ごうとする指、\nすべてが地下に向かい、遊びに戻る！"
+    },
+    {
+      "id": 9,
+      "french": "Et vous, grande âme, espérez-vous un songe\nQui n'aura pas ces couleurs de mensonge\nQu'aux yeux de chair l'onde et l'or font ici ?\nChantez-vous quand serez vapeur ?\nHâtez-vous ! hâtez-vous ! Le présent vous déchire,\nL'avide insecte y cherche une clarté !\n\nAmour, peut-être, ou de moi-même haine ?\nSa dent secrète est de moi si prochaine\nQue tous les noms lui peuvent convenir !\nQu'importe ! Il voit, il veut, il songe, il touche !\nMa chair lui plaît, et jusque sur ma couche,\nÀ ce vivant je vis d'appartenir !",
+      "provisionalTranslation": "そしておまえよ、偉大な魂よ、おまえはひとつの夢を望むか\nここで波と金が肉の目に作る\n嘘の色を持たない夢を？\nおまえは煙になるとき歌うだろうか？\n急げ！急げ！現在はおまえを引き裂く、\n貪欲な昆虫がそこに明澄さを求める！\n\n愛か、おそらく、あるいは自分自身への憎しみか？\nその秘密の牙はわたしにとてもよく近い\nすべての名前がそれに合うほどに！\nどうでもいい！それは見て、望み、夢見て、触れる！\nわたしの肉体がそれを喜ばせる、そしてわたしのベッドの上までも、\nわたしはこの生きているものに属することで生きる！"
+    },
+    {
+      "id": 10,
+      "french": "Zénon ! Cruel Zénon ! Zénon d'Élée !\nM'as-tu percé de cette flèche ailée\nQui vibre, vole, et qui ne vole pas !\nLe son m'enfante et la flèche me tue !\nAh ! le soleil… Quelle ombre de tortue\nPour l'âme, Achille immobile à grands pas !\n\nNon, non !… Debout ! Dans l'ère successive !\nBrisez, mon corps, cette forme pensive !\nBuvez, mon sein, la naissance du vent !\nUne fraîcheur, de la mer exhalée,\nMe rend mon âme… Ô puissance salée !\nCourons à l'onde en rejaillir vivant !",
+      "provisionalTranslation": "ゼノンよ！残酷なゼノンよ！エレアのゼノンよ！\nおまえはわたしをあの翼ある矢で貫いたか\n振動し、飛び、しかし飛ばない矢で！\n音がわたしを生み、矢がわたしを殺す！\nああ！太陽よ……魂にとって何と亀の影か、\n大きな歩みで動かないアキレスよ！\n\nいや、いや！…立て！継続する時代の中で！\n壊せ、わたしの身体よ、この思索的な形を！\n飲め、わたしの胸よ、風の誕生を！\n海から吐き出された涼しさが\nわたしに魂を返してくれる……塩辛い力よ！\n波に向かって走り、そこから生きて跳ね返ろう！"
+    },
+    {
+      "id": 11,
+      "french": "Oui ! grande mer de délires douée,\nPeau de panthère et chlamyde trouée\nDe mille et mille idoles du soleil,\nHydre absolue, ivre de ta chair bleue,\nQui te remords l'étincelante queue\nDans un tumulte au silence pareil !",
+      "provisionalTranslation": "そうだ！狂気に満ちた大海よ、\n豹の皮、千と千の太陽の偶像で\n穿たれたクラミドスよ、\n絶対の怪物よ、おまえの青い肉体に酔って、\n沈黙に似た喧騒の中で\n自らの輝く尾を嚙み返すものよ！"
+    },
+    {
+      "id": 12,
+      "french": "Le vent se lève !… Il faut tenter de vivre !\nL'air immense ouvre et referme mon livre,\nLa vague en poudre ose jaillir des rocs !\nEnvolez-vous, pages tout éblouies !\nRompez, vagues ! Rompez d'eaux réjouies\nCe toit tranquille où picoraient des focs !",
+      "provisionalTranslation": "風が立つ！……生きることを試みなければならない！\n広大な空気がわたしの本を開け閉めする、\n粉になった波が岩から噴出する勇気を持つ！\n飛び去れ、すっかり眩んだページたちよ！\n壊れよ、波よ！喜びの水で壊せ\n前帆が啄んでいたこの穏やかな屋根を！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "24連144行、décasyllabe（6音節＋4音節の分割）、韻律 AABCCB。ヴァレリーは「最初に来たのはリズムの執着だった——décasyllabe という形式の欲求」と証言する。ピンダロス「ピュティア颂歌」III のエピグラフ（ギリシア語）：「わが魂よ、不死の生を求めるな、しかし可能なるものの領野を汲み尽くせ」（ピュエック訳）——詩全体の死の誘惑と生への回帰という弧を事前に要約する。詩のドラマ的四幕：第1〜4連（海の冥想）→第5〜9連（意識と純粋思考への誘惑）→第10〜19連（死の冥想と肉体の反乱）→第20〜24連（ゼノン批判→生への回帰）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ce toit tranquille, où marchent des colombes,\nEntre les pins palpite, entre les tombes ;",
+      "body": "「鳩たちが歩く穏やかな屋根が松の木の間で、墓の間で脈動する」。詩の開幕。屋根（toit）は海の隠喩——水平線という海の「屋根」を鳩（白帆）が歩く。現実（墓地）と隠喩（海＝屋根）の融合が最初の一行で確立される。La mer, la mer, toujours recommencée（海を、海を、常に再開される海）——反復が海の永続的な自己更新を模倣する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Le Temps scintille et le Songe est savoir.",
+      "body": "「時間が輝き、夢が知識となる」。詩の最初の認識論的到達点。時間という移ろうものが「輝く」という純粋な現象として経験され、夢想（Songe）が知識（savoir）として定義される——瞑想的観照が認識の最高形態として示される。ヴァレリーの知的詩学（意識と対象の融合）の最初の提示。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Ô pour moi seul, à moi seul, en moi-même,\nAuprès d'un cœur, aux sources du poème,\nEntre le vide et l'événement pur,",
+      "body": "「わたし一人のためだけに、わたし自身に、わたしの内部に……虚無と純粋な出来事の間で」。詩のイニシエーション的中核。moi→moi seul→en moi-même という自己への深化が「詩の源（sources du poème）」と同置される——創造の行為そのものが「虚無と出来事の間」に位置する。「苦く暗く音響的な水槽（Amère, sombre, et sonore citerne）」——詩人の内的空間の自己定義。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "La vie est vaste, étant ivre d'absence,\nEt l'amertume est douce, et l'esprit clair.",
+      "body": "「生命は広大だ、不在の中に酔って、苦さは甘く、精神は明澄だ」。詩の最初の逆説的肯定——正午の死者の国に座ってこそ、生命の広大さ・苦さの甘さ・精神の明澄さが経験される。これが後の「Le vent se lève !... Il faut tenter de vivre !」の生への回帰を準備するための逆接的確認として機能する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Midi là-haut, Midi sans mouvement\nEn soi se pense et convient à soi-même…\nTête complète et parfait diadème,\nJe suis en toi le secret changement.",
+      "body": "「高みに正午、動かない正午が自らの中で自らを思う……わたしはおまえの中で秘密の変化だ」。詩の形而上学的頂点。Midi（正午）は時間の極点——午前でも午後でもない、静止した「完全な頭」。しかし詩人がその正午の中に「秘密の変化（secret changement）」として存在する——不変の正午に対する有限な意識という対立。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Zénon ! Cruel Zénon ! Zénon d'Élée !\nM'as-tu percé de cette flèche ailée\nQui vibre, vole, et qui ne vole pas !",
+      "body": "「ゼノンよ！残酷なゼノンよ！……振動し、飛び、しかし飛ばない矢で」。ゼノンの逆説（飛ぶ矢の逆説・アキレスと亀）の詩的引用——純粋思考（静止・無限分割）の誘惑が「残酷」として批判される転換点。「Achille immobile à grands pas（大きな歩みで動かないアキレス）」——思考が運動を追いかけながら永遠に追いつけないという逆説が、詩人の死の冥想からの脱出不可能性と重なる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Non, non !… Debout ! Dans l'ère successive !\nBrisez, mon corps, cette forme pensive !\nBuvez, mon sein, la naissance du vent !",
+      "body": "「いや、いや！…立て！……壊せ、わたしの身体よ！飲め、わたしの胸よ、風の誕生を！」。詩の決定的な転回——思考の論理（ゼノン）に対する身体の反乱。Non, non の二重の否定が死の誘惑・純粋思考の誘惑の両方を拒絶する。身体への直接の命令形（brisez・buvez）が、意識のモノローグから身体の行動へという詩全体の転換を一気に実現する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "glossary",
+      "anchor": "Hydre absolue, ivre de ta chair bleue,\nQui te remords l'étincelante queue",
+      "body": "「絶対の怪物よ、おまえの青い肉体に酔って、自らの輝く尾を嚙み返すものよ」。ウロボロス（自らの尾を食う蛇）の変形——海が自己完結的な永続する運動として定義される。「絶対（absolue）」という形容詞が海を存在論的に完結した存在として、詩人の有限な意識と対比させる。豹の皮・クラミドス（ギリシア的外套）・ヒュドラという三重の神話的身体として海が提示される。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Le vent se lève !… Il faut tenter de vivre !",
+      "body": "「風が立つ！……生きることを試みなければならない！」。詩の最終的命題として最も有名な一行。Il faut tenter（試みなければならない）——vivre（生きること）さえも「試みる（tenter）」という動詞で表現される。達成でなく試み・確実でなく可能性としての生——ピンダロスのエピグラフ「可能なるものの領野を汲み尽くせ」が詩の最後で完結する。「この穏やかな屋根（Ce toit tranquille）」という冒頭の隠喩が最終行で反復されることで、詩全体が閉じた円環をなす。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「生きることを試みなければならない（Il faut tenter de vivre）」という生への命法は、ヘルダーリン「Brot und Wein」§7の「欠乏の時代に詩人はなんのために（wozu Dichter in dürftiger Zeit ?）」という問いと対極をなす。ヘルダーリンが神々の不在の時代における詩人の使命を問うのに対し、ヴァレリーは死の冥想から身体と生の行為（風を飲む・波に飛び込む）への転回として詩人の使命を定義する——問いではなく行動命令として。",
+      "targetId": "hoelderlin_brot_und_wein",
+      "targetParagraphId": 7
+    }
+  ]
+}
