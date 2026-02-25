@@ -1,0 +1,92 @@
+{
+  "id": "verlaine_la_lune_blanche",
+  "title": "La lune blanche",
+  "author": "Paul Verlaine",
+  "source": "La Bonne Chanson, VI (Alphonse Lemerre, Paris, 1872); Œuvres complètes, vol. I (Léon Vanier, Paris, 1902), p. 127–128",
+  "year": "1870",
+  "firstPublication": "La Bonne Chanson (Alphonse Lemerre, Paris, 1872)",
+  "difficulty": "初級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「La Bonne Chanson」（1870年稿・1872年刊）第VI篇。結婚を前にした婚約者マティルド・モテ・ド・フルールヴィルへの愛の詩集から。3連各5行＋切り詰め1行の形式。各連末の「Ô bien-aimée」「Rêvons, c'est l'heure」「C'est l'heure exquise」という短行が詩全体を愛の呼びかけとして収束させる。ドビュッシー（1892年「Fêtes galantes」）、ストラヴィンスキー（1910年「Deux poèmes de Paul Verlaine」op.9）等多数の歌曲化。",
+  "keywords": [
+    "月光",
+    "夜の静寂",
+    "愛の語りかけ",
+    "La Bonne Chanson",
+    "マティルド",
+    "夢想",
+    "l'heure exquise",
+    "池の鏡"
+  ],
+  "relatedTexts": [
+    "verlaine_il_pleure_dans_mon_coeur",
+    "verlaine_poetes_maudits_verlaine",
+    "mallarme_crise_de_vers",
+    "baudelaire_elevation"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La lune blanche\nLuit dans les bois ;\nDe chaque branche\nPart une voix\nSous la ramée…\nÔ bien-aimée.",
+      "provisionalTranslation": "白い月が\n森の中に輝く；\nそれぞれの枝から\n声が発する\n木陰の下で……\nああ、愛する人よ。"
+    },
+    {
+      "id": 2,
+      "french": "L'étang reflète,\nProfond miroir,\nLa silhouette\nDu saule noir\nOù le vent pleure…\nRêvons, c'est l'heure.",
+      "provisionalTranslation": "池が映す、\n深い鏡として、\n黒い柳の\n影を\n風が泣くところ……\n夢見よう、今がその時。"
+    },
+    {
+      "id": 3,
+      "french": "Un vaste et tendre\nApaisement\nSemble descendre\nDu firmament\nQue l'astre irise…\nC'est l'heure exquise.",
+      "provisionalTranslation": "広大で柔かな\n静けさが\n天空から\n降りてくるように見える\n星が虹色に染めるところ……\n今はあの絶妙な時間。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3連各5行＋切り詰め1行（5+5+5行）という形式。各連の本体5行が4音節（tétrasyllabe）で統一され、最終の切り詰め行（「Ô bien-aimée」「Rêvons, c'est l'heure」「C'est l'heure exquise」）が詩の動きを収束させる。ヴェルレーヌがこの時期好んだ短音節行が詩に静謐な呼吸を与え、脚韻AABBA型が閉鎖的な音楽的円環を作る。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "De chaque branche\nPart une voix",
+      "body": "「それぞれの枝から声が発する」。個々の枝から声が出る——単一の声でなく無数の微細な声の分散として夜の森が描かれる。この「声の分散」という知覚がヴェルレーヌの印象主義的技法の典型。マラルメが「クリーズ・ド・ヴェール」で詩の声を単一の語り手から多数の声へ解放することを理論化するのと同一の感覚的直観がここに先行する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "L'étang reflète,\nProfond miroir",
+      "body": "「池が映す、深い鏡として」。Profond miroir（深い鏡）という倒置的な同格が、池を単なる反射面でなく「深み」を持つ鏡として提示する。水が鏡として機能する——上と下・現実と映像の境界が消える空間。ヴェルレーヌの月光詩に繰り返す「水の鏡」のモチーフ（「Clair de lune」「Colloque sentimental」にも見られる）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Où le vent pleure…",
+      "body": "「風が泣くところ」。vent pleure（風が泣く）——擬人化された風の嘆きが黒い柳の枝垂れる形と音を重ねる。フランス語でsaule pleureur（枝垂れ柳）は「嘆く柳」という意味を持つ固有名詞でもあり、「風が泣く」という動詞がその名詞的意味を活性化させる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Que l'astre irise",
+      "body": "「星が虹色に染める（iriser）」。iriser はアイリス（虹の女神・アイリスの花）から派生した動詞——光が虹色の玉虫色に染める動き。天体光が大気を通して分光されることの詩的表現。この動詞の選択が詩全体を光の微細な変化として描くヴェルレーヌの印象主義的語彙の集約。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "C'est l'heure exquise",
+      "body": "「今はあの絶妙な時間」。詩の最終行にして最も有名な一行。exquis（絶妙な・極上の）という形容詞が「夜・月・愛する人との静寂」というすべての要素を一語で収束させる。「l'heure」という定冠詞が、この瞬間を唯一無二の特定の「あの時間」として定義する——繰り返し可能な一般的な時間でなく、この詩の中にのみ存在する絶対的な瞬間として。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "月光と夜の静寂の中に「絶妙な時間」を見出す詩的感覚は、ボードレール「Élévation」が天空へと上昇する精神の運動を描くのと対照をなす。ボードレールの精神は「花々の言語を理解する」ために上昇するのに対し、ヴェルレーヌはその場に留まり、池の鏡面・柳の影・月の虹色の光という微細な変化を「夢見る（Rêvons）」——上昇でなく水平的な浸透として詩的体験を定義する。",
+      "targetId": "baudelaire_elevation",
+      "targetParagraphId": 5
+    }
+  ]
+}
