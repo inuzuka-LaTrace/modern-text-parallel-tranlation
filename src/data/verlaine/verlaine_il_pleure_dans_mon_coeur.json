@@ -1,0 +1,103 @@
+{
+  "id": "verlaine_il_pleure_dans_mon_coeur",
+  "title": "Il pleure dans mon cœur…",
+  "author": "Paul Verlaine",
+  "source": "Romances sans paroles, «Ariettes oubliées» III (imprimé à Sens, 1874); Œuvres complètes, vol. I (Léon Vanier, Paris, 1902)",
+  "year": "1872",
+  "firstPublication": "Romances sans paroles (imprimé à Sens, 1874)",
+  "difficulty": "初級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「Romances sans paroles」（1874年刊）「Ariettes oubliées（忘れられたアリア）」第III篇。1872年、ランボーとの逃避行中のベルギー滞在時に書かれた。4連各4行、6音節（hexasyllabe）の短詩。エピグラフはアルテュール・ランボーの「Il pleut doucement sur la ville（街に静かに雨が降る）」。心の中の「泣き（pleure）」と都市の「雨（pleut）」という語根の差異で演じられる内外の照応が詩の核心。ドビュッシー（「Ariettes oubliées」1903年）による歌曲化が著名。",
+  "keywords": [
+    "雨",
+    "langueur",
+    "理由なき悲しみ",
+    "印象主義",
+    "Romances sans paroles",
+    "ランボー",
+    "音楽性",
+    "spleen"
+  ],
+  "relatedTexts": [
+    "verlaine_la_lune_blanche",
+    "verlaine_poetes_maudits_verlaine",
+    "baudelaire_heroisme",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Il pleure dans mon cœur\nComme il pleut sur la ville ;\nQuelle est cette langueur\nQui pénètre mon cœur ?",
+      "provisionalTranslation": "わたしの心の中で泣く\n街に雨が降るように；\nこの倦怠とはなにか\nわたしの心に浸透してくる？"
+    },
+    {
+      "id": 2,
+      "french": "Ô bruit doux de la pluie\nPar terre et sur les toits !\nPour un cœur qui s'ennuie,\nÔ le chant de la pluie !",
+      "provisionalTranslation": "ああ、雨の柔かな音よ\n地の上に、屋根の上に！\n倦む心のために、\nああ、雨の歌よ！"
+    },
+    {
+      "id": 3,
+      "french": "Il pleure sans raison\nDans ce cœur qui s'écoeure.\nQuoi ! nulle trahison ?…\nCe deuil est sans raison.",
+      "provisionalTranslation": "理由なく泣く\nこの嫌気のさした心の中で。\nなに！裏切りもないのに？……\nこの悲しみは理由がない。"
+    },
+    {
+      "id": 4,
+      "french": "C'est bien la pire peine\nDe ne savoir pourquoi\nSans amour et sans haine\nMon cœur a tant de peine !",
+      "provisionalTranslation": "最も辛い痛みは\n愛もなく憎しみもなく\nなぜかを知らずに\nわたしの心がこれほど苦しんでいること！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "4連各4行、6音節（hexasyllabe）。脚韻は ABAB 交差韻だが、「ville」が詩全体で何とも韻を踏まないという異例のリズム的孤立を持つ——この孤立した語が詩の感情的中心である「都市」の疎外感を音楽的に体現する。「Il pleure / Il pleut」という語根の差異（pleurer=泣く / pleuvoir=雨が降る）が内外世界の照応と区別を同時に演じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Il pleure dans mon cœur\nComme il pleut sur la ville",
+      "body": "「わたしの心の中で泣く、街に雨が降るように」。詩全体の基軸となる比喩。pleure（泣く）とpleut（雨が降る）は語根 pleur- を共有しながら、主体（心）と自然（都市・雨）の境界で分岐する——この差異の反復が詩の音楽的核心。「心の中の泣き」は雨の「ように」提示されるが、雨は比喩にとどまらず詩全体を覆う感覚的現実として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Quelle est cette langueur\nQui pénètre mon cœur ?",
+      "body": "「この倦怠とはなにか、わたしの心に浸透してくる？」。langueur（倦怠・うつろな疲れ）という語の選択——単なる悲しみでなく、原因も対象も持たない漠然とした沈滞として感情が定義される。pénètre（浸透する）という動詞が雨が地面に浸み込むイメージと重なり、内外の照応を再度強化する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Par terre et sur les toits",
+      "body": "「地の上に、屋根の上に」。par terre（地面）とtoits（屋根）という垂直方向の対（低い・高い）が雨の遍在性を示す——雨はすべての場所に降り、内と外、上と下を区別しない。この「全方向的な浸透」が詩全体の感情（理由なき悲しみ）の普遍性と対応する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Il pleure sans raison\nDans ce cœur qui s'écoeure",
+      "body": "「理由なく泣く、この嫌気のさした心の中で」。sans raison（理由なく）が詩の核心命題を初めて明示する——感情は原因を持たない。s'écoeure（嫌気がさす・胸が悪くなる）という動詞が cœur（心）と語根を共有しつつ、心が自分自身に嫌気がさすという自己嫌悪・内的拒絶を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Quoi ! nulle trahison ?…\nCe deuil est sans raison.",
+      "body": "「なに！裏切りもないのに？……この悲しみは理由がない」。Quoi!（なに！）という感嘆詞が詩の論理的問いとして機能する——外部の原因（裏切り・失恋）を排除した上で「それでも悲しい」という逆説を確定する。deuil（喪・悲嘆）という語が単なる悲しみより深い喪失感を示しながら、その対象が存在しないという矛盾を提示する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "C'est bien la pire peine\nDe ne savoir pourquoi",
+      "body": "「最も辛い痛みは、なぜかを知らずに」。詩全体の結論。「最も辛い（la pire）」という最上級が感情の强度を確定し、「なぜかを知らないこと（ne savoir pourquoi）」が理由なき悲しみを「最大の苦悩」として定義する——「知らないこと」自体が苦悩の本質として同定される逆説的認識論。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「理由なき悲しみ」というヴェルレーヌの主題はボードレールの「spleen（憂鬱）」系列と深く接続するが、決定的な差異がある——ボードレールの憂鬱は重い物質的感覚・閉塞として描かれるのに対し、ヴェルレーヌは雨音という軽微な感覚刺激と「理由なき」という知的明晰さを通じて同一の感情を描く。「悲しみの理由のなさ」を認識すること自体がヴェルレーヌ固有の詩学的転換点。",
+      "targetId": "baudelaire_heroisme",
+      "targetParagraphId": null
+    }
+  ]
+}
