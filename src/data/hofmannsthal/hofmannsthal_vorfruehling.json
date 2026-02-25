@@ -9,7 +9,7 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "ホフマンスタールが18歳のとき、ゲオルゲ主宰の「芸術のための冊子（Blätter für die Kunst）」1892年号に発表した詩。ホフマンスタールはゲオルゲと1891年に知り合い、同誌への寄稿は二人の最初の文学的協働を示す。この詩はその後ホフマンスタール自身が自分の詩集を編む際に常に冒頭に置いており、みずからの詩的出発点として生涯大切にした。\n\n詩の主役は「春の風（Frühlingswind）」——固有名詞ではなく象徴的行為者として機能する。風は「裸の並木道（kahle Alleen）」を走り、泣き声のあった場所で揺れ、乱れた髪に寄り添い、アカシアの花びらを振り落とし、笑いながら唇に触れ、フルートを通って啜り泣くような叫び声として滑り出て、囁く部屋を飛び回り、ランプの輝きを消す。詩の最初の連が7番目に繰り返されたあと、最後の2連でトーンが変わる——「滑らかな裸の並木道」を「蒼白い影たち」が駆り立てられ、昨夜からの「香り」が運ばれてくる。\n\nホフマンスタールの印象主義的な手法の核心がここにある。風は何かを「見る」のではなく、さまざまな人間的経験の痕跡を「感覚」として記憶し、運搬する。感情・身体・空間が分離されず、共感覚的な連続体として流れる。ゲオルゲの「Nach der Lese」が秋の公園の視覚的解像度を高めるのに対し、この詩は春の風の触覚・聴覚・嗅覚による世界の横断を描く——同じ「象徴主義的な感覚」でも方法論が対照的で、並べて読む価値が高い。\n\n詩はリヒャルト・シュトラウスのオペラ「ナクソス島のアリアドネ」のホフマンスタール・リブレットでは直接引用されていないが、同じ「風の感受性」の詩学がシュトラウスとの協働全体を貫く。マントの詩作曲者アレクサンダー・ブルクスタラー（1912）をはじめ複数の作曲家が歌曲化した。",
+  "context": "ホフマンスタール18歳の作。ゲオルゲ主宰「Blätter für die Kunst」1892年号に発表——二人の最初の文学的協働。ホフマンスタールは自身の詩集を編む際に常にこの詩を冒頭に置き、詩的出発点として生涯大切にした。春の風を主役とし、触覚・聴覚・嗅覚による世界横断を描く印象主義的手法の核心を示す詩。",
   "keywords": ["春の風", "印象主義", "感覚の横断", "共感覚", "Blätter für die Kunst", "ゲオルゲとの協働", "ウィーン世紀末", "フィン・ド・シエクル"],
   "relatedTexts": [
     "hofmannsthal_terzinen",
@@ -62,6 +62,86 @@
       "id": 9,
       "originalText": "Und den Duft,\nDen er gebracht,\nVon wo er gekommen\nSeit gestern nacht.",
       "provisionalTranslation": "そして香りを、\n風が運んできた香りを、\nどこから来たかという香りを\n昨夜からの。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "9連（§1が§7で繰り返されるリフレイン構造）。4行交差韻ABAB。春の風を人称代名詞「er（彼）」で指し続けることで、自然現象が固有の行為者として機能する。§1＝§7の繰り返しを挟んで、前半（§2〜6）が風の過去の経験の記憶を、後半（§8〜9）がトーンの変化を担う。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Seltsame Dinge sind\nIn seinem Wehn",
+      "body": "「不思議なものたちがそのそよぎの中にある（Seltsame Dinge sind in seinem Wehn）」——詩全体の命題。何が「不思議なもの」なのか、詩はあえて定義しない。以降の連（§2〜6）が断片的な感覚記憶の列挙として展開されることで、「不思議なもの」は定義でなく体験として伝わる構造。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Wo Weinen war",
+      "body": "「泣き声のあった場所（Wo Weinen war）」——過去形「war」が重要。風は現在の泣き声ではなく、すでに終わった泣き声の「場所」に揺れた。ホフマンスタールの印象主義的手法の核心——感情は直接描かれず、その痕跡・残響として風に記憶される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "zerrüttetes Haar",
+      "body": "「乱れた髪（zerrüttetes Haar）」——「zerrütten（荒廃させる・かき乱す）」という語は本来精神的崩壊に用いられる。髪の乱れに精神状態が投影される共感覚的記述。風は「寄り添う（schmiegen）」という親密な動作でこの乱れた髪に触れる——慰撫と親密性の身体的記憶。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Die atmend glühten",
+      "body": "「息をしながら燃えている手足（die atmend glühten）」——「atmend（呼吸する）」という分詞が手足に付与され、身体が独立した生命体のように描かれる。風の冷気と手足の熱が対照をなし、触覚による温度差の詩的記録となる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Lippen im Lachen",
+      "body": "「笑いの中の唇（Lippen im Lachen）」——唇という身体部位が「笑い」という感情の文脈の中で切り取られる提喩（シネクドキ）。§2の「泣き声」と§4の「笑い」が対照をなし、風が人間感情の全域を記憶する媒体として機能することを示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "schluchzender Schrei",
+      "body": "「啜り泣くような叫び声（schluchzender Schrei）」——「schluchzen（啜り泣く）」と「Schrei（叫び声）」という相反する音響の合成。フルートという楽器を通じた風の変容——自然現象が音楽として出力される瞬間。「Er glitt（滑り出た）」という動詞の流動性が風と音楽の一体性を示す。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "anchor": "Er glitt durch die Flöte",
+      "targetId": "george_wir_schreiten",
+      "body": "ゲオルゲ「Wir schreiten」との対照：ゲオルゲが視覚的・彫刻的な静止イメージで詩を構成するのに対し、ホフマンスタールはここで風が楽器を「通り抜ける」という聴覚的・流動的イメージを用いる。同じ「Blätter für die Kunst」の同時代詩人として、感覚の用い方が対照的。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "mit Schweigen\nDurch flüsternde Zimmer",
+      "body": "「沈黙のうちに（mit Schweigen）」飛ぶ風と「囁く（flüsternde）」部屋という逆説。沈黙の風と囁く部屋——音の主体と客体が入れ替わる。「ランプの輝きを消す（löschte der Ampel Schimmer）」という結末が、光の消滅とともにこの連の感覚体験を閉じる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "body": "§1と同一のリフレイン。しかし§2〜6で風が記憶した泣き声・乱れた髪・燃える手足・笑う唇・フルートの叫び・囁く部屋・ランプの消滅を経由した後に読み返すと、「不思議なものたち（Seltsame Dinge）」の意味内容が充填されている——同一の行が変容した意味を帯びて再現される詩的効果。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Blasse Schatten",
+      "body": "「蒼白い影たち（Blasse Schatten）」——§1〜6で人間の感情・身体・音楽として具体的に記述されたものが、ここで「影」として抽象化・脱色される。リフレインの反復後にトーンが変化する転換点。「Treibt（追い立てる）」という動詞が風の積極的な推進力を示す一方、「影」という受動的存在が対照をなす。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Von wo er gekommen\nSeit gestern nacht",
+      "body": "「どこから来たかという香りを、昨夜から（Von wo er gekommen seit gestern nacht）」——詩の最終行。来源が明示されず「どこから（von wo）」という問いのまま終わる。「昨夜から（seit gestern nacht）」という時制が風の記憶の時間的深度を示す——香りは過去の出来事の最も無言の証言者として詩を閉じる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "anchor": "den Duft,\nDen er gebracht",
+      "targetId": "hoelderlin_andenken",
+      "body": "ヘルダーリン「Andenken（追憶）」における「北東の風」との比較が有効。ヘルダーリンの北東風が詩人の記憶を港・大洋へと運ぶ「旅立ちの媒体」として機能するのに対し、ホフマンスタールの春の風は「昨夜からの香り」として過去を運んでくる「帰還の媒体」として機能する——方向性が逆の記憶の風。"
     }
   ]
 }
