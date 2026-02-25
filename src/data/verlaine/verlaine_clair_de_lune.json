@@ -1,0 +1,94 @@
+{
+  "id": "verlaine_clair_de_lune",
+  "title": "Clair de lune",
+  "author": "Paul Verlaine",
+  "source": "Fêtes galantes (Alphonse Lemerre, Paris, 1869); Œuvres complètes, vol. I (Léon Vanier, Paris, 1902), p. 83",
+  "year": "1867",
+  "firstPublication": "La Gazette rimée, 20 février 1867, sous le titre «Fêtes galantes»; Fêtes galantes (Alphonse Lemerre, Paris, 1869)",
+  "difficulty": "初級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「Fêtes galantes」（1869年刊）の冒頭詩。1867年初出時の題名は「Fêtes galantes」。3連各4行、décasyllabe（10音節）。詩集全体の開幕宣言として「あなたの魂は選ばれた風景」という大胆な二人称・直示的アドレスで始まり、仮面とベルガマスク（道化師）が魂の風景を行進する——人物と魂の同一化がテクスト全体を貫く。ガブリエル・フォーレ（op. 46 no. 2、1887年）・ドビュッシー（2度）・レナルド・アーン等による歌曲化が著名。",
+  "keywords": [
+    "魂の風景",
+    "仮面",
+    "ベルガマスク",
+    "月光",
+    "噴水",
+    "歓喜の嗚咽",
+    "Watteau",
+    "Fêtes galantes",
+    "モード・ミノール"
+  ],
+  "relatedTexts": [
+    "verlaine_la_lune_blanche",
+    "verlaine_il_pleure_dans_mon_coeur",
+    "verlaine_poetes_maudits_verlaine",
+    "baudelaire_heroisme",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Votre âme est un paysage choisi\nQue vont charmant masques et bergamasques,\nJouant du luth et dansant et quasi\nTristes sous leurs déguisements fantasques.",
+      "provisionalTranslation": "あなたの魂は選ばれた風景\nそこを仮面とベルガマスクが魅惑的に行き来する、\nリュートを弾き、踊りながら、ほとんど\n幻想的な変装の下で悲しみながら。"
+    },
+    {
+      "id": 2,
+      "french": "Tout en chantant sur le mode mineur\nL'amour vainqueur et la vie opportune,\nIls n'ont pas l'air de croire à leur bonheur\nEt leur chanson se mêle au clair de lune,",
+      "provisionalTranslation": "短調で歌いながら\n征服する愛と好機な人生を、\n彼らは自分たちの幸福を信じているようには見えない\nそして彼らの歌は月光に混じり合う、"
+    },
+    {
+      "id": 3,
+      "french": "Au calme clair de lune triste et beau,\nQui fait rêver les oiseaux dans les arbres\nEt sangloter d'extase les jets d'eau,\nLes grands jets d'eau sveltes parmi les marbres.",
+      "provisionalTranslation": "穏やかで悲しく美しい月光に、\n木々の鳥たちを夢見させる月光に\nそして噴水に歓喜の嗚咽をさせる月光に、\n大理石の間の大きくしなやかな噴水に。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3連各4行、décasyllabe（10音節）。脚韻 ABAB の交差韻。「Fêtes galantes」詩集22篇の冒頭詩として詩集全体への鍵を提供する——詩集が「選ばれた風景としての魂」の劇場であることを宣言する。ヴァトー（Watteau）の「シテール島への船出」的な雅やかな祝祭画（fête galante）が詩的空間の範型。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Votre âme est un paysage choisi",
+      "body": "「あなたの魂は選ばれた風景」。詩の冒頭行にして詩集全体の命題。「あなた（Votre）」という二人称が誰に向けられるかは意図的に不明——読者・愛する人・詩集自体の受け手。choisi（選ばれた）という形容詞が魂を一般的でなく特別に選択された空間として定義する。魂＝風景という大胆な同一化が詩全体を駆動する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "masques et bergamasques",
+      "body": "「仮面とベルガマスク」。masques は仮面をつけた人物（仮面舞踏会の参加者）。bergamasques はベルガモ（北イタリアの町）風の道化的人物、またはその踊り——コメディア・デッラルテのつながりを持つ滑稽な登場人物。二語の組み合わせが音楽的韻律効果（-masques/-gamasques の反響）を生みつつ、祝祭と道化の二重性を示す。「quasi tristes（ほとんど悲しみながら）」という直後の半音符的否定が、仮面の下の憂鬱を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sur le mode mineur\nL'amour vainqueur",
+      "body": "「短調で征服する愛を歌いながら」。mode mineur（短調）は音楽用語——幸福を歌う内容（amour vainqueur・la vie opportune）を「短調」という悲しみの音楽モードで歌うという矛盾が、歌い手たちが「自分たちの幸福を信じているようには見えない（n'ont pas l'air de croire à leur bonheur）」ことを体現する。内容と形式の乖離がヴェルレーヌ的な不誠実な幸福の主題を音楽的に演じる。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "sangloter d'extase les jets d'eau",
+      "body": "「噴水に歓喜の嗚咽をさせる」。sangloter（嗚咽する）という動詞が噴水の水の音・形状に適用される共感覚的表現。歓喜（extase）と嗚咽（sangloter）という相反する感情的状態の融合——喜びが極限に達して泣きに変わる瞬間。月光が媒介となってこの変換を引き起こす。詩の感情的到達点として、最終連の月光のもとで噴水が「泣き喜ぶ」という逆説的情動が示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Les grands jets d'eau sveltes parmi les marbres",
+      "body": "「大理石の間の大きくしなやかな噴水」。sveltes（しなやかな・細身の）という形容詞——イタリア語 svelto から来る借用語で、フランス語では詩的・優雅な語として機能する。噴水の線状の動き（細く上昇して散る水）を視覚化する。marbres（大理石）という複数形が古典的庭園（ヴェルサイユ風）の石像・石柱群を示し、月光の下の幾何学的庭園空間として詩の舞台を固定する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「穏やかで悲しく美しい月光」が魂の風景を覆うという構造は、「La lune blanche」の月光が「絶妙な時間（l'heure exquise）」を照らす構造と対照をなす。「La lune blanche」が二人の愛する者を包む個人的・親密な月光であるのに対し、「Clair de lune」の月光は仮面とベルガマスクという匿名の集合的人物の「信じられない幸福」を照らす——同一の月光が親密性と演劇性という二極を照らす対照として機能する。",
+      "targetId": "verlaine_la_lune_blanche",
+      "targetParagraphId": 3
+    }
+  ]
+}
