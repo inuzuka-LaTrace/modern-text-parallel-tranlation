@@ -9,7 +9,7 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★☆",
-  "context": "1898年、ホフマンスタール24歳の作。詩人がゲオルゲとの関係を精算しつつあり、リヒャルト・シュトラウスとの協働も始まっていない、創作上の「危機の予感」の時期に書かれた。翌1902年の「チャンドス卿の手紙」——言語の崩壊を告白する散文——の直前に位置する。\n\n詩形は変形ソネット。前半の四行連（クヴァルテット）は男性韻交差韻（ABAB）、後半の二つの三行連（テルツェット）は女性韻・男性韻が交錯する（BCA BCA 変形）。詩全体で10行。ホフマンスタールの詩のなかで最も凝縮した構造をもつ。\n\n詩は二部に截然と分かれる。前半4行：水・岩・鳥という三つの自然力がそれぞれ「われわれを飲み込もうと」「われわれを叩き潰そうと」「われわれを運び去ろうと」迫る——圧倒的な脅威の三重奏。後半6行：しかし「その下には一つの国がある（Aber unten liegt ein Land）」——「年老いない湖（alterslosen Seen）」に果実を映し、「大理石の額と泉の縁（Marmorstirn und Brunnenrand）」が花咲く野から聳え、「軽い風が吹く（die leichten Winde wehn）」——突如として静謐な理想郷が現れる。\n\nこの前半と後半の対比が詩の核心。「Aber（しかし）」という一語の転換点が詩全体の重力を担う。脅威の世界から理想郷への移行は、鳥に「運び去られる（fortzutragen）」ことによって達成される——これは旅というより魂の飛翔であり、詩人の意志によらない受動的な移行。「大理石の額」は彫刻か建築か自然か曖昧なまま、「年老いない湖」は時間の外にある静止した理想空間を示す。\n\nゲオルゲの「Nach der Lese」が秋の公園を丹念な観察によって救済するのに対し、ホフマンスタールは危機の中での受動的飛翔によって理想郷に到達する——方法論の対比として学習素材として有益。歌曲化：パウル・フランケンブルガー（Vier Lieder no.2）、ロベルト・フュルステンタール（Spätlese IV no.5）、ヘルマン・ズター（4 Duette no.4）ほか。",
+  "context": "1898年、ホフマンスタール24歳の作。翌1902年「チャンドス卿の手紙」——言語の崩壊を告白する散文——の直前に位置する「危機の予感」の時期の詩。3連10行の変形ソネット（前半4行＋後半2×3行）。前半の三重の脅威と後半の理想郷出現という截然とした二部構造が「Aber（しかし）」一語で転換する。",
   "keywords": ["旅の歌", "自然の脅威", "理想郷", "受動的飛翔", "年老いない湖", "大理石", "変形ソネット", "言語の危機前夜"],
   "relatedTexts": [
     "hofmannsthal_ballade",
@@ -32,6 +32,50 @@
       "id": 3,
       "originalText": "Marmorstirn und Brunnenrand\nSteigt aus blumigem Gelände,\nUnd die leichten Winde wehn.",
       "provisionalTranslation": "大理石の額と泉の縁が\n花咲く野から聳え上がり、\nそして軽い風が吹く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "変形ソネット10行。前半4行（§1）が男性韻交差韻ABAB、後半2×3行（§2・§3）が女性韻・男性韻交錯のテルツェット変形。§1が脅威の三重奏、§2・§3が理想郷という截然とした二部構造——その転換点が§2冒頭の「Aber（しかし）」一語。詩の重力の全てがこの一語に集中する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "uns zu verschlingen",
+      "body": "「飲み込もうと（uns zu verschlingen）」「叩き潰そうと（uns zu erschlagen）」「運び去ろうと（uns fortzutragen）」——三つの不定詞句が目的を示し、水・岩・鳥が意図的な行為者として立ち現れる。自然が「われわれ」に向かって能動的に迫る——受動的に晒される旅人の脆弱性の三重奏。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "auf starken Schwingen\nVögel her, uns fortzutragen",
+      "body": "「強い翼で飛んでくる鳥たち」——脅威でありながら「運び去る（forttragen）」という動詞が後半の理想郷到達の手段を先取りする両義性。鳥は危険であると同時に移行の媒体。理想郷への移行は旅人の意志によらない受動的な飛翔として実現される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "alterslosen Seen",
+      "body": "「年老いない湖（alterslose Seen）」——「alterslos」は「年齢を持たない・老いない」という合成語で、時間の外にある静止した空間を示す。湖が「果実を果てしなく映している」という現在分詞「spiegelnd」が、変化のない永続的な反照を示す——時間の停止した理想空間。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Aber unten liegt ein Land",
+      "targetId": "george_entrueckung",
+      "body": "ゲオルゲ「Entrückung（恍惚）」の「Ich fühle luft von anderem planeten（われは別の惑星の空気を感じる）」という突然の理想郷出現と対照的に読める。ゲオルゲが上昇・出発として理想郷を描くのに対し、ホフマンスタールは「その下に（unten liegt）」という下降・潜在として提示する——方向性が逆の飛翔。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Marmorstirn",
+      "body": "「大理石の額（Marmorstirn）」——彫刻か、建築の壁面か、自然の岩壁か、意図的に曖昧なまま置かれる。「Stirn（額）」はホフマンスタール詩で繰り返し登場する身体部位——ヘルダーリン「Hälfte des Lebens」の「heilignüchterne（神聖で素面の）」水に対する白鳥の「Haupt（頭）」と同系列の「意識の座」としての額が、ここでは大理石の硬質・永続性を与えられて理想郷の中心に立つ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "die leichten Winde wehn",
+      "body": "「軽い風が吹く（die leichten Winde wehn）」——詩の最終行。§1の「強い翼（starken Schwingen）」という圧倒的な力に対して、「軽い（leicht）」という形容が理想郷の質感を決定する。ホフマンスタール「Vorfrühling」の「春の風（Frühlingswind）」と同系列の「風」が、ここでは穏やかな永続として詩を静かに閉じる。"
     }
   ]
 }
