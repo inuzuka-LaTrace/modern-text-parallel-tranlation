@@ -1,0 +1,92 @@
+{
+  "id": "valery_les_grenades",
+  "title": "Les Grenades",
+  "author": "Paul Valéry",
+  "source": "Charmes, XV (Gallimard/NRF, Paris, 1922); Œuvres complètes, vol. III (Gallimard/NRF, Paris, 1933), p. 154",
+  "year": "1920",
+  "firstPublication": "Charmes (Gallimard/NRF, Paris, 1922) [初出は1920年の«Odes»所収と考えられる]",
+  "difficulty": "中級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "「Charmes」（1922年）第XV篇。正則ソネット（4+4+3+3行）、octosyllabe（8音節）。ザクロ（grenade）の果実の破裂を詩的創造の寓意として展開する——果皮の外圧→内部の豊穰が割れる→光が生まれる、という構造がそのまま詩の意味の開花の構造に重なる。詩集「Charmes」の書名（カルミナ＝呪文的詩）の精神を最も凝縮した詩のひとつ。",
+  "keywords": [
+    "ザクロ",
+    "破裂",
+    "発見",
+    "ルビーの隔壁",
+    "黄金の外皮",
+    "secrète architecture",
+    "詩的創造",
+    "fronts souverains",
+    "Charmes"
+  ],
+  "relatedTexts": [
+    "valery_cimetiere_marin",
+    "mallarme_crise_de_vers",
+    "mallarme_sonnet_cygne",
+    "baudelaire_rire"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Dures grenades entr'ouvertes\nCédant à l'excès de vos grains,\nJe crois voir des fronts souverains\nÉclatés de leurs découvertes !",
+      "provisionalTranslation": "硬くほんの少し開いたザクロよ\n粒の過剰に屈服して、\nわたしは主権的な額が\n発見で破裂するのを見るような気がする！"
+    },
+    {
+      "id": 2,
+      "french": "Si les soleils par vous subis,\nÔ grenades entre-bâillées,\nVous ont fait d'orgueil travaillées\nCraquer les cloisons de rubis,",
+      "provisionalTranslation": "もしおまえたちが受けた太陽たちが、\nああ、少し開いたザクロよ、\n誇りで鍛えられたおまえたちに\nルビーの隔壁を亀裂させたなら、"
+    },
+    {
+      "id": 3,
+      "french": "Et que si l'or sec de l'écorce\nÀ la demande d'une force\nCrève en gemmes rouges de jus,",
+      "provisionalTranslation": "そしてもし外皮の乾いた金が\nひとつの力の要求に応じて\n汁で赤い宝石に破裂するなら、"
+    },
+    {
+      "id": 4,
+      "french": "Cette lumineuse rupture\nFait rêver une âme que j'eus\nDe sa secrète architecture.",
+      "provisionalTranslation": "この光に満ちた破裂が\nかつてわたしが持っていた魂に夢見させる\nその秘密の建築について。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "正則ソネット（4+4+3+3行）、octosyllabe（8音節）。「Charmes」所収の4篇のソネット（l'Abeille・Les Pas・Les Grenades・Le Vin perdu）のひとつ。ザクロ（grenade）→発見（découverte）→ルビーの隔壁（cloisons de rubis）→光に満ちた破裂（lumineuse rupture）→秘密の建築（secrète architecture）という外から内への運動が詩のソネット形式（4+4+3+3の階段的収束）と対応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je crois voir des fronts souverains\nÉclatés de leurs découvertes !",
+      "body": "「主権的な額が発見で破裂するのを見るような気がする」。ザクロの破裂を人間の頭（額・前頭葉）の「発見（découvertes）」と同一視する——科学者・芸術家・思想家の知的突破の瞬間。fronts souverains（主権的な額）は詩人・思想家の頭を象徴する。Je crois voir（〜と見るような気がする）という知覚の不確実性が、現実の果実と知的隠喩の間の揺れを保存する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Vous ont fait d'orgueil travaillées\nCraquer les cloisons de rubis,",
+      "body": "「誇りで鍛えられたおまえたちにルビーの隔壁を亀裂させた」。cloisons de rubis（ルビーの隔壁）——ザクロ内部の白い膜（果実の内部構造）が宝石的・建築的なイメージに変換される。orgueil（誇り）という能動的・主体的な語彙がザクロの破裂を外圧でなく内的な力（誇り＝内部の充溢への意志）として定義する。太陽（外部の力）が誇り（内部の力）を鍛え、両者が合わさって隔壁を亀裂させる——外圧と内圧の協働。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "l'or sec de l'écorce\nÀ la demande d'une force\nCrève en gemmes rouges de jus,",
+      "body": "「外皮の乾いた金が力の要求に応じて汁で赤い宝石に破裂する」。or sec（乾いた金）という外皮の描写が内部のgemmes rouges（赤い宝石）と対照をなす——外側の乾燥・収縮が内側の液体・輝きと反比例する。「力の要求に応じて（à la demande d'une force）」という受動的構文が、破裂を必然として提示する——十分に成熟した内圧は外皮を破らずにはいられない。詩的創造における「創造衝動の不可避性」の隠喩。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Cette lumineuse rupture\nFait rêver une âme que j'eus\nDe sa secrète architecture.",
+      "body": "「この光に満ちた破裂がかつてわたしが持っていた魂にその秘密の建築について夢見させる」。詩の結論3行。lumineuse rupture（光に満ちた破裂）——破裂が光の放出として定義される。「かつてわたしが持っていた魂（une âme que j'eus）」という過去形が詩人の現在の魂でなく「かつて所有していた」魂として距離化する——詩的達成は過去のものか、あるいは達成への懐古か。secrète architecture（秘密の建築）——ザクロの内部構造・詩の形式的構造・魂の内的秩序が三重に重なる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「秘密の建築（secrète architecture）」という詩の最終語は、マラルメ「クリーズ・ド・ヴェール」の「言語の構造（structure）」論と深く照応する——どちらも詩を可視的な意味でなく内部の「建築」・「構造」として定義する。しかしマラルメが言語の危機を通じてその建築の崩壊と再構築を論じるのに対し、ヴァレリーはザクロの破裂という生物的・物質的プロセスを通じて建築の「解放」を描く——建築を壊すことで建築の本質が光として現れる。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}
