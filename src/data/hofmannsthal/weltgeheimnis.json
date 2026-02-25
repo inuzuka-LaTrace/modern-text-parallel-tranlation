@@ -9,7 +9,7 @@
   "category": "hofmannsthal",
   "originalLang": "de",
   "modernRelevance": "★★★★★",
-  "context": "1894年作（ホフマンスタール20歳）、Blätter für die Kunst（Berlin, Dritte Folge, 2. Band, März 1896）初出、Gesammelte Werke Ausgabe 1924収録。8連各3行、24行。Rudolf Borchardtが1926年のアンソロジー「Ewiger Vorrat deutscher Poesie」に収録して広く普及した。\n\n**タイトル「Weltgeheimnis（世界の秘密）」：**\n「Geheimnis（秘密）」はドイツ語で「ge-heim」——「Heimat（故郷）」「heimlich（秘密の・家庭的な）」と同根で「家の奥に隠されたもの」を意味する。「世界の秘密」とは「世界という家の奥に仕舞われたもの」であり、詩はそれが言語として断片的に伝わり続ける様を描く。後年「チャンドス卿の手紙」（1902年）での言語への深い不信の前段階として、この詩は「言語がかつて世界と一体だった時代」への郷愁と喪失の記録として読める。\n\n**構造：リフレインと円環**\n第1連・第3連・第8連が「Der tiefe Brunnen weiß es wohl（深い井戸はそれをよく知っている）」の変奏で繰り返され、円環を成す。8×3=24行の厳密な形式の中に「世界の秘密」という無限の問いを閉じ込める身振り自体が詩学的主題を体現している。\n\n**第1〜2連：始原と喪失**\n「かつてはすべての者が深く無口で、すべての者がそれを知っていた（Einst waren alle tief und stumm, / Und alle wußten drum）」——言語崩壊以前の始原状態。現在はその言語が「魔法の言葉のように、後から唱えられ、底まで理解されないまま口から口へ伝わる（Wie Zauberworte, nachgelallt / Und nicht begriffen in den Grund, / So geht es jetzt von Mund zu Mund）」。「nachgelallt（後から唱えられた）」という語が現在の言語の本質——根拠（Grund）を失った反響——を示す。\n\n**第3〜4連：知ることと失うこと**\n「そこに身を屈めて一人の男がそれを会得した、会得してそして失った（begriffs ein Mann, / Begriff es und verlor es dann）」——「begreifen（把握する）」の物理的イメージと概念的イメージの両義。知識は保持できない——これがホフマンスタールの根本経験の一つ。失った後に「狂ったように語り、歌を歌った」——その「暗い鏡の上にいつかある子どもが身を屈めて恍惚とする（Sich einst ein Kind und wird entrückt）」。知識は「歌→鏡→子どもの恍惚」という迂回路で次世代に伝わる。\n\n**第5〜6連：愛による再発見**\n「育ち、自分自身について何も知らず一人の男に愛される女になる——愛がいかに深い消息を与えることか！（Wie Liebe tiefe Kunde gibt！）」——エロスによる真理開示のホフマンスタール版。「鈍く予感されたことが、彼女のキスの中で深く思い起こされる（In ihren Küssen tief gemahnt）」——身体的接触による前意識的認識の覚醒。\n\n**第7〜8連：言葉と宝石・円環の閉幕**\n「われわれの言葉の中にそれは潜んでいる、ちょうど乞食の足が砂利を踏むように、宝石の牢獄を（So tritt des Bettlers Fuß den Kies, / Der eines Edelsteins Verlies）」——最も卑賤なもの（乞食の足）と最も貴重なもの（宝石）が「踏む」という一点で接触する。言葉は知らぬうちに宝石を踏んでいる。最終連「今は円環の中で夢がぴくぴく動いている（Nun zuckt im Kreis ein Traum herum）」——世界の秘密は円環の中でかろうじて生き続けているが、誰にも把握されない。",
+  "context": "1894年作（ホフマンスタール20歳）、Blätter für die Kunst 1896年初出。8連各3行、24行のリフレイン構造。Rudolf Borchardtが1926年のアンソロジー「Ewiger Vorrat deutscher Poesie」に収録して広く普及した。後年「チャンドス卿の手紙」（1902年）での言語への深い不信の前段階として、言語がかつて世界と一体だった時代への郷愁と喪失の記録として読める。",
   "keywords": ["世界の秘密", "深い井戸", "魔法の言葉", "口から口へ", "暗い鏡", "乞食の足と宝石", "円環の夢", "言語の喪失", "チャンドス卿の手紙", "リフレイン構造"],
   "relatedTexts": [
     "hofmannsthal_ballade",
@@ -57,6 +57,83 @@
       "id": 8,
       "originalText": "Der tiefe Brunnen weiß es wohl,\nEinst aber wußten alle drum,\nNun zuckt im Kreis ein Traum herum.",
       "provisionalTranslation": "深い井戸はそれをよく知っている、\nしかしかつてはすべての者が知っていた、\n今は円環の中で夢がぴくぴく動いている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "第1連・第3連・第8連が「Der tiefe Brunnen weiß es wohl（深い井戸はそれをよく知っている）」の変奏で繰り返されるリフレイン構造。8×3=24行の厳密な形式の中に「世界の秘密」という無限の問いを閉じ込める身振り自体が詩学的主題を体現している。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "tief und stumm",
+      "body": "「深く無口（tief und stumm）」——言語崩壊以前の始原状態。「tief（深い）」はタイトルの「Brunnen（井戸）」と共鳴し、知識が地下深くに蓄えられていた時代を指す。「stumm（無口・言語を持たない）」は逆説的にその時代の充満を示す——言語以前の沈黙が、言語喪失後の無口より豊かだった。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Weltgeheimnis",
+      "body": "「Geheimnis（秘密）」はドイツ語で「ge-heim」——「Heimat（故郷）」「heimlich（秘密の・家庭的な）」と同根で「家の奥に隠されたもの」を意味する。「世界の秘密」とは「世界という家の奥に仕舞われたもの」であり、詩はそれが言語として断片的に伝わり続ける様を描く。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "nachgelallt",
+      "body": "「後から唱えられた（nachgelallt）」——現在の言語の本質を示す決定的な語。「lallen（幼児語・たどたどしく話す）」の反復形で、意味の根拠（Grund）を失った反響・模倣としての言語を指す。ホフマンスタール詩学における言語の自己疎外の最初の定式。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "nachgelallt\nUnd nicht begriffen in den Grund",
+      "targetId": "hoelderlin_mnemosyne",
+      "targetParagraphId": 1,
+      "body": "「底まで理解されないまま後から唱えられる」言語は、ヘルダーリン「Mnemosyne」§1「われわれは標識、解釈なき（deutungslos）」と深く共鳴する。どちらも言語が自己指示的になり、世界との対応を失った状態を問題にしているが、ヘルダーリンが宇宙論的命題として提示するのに対し、ホフマンスタールは伝達の連鎖（口から口へ）として社会的・時間的に描く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "begriffs ein Mann,\nBegriff es und verlor es dann",
+      "body": "「begreifen（把握する）」の物理的イメージ（掴む）と概念的イメージ（理解する）の両義を活かした動詞の反復。知識は保持できない——「会得してそして失った（Begriff es und verlor es dann）」という対称的な動詞の連鎖が、知ることと失うことが不可分だというホフマンスタールの根本経験を示す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "dunklen Spiegel",
+      "body": "「暗い鏡（dunklen Spiegel）」——失われた知識が「狂気の歌」として歌われた後、その歌が「暗い鏡」となり次世代の子どもを引き寄せる。「鏡」は自己像の反照であり知識の媒体だが「暗い（dunkel）」——完全には見通せない。知識の伝達が「井戸→歌→鏡→恍惚」という迂回路をたどる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "redet' irr und sang ein Lied",
+      "targetId": "trakl_hoelderlin",
+      "body": "「狂ったように語り、歌を歌った」——トラークルが「Hölderlin」詩で描く「柔かな狂気（weicher Wahnsinn）」のヘルダーリン像と照応する。知識の喪失後に「狂気」と「歌」が残るという構図——ホフマンスタールの詩では男→歌→子どもという系譜として、トラークルの詩ではヘルダーリンの詩人的狂気の記念として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "In ihren Küssen tief gemahnt",
+      "body": "「彼女のキスの中で深く思い起こされる（tief gemahnt）」——身体的接触による前意識的認識の覚醒。「mahnen（思い起こさせる）」はドイツ語で「記念・記憶（Mahnung）」と同根——エロスが記憶の媒体として機能する。ヘルダーリン「Hälfte des Lebens」の「trunken von Küssen（キスに酔った）」白鳥が自然の官能的充溢の担い手だったのに対し、こちらは人間的エロスが真理開示の回路となる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "des Bettlers Fuß den Kies,\nDer eines Edelsteins Verlies",
+      "body": "詩全体で最も凝縮されたイメージ。「Kies（砂利）」と「Edelstein（宝石）」は同じ「石」でありながら価値の極端を示す。「Verlies（牢獄・地下牢）」——宝石が「牢獄」として埋まっているという逆説、解放されないまま踏まれている。最も卑賤なもの（乞食の足）と最も貴重なもの（宝石）が「踏む」という一点で接触する——言語は知らぬうちに宝石を踏んでいる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "In unsern Worten liegt es drin",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「われわれの言葉の中にそれは潜んでいる」——マラルメ「詩の危機」の「言語は自分自身を見る」という自己反照的言語観との比較が有効。マラルメでは言語の純化・還元によって秘密へ近づこうとするのに対し、ホフマンスタールでは秘密は言語の中に埋蔵されたまま解放されない——能動的詩学と受動的詩学の対照。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Nun zuckt im Kreis ein Traum herum",
+      "body": "「今は円環の中で夢がぴくぴく動いている（zuckt herum）」——「zucken（ぴくぴく動く・痙攣する）」という不安定な動詞が締め括る。世界の秘密は円環の中でかろうじて生き続けているが、誰にも把握されない。第1連の「すべての者が知っていた」という始原から「誰も知らない夢の痙攣」への変容がリフレインの微細な変化（Einst wußten alle → Nun zuckt ein Traum）に刻まれる。"
     }
   ]
 }
