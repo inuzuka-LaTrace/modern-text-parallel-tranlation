@@ -1,0 +1,100 @@
+{
+  "id": "verlaine_chanson_dautomne",
+  "title": "Chanson d'automne",
+  "author": "Paul Verlaine",
+  "source": "Poèmes saturniens, «Paysages tristes» V (Alphonse Lemerre, Paris, 1866); Œuvres complètes, vol. I (Léon Vanier, Paris, 1902), p. 33–34",
+  "year": "1866",
+  "firstPublication": "Poèmes saturniens (Alphonse Lemerre, Paris, 1866)",
+  "difficulty": "初級",
+  "category": "verlaine",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「Poèmes saturniens」（1866年刊）「Paysages tristes（悲しい風景）」章第V篇。3連各6行、tétrasyllabe（4音節）、韻律 AA/B/CC/B。第二次世界大戦中、BBC ラジオ・ロンドンがノルマンディー上陸作戦（1944年6月6日）の暗号としてこの詩の第1連・第2連の一部を放送した歴史的文脈でも知られる。ガンスブール「Je suis venu te dire que je m'en vais」（1973年）・シャルル・トレネによる歌曲化も著名。",
+  "keywords": [
+    "violons",
+    "sanglots longs",
+    "langueur monotone",
+    "feuille morte",
+    "vent mauvais",
+    "tétrasyllabe",
+    "Paysages tristes",
+    "D-Day暗号",
+    "秋の憂鬱"
+  ],
+  "relatedTexts": [
+    "verlaine_il_pleure_dans_mon_coeur",
+    "verlaine_colloque_sentimental",
+    "verlaine_clair_de_lune",
+    "trakl_ein_herbstabend",
+    "trakl_im_herbst"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Les sanglots longs\nDes violons\nDe l'automne\nBlessent mon cœur\nD'une langueur\nMonotone.",
+      "provisionalTranslation": "秋の\nヴァイオリンの\n長い嗚咽が\nわたしの心を\n単調な\n倦怠で傷つける。"
+    },
+    {
+      "id": 2,
+      "french": "Tout suffocant\nEt blême, quand\nSonne l'heure,\nJe me souviens\nDes jours anciens\nEt je pleure ;",
+      "provisionalTranslation": "すべてが窒息しそうで\n青ざめたまま、時が\n鳴るとき、\nわたしは古い日々を\n思い出し\nそして泣く；"
+    },
+    {
+      "id": 3,
+      "french": "Et je m'en vais\nAu vent mauvais\nQui m'emporte\nDeçà, delà,\nPareil à la\nFeuille morte.",
+      "provisionalTranslation": "そしてわたしは去っていく\n悪い風に向かって\n風がわたしを運ぶ\nこちらへ、あちらへ、\n枯れ葉に\n似たまま。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "3連各6行、tétrasyllabe（4音節）。韻律は各連で AA/B/CC/B（2行ごとの連韻＋B脚の挟み込み）——「violons / automne / monotone」のように B 脚が各連の第3・第6行に置かれ、各連を音楽的に括る。4音節という短い行が詩全体に息切れ・断片化した呼吸を与え、ヴァイオリンの弦の震えと感情的窒息の両方を模倣する。「blessent（傷つける）」が動詞として詩の唯一の実質的述語を第4行に置く——長い主語の後に遅れて到達する傷。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Les sanglots longs\nDes violons",
+      "body": "「ヴァイオリンの長い嗚咽」。sanglots（嗚咽）という人間の感情的発声がヴァイオリンの音に転用される——音楽が泣くという擬人化。「violons / automne」の脚韻が «-on» の鼻母音反響を作り、まさにヴァイオリンの倍音のような音響効果を生む。第二次世界大戦中、BBC ラジオ・ロンドンはこの第1連（「Les sanglots longs des violons de l'automne」）をノルマンディー上陸作戦の第一信号として1944年6月1〜3日に放送した——詩が歴史的暗号として機能した稀有な例。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Blessent mon cœur\nD'une langueur\nMonotone.",
+      "body": "「単調な倦怠でわたしの心を傷つける」。langueur monotone（単調な倦怠）——「Il pleure dans mon cœur」の «langueur» と同一の語彙、「理由なき悲しみ」としての倦怠。Monotone（単調な）という形容詞が詩全体の音楽的特徴——繰り返す鼻母音・単調なリズム——を自己言及的に描写する。«blessent（複数形)» が主語 «sanglots» の複数性と対応し、無数の小さな嗚咽が集積して傷を作る過程を示す。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Tout suffocant\nEt blême, quand\nSonne l'heure,",
+      "body": "「すべてが窒息しそうで青ざめたまま、時が鳴るとき」。suffocant（窒息しそうな）という強い身体的感覚語と blême（青ざめた・死のような蒼白）の組み合わせ——聴覚（ヴァイオリン）から身体的・視覚的感覚への移行。«Sonne l'heure（時が鳴る）» という時計・鐘の打音が記憶を引き起こす引き金として機能する——「Il pleure dans mon cœur」の «sonne l'heure» と同一の構造。BBC はこの第2連冒頭（「Blessent mon cœur d'une langueur monotone」）を上陸作戦開始の第二信号として6月5日夜に放送した。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je me souviens\nDes jours anciens\nEt je pleure ;",
+      "body": "「わたしは古い日々を思い出し、そして泣く」。je me souviens（わたしは思い出す）——記憶の意志的行為でなく、時の鳴る音が引き起こす不随意的な回想。jours anciens（古い日々）という曖昧な過去——特定の出来事でなく、漠然とした「かつての日々」の総体としての記憶。Et je pleure（そして泣く）という単純な等位接続が、記憶と泣くことの間に原因-結果の分析を介入させない直接の連鎖として示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Et je m'en vais\nAu vent mauvais\nQui m'emporte\nDeçà, delà,",
+      "body": "「悪い風に向かってわたしは去っていく、風がわたしをこちらへ、あちらへと運ぶ」。m'en vais（去っていく）——「Je suis venu, calme orphelin…」と逆方向の動詞。来る→留まる→去るという移動の弧がヴェルレーヌの詩に繰り返す。Deçà, delà（こちらへ、あちらへ）という古語的副詞の対が方向性のない漂流を示す。vent mauvais（悪い風）——天候としての風と宿命・運命としての風の二重性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Pareil à la\nFeuille morte.",
+      "body": "「枯れ葉に似たまま」。詩の最終2行。feuille morte（枯れ葉）——詩人の自己像として、秋の終末・死を待つ植物の残骸。「Pareil à la / Feuille morte」という跨行（enjambement）が2行にわたって分断されることで、枯れ葉が風に揺れながら落ちる視覚的運動を形式的に模倣する。詩全体が「秋のヴァイオリンに傷つけられ→時の音に記憶を引き起こされ→悪い風に運ばれる枯れ葉」という三段階の受動性として構成される——主体は一貫して外力の対象として提示される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「枯れ葉として風に運ばれる」という受動的漂流のイメージは、トラークル「Ein Herbstabend」§4の「Das Eigne schwarz und nah（固有なるものは黒く近い）」と対照をなす。ヴェルレーヌの詩人が秋の風に身を任せる受動的な枯れ葉として自己を描くのに対し、トラークルの酔漢は「遠くへ飛び去った野生の鳥」への能動的な希求として逃避衝動を描く——同じ秋の詩的空間で、フランス語詩が漂流を受け入れ、ドイツ語詩が逃避を欲望する対照。",
+      "targetId": "trakl_ein_herbstabend",
+      "targetParagraphId": 4
+    }
+  ]
+}
