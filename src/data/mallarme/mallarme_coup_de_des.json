@@ -1,0 +1,155 @@
+{
+  "id": "mallarme_coup_de_des",
+  "title": "Un coup de dés jamais n'abolira le hasard",
+  "author": "Stéphane Mallarmé",
+  "source": "Cosmopolis, vol. VI, no. 17 (mai 1897); édition définitive: Éditions de La Nouvelle Revue Française, Paris, 1914 (préparée par Mallarmé, coordonnée par Edmond Bonniot)",
+  "year": "1897",
+  "firstPublication": "Cosmopolis, no. 17, 1er mai 1897",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "マラルメ最後の詩、1898年没の前年に発表。20ページ・版面全体を詩のページとして用いるタイポグラフィ詩の先駆。主幹文「UN COUP DE DÉS JAMAIS N'ABOLIRA LE HASARD」が大文字で詩全体に散在し、それを囲む各種書体・空白・断片テキストが響き合う。本ファイルでは版面構造を保存するため、意味的重力点ごとに10段落として収録する。",
+  "keywords": [
+    "骰子一擲",
+    "タイポグラフィ詩",
+    "白（空白）",
+    "難破船",
+    "船長",
+    "羽根",
+    "星座",
+    "偶然の廃絶",
+    "マラルメ最後の詩",
+    "ヴァレリー証言"
+  ],
+  "relatedTexts": [
+    "mallarme_crise_de_vers",
+    "mallarme_musique_lettres",
+    "mallarme_sonnet_cygne",
+    "mallarme_livre",
+    "baudelaire_heroisme",
+    "hoelderlin_brot_und_wein"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "UN COUP DE DÉS\nJAMAIS\nN'ABOLIRA\nLE HASARD",
+      "provisionalTranslation": "骰子の一擲は\n決して\n廃棄しないだろう\n偶然を"
+    },
+    {
+      "id": 2,
+      "french": "SOIT\nque l'Abîme\nblanchi\nétale\nfurieux\nsous une inclinaison\nplane désespérément\nd'aile\nla sienne\npar avance retombée d'un mal à dresser le vol\net couvrant les jaillissements\ncoupant au ras les bonds",
+      "provisionalTranslation": "たとえば\n深淵が\n白く\n広がる\n猛り狂いながら\n傾斜の下に\n絶望的に水平な\n翼の\n自らの翼の\n前もって飛翔を立ち上げるための苦労から落下した翼の\n噴出を覆いながら\n跳躍をすれすれに切断しながら"
+    },
+    {
+      "id": 3,
+      "french": "LE MAÎTRE\nsurgi\ninférant\nde cette conflagration\nque se\nc'est\nle nombre existât-il\nautrementqu'hallucination éparse d'agonie\n\nCOMME SI\nUne insinuation simple\nau silence enroulée avec ironie\nou le mystère\nprécipité\nhurlé\ndans quelque proche\ntourbillon d'hilarité et d'horreur\n\nvoltige autour du gouffre\nsans en joncher ni fuir\net en berce le vierge indice",
+      "provisionalTranslation": "船長が\n現れ\n推論する\nこの燃焼から\nそれが\nそういうことだと\n数が存在したとしても\n苦悶の散らばった幻覚以外の形で\n\nまるで\n単純なほのめかしが\n皮肉とともに沈黙に巻き付けられているかのように\nあるいは謎が\n突進し\n叫ばれ\n何らかの近くの\n陽気さと恐怖の渦の中に\n\n深淵の周りを飛び回る\n散らかすことも逃げることもなく\nそしてその処女のしるしを揺り籠に揺らしている"
+    },
+    {
+      "id": 4,
+      "french": "COMME SI\nplume solitaire éperdue\nsauf\nque la rencontre ou l'effleure une toque de minuit\net immobilise\nau velours chiffonné par un esclaffement sombre\ncette blancheur rigide\ndérisoire\nen opposition au ciel\ntrop\npour ne pas marquer\nexigûment\nquiconque\npeu ou prou\npar l'avide\nnégatif non plus ni flamme\n\nmais ce que rien n'existe de tel que la médiocrité universelle",
+      "provisionalTranslation": "まるで\n孤独に途方に暮れた羽根\nただし\n真夜中の帽子が出会いでかすりでもしなければ\nそして固定する\n暗い高笑いによってしわくちゃになったビロードに\nこの硬直した白さを\n嘲笑的な白さを\n空に対立して\nあまりにも\n示さずにはおれないほど\nわずかながらも\n誰であれ\n多かれ少なかれ\n貪欲な\n否定でも炎でもなく\n\nしかしこれは、普遍的な凡庸さのようなものは何も存在しないということだ"
+    },
+    {
+      "id": 5,
+      "french": "N'ABOLIRA\n\ncomme si\nUne insinuation au silence\n\nLE HASARD\n\nChoit\nla plume\nrythmique suspens du sinistre\ns'ensevelir\naux écumes originelles\nnaguères d'où sursauta son délire jusqu'à une cime\nflétrie\npar la neutralité identique du gouffre",
+      "provisionalTranslation": "廃棄しないだろう\n\nまるで\n沈黙へのほのめかし\n\n偶然を\n\n落ちる\n羽根が\n不吉のリズム的停止\n原初の泡の中に\n埋葬されながら\nかつてそこから妄想が飛び上がった場所\nひとつの頂点まで\n枯れた頂点まで\n深淵の同一の中立性によって"
+    },
+    {
+      "id": 6,
+      "french": "C'ÉTAIT\nissu stellaire\n\nCE SERAIT\npire\nnon\ndavantage ni moins\nmais autant\n\nLE NOMBRE\n\nEXISTÂT-IL\nautrement qu'hallucination éparse d'agonie\n\nCOMMENCÂT-IL ET CESSÂT-IL\nsourdant que nié et clos quand apparu\nenfinpar quelque profusion répandue en rareté\n\nSE CHIFFRÂT-IL\névidence de la somme pour peu qu'une\n\nILLUMINÂT-IL",
+      "provisionalTranslation": "それは\n星から発した\n\nそうなるだろう\nより悪く\nいや\nより以上でもより以下でもなく\nただ同じだけ\n\n数が\n\n存在したとしても\n苦悶の散らばった幻覚以外の形で\n\n始まりかつ終わるとしても\n否定されて閉じ、現れた後に\nついに何らかの希薄に広がった豊穰によって\n\n数として示されたとしても\nひとつであれば合計の証として\n\n照らしたとしても"
+    },
+    {
+      "id": 7,
+      "french": "RIEN\nde la mémorable crise\nOU SE FÛT\nl'évènement\nACCOMPLI EN VUE DE TOUT RÉSULTAT NUL\nHUMAIN\n\nN'AURA EU LIEU\nune élévation ordinaire verse l'absence\n\nQUE LE LIEU\ninférieur clapotis quelconque comme pour disperser l'acte vide\nabruptement qui sinon\npar son mensonge\neût fondé\nla perdition",
+      "provisionalTranslation": "思い出すべき危機の\n何も\nあるいはそうなったであろう\n出来事が\nあらゆる無の結果を目的として成し遂げられた\n人間的な\n\n場所以外\n何も起きなかっただろう\n通常の高揚が不在へと向かい\n\n場所だけが\n低い波音どんなものでも\n空虚な行為を散らすために\n唐突に、さもなければ\nその嘘によって\n確立したであろう\n喪失を"
+    },
+    {
+      "id": 8,
+      "french": "EXCEPTÉ\nà l'altitude\nPEUT-ÊTRE\nautant qu'un\n\nVOL\n\naussi loin qu'un endroit\nfusionne avec au delà\nhors l'intérêt\nquant à lui signalé\nen général\nselon telle obliquité par telle déclivité\nde feux\n\nvers\ndoit être\nle Septentrion aussi Nord\n\nUNE CONSTELLATION",
+      "provisionalTranslation": "ただし\nその高さにおいて\nおそらく\nひとつの\n\n飛翔と\n\n同じくらい\nひとつの場所が\nかなたと融け合うほど遠く\n関心の外に\nとにかく彼にとって示された\n一般的に\nある種の斜交いによりある種の火の傾きによって\n\nに向かって\nあらねばならない\n北極星もまた北に\n\nひとつの星座が"
+    },
+    {
+      "id": 9,
+      "french": "froide d'oubli et de désuétude\npas tant\nqu'elle n'énumère\nsur quelque surface vacante et supérieure\nle heurt successif\nsidéralement\nd'un compte total en formation\n\nveillant\ndoutant\nroulant\nbrillant et méditant\n\navant de s'arrêter\nà quelque point dernier qui le sacre",
+      "provisionalTranslation": "忘却と廃れとの冷たさの中にあって\nそれほどではなく\nそれが列挙しないわけではない\nある種の空虚で上なる表面の上に\n相次ぐ衝突を\n星のように\n形成途中の総計として\n\n見張りながら\n疑いながら\n転がりながら\n輝きながら瞑想しながら\n\nそれを聖化するある最後の点で\n止まる前に"
+    },
+    {
+      "id": 10,
+      "french": "Toute Pensée émet un Coup de Dés",
+      "provisionalTranslation": "いかなる思考も骰子の一擲を放つ"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "anchor": null,
+      "body": "20ページにわたるタイポグラフィ詩——本ファイルでは意味的重力点ごとに10段落として収録する。1897年Cosmopolis誌初出では版面制約により意図が一部実現できず、マラルメ自身が準備した1914年NRF版（没後16年）が決定版とされる。主幹文「UN COUP DE DÉS JAMAIS N'ABOLIRA LE HASARD」が大文字で詩全体に散在し、それを囲む複数の書体（大文字・小文字・イタリック）と広大な余白（白）が意味を担う。マラルメ自身の序文：「〈白〉は確かに重要性を引き受け、まず目を打つ」。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "UN COUP DE DÉS\nJAMAIS\nN'ABOLIRA\nLE HASARD",
+      "body": "タイトル兼主幹文。詩全体に断片として散在し、各見開きで別の語句が挿入されながら反復される——「骰子の一擲は決して偶然を廃棄しないだろう」という命題が詩の全ページを貫く。「偶然（hasard）の廃棄不可能性」という命題は詩学的であると同時に存在論的——詩作という行為（骰子を投げる）がいかなる形でも偶然性を超越できないことを宣言する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "que l'Abîme\nblanchi\nétale\nfurieux",
+      "body": "詩の舞台は嵐の海——「深淵（Abîme）」が「白く（blanchi）」広がり「猛り狂う（furieux）」。深淵の白さという逆説が詩全体の色調を設定する。「翼（d'aile）」という語が§2末に出現し、§3の「船長（LE MAÎTRE）」の登場を準備する——嵐の海に船・船長・そして翼が並置されることで神話的・象徴的な航海の空間が成立する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "LE MAÎTRE\nsurgi",
+      "body": "「船長が現れ」。LE MAÎTRE（大文字）は詩の中心的人物——詩人・創造者・運命の支配者という複数の読みを許す。surgi（突然現れた）という過去分詞が到着でなく出現として定義する。しかし「数が苦悶の散らばった幻覚以外の形で存在したとしても」という条件節が、船長の権威を最初から疑問符に付す。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "plume solitaire éperdue",
+      "body": "「孤独に途方に暮れた羽根」。plume は羽根であると同時に書く道具（ペン）——この二重性がマラルメの詩学的隠喩の核心。詩人の孤独な書く行為が嵐の中の一枚の羽根として提示される。「白鳥のソネ」の「逃げることのなかった飛翔（vols qui n'ont pas fui）」と同一の書けない詩人の翼のモチーフがここで波の中に落下する羽根として再現する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "N'ABOLIRA\n\nLE HASARD\n\nChoit\nla plume",
+      "body": "詩の版面構造の典型的局面——主幹文の断片「N'ABOLIRA」と「LE HASARD」の間に「羽根が落ちる（Choit la plume）」という出来事が挿入される。主幹命題の中に出来事が入り込む——偶然を廃棄しないという宣言の中で、まさに羽根が「原初の泡の中に埋葬される」という偶然的な落下が起きる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "LE NOMBRE\n\nEXISTÂT-IL\nautrement qu'hallucination éparse d'agonie",
+      "body": "「数が苦悶の散らばった幻覚以外の形で存在したとしても」。条件節の連続（存在したとしても・始まりかつ終わるとしても・照らしたとしても）が「数（nombre）」という詩的・数学的な確実性の概念を問いとして開放する。偶然の廃棄には数学的必然性が必要だが、その数の実在さえ幻覚かもしれないというラディカルな懐疑。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "RIEN\n\nN'AURA EU LIEU\n\nQUE LE LIEU",
+      "body": "「場所以外何も起きなかっただろう」。詩全体で最も有名な断章の一つ——RIEN（何も）・N'AURA EU LIEU（起きなかっただろう）・QUE LE LIEU（場所以外）の三要素が版面上に散在しながら一文を形成する。起きたのは「行為」でなく「場所」だけ——出来事の代わりに場所だけが残る、という空虚の肯定。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "UNE CONSTELLATION",
+      "body": "「ひとつの星座が」。詩の後半の転換点——嵐・難破・落下という下降運動の後に、星座という上昇・秩序のイメージが現れる。§9の「veillant / doutant / roulant / brillant et méditant（見張りながら・疑いながら・転がりながら・輝きながら瞑想しながら）」という現在分詞の連続が星座の生成過程を動的に描く。偶然の海からの秩序の誕生——しかし「おそらく（PEUT-ÊTRE）」という留保が付される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Toute Pensée émet un Coup de Dés",
+      "body": "詩の最終行。詩全体で唯一の完結した単純文——他の全テキストが断片・条件節・倒置で構成される中、この一行だけが明快な主語＋動詞＋目的語の構文をとる。「いかなる思考も骰子の一擲を放つ」——思考という行為が骰子を投げることとして定義される。主幹命題「骰子の一擲は決して偶然を廃棄しない」が思考の本質的な偶然性として結実する。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": null,
+      "body": "「いかなる思考も骰子の一擲を放つ」という命題はマラルメ「クリーズ・ド・ヴェール」の「詩は言語の危機から生まれる」という認識と対応する——どちらも詩的行為の根本的な不確定性・偶然性を主題とする。「クリーズ・ド・ヴェール」が言語の構造的問題として詩の危機を論じるのに対し、「骰子一擲」はその危機を視覚的・空間的な版面として「演じる」——詩学的認識と詩的実践の関係。",
+      "targetId": "mallarme_crise_de_vers",
+      "targetParagraphId": null
+    }
+  ]
+}
