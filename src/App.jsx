@@ -171,6 +171,7 @@ export default function App() {
     mallarme_critique:          { name: 'マラルメ批評' },
     valery:                     { name: 'ヴァレリー' },
     valery_critique:            { name: 'ヴァレリー批評' },
+    verlaine:                   { name: 'ヴェルレーヌ' },
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
     gautier:                    { name: 'ゴーティエ' },
     valmore:                    { name: 'ヴァルモール' },
