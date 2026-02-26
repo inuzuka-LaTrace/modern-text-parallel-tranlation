@@ -1,0 +1,97 @@
+{
+  "id": "baudelaire_hymne",
+  "title": "Hymne",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal, 2e éd. (Poulet-Malassis, 1861), CXLIII",
+  "year": "1861",
+  "firstPublication": "Les Fleurs du Mal, 2e édition, 1861",
+  "difficulty": "初級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "1861年第2版に「Autres fleurs du mal（悪の花・追加篇）」として収録された讃歌。Sainte-Beuve への献辞的書簡（1862年）でボードレールはこの詩をマリー・ドーブランに捧げたと述べている。「悪の花」の激しい感覚的・形而上的緊張からは異質な純粋な礼拝の詩だが、嗅覚語彙（香嚢・香炉・麝香）を礼拝の道具に見立てる点はボードレール的「芸術宗教」の典型。§1と§5の対称的な枠構造——わずか1語（「très chère」→「très bonne」）の変奏——が詩全体に讃歌的な反復の響きを与える。",
+  "keywords": ["讃歌", "礼拝", "嗅覚", "永遠性", "天使と偶像", "麝香"],
+  "relatedTexts": [
+    "baudelaire_harmonie_du_soir",
+    "baudelaire_reine",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "À la très chère, à la très belle\nQui remplit mon cœur de clarté,\nÀ l'ange, à l'idole immortelle,\nSalut en l'immortalité !",
+      "provisionalTranslation": "この上なく愛しい人、この上なく美しい人、\n私の心を明るさで満たす人へ、\n天使よ、不死の偶像よ、\n不死の中に祝福あれ！"
+    },
+    {
+      "id": 2,
+      "french": "Elle se répand dans ma vie\nComme un air imprégné de sel,\nEt dans mon âme inassouvie\nVerse le goût de l'éternel.",
+      "provisionalTranslation": "彼女は私の生に広がる\n塩を含んだ空気のように、\nそして私の満たされない魂に\n永遠の味を注ぎ込む。"
+    },
+    {
+      "id": 3,
+      "french": "Sachet toujours frais qui parfume\nL'atmosphère d'un cher réduit,\nEncensoir oublié qui fume\nEn secret à travers la nuit,",
+      "provisionalTranslation": "愛しい小部屋の空気を薫らせる\n常に新鮮な香嚢、\n夜を通じて密かに煙を立ちのぼらせる\n忘れられた香炉、"
+    },
+    {
+      "id": 4,
+      "french": "Comment, amour incorruptible,\nT'exprimer avec vérité ?\nGrain de musc qui gis, invisible,\nAu fond de mon éternité !",
+      "provisionalTranslation": "朽ちることなき愛よ、\nどうすれば真実をもってあなたを表現できようか？\n見えないまま横たわる麝香の粒よ、\n私の永遠の底に！"
+    },
+    {
+      "id": 5,
+      "french": "À la très bonne, à la très belle,\nQui fait ma joie et ma santé,\nÀ l'ange, à l'idole immortelle,\nSalut en l'immortalité !",
+      "provisionalTranslation": "この上なく善い人、この上なく美しい人、\n私の喜びと健康を作り出す人へ、\n天使よ、不死の偶像よ、\n不死の中に祝福あれ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "「讃歌（Hymne）」という形式タイトルは古代ギリシア・ラテンの神への礼拝歌（hymnus）を参照する。詩形は8音節（octosyllabe）×4行×ABAB韻、5連——「悪の花」の多くを占めるアレクサンドラン（12音節）より短い軽快な行が讃歌的リズムを作る。最大の形式的特徴は§1と§5の枠構造：「très chère（この上なく愛しい）」→「très bonne（この上なく善い）」というわずか1語の変奏を除いて全行同一のリフレイン——詩は「愛しさ」から「善さ」へと礼拝の質を微細に移行させながら閉じる。§2・§3・§4の中間3連は「塩の空気→香嚢・香炉→麝香の粒」という嗅覚的礼拝の語彙連鎖で埋められる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "À l'ange, à l'idole immortelle",
+      "body": "「天使（ange）」と「偶像（idole）」という二つの呼格の並置——「天使」はキリスト教的超越的純粋性を、「偶像」は異教的・物質的崇拝対象を意味する。この二語の結合は愛する女性への礼拝が「一神教的純粋礼拝」と「偶像崇拝（=異教的・芸術的崇拝）」の両方の性格を持つことを宣言する。ボードレール「ゴーティエ論（baudelaire_gautier）」で述べた「詩人は美の至高の司祭」という芸術宗教観の個人的実装——女性が宗教的対象（天使）であり同時に芸術的対象（偶像）として讃えられる。「不死（immortelle / immortalité）」の二重反復が連を閉じる——彼女への礼拝が時間を超えた形而上的行為として定位される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "mon âme inassouvie",
+      "body": "「満たされない魂（âme inassouvie）」——「inassouvie（満たされない・充足しない）」はボードレール詩学の核心語の一つ。「悪の花」全体を貫く「理想（Idéal）」への渇望——地上の美・感覚・愛はすべて「永遠」への渇望を満たすことができず、魂は常に「inassouvie」のまま残る。「Femmes damnées」§7の「soifs inassouvies（満たされない渇き）」と同じ語根——「呪われた女たち」への同情も「讃歌」の愛する女性への礼拝も、ともに「満たされない魂」の異なる表現として対置される。「永遠の味（le goût de l'éternel）」——「味（goût）」という嗅覚・味覚に近い具体的感覚語が「永遠（éternel）」という抽象的概念に付与される共感覚的命題。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "anchor": "Elle se répand dans ma vie\nComme un air imprégné de sel",
+      "targetId": "baudelaire_harmonie_du_soir",
+      "body": "「塩を含んだ空気のように私の生に広がる（se répand … comme un air imprégné de sel）」——「Harmonie du soir」§1の「花は蒸発して香炉のように匂い立つ（Les fleurs s'évaporent ainsi qu'un encensoir）」という嗅覚的・拡散的愛のイメージとの対応。「Harmonie du soir」では愛する女性の記憶が「夕暮れ・音楽・香り」の感覚的共鳴として拡散するのに対し、「Hymne」では彼女の存在が「空気・塩・嗅覚」として詩人の「生（vie）」に浸透する——愛の拡散性・浸透性という同一のベクトルが、一方は「夕暮れの感覚詩」、他方は「純粋な讃歌」として実装される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Encensoir oublié qui fume\nEn secret à travers la nuit",
+      "body": "「忘れられた香炉（encensoir oublié）」——「encensoir」はカトリック典礼で使われる振り香炉（香を焚いて煙を立ちのぼらせる金属製容器）。「oublié（忘れられた）」——典礼の場から切り離され誰にも気づかれないまま「夜を通じて密かに（en secret à travers la nuit）」煙を立ちのぼらせ続ける香炉——礼拝の形式的行為が終わった後も愛が持続することの比喩。§3は「香嚢（sachet）」と「香炉（encensoir）」という二つの嗅覚的礼拝道具によって構成される——両者とも「閉じた空間で持続的に香りを放つ」という性質を持ち、愛が「瞬間的な熱情」でなく「持続的・秘密的な浸透」として定義される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Grain de musc qui gis, invisible,\nAu fond de mon éternité",
+      "body": "「見えないまま横たわる麝香の粒、私の永遠の底に（Grain de musc qui gis, invisible, / Au fond de mon éternité）」——詩全体の帰結命題。「grain（粒）」という極小の物質的単位が「éternité（永遠）」という極大の形而上的概念の「底（fond）」に置かれる——スケールの逆転が詩的命題の核心。「musc（麝香）」——麝香鹿の腺から採れる強烈な持続的香気を持つ香料——§3の「香嚢・香炉」という嗅覚的礼拝連鎖の集約点。「invisible（見えない）」——愛する女性の本質的な影響は「見えない」——感知はされるが視覚では捉えられない、つまり嗅覚的・浸透的なものとして定義される。「amour incorruptible（朽ちることなき愛）」——「不死（immortalité）」の§1の命題が「愛そのもの」の性質に転移する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "amour incorruptible",
+      "targetId": "baudelaire_reine",
+      "body": "「朽ちることなき愛（amour incorruptible）」——「La Beauté（美）」や「Hymne à la Beauté（美への讃歌）」における「美の永続性」というボードレール的主題との連続。「Reine des facultés（能力の女王）」としての想像力論との接続——「Hymne」の愛する女性は「天使・偶像・不死」として形而上的に昇格されており、これはボードレール「ゴーティエ論（baudelaire_gautier）」の「詩的想像力は世界を変容させる」という命題の愛の詩における実装。「corruptible（腐敗する・朽ちる）」の否定——物質的腐敗に対する詩的・精神的不死性の宣言がボードレールの芸術論と愛の詩を接続する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "À la très bonne, à la très belle",
+      "body": "§1の「À la très chère, à la très belle（この上なく愛しい人、この上なく美しい人）」から§5の「À la très bonne, à la très belle（この上なく善い人、この上なく美しい人）」へ——「chère（愛しい・親愛な）」から「bonne（善い）」への変奏。「chère」は感情的・情緒的親愛さを、「bonne」は道徳的・本質的善性を指す——詩は「愛しさ（情緒）」から「善さ（本質）」へと礼拝の質を深化させながら閉じる。「belle（美しい）」だけは両連で変奏されず維持される——「美しさ」は愛の不変の基盤として固定されるのに対し、「愛しさ→善さ」という変奏が詩の唯一の運動を構成する。「joie et santé（喜びと健康）」——§1の「clarté（明るさ）」という光的イメージから、より身体的・生命的なイメージへの移行。"
+    }
+  ]
+}
