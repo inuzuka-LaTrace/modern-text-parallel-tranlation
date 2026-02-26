@@ -1,0 +1,125 @@
+{
+  "id": "baudelaire_femmes_damnees",
+  "title": "Femmes damnées",
+  "author": "Charles Baudelaire",
+  "source": "Les Épaves (À Amsterdam [Bruxelles : Poulet-Malassis], 1866); Les Fleurs du Mal, 3e éd. (Lévy, 1868)",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal, 1re éd., 1857（起訴・削除）; Les Épaves, 1866（再刊）",
+  "difficulty": "上級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1857年「悪の花」初版に収録されたが、同年8月の起訴（「公衆道徳および良俗に対する罪」）によって削除を命じられた6篇のうちの一篇。1866年ブリュッセルで刊行された「流木（Épaves）」に「Pièces condamnées（断罪された詩篇）」として再刊された。「ドルフィーヌとイッポリット（Delphine et Hippolyte）」と題された長詩版（CXLVI）とは別の独立した短詩。「物思う家畜」という衝撃的な冒頭から、女性同士の愛を7連の段階的展開──幼年期的愛・聖者の誘惑・バッカス的陶酔・苦行と快楽の混合──として描き、最終連で詩人が「地獄において彼女たちを愛し憐れむ」という連帯の宣言で結ぶ。呼格の嵐（§6）とそれに続く突然の「ため息のような」同情（§7）の落差が詩の最大の効果。",
+  "keywords": ["呪われた女たち", "サフィズム", "Pièces condamnées", "連帯", "無限への渇望", "聖と淫"],
+  "relatedTexts": [
+    "baudelaire_romantisme_complet",
+    "baudelaire_rire",
+    "baudelaire_heroisme",
+    "verlaine_poetes_maudits_baudelaire"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Comme un bétail pensif sur le sable couché,\nElles tournent leurs yeux vers l'horizon des mers,\nEt leurs pieds se cherchent et leurs mains rapprochées\nOnt de douces langueurs et des frissons amers.",
+      "provisionalTranslation": "砂の上に横たわる物思う家畜のように、\n彼女たちは海の水平線へと目を向け、\n互いに足を求め合い、近づいた手は\n甘い倦怠と苦い戦慄を帯びている。"
+    },
+    {
+      "id": 2,
+      "french": "Les unes, cœurs épris des longues confidences,\nDans le fond des bosquets où jasent les ruisseaux,\nVont épelant l'amour des craintives enfances\nEt creusent le bois vert des jeunes arbrisseaux ;",
+      "provisionalTranslation": "あるものたちは、長い打ち明け話に心を奪われ、\n小川がせせらぐ林の奥で、\n臆病な子ども時代の愛を綴ろうとし、\n若い潅木の青い木肌に刻みつけていく；"
+    },
+    {
+      "id": 3,
+      "french": "D'autres, comme des sœurs, marchent lentes et graves\nÀ travers les rochers pleins de visions,\nOù saint Antoine a vu surgir comme des laves\nLes seins nus et pourprés de ses tentations ;",
+      "provisionalTranslation": "他のものたちは、姉妹のように、ゆっくりと厳かに\n幻に満ちた岩場を歩く、\nそこでは聖アントワーヌが溶岩のように噴き出るのを見た\n誘惑の裸の紫がかった乳房を；"
+    },
+    {
+      "id": 4,
+      "french": "Il en est, aux lueurs des résines croulantes,\nQui dans le creux muet des vieux antres païens\nT'appellent au secours de leurs fièvres hurlantes,\nÔ Bacchus, endormeur des remords anciens !",
+      "provisionalTranslation": "崩れ落ちる樹脂の微光の中で、\n古い異教の洞窟の物言わぬ窪みで、\n叫ぶ熱病の助けを求めてあなたを呼ぶものたちがいる、\nバッカスよ、古い悔恨を眠らせる者よ！"
+    },
+    {
+      "id": 5,
+      "french": "Et d'autres, dont la gorge aime les scapulaires,\nQui, recélant un fouet sous leurs longs vêtements,\nMêlent, dans le bois sombre et les nuits solitaires,\nL'écume du plaisir aux larmes des tourments.",
+      "provisionalTranslation": "さらに他のものたちは、胸がスカプラリエを愛し、\n長い衣服の下に鞭を隠し持ち、\n暗い林と孤独な夜の中で、\n快楽の泡と苦悩の涙を混ぜ合わせる。"
+    },
+    {
+      "id": 6,
+      "french": "Ô vierges, ô démons, ô monstres, ô martyres,\nDe la réalité grands esprits contempteurs,\nChercheuses d'infini, dévotes et satyres,\nTantôt pleines de cris, tantôt pleines de pleurs,",
+      "provisionalTranslation": "おお処女たちよ、おお悪魔たちよ、おお怪物たちよ、おお殉教者たちよ、\n現実を軽蔑する偉大な精神たちよ、\n無限を求める者たちよ、敬虔な者たちであり風刺神サテュロスでもある者たちよ、\nある時は叫びで満ち、ある時は涙で満ちた者たちよ、"
+    },
+    {
+      "id": 7,
+      "french": "Vous que dans votre enfer mon âme a poursuivies,\nPauvres sœurs, je vous aime autant que je vous plains,\nPour vos mornes douleurs, vos soifs inassouvies,\nEt les urnes d'amour dont vos grands cœurs sont pleins !",
+      "provisionalTranslation": "あなた方の地獄の中で私の魂が追い求めてきた者たちよ、\n哀れな姉妹たちよ、私はあなた方を憐れむのと同じだけ愛している、\nその陰鬱な苦しみのために、満たされない渇きのために、\nそしてあなた方の大きな心を満たしている愛の壺のために！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "「悪の花」初版（1857年）に収録された後、同年8月の起訴によって削除を命じられた6篇の一つ──「Lesbos」「Femmes damnées（Delphine et Hippolyte）」「Les Bijoux」「Le Léthé」「À celle qui est trop gaie」とともに「Pièces condamnées」を構成する。1866年ブリュッセル版「Épaves（流木）」で「ledit jugement avait frappé ces six pièces（判決がこれら6篇を打ちのめした）」という挑発的な前書きとともに再刊──法的「断罪（condamnation）」を詩集のタイトルに転化させた出版的抵抗。詩形はアレクサンドラン（12音節）×4行×ABAB韻、7連──均整のとれた形式の中に§1の衝撃的な導入から§6のクライマックス的呼格連鎖、§7の突然の静謐な同情宣言という感情的落差が封じ込められている。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Comme un bétail pensif",
+      "body": "「物思う家畜（bétail pensif）」──詩の冒頭語として最大の衝撃を与える矛盾語法（oxymoron）。「bétail（家畜・獣）」は人間性の否定・動物的な集合体という侮蔑的含意を持つが、「pensif（物思う・思索する）」はその否定を即座に反転させる──「物思う（pensif）」は人間固有の内省的精神活動を示す形容詞。「家畜」として社会的に分類されながら「物思う」という精神的深度を持つ者たちとして女性たちを定義するこの矛盾語法が詩全体の主題を凝縮する。「砂の上に横たわる（sur le sable couché）」──水平な受動的姿勢。しかし「海の水平線へと目を向ける（tournent leurs yeux vers l'horizon des mers）」──視線は遠く水平線の彼方=「無限（infini）」へと向けられる。§6の「無限を求める者たち（Chercheuses d'infini）」という定義がここで視覚的に先取りされる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "douces langueurs et des frissons amers",
+      "body": "「甘い倦怠（douces langueurs）と苦い戦慄（frissons amers）」──ボードレール的対位法の典型。「甘い（doux）」と「苦い（amer）」という味覚的対立語が感覚的状態（倦怠・戦慄）に付与される。「langueur（倦怠・けだるさ）」──ロマン主義以来の「愛の病的倦怠」を示す語。「frissons（戦慄・身震い）」──快楽と恐怖の両方に生じる身体反応。「手が近づく（mains rapprochées）」という接触の局面で「甘い倦怠」と「苦い戦慄」が同時に生じる──愛の接触が快楽と苦痛の混合として経験されるという§5「快楽の泡と苦悩の涙を混ぜ合わせる（Mêlent l'écume du plaisir aux larmes des tourments）」への伏線。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "allusion",
+      "anchor": "saint Antoine a vu surgir comme des laves\nLes seins nus et pourprés de ses tentations",
+      "body": "「聖アントワーヌの誘惑（tentation de saint Antoine）」──砂漠の修道士アントニウス（251-356年頃）は神学的黙想の時間に悪魔・幻影・肉欲的誘惑に繰り返し苦しめられたとされる。この主題はフロベール「聖アントワーヌの誘惑（La Tentation de saint Antoine）」（第1稿1849年・出版は1874年）として独立した文学作品になるが、ボードレールは1857年版でフロベール作品より先にこの主題を詩化している。「溶岩のように噴き出る（surgir comme des laves）」──誘惑の映像が火山的・制御不能な物質的爆発として提示される地質学的比喩。「裸の紫がかった乳房（seins nus et pourprés）」──「pourprés（紫がかった）」という色彩指定が官能性と痣・打傷のイメージを混合させる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "allusion",
+      "anchor": "Bacchus, endormeur des remords anciens",
+      "body": "バッカス（Bacchus）──ギリシア神話のディオニュソスのローマ名。葡萄酒・陶酔・解放の神。「古い悔恨を眠らせる者（endormeur des remords anciens）」──「endormeur（眠らせる者）」は酒神の薬理的機能（罪悪感・後悔を麻痺させる陶酔）を神格化した呼称。「vieux antres païens（古い異教の洞窟）」──キリスト教以前の異教的礼拝空間。§3の「岩場の幻・聖者の誘惑（キリスト教的）」から§4の「古い異教の洞窟・バッカス（異教的）」への移行──女性たちの愛が「キリスト教的聖性」と「異教的陶酔」の両方の磁場に引き寄せられることを示す。「叫ぶ熱病（fièvres hurlantes）」──抑制されない本能的状態。§1の「物思う（pensif）」という内省的沈黙からここで初めて「叫ぶ（hurlantes）」という声的爆発へと移行する。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "L'écume du plaisir aux larmes des tourments",
+      "body": "「快楽の泡（L'écume du plaisir）と苦悩の涙（larmes des tourments）を混ぜ合わせる（mêlent）」──§1の「甘い倦怠と苦い戦慄」が行動的・物質的な次元で再現される。「écume（泡）」──海・唾液・精液・馬の口元などを連想させる多義的な流体イメージ。「larmes（涙）」──痛み・快楽の極点で生じる身体的液体。「混ぜ合わせる（mêlent）」──二つの液体の混合という化学的・物質的プロセスとして快楽と苦痛の融合を提示。「スカプラリエ（scapulaires）」──カトリックの修道服の一部、肩に垂らす布帯。「長い衣服の下に鞭を隠す（recélant un fouet sous leurs longs vêtements）」──外見上の敬虔さ（修道的衣服）と内実の苦行・自己罰（鞭）の隠蔽。§3の「姉妹のように厳かに歩く」という外見的宗教的純粋さの暗い裏面として機能する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Ô vierges, ô démons, ô monstres, ô martyres",
+      "body": "「おお処女たちよ、おお悪魔たちよ、おお怪物たちよ、おお殉教者たちよ」──4つの呼格が「Ô」で始まる詩的クライマックス。「処女（vierge）」と「悪魔（démon）」、「怪物（monstre）」と「殉教者（martyre）」という相互に矛盾する4語の並列──道徳的・宗教的に対極に位置する属性を同一存在に付与することで、女性たちを単一の道徳カテゴリーに収まらない「複合的な超越者」として定義する。ゴーティエ「Contralto」§6の「Chimère ardente … Monstre charmant（熱烈なキマイラ……魅惑的な怪物）」という「怪物への愛の呼びかけ」と同型──ボードレールはゴーティエの「怪物への讃歌」の倫理的深化として女性たちへの呼格連鎖を構成する。さらに続く「現実を軽蔑する偉大な精神たち（De la réalité grands esprits contempteurs）」──道徳的断罪を逆転させ、女性たちを「現実原則への拒否者」として賛美する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "Chercheuses d'infini, dévotes et satyres",
+      "body": "「無限を求める者たち（Chercheuses d'infini）」──§1で「海の水平線へと目を向ける」という視線のイメージとして予告された「無限への志向」が、ここで命題的に定式化される。ボードレール詩学における「無限（infini）」は「理想（Idéal）」への上昇的渇望を指す──「悪の花」の「スパン（Spleen et Idéal）」という基本軸の「Idéal」側。「呪われた女たち」を「無限を求める者たち」として定義することは、道徳的断罪（「呪われた」）を詩学的賛美（「無限の探求者」）へと逆転させる──起訴・削除という検察権力の行為に対する詩学的応答。「dévotes et satyres（敬虔な者たちであり風刺神でもある）」──「dévote（敬虔な信者・宗教的な女性）」と「satyre（半獣神・官能的存在）」の並立──§5の「スカプラリエと鞭」という宗教性と性的実践の共存の概念的定式化。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Vous que dans votre enfer mon âme a poursuivies",
+      "body": "「あなた方の地獄の中で私の魂が追い求めてきた（Vous que dans votre enfer mon âme a poursuivies）」──詩人の立場の宣言。「votre enfer（あなた方の地獄）」──女性たちの愛が「地獄（enfer）」であることを受け入れながら、詩人は「その地獄の中に降りて追い求めた（a poursuivies）」と述べる──ダンテが煉獄・地獄を旅するような詩人の超越的同伴者性。「poursuivre（追い求める・追いかける）」の完了形──過去から現在に至る継続的な詩的探求の行為として位置づける。「地獄においても追い求める詩人」というイメージはボードレールが「悪の花」全体を通じて構築した詩学的自己定義の集約。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "je vous aime autant que je vous plains",
+      "body": "「私はあなた方を憐れむのと同じだけ愛している（je vous aime autant que je vous plains）」──詩の帰結命題。「aimer（愛する）」と「plaindre（憐れむ）」という感情の二極が「autant que（同じだけ）」で等価に置かれる。「愛」は対象への接近・肯定を、「憐れみ（plains）」は対象への距離・同情を示すが、ここでは両者が等価──詩人は女性たちに「同情的距離」を置きながら同時に「同等の深さで愛する」という複雑な感情的立場を宣言する。「soifs inassouvies（満たされない渇き）」──「Hymne」§2の「âme inassouvie（満たされない魂）」と同じ「inassouvie」語根──「讃歌」の愛する女性への礼拝も「呪われた女たち」への同情も、ともに「満たされない魂・渇き」という共通のボードレール的実存から発する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Pauvres sœurs, je vous aime autant que je vous plains",
+      "targetId": "baudelaire_romantisme_complet",
+      "body": "「哀れな姉妹たちよ（Pauvres sœurs）」──「Romantisme complet（完全なるロマン主義）」における「真のロマン主義とは感覚と精神の両方の頂点を目指す」という命題と対応する。「呪われた女たち」は「現実を軽蔑する偉大な精神（grands esprits contempteurs de la réalité）」であり「無限を求める者（Chercheuses d'infini）」──ボードレールが「完全なるロマン主義」として定義する「理想への不断の渇望」を体現する。詩人が「地獄においても追い求め、愛し、憐れむ」という連帯は、ボードレールの芸術論における「詩人と他の呪われた精神との共同体性」──詩人・芸術家・呪われた者という三つの重なりの倫理的表明。"
+    }
+  ]
+}
