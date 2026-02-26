@@ -1,0 +1,133 @@
+{
+  "id": "leconte_de_lisle_midi",
+  "title": "Midi",
+  "author": "Leconte de Lisle",
+  "source": "Poèmes antiques (Lemerre, Paris, 1852; édition définitive, 1874)",
+  "year": "1852",
+  "firstPublication": "Poèmes antiques (Lemerre, Paris, 1852)",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1852年「古代詩篇」収録。ルコント・ド・リール（1818-1894）のパルナス主義詩学の代表作。24行アレクサンドラン、6連構成。真昼（Midi）の光と静寂を宇宙的スケールで描き、後半（§5-6）で突然「近づけ！座れ。太陽を見よ」という読者への直接呼びかけに転じ、「不動の美（Impassible Beauté）」という哲学的帰結で閉じる。「Impassibilité（不動性・非感傷性）」──感情を排した冷静な美の観照──がパルナス主義の中核綱領であり、ボードレール象徴主義の「主観的感情の詩化」に対する対極を示す。",
+  "keywords": [
+    "真昼",
+    "パルナス主義",
+    "不動の美",
+    "太陽の支配",
+    "静寂",
+    "Impassibilité",
+    "宇宙的午後",
+    "呼びかけ",
+    "アレクサンドラン",
+    "古代詩篇"
+  ],
+  "relatedTexts": [
+    "leconte_de_lisle_illusion_supreme",
+    "baudelaire_heroisme",
+    "mallarme_lazur",
+    "hoelderlin_hyperions_schicksalslied",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Midi, roi des étés, épandu sur la plaine,\nTombe en nappes d'argent des hauteurs du ciel bleu.\nTout se tait. L'air flamboie et brûle sans haleine;\nLa Terre est assoupie en sa robe de feu.",
+      "provisionalTranslation": "真昼、夏々の王、平原の上に広がり、\n青い空の高みから銀の布となって降り注ぐ。\nすべてが沈黙する。空気は息もなく炎と燃える；\n大地は炎の衣をまとって眠りにつく。"
+    },
+    {
+      "id": 2,
+      "originalText": "L'étendue est immense, et les champs n'ont point d'ombre,\nEt la source est tarie où buvaient les troupeaux;\nLa lointaine forêt, dont la lisière est sombre,\nDort là-bas, immobile, en un pesant repos.",
+      "provisionalTranslation": "広がりは無限で、野原にはいかなる陰もなく、\n群れが飲んでいた泉は涸れている；\n遠い森は、その境が暗く、\nあそこで眠る、動かずに、重い休息の中で。"
+    },
+    {
+      "id": 3,
+      "originalText": "Seul, le grand bœuf blanc sous le fouet du soleil\nRetourne d'un pas lourd son sillon interminable,\nEt, guidant lentement ses pas somnambules,\nLe bouvier, engourdi, chante une vague fable.",
+      "provisionalTranslation": "ただ一頭、大きな白い牡牛が太陽の鞭の下で\n重い足取りで際限ない畝を返していく、\nそして、夢遊の歩みをゆっくりと導きながら、\n感覚の麻痺した牧童が曖昧な話を歌う。"
+    },
+    {
+      "id": 4,
+      "originalText": "Ne fais pas de bruit. Couché dans l'herbe épaisse,\nTends l'oreille... Entends-tu la plainte sourde et lente\nQue pousse aux champs brûlés, à la brise impuissante,\nLa terre sans espoir qui consume sa détresse?",
+      "provisionalTranslation": "音を立てるな。厚い草の中に横たわり、\n耳を澄ませ……聞こえるか、くぐもった緩やかな嘆きを\n燃え尽きた野原に、力なき微風に向けて、\n希望なく苦悩を燃やす大地が押し出す嘆きを？"
+    },
+    {
+      "id": 5,
+      "originalText": "Approche! Assieds-toi là. Regarde le soleil!\nSes rayons impitoyables s'étalent sur la plaine;\nVois! Midi déroule ses ardeurs sur la terre:\nPenche la tête au sein du parfum de la laine,",
+      "provisionalTranslation": "近づけ！そこに座れ。太陽を見よ！\nその容赦ない光線が平原の上に広がる；\n見よ！真昼がその灼熱を大地の上に展開する：\n羊毛の香りの懐に頭を傾けよ、"
+    },
+    {
+      "id": 6,
+      "originalText": "Et n'espère rien de plus... Ta Pensée est pleine:\nLe monde est ici: reste. C'est ici que réside\nL'Impassible Beauté, dont ton cœur est avide,\nMais qui n'apparaît point en vous tenant la main.",
+      "provisionalTranslation": "そしてそれ以上何も望むな……お前の思考は満たされている：\n世界はここにある：留まれ。ここに宿る\n不動の美が、お前の心が渇望するその美が、\nしかしそれは手を差し伸べてお前のそばには現れない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "24行アレクサンドラン（12音節行）、6連×4行（ABAB韻踏み）。構造は二部に分かれる：§1-4（情景描写──真昼の王、静寂、白牛、大地の嘆き）→§5-6（読者への直接呼びかけ「Approche!」→「不動の美」という哲学的帰結）。情景から命令・哲学へという転換が詩の形式的な衝撃を生む──16行にわたる静的な描写の後に突然「近づけ！座れ。太陽を見よ！」という命令形が炸裂する。パルナス主義の「客観的・冷静な描写」が最後に「主観的命令」へと爆発する逆説的構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Midi, roi des étés",
+      "body": "「真昼、夏々の王（Midi, roi des étés）」──詩の冒頭・核心比喩。「Midi（真昼・正午）」が「roi des étés（夏の王）」として擬人化・神格化される。ルコント・ド・リールにとって「真昼」は単なる時刻でなく宇宙的支配力──古代ギリシアのパン神（牧神）が支配する灼熱の午後の絶対的静寂の時。「épandu sur la plaine（平原の上に広がる）」という液体的な形容──太陽の光が「銀の布（nappes d'argent）」として大地に「降り注ぐ（tombe）」。マラルメ「L'Azur」の「sereine ironie（穏やかな冷笑）」が「上から見下ろす」のに対し、ここでは太陽が「大地に横たわる布」として降下的に遍在する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Tout se tait.",
+      "body": "「すべてが沈黙する（Tout se tait.）」──詩の最短の文・最大の命題。「Tout（すべて）」という全称命題と「se tait（沈黙する）」という再帰動詞──能動的に沈黙することを選ぶのでなく、沈黙状態に入る。「L'air flamboie et brûle sans haleine（空気は息もなく炎と燃える）」──「sans haleine（息なしに）」という形容が空気自体の呼吸の停止を示す。ヘルダーリン「Hyperions Schicksalslied」§1の「ihr wandelt droben im Licht（お前たちは上で光の中をさすらう）」という天上の静謐な神々との対照──ヘルダーリンの神々は「光の中をさすらう」のに対し、ルコント・ド・リールの真昼は「すべてを沈黙させる」という能動的支配として機能する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "les champs n'ont point d'ombre",
+      "body": "「野原にはいかなる陰もない（les champs n'ont point d'ombre）」──「ombre（影・陰）」の完全な不在。影は物体が光を遮ることで生まれるが、真昼の太陽が頭上に垂直に立つとき影は最小化される──詩はこの物理的事実を「陰の不在」として詩化する。「ombre」はフランス語で「影・陰・暗がり」の多義語──単に「影がない」だけでなく「曖昧さ・隠れる場所・涼しさ・不確かさ」のすべてが消滅する。ルコント・ド・リールの「Impassibilité（不動性）」の詩的予告──「陰（曖昧さ）のない真昼」が「不動の美」の空間的条件として機能する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "guidant lentement ses pas somnambules,\nLe bouvier, engourdi, chante une vague fable",
+      "body": "「夢遊の歩みをゆっくりと導きながら、感覚の麻痺した牧童が曖昧な話を歌う（guidant lentement ses pas somnambules, / Le bouvier, engourdi, chante une vague fable）」──「somnambules（夢遊的な）」・「engourdi（感覚麻痺した）」・「vague fable（曖昧な話）」という三つの形容が牧童の意識の溶解を描く。真昼の灼熱が人間の意識を「夢遊状態」へと移行させる──「fable（話）」の内容は「曖昧（vague）」つまり意識が明確でない状態での歌。ホフマンスタール「Regen in der Dämmerung」§4の「wandernde Wind（彷徨う風）」・「ziellosem Wandern（無目的な彷徨）」という意識の溶解状態との対照──ただし「Regen」が「雨の中の溶解」であるのに対し「Midi」は「真昼の灼熱による麻痺」という正反対の気象条件で同じ意識の溶解を描く。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "la plainte sourde et lente\nQue pousse … La terre sans espoir",
+      "body": "「希望なく苦悩を燃やす大地が押し出すくぐもった緩やかな嘆き（la plainte sourde et lente … La terre sans espoir）」──§4の転換点。§1-3の壮大な静寂描写から「嘆き（plainte）」という感情的要素が導入される。「La Terre（大地）」の大文字化──擬人化された大地が「希望なく（sans espoir）」嘆く。「sans espoir」──ボードレール「Spleen」の「Espoir vaincu（敗北した希望）」との語彙的共鳴──ただしボードレールの「希望の敗北」が詩人自身の内的体験であるのに対し、ルコント・ド・リールでは大地そのものが「希望なく」嘆く宇宙的スケールの悲嘆として提示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Approche! Assieds-toi là. Regarde le soleil!",
+      "body": "「近づけ！そこに座れ。太陽を見よ！（Approche! Assieds-toi là. Regarde le soleil!）」──詩の最大の構造的転換。§1-4の三人称的・客観的描写から「お前（tu）」への直接命令形への突然の転換。三つの命令形（Approche / Assieds-toi / Regarde）が連続して読者を詩の空間に引き込む。ルコント・ド・リールの「客観的描写」が実は「読者を招く」ための準備であったことが遡及的に明らかになる──パルナス主義の「冷静な客観性」が最後に強烈な「主観的命令」に反転する構造。マラルメ「Éventail」の「Tu（お前）」への呼びかけ的詩学との比較──マラルメでは「名を言わず理由も言わず」の静かな呼びかけ、ルコント・ド・リールでは「Approche! 近づけ！」という命令的呼びかけ。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "glossary",
+      "anchor": "L'Impassible Beauté, dont ton cœur est avide,\nMais qui n'apparaît point en vous tenant la main",
+      "body": "「不動の美──お前の心が渇望するその美が、しかしそれは手を差し伸べてお前のそばには現れない（L'Impassible Beauté … Mais qui n'apparaît point en vous tenant la main）」──詩の帰結命題・パルナス主義の綱領的宣言。「Impassible（不動の・非感傷的な）」──ルコント・ド・リールが掲げるパルナス主義の核心概念。美は「感情に応える（tenir la main）」存在でなく、「ここに宿る（réside）」が「手を差し伸べない」──美は冷静で超然としており、人間の感傷的接触を拒む。ボードレール「Spleen」の「Angoisse … plante son drapeau noir（不安が黒旗を立てる）」という「美の征服的占領」とは対照的──ルコント・ド・リールの美は征服せず、ただ「手を差し伸べない距離」の中に存在する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Le monde est ici: reste.",
+      "body": "「世界はここにある：留まれ（Le monde est ici: reste.）」──詩の哲学的核心。「Le monde est ici（世界はここにある）」──超越的・形而上学的な「どこか別の場所（ailleurs）」への期待の否定。「reste（留まれ）」──一語の命令形が詩全体の倫理的命題として機能する。「Et n'espère rien de plus（それ以上何も望むな）」──「希望（espoir）の廃絶」としての哲学的到達点。マラルメ「L'Azur」の「詩人が青空（理想）から逃げようとして失敗する」という「理想への強制的回収」とは逆に──ルコント・ド・リールは「ここに留まれ、世界はここにある」という内在的・非超越的な美の観照を命じる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "L'Impassible Beauté",
+      "targetId": "baudelaire_heroisme",
+      "body": "「不動の美（L'Impassible Beauté）」──ボードレール「近代生活の英雄主義（Héroïsme de la vie moderne）」が近代都市の「可変的・瞬間的・偶発的な美」を称賛するのに対して、ルコント・ド・リールの「Impassible Beauté」は「不変・超時間的・非感傷的な美」を提示する──両者は同時代のフランス詩における「美」の定義をめぐる正反対の立場を示す。ボードレールにとって美は「近代性（modernité）＝一時的なものの中の永遠」であり、ルコント・ド・リールにとって美は「古典的不動性（Impassibilité）＝感情を超えた宇宙的静寂」である。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "intertextual",
+      "anchor": "Et n'espère rien de plus",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "body": "「それ以上何も望むな（Et n'espère rien de plus）」──ヘルダーリン「Hyperions Schicksalslied」§3の「Doch uns ist gegeben, / Auf keiner Stätte zu ruhn（しかしわれわれには、どこにも留まることが許されていない）」という「どこにも安住できない人間の宿命」との対照。ヘルダーリンでは人間は「留まれない」ことを宿命として悲嘆的に受け入れるのに対し、ルコント・ド・リールは「ここに留まれ（reste）」という命令によって「留まること」を美の観照の条件として肯定的に命じる──「人間の安住の可否」という共通主題が仏独対照をなす。"
+    }
+  ]
+}
