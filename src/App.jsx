@@ -66,7 +66,6 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
-  const [jaFontFamily, setJaFontFamily] = useState('shippori');
 
   // 新機能
   const [searchQuery, setSearchQuery] = useState('');
@@ -651,20 +650,11 @@ export default function App() {
   const inputBg         = darkMode ? 'bg-gray-800 text-gray-100 placeholder-gray-500 border-gray-700' : 'bg-gray-50 text-gray-900 placeholder-gray-400 border-gray-300';
   const settingsBg      = darkMode ? 'bg-gray-900 border-gray-700 shadow-2xl' : 'bg-white border-gray-200 shadow-2xl';
 
-  const euFontName =
-    fontFamily === 'garamond' ? '"EB Garamond"' :
-    fontFamily === 'im-fell'  ? '"IM Fell English"' :
-    fontFamily === 'alice'    ? '"Alice"' :
-    fontFamily === 'fraktur'  ? '"UnifrakturMaguntia"' :
-    '"Inter"';
-
-  const jaFontName =
-    jaFontFamily === 'shippori'   ? '"Shippori Mincho B1"' :
-    jaFontFamily === 'noto-serif' ? '"Noto Serif JP"' :
-    jaFontFamily === 'noto-sans'  ? '"Noto Sans JP"' :
-    '"Shippori Mincho B1"';
-
-  const fontFamilyStyle = `${euFontName}, ${jaFontName}, serif`;
+  const fontFamilyStyle =
+    fontFamily === 'garamond' ? '"EB Garamond", "Shippori Mincho B1", serif' :
+    fontFamily === 'im-fell'  ? '"IM Fell English", "Shippori Mincho B1", serif' :
+    fontFamily === 'alice'    ? '"Alice", "Shippori Mincho B1", serif' :
+    '"EB Garamond", "Shippori Mincho B1", serif';
 
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
@@ -764,15 +754,14 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* 欧文フォント */}
-                <div className="mb-3">
-                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>欧文フォント</label>
+                {/* フォント */}
+                <div className="mb-4">
+                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>フォント</label>
                   <div className="flex flex-col gap-1">
                     {[
-                      ['garamond', 'Garamond',  'EB Garamond'],
-                      ['alice',    'Alice',      'Alice'],
-                      ['im-fell',  'IM Fell',    'IM Fell English'],
-                      ['fraktur',  'Fraktur',    'UnifrakturMaguntia'],
+                      ['garamond', 'Garamond', 'EB Garamond'],
+                      ['alice',    'Alice',     'Alice'],
+                      ['im-fell',  'IM Fell',   'IM Fell English'],
                     ].map(([val, label, preview]) => (
                       <button
                         key={val}
@@ -785,31 +774,6 @@ export default function App() {
                       >
                         <span>{label}</span>
                         <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '0.95em' }}>Abc</span>
-                      </button>
-                    ))}
-                  </div>
-                </div>
-
-                {/* 和文フォント */}
-                <div className="mb-4">
-                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>和文フォント</label>
-                  <div className="flex flex-col gap-1">
-                    {[
-                      ['shippori',   'しっぽり明朝',   '"Shippori Mincho B1", serif'],
-                      ['noto-serif', 'Noto Serif JP', '"Noto Serif JP", serif'],
-                      ['noto-sans',  'Noto Sans JP',  '"Noto Sans JP", sans-serif'],
-                    ].map(([val, label, stack]) => (
-                      <button
-                        key={val}
-                        onClick={() => setJaFontFamily(val)}
-                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors flex items-center justify-between ${
-                          jaFontFamily === val
-                            ? 'bg-indigo-600 text-white'
-                            : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                        }`}
-                      >
-                        <span>{label}</span>
-                        <span className="opacity-60" style={{ fontFamily: stack, fontSize: '0.95em' }}>あア字</span>
                       </button>
                     ))}
                   </div>
