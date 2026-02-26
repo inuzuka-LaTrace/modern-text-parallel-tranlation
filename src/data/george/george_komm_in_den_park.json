@@ -22,17 +22,17 @@
     {
       "id": 1,
       "originalText": "Komm in den totgesagten park und schau:\nDer schimmer ferner lächelnder gestade –\nDer reinen wolken unverhofftes blau\nErhellt die weiher und die bunten pfade.",
-      "provisionalTranslation": "死んだと言われた公園に来て、見よ：\n遠く微笑む岸辺のきらめき——\n澄んだ雲の思いがけない青さが\n池を、彩り豊かな小径を明るく照らす。"
+      "provisionalTranslation": "死んだと言われた公園に来て、見よ：\n遠く微笑む岸辺のきらめき──\n澄んだ雲の思いがけない青さが\n池を、彩り豊かな小径を明るく照らす。"
     },
     {
       "id": 2,
       "originalText": "Dort nimm das tiefe gelb – das weiche grau\nVon birken und von buchs – der wind ist lau –\nDie späten rosen welkten noch nicht ganz –\nErlese küsse sie und flicht den kranz –",
-      "provisionalTranslation": "あそこで取れ、深い黄——柔らかな灰色を\n白樺と黄楊から——風はぬるい——\n遅咲きの薔薇はまだ完全には萎れていない——\n丹念に摘み、口付けして、花環を編め——"
+      "provisionalTranslation": "あそこで取れ、深い黄──柔らかな灰色を\n白樺と黄楊から──風はぬるい──\n遅咲きの薔薇はまだ完全には萎れていない──\n丹念に摘み、口付けして、花環を編め──"
     },
     {
       "id": 3,
       "originalText": "Vergiss auch diese lezten astern nicht –\nDen purpur um die ranken wilder reben\nUnd auch was übrig blieb von grünem leben\nVerwinde leicht im herbstlichen gesicht.",
-      "provisionalTranslation": "この最後のアスターたちも忘れるな——\n野生の蔦のつるを巡る紫を\nそして緑の生命から残ったものをも——\n秋の顔の中に軽やかに織り込め。"
+      "provisionalTranslation": "この最後のアスターたちも忘れるな──\n野生の蔦のつるを巡る紫を\nそして緑の生命から残ったものをも──\n秋の顔の中に軽やかに織り込め。"
     }
   ],
   "annotations": [
@@ -46,7 +46,7 @@
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "totgesagten park",
-      "body": "「死んだと言われた公園」。totgesagt（死んだと言われた）は他者の評価・言説による否定を示す。実際には死んでいない——詩はこの逆説から始まり、外部の評価に抗して内側に潜む生を発見する行為として展開する。"
+      "body": "「死んだと言われた公園」。totgesagt（死んだと言われた）は他者の評価・言説による否定を示す。実際には死んでいない──詩はこの逆説から始まり、外部の評価に抗して内側に潜む生を発見する行為として展開する。"
     },
     {
       "paragraphId": 1,
@@ -58,31 +58,31 @@
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "tiefe gelb – das weiche grau",
-      "body": "「深い黄——柔らかな灰色」。詩全体が色彩の目録として構造化されている：黄・灰・青（第1連）→ 紅・灰（第2連）→ 紫・緑（第3連）。ゲオルゲの色彩語は形容詞が必ず伴い（深い・柔らかな・思いがけない）、色の質感・感触まで示す。"
+      "body": "「深い黄──柔らかな灰色」。詩全体が色彩の目録として構造化されている：黄・灰・青（第1連）→ 紅・灰（第2連）→ 紫・緑（第3連）。ゲオルゲの色彩語は形容詞が必ず伴い（深い・柔らかな・思いがけない）、色の質感・感触まで示す。"
     },
     {
       "paragraphId": 2,
       "type": "glossary",
       "anchor": "Erlese küsse sie",
-      "body": "「丹念に摘み、口付けして」。erlesen（丹念に選ぶ・精選する）はゲオルゲの詩学的態度——選び抜かれたもののみを扱う——を語彙レベルで体現する。さらに「口付けする（küsse）」という官能的動詞が花との身体的な親密さを示す。"
+      "body": "「丹念に摘み、口付けして」。erlesen（丹念に選ぶ・精選する）はゲオルゲの詩学的態度──選び抜かれたもののみを扱う──を語彙レベルで体現する。さらに「口付けする（küsse）」という官能的動詞が花との身体的な親密さを示す。"
     },
     {
       "paragraphId": 3,
       "type": "glossary",
       "anchor": "lezten astern",
-      "body": "「最後のアスター」。letzt（最後の）は季節の終わりの極限を示す。アスター（Aster）はゲオルゲとトラークルに共通する秋の象徴。ゲオルゲの「最後のアスター」が「忘れるな」と肯定されるのに対し、トラークル「Verfall」の「青いアスター」は死の輪舞の中で傾く——同一の花が対照的な詩的宇宙に置かれている。"
+      "body": "「最後のアスター」。letzt（最後の）は季節の終わりの極限を示す。アスター（Aster）はゲオルゲとトラークルに共通する秋の象徴。ゲオルゲの「最後のアスター」が「忘れるな」と肯定されるのに対し、トラークル「Verfall」の「青いアスター」は死の輪舞の中で傾く──同一の花が対照的な詩的宇宙に置かれている。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "Verwinde leicht im herbstlichen gesicht",
-      "body": "「秋の顔の中に軽やかに織り込め」。verwinden（織り込む・克服する）は苦しみや悲しみを受け入れて「乗り越える」ニュアンスも持つ。秋の死の気配を嘆くのでなく受け入れ、美として織り込む——これが詩全体の主題であり、ゲオルゲ象徴主義の倫理的態度を端的に示す結句。"
+      "body": "「秋の顔の中に軽やかに織り込め」。verwinden（織り込む・克服する）は苦しみや悲しみを受け入れて「乗り越える」ニュアンスも持つ。秋の死の気配を嘆くのでなく受け入れ、美として織り込む──これが詩全体の主題であり、ゲオルゲ象徴主義の倫理的態度を端的に示す結句。"
     },
     {
       "paragraphId": 3,
       "type": "intertextual",
       "anchor": null,
-      "body": "「死んだと言われた庭」に隠れた生を発見するこの詩は、トラークル「Verfall」（頽廃）と正確に対照をなす。どちらも秋の庭・アスターを共有するが、ゲオルゲが「美の発見と受容」へ向かうのに対し、トラークルの庭は「死の輪舞」に満ちている——同一の素材から二つの世界観への分岐。",
+      "body": "「死んだと言われた庭」に隠れた生を発見するこの詩は、トラークル「Verfall」（頽廃）と正確に対照をなす。どちらも秋の庭・アスターを共有するが、ゲオルゲが「美の発見と受容」へ向かうのに対し、トラークルの庭は「死の輪舞」に満ちている──同一の素材から二つの世界観への分岐。",
       "targetId": "trakl_verfall",
       "targetParagraphId": null
     }
