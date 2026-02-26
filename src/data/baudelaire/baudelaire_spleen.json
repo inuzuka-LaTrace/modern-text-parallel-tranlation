@@ -9,7 +9,7 @@
   "category": "baudelaire",
   "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "1857年「悪の花」第80番。ボードレールが「Spleen」と題した4篇のうち最後・最長・最も著名なもの（LXXVII〜LXXX番）。5連20行アレクサンドラン、ABAB韻踏み。「低く重い空（ciel bas et lourd）」から始まり「敗北した魂に黒い旗を立てる不安（l'Angoisse atroce, despotique / Sur mon crâne incliné plante son drapeau noir）」で終わる——気象的・身体的・存在論的な三層での「閉塞」の詩。「spleen」はボードレール的な倦怠・憂鬱・世界への嫌悪感の中核語彙で、英語の「脾臓（spleen）」から転じた感情語。",
+  "context": "1857年「悪の花」第80番。ボードレールが「Spleen」と題した4篇のうち最後・最長・最も著名なもの（LXXVII〜LXXX番）。5連20行アレクサンドラン、ABAB韻踏み。「低く重い空（ciel bas et lourd）」から始まり「敗北した魂に黒い旗を立てる不安（l'Angoisse atroce, despotique / Sur mon crâne incliné plante son drapeau noir）」で終わる──気象的・身体的・存在論的な三層での「閉塞」の詩。「spleen」はボードレール的な倦怠・憂鬱・世界への嫌悪感の中核語彙で、英語の「脾臓（spleen）」から転じた感情語。",
   "keywords": [
     "低く重い空",
     "閉塞感",
@@ -53,76 +53,76 @@
     {
       "id": 5,
       "originalText": "— Et de longs corbillards, sans tambours ni musique,\nDéfilent lentement dans mon âme; l'Espoir,\nVaincu, pleure, et l'Angoisse atroce, despotique,\nSur mon crâne incliné plante son drapeau noir.",
-      "provisionalTranslation": "——そして長い霊柩車が、太鼓も音楽もなく、\n私の魂の中をゆっくりと行進する；希望が、\n敗北し、泣き、そして残酷な専制的な不安が、\n傾いた私の頭蓋に黒い旗を立てる。"
+      "provisionalTranslation": "──そして長い霊柩車が、太鼓も音楽もなく、\n私の魂の中をゆっくりと行進する；希望が、\n敗北し、泣き、そして残酷な専制的な不安が、\n傾いた私の頭蓋に黒い旗を立てる。"
     }
   ],
   "annotations": [
     {
       "paragraphId": 1,
       "type": "prosody",
-      "body": "5連×4行（計20行）、アレクサンドラン（12音節行）、ABAB韻踏み。詩全体が「Quand（～するとき）」という従属節の連鎖として構成される——§1「Quand le ciel…」→§2「Quand la terre…」→§3「Quand la pluie…」という三重の「Quand」が主節なしに積み重なり、§4でダッシュによる転換（「Des cloches tout à coup…」）を経て、§5の「——Et de longs corbillards…」という帰結で終わる。「Quand」の反復による閉塞感の漸増的構築——主節への到達を延期し続ける文法的構造が「spleen」の時間的停滞を形式的に実装する。"
+      "body": "5連×4行（計20行）、アレクサンドラン（12音節行）、ABAB韻踏み。詩全体が「Quand（～するとき）」という従属節の連鎖として構成される──§1「Quand le ciel…」→§2「Quand la terre…」→§3「Quand la pluie…」という三重の「Quand」が主節なしに積み重なり、§4でダッシュによる転換（「Des cloches tout à coup…」）を経て、§5の「──Et de longs corbillards…」という帰結で終わる。「Quand」の反復による閉塞感の漸増的構築──主節への到達を延期し続ける文法的構造が「spleen」の時間的停滞を形式的に実装する。"
     },
     {
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "le ciel bas et lourd pèse comme un couvercle",
-      "body": "「低く重い空が蓋のように圧しかかる（le ciel bas et lourd pèse comme un couvercle）」——詩の冒頭・核心比喩。「couvercle（蓋）」——空が「蓋」として機能するという完全な閉塞の比喩。「L'Azur」の「De l'éternel Azur la sereine ironie（永遠の青空の穏やかな冷笑）」とは対照的——マラルメの青空が「上から冷笑する透明な高み」であるのに対し、ボードレールの空は「低く重く圧しかかる蓋」として下降・閉塞の力として機能する。同じ「空と詩人の関係」が仏語詩において全く異なる空間的ベクトルを持つ。"
+      "body": "「低く重い空が蓋のように圧しかかる（le ciel bas et lourd pèse comme un couvercle）」──詩の冒頭・核心比喩。「couvercle（蓋）」──空が「蓋」として機能するという完全な閉塞の比喩。「L'Azur」の「De l'éternel Azur la sereine ironie（永遠の青空の穏やかな冷笑）」とは対照的──マラルメの青空が「上から冷笑する透明な高み」であるのに対し、ボードレールの空は「低く重く圧しかかる蓋」として下降・閉塞の力として機能する。同じ「空と詩人の関係」が仏語詩において全く異なる空間的ベクトルを持つ。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "un jour noir plus triste que les nuits",
-      "body": "「夜よりも悲しい暗い昼（un jour noir plus triste que les nuits）」——「noir（黒い）」という形容が「jour（昼・日）」に付与される矛盾語法。昼が夜よりも暗く悲しい——通常の昼夜の対立（明るさ/暗さ）が逆転する。「spleen」の状態では昼の「明るさ」が逆に閉塞感を強化する——希望をもたらすはずの昼光が「暗い昼（jour noir）」として体験される。「Ballade des äußeren Lebens」の「Was bleibt davon? der Tag, die Nacht（残るものは？昼と夜）」という時間の空洞化との対照。"
+      "body": "「夜よりも悲しい暗い昼（un jour noir plus triste que les nuits）」──「noir（黒い）」という形容が「jour（昼・日）」に付与される矛盾語法。昼が夜よりも暗く悲しい──通常の昼夜の対立（明るさ/暗さ）が逆転する。「spleen」の状態では昼の「明るさ」が逆に閉塞感を強化する──希望をもたらすはずの昼光が「暗い昼（jour noir）」として体験される。「Ballade des äußeren Lebens」の「Was bleibt davon? der Tag, die Nacht（残るものは？昼と夜）」という時間の空洞化との対照。"
     },
     {
       "paragraphId": 2,
       "type": "commentary",
       "anchor": "l'Espérance, comme une chauve-souris,\nS'en va battant les murs de son aile timide",
-      "body": "「希望が、蝙蝠のように、臆病な翼で壁を叩きながら去る（l'Espérance, comme une chauve-souris, / S'en va battant les murs de son aile timide）」——「Espérance（希望）」の大文字化が希望を擬人化された実体として提示する。「蝙蝠（chauve-souris）」という夜の動物への比喩——盲目的に壁に衝突しながら閉じた空間から出口を探す蝙蝠として「希望」が定義される。「aile timide（臆病な翼）」——翼を持ちながら「臆病」という形容——飛翔の能力があっても臆病さゆえに牢獄から脱出できない。「Éventail」の「l'espace comme un grand baiser / Qui ne peut jaillir ni s'apaiser（噴き出すことも静まることもできない口づけのような空間）」という「解消されない緊張の持続」との構造的共鳴。"
+      "body": "「希望が、蝙蝠のように、臆病な翼で壁を叩きながら去る（l'Espérance, comme une chauve-souris, / S'en va battant les murs de son aile timide）」──「Espérance（希望）」の大文字化が希望を擬人化された実体として提示する。「蝙蝠（chauve-souris）」という夜の動物への比喩──盲目的に壁に衝突しながら閉じた空間から出口を探す蝙蝠として「希望」が定義される。「aile timide（臆病な翼）」──翼を持ちながら「臆病」という形容──飛翔の能力があっても臆病さゆえに牢獄から脱出できない。「Éventail」の「l'espace comme un grand baiser / Qui ne peut jaillir ni s'apaiser（噴き出すことも静まることもできない口づけのような空間）」という「解消されない緊張の持続」との構造的共鳴。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "la pluie étalant ses immenses traînées\nD'une vaste prison imite les barreaux",
-      "body": "「雨がその巨大な縞模様を広げながら広大な牢獄の格子を模倣する（la pluie étalant ses immenses traînées / D'une vaste prison imite les barreaux）」——雨の縦縞が「牢獄の格子（barreaux）」として知覚される視覚的変換。自然現象（雨）が刑務所的空間の構造物（格子）として読まれる——「spleen」の状態では自然が建築的閉塞として体験される。「Regen in der Dämmerung」§4の「Im Regen, der rieselnd fiel（さらさらと降る雨の中）」という「歩くのに良い雨」とは正反対の——ホフマンスタールの雨が「解放的な無目的の道」を照らすのに対し、ボードレールの雨は「牢獄の格子」として閉塞を強化する。"
+      "body": "「雨がその巨大な縞模様を広げながら広大な牢獄の格子を模倣する（la pluie étalant ses immenses traînées / D'une vaste prison imite les barreaux）」──雨の縦縞が「牢獄の格子（barreaux）」として知覚される視覚的変換。自然現象（雨）が刑務所的空間の構造物（格子）として読まれる──「spleen」の状態では自然が建築的閉塞として体験される。「Regen in der Dämmerung」§4の「Im Regen, der rieselnd fiel（さらさらと降る雨の中）」という「歩くのに良い雨」とは正反対の──ホフマンスタールの雨が「解放的な無目的の道」を照らすのに対し、ボードレールの雨は「牢獄の格子」として閉塞を強化する。"
     },
     {
       "paragraphId": 3,
       "type": "commentary",
       "anchor": "un peuple muet d'infâmes araignées\nVient tendre ses filets au fond de nos cerveaux",
-      "body": "「悪名高い蜘蛛の無言の民が私たちの脳の奥に巣を張りに来る（un peuple muet d'infâmes araignées / Vient tendre ses filets au fond de nos cerveaux）」——「muet（無言の）」という形容が蜘蛛の侵入の「静寂性・密かさ」を強調する。「infâmes（悪名高い）」という道徳的形容——蜘蛛が単なる害虫でなく「悪名（infamie）」を持つ存在として擬人化される。「fond de nos cerveaux（脳の奥底）」——外界（空・雨）から身体内部（脳）への閉塞空間の移行——詩は気象的閉塞から神経的・脳的閉塞へと空間を縮小していく。"
+      "body": "「悪名高い蜘蛛の無言の民が私たちの脳の奥に巣を張りに来る（un peuple muet d'infâmes araignées / Vient tendre ses filets au fond de nos cerveaux）」──「muet（無言の）」という形容が蜘蛛の侵入の「静寂性・密かさ」を強調する。「infâmes（悪名高い）」という道徳的形容──蜘蛛が単なる害虫でなく「悪名（infamie）」を持つ存在として擬人化される。「fond de nos cerveaux（脳の奥底）」──外界（空・雨）から身体内部（脳）への閉塞空間の移行──詩は気象的閉塞から神経的・脳的閉塞へと空間を縮小していく。"
     },
     {
       "paragraphId": 4,
       "type": "commentary",
       "anchor": "Des cloches tout à coup sautent avec furie\nEt lancent vers le ciel un affreux hurlement",
-      "body": "「鐘たちが突然激しく跳び上がり、ひどい叫び声を空に向けて放つ（Des cloches tout à coup sautent avec furie / Et lancent vers le ciel un affreux hurlement）」——三重の「Quand」による閉塞的積み重ねの後、「tout à coup（突然）」という時間的転換。鐘が「跳び上がる（sautent）」・「叫び声を放つ（lancent … hurlement）」という激しい動詞——「L'Azur」§4の「il se fait voix … sort en bleus angélus（青空が声となり青いアンジェラスとして出てくる）」との対照。マラルメでは鐘が「青空の勝利の声」として詩人を占領するのに対し、ボードレールでは鐘が「故郷なき亡霊の叫び」として大気を充填する——同じ「鐘」が仏語詩の中で全く異なる存在論的機能を担う。"
+      "body": "「鐘たちが突然激しく跳び上がり、ひどい叫び声を空に向けて放つ（Des cloches tout à coup sautent avec furie / Et lancent vers le ciel un affreux hurlement）」──三重の「Quand」による閉塞的積み重ねの後、「tout à coup（突然）」という時間的転換。鐘が「跳び上がる（sautent）」・「叫び声を放つ（lancent … hurlement）」という激しい動詞──「L'Azur」§4の「il se fait voix … sort en bleus angélus（青空が声となり青いアンジェラスとして出てくる）」との対照。マラルメでは鐘が「青空の勝利の声」として詩人を占領するのに対し、ボードレールでは鐘が「故郷なき亡霊の叫び」として大気を充填する──同じ「鐘」が仏語詩の中で全く異なる存在論的機能を担う。"
     },
     {
       "paragraphId": 5,
       "type": "glossary",
       "anchor": "l'Angoisse atroce, despotique,\nSur mon crâne incliné plante son drapeau noir",
-      "body": "「残酷な専制的な不安が、傾いた私の頭蓋に黒い旗を立てる（l'Angoisse atroce, despotique, / Sur mon crâne incliné plante son drapeau noir）」——詩の最終2行・帰結命題。「Angoisse（不安・苦悩）」の大文字化——「Espérance（希望）」が§2で「蝙蝠として敗北」した後、「Angoisse」が§5で「専制君主として勝利」する対称的な人格化。「drapeau noir（黒い旗）」——軍事的征服のメタファー。「mon crâne incliné（傾いた私の頭蓋）」——戦争での敗北で頭を垂れた敗者の身体的姿勢。「Angoisse」（マラルメ同題詩1862年）の「Je fuis, pâle, défait（私は青ざめ打ちひしがれて逃げる）」との語彙的連続——詩人の敗北・打ちひしがれた身体という共通形象。"
+      "body": "「残酷な専制的な不安が、傾いた私の頭蓋に黒い旗を立てる（l'Angoisse atroce, despotique, / Sur mon crâne incliné plante son drapeau noir）」──詩の最終2行・帰結命題。「Angoisse（不安・苦悩）」の大文字化──「Espérance（希望）」が§2で「蝙蝠として敗北」した後、「Angoisse」が§5で「専制君主として勝利」する対称的な人格化。「drapeau noir（黒い旗）」──軍事的征服のメタファー。「mon crâne incliné（傾いた私の頭蓋）」──戦争での敗北で頭を垂れた敗者の身体的姿勢。「Angoisse」（マラルメ同題詩1862年）の「Je fuis, pâle, défait（私は青ざめ打ちひしがれて逃げる）」との語彙的連続──詩人の敗北・打ちひしがれた身体という共通形象。"
     },
     {
       "paragraphId": 5,
       "type": "commentary",
       "anchor": "de longs corbillards, sans tambours ni musique,\nDéfilent lentement dans mon âme",
-      "body": "「長い霊柩車が、太鼓も音楽もなく、私の魂の中をゆっくりと行進する（de longs corbillards, sans tambours ni musique, / Défilent lentement dans mon âme）」——「corbillards（霊柩車）」の「行進（défilent）」が「外界」でなく「私の魂の中（dans mon âme）」で起こる。§1〜3で外界（空・大地・雨）として描かれた閉塞が§5で「魂の内部の霊柩車行進」として完全に内面化される——「spleen」の空間的収縮（外→内）の完成。「sans tambours ni musique（太鼓も音楽もなく）」——葬列を彩るはずの音楽の不在が「spleen」の状態での感覚的空洞を示す。「Harmonie du soir」の豊かな「音と香りの回転」との対称——同じボードレールの詩的宇宙において「音楽のある夕暮れ」と「音楽なき霊柩車行進」が対極として共存する。"
+      "body": "「長い霊柩車が、太鼓も音楽もなく、私の魂の中をゆっくりと行進する（de longs corbillards, sans tambours ni musique, / Défilent lentement dans mon âme）」──「corbillards（霊柩車）」の「行進（défilent）」が「外界」でなく「私の魂の中（dans mon âme）」で起こる。§1〜3で外界（空・大地・雨）として描かれた閉塞が§5で「魂の内部の霊柩車行進」として完全に内面化される──「spleen」の空間的収縮（外→内）の完成。「sans tambours ni musique（太鼓も音楽もなく）」──葬列を彩るはずの音楽の不在が「spleen」の状態での感覚的空洞を示す。「Harmonie du soir」の豊かな「音と香りの回転」との対称──同じボードレールの詩的宇宙において「音楽のある夕暮れ」と「音楽なき霊柩車行進」が対極として共存する。"
     },
     {
       "paragraphId": 5,
       "type": "intertextual",
       "anchor": "l'Espoir,\nVaincu, pleure",
       "targetId": "mallarme_lazur",
-      "body": "「希望が敗北し泣く（l'Espoir, / Vaincu, pleure）」——マラルメ「L'Azur」§4の「En vain! L'Azur triomphe（無駄に！青空は勝利する）」という詩人の希望の敗北との対応。「L'Azur」では「詩人が青空（理想）から逃避しようとして失敗する」のに対し、「Spleen」では「希望そのものが敗北し泣く」——敗北の主体が詩人（マラルメ）から希望の擬人化（ボードレール）へと移動する。「理想に対する詩人・人間的希望の敗北」という共通主題の仏語詩における二つの変奏。"
+      "body": "「希望が敗北し泣く（l'Espoir, / Vaincu, pleure）」──マラルメ「L'Azur」§4の「En vain! L'Azur triomphe（無駄に！青空は勝利する）」という詩人の希望の敗北との対応。「L'Azur」では「詩人が青空（理想）から逃避しようとして失敗する」のに対し、「Spleen」では「希望そのものが敗北し泣く」──敗北の主体が詩人（マラルメ）から希望の擬人化（ボードレール）へと移動する。「理想に対する詩人・人間的希望の敗北」という共通主題の仏語詩における二つの変奏。"
     },
     {
       "paragraphId": 5,
       "type": "intertextual",
       "anchor": "plante son drapeau noir",
       "targetId": "hofmannsthal_ballade",
-      "body": "「黒い旗を立てる（plante son drapeau noir）」——ホフマンスタール「Ballade des äußeren Lebens」の「Und wozu alles dies?（これらすべてはなんのために？）」という問いに「Abend（夕べ）」という一語で応答する構造との対照。「Ballade」が「外的な生の無意味さ」を問いながら「夕べ」という詩的充実で閉じるのに対し、「Spleen」は「生の閉塞」を積み重ねながら「黒い旗の占領」という征服的帰結で閉じる——「生の無意味さへの応答」の独仏対照：詩的充実（ホフマンスタール）vs 不安による征服（ボードレール）。"
+      "body": "「黒い旗を立てる（plante son drapeau noir）」──ホフマンスタール「Ballade des äußeren Lebens」の「Und wozu alles dies?（これらすべてはなんのために？）」という問いに「Abend（夕べ）」という一語で応答する構造との対照。「Ballade」が「外的な生の無意味さ」を問いながら「夕べ」という詩的充実で閉じるのに対し、「Spleen」は「生の閉塞」を積み重ねながら「黒い旗の占領」という征服的帰結で閉じる──「生の無意味さへの応答」の独仏対照：詩的充実（ホフマンスタール）vs 不安による征服（ボードレール）。"
     }
   ]
 }
