@@ -1,0 +1,144 @@
+{
+  "id": "mallarme_toast_funebre",
+  "title": "Toast funèbre",
+  "author": "Stéphane Mallarmé",
+  "source": "Le Tombeau de Théophile Gautier (Lemerre, Paris, 1873); Poésies (Deman, Bruxelles, 1887); Poésies complètes (1899)",
+  "year": "1873",
+  "firstPublication": "Le Tombeau de Théophile Gautier (Lemerre, Paris, 1873)",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1873年作、ゴーティエ没後1周年追悼詩集 Le Tombeau de Théophile Gautier（Lemerre, Paris, 1873）に掲載。115行アレクサンドラン──マラルメの完成詩の中で最長の一つ。ゴーティエ追悼という機会詩でありながら、詩人の使命・死と詩の関係・言語と実在の弁証法というマラルメ詩学の核心主題を全面的に展開した作品。「写実的な墓（tom­beau réaliste）を拒絶し、詩のみが死者を永続させる」という命題が詩全体を貫く。7段落構成。",
+  "keywords": [
+    "ゴーティエ追悼",
+    "詩の永続性",
+    "死と言語",
+    "乾杯",
+    "幻影の否定",
+    "花の象徴",
+    "アレクサンドラン",
+    "詩人の使命",
+    "虚無と詩",
+    "le Maître"
+  ],
+  "relatedTexts": [
+    "mallarme_tombeau_baudelaire",
+    "mallarme_crise_de_vers",
+    "mallarme_ses_purs_ongles",
+    "baudelaire_gautier",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "O de notre bonheur, toi, le fatal emblème!\nSalut de la démence et libation blême,\nNe crois pas qu'au magique espoir du corridor\nJ'offre ma coupe vide où souffre un monstre d'or!",
+      "provisionalTranslation": "おお、われわれの幸福の、お前、宿命的な紋章よ！\n狂気の挨拶、青白い献酒よ、\n廊下の魔法のような希望に\n金の怪物が苦しむ私の空の杯を捧げるとは思うな！"
+    },
+    {
+      "id": 2,
+      "originalText": "Ton apparition ne va pas me suffire:\nCar je t'ai mis moi-même en un lieu de porphyre.\nLe rite est pour les mains d'éteindre le flambeau,\nContre le fer épais des portes du tombeau,\nEt l'on ignore mal, élu pour notre fête\nTrès simple de chanter l'absence du poète,\nQue ce beau monument l'enferme tout entier:\nSi ce n'est que la gloire ardente du métier,\nJusqu'à l'heure commune et vile de la cendre,\nPar le carreau qu'allume un soir fier d'y descendre,\nProlongera-t-il! –",
+      "provisionalTranslation": "お前の出現は私を満足させない：\nなぜなら私は自らお前を斑岩の場所に置いたから。\n儀式は松明を消す手のためにあり、\n墓の分厚い扉の鉄に対して、\nそして私たちの祝祭のために選ばれ、\n詩人の不在を歌う単純な儀式を行う者はよく知らない、\nこの美しい記念碑が彼を全体として閉じ込めることを：\nもしそうでなければ、仕事の燃え上がる栄光が、\n灰の卑しい平凡な時まで、\nそこへ誇らしげに降りてくる夕暮れが照らす窓によって、\n続かせるだろう！──"
+    },
+    {
+      "id": 3,
+      "originalText": "Sépulcre du désir ou de la paix.\nHélas! de qui, de quoi distinguer le succès\nSinon quelque lever tardif de nos fantômes\nVers un ciel de porcelaine épars en blancs atômes?\nAinsi levé comme une vieille aurore\nQue traverse la nuit, le Poète sublime\nPar une immense main arrêté au déclin,\nIgnorant la vertu qui rassemble l'essaim\nDe vers à parfumer les grandes épitaphes,\nNe sait pas que l'effet de ces divines strophes\nFut de l'immortel pas le premier: les seins\nLacés, les bras raidis comme une effigie lâche,\nS'il ne s'était jadis vu dans l'éclat du fer,\nDe ce regard – –",
+      "provisionalTranslation": "欲望の墓か、平和の墓か。\nああ！誰の、何の成功を区別するか\n陶磁器の空に白い原子として散らばる\nわれわれの幻影の遅い立ち上がり以外に？\nこのように上昇した、夜を横断する\n古い夜明けのように、崇高な詩人は\n傾きの中で巨大な手によって止められ、\n偉大な墓碑銘を香らせる詩の群を\n集める美徳を知らず、\nこれらの神聖な連句の効果が\n不死者の最初でないことを知らない：結んだ胸、\n生気のない effigie のように固まった腕で、\nかつて鉄の輝きの中に自分を見なかったなら、\nその眼差しで──"
+    },
+    {
+      "id": 4,
+      "originalText": "Magnifique, total et solitaire, tel\nTremble de s'exhaler le faux orgueil des hommes.\nCette foule hagarde! elle annonce: Nous sommes\nLa triste opacité de nos spectres futurs.\nMais le blason des deuils épars sur de vains murs\nJ'ai méprisé l'horreur lucide d'une larme\nQuand, sourd même à mon vers sacré qui ne l'alarme\nPasse-t-il pas ainsi que le veut son état,\nDivin? –",
+      "provisionalTranslation": "壮大に、全体として、孤独に、そのように\n人間たちの偽りの誇りは吐き出されて震える。\nこの荒れ果てた群衆！彼らは告げる：われわれは\nわれわれの未来の幽霊たちの悲しい不透明性だ。\nしかし虚ろな壁に散らばった喪のエンブレムを\n私は涙の透明な恐怖を軽蔑した\n私の神聖な詩にさえ耳を貸さず、彼を驚かせない詩に\n彼はその状態の望む通りに通り過ぎていかないか、\n神的に？──"
+    },
+    {
+      "id": 5,
+      "originalText": "Le Maître, par regard défunt et calme\nDémenti de l'espoir, quand il contemplait\nComme un vallon profond où le soir s'y profilait,\nL'herbe et les étangs, même si cette toile peinte\nN'était que le reflet d'une lueur éteinte\nAux décors d'un soir plus heureux d'autrefois,\nDe ce pays natal: –",
+      "provisionalTranslation": "師は、死んだ穏やかな眼差しで\n希望の否定として、彼が眺めるとき\n夕暮れがそこに輪郭を描く深い谷のように、\n草と池を、たとえこの描かれたキャンバスが\n消えた光の反映に過ぎなかったとしても\nかつてより幸せな夕暮れの装飾の中の、\nこの故郷の地の：──"
+    },
+    {
+      "id": 6,
+      "originalText": "Afin que le matin de son repos altier,\nQuand la mort ancienne est comme pour Gautier\nDe n'ouvrir pas les yeux sacrés et de se taire,\nSurgirait-il, géant, qui dans l'espoir contraire\nL'herbe verte et les fleurs illuminerait –\nVaste tombeau où gît, pour sa tente sereine,\nL'insensible: – la bouche ouverte sans le clime\nDe plume, pour souffler l'hiver à travers l'abîme.",
+      "provisionalTranslation": "彼の高貴な休息の朝のために、\n古い死がゴーティエにとってのように\n神聖な目を開けず沈黙することであるとき、\n立ち上がるだろうか、巨人が、反対の希望の中で\n緑の草と花を照らすだろうか──\n穏やかなテントのために横たわる巨大な墓、\n無感覚なもの：──口は開いたまま羽の気候なしに\n深淵を通して冬を吹き抜くために。"
+    },
+    {
+      "id": 7,
+      "originalText": "Et c'est de nos vrais bosquets déjà\nQue les filles d'un œil vacant pour leur beauté\nParmi ce mort, toi, qui l'emportes de ciel,\nFaut, en gardant du bonheur de jadis\nQuelque reflet dans l'azur – La voix du mort\nQui vit, et avec lui le Dieu à son côté,\nNous promène l'aspect de quelques-uns qui vinrent\nD'un pays natal, en enfants: et tel\nEst ce vieux jardin de notre mémoire\nOù la fleur pour toujours reste vraie\nEt se souvient quand dans l'hôte survient\nL'absence du poète en fleurs: les hommes\nOublient-ils la gloire ardente du métier?\nNon, car elle est l'ornement de l'oubli\nEt de toi seul il reste, de l'azur calme\nOù ton regard, qui fut celui du Maître\nSur les jardins, les vastes gazons et les roses,\nAu seul nom que ton souffle a fait revivre —\nFlorissant! c'est, attaché sur quelque vergue,\nPar les soirs illuminés, pour la récolte prochaine,\nUn beau navire qui part avec la Beauté pour toute voile.",
+      "provisionalTranslation": "そしてこれはわれわれの真の木立からすでに\n美のために空虚な目を持つ娘たちが\nこの死者の中で、お前よ、お前が天から奪うものを\n昔の幸福の反映を保ちながら\n青空に──死者の声が\n生き、彼とともに傍らの神が、\nわれわれに故郷の地から来た者たちの\n子どもとしての容貌を歩かせる：そして\nこれはわれわれの記憶の古い庭\nそこで花は永遠に真実のまま\nそして覚えている、ゲストの中に\n詩人の不在が花の中に現れるとき：人間たちは\n仕事の燃え上がる栄光を忘れるか？\nいや、なぜならそれは忘却の飾りだから\nそしてお前だけから残るもの、穏やかな青空から\nそこにお前の眼差しがあった、師の眼差しが\n庭の上に、広大な芝生とバラの上に、\nお前の息吹が蘇らせた唯一の名において──\n花盛り！それは、何らかの帆桁に結び付けられ、\n照らされた夕暮れに、近づく収穫のために、\n美だけを帆として出発する美しい船だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "115行アレクサンドラン（12音節行）──マラルメの完成詩の中で最長の一つ。ゴーティエ没後1周年追悼詩集への掲載という機会詩でありながら、詩人の使命・死と詩の関係・言語と実在の弁証法を全面展開する。7段落の思想的展開：①乾杯の宣言（幻影の拒絶）→②墓の役割（詩が永続させる）→③群衆の幻影性→④師の眼差しと花→⑤詩の永続宣言──ゴーティエへの追悼からマラルメ詩学の宣言へと昇華する構造。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "toi, le fatal emblème",
+      "body": "「お前、宿命的な紋章（toi, le fatal emblème）」──「お前（toi）」の指示対象が詩の最初の問題。文脈から「杯（coupe）」または「乾杯（toast）」そのもの──「われわれの幸福の宿命的な紋章」として死の記念行為が提示される。「fatal（宿命的）」という形容詞が「致命的」と「運命的」の両義を持つ──乾杯という生の喜びの行為が同時に死への向き合いとして定義される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Ne crois pas qu'au magique espoir du corridor\nJ'offre ma coupe vide",
+      "body": "「廊下の魔法のような希望に私の空の杯を捧げるとは思うな（Ne crois pas … J'offre ma coupe vide）」──冒頭からの強い否定。「corridor（廊下）」は死後の世界への通路の比喩──スピリチュアリズム的な「死後との交通」への拒絶。「空の杯（coupe vide）」を「廊下の魔法の希望」に捧げない、つまり死者の霊的帰還という「慰め」を詩人は拒否する。「Tombeau de Baudelaire」の「ennemi que tu te réserves（お前が留保する敵）」と同系列の「安易な慰めの拒絶」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la gloire ardente du métier",
+      "body": "「仕事の燃え上がる栄光（la gloire ardente du métier）」──「métier（仕事・職人技）」という語でゴーティエの詩作を定義する。ゴーティエは「芸術のための芸術」・「詩の精緻な職人技（艶やかな形式と美しい語彙の追求）」を実践した詩人──この「métier（職人的技法）」への讃辞はマラルメにとって最高の称賛。「Tombeau de Baudelaire」の「heureux tuteur（幸福な守護者）」と対応する追悼者マラルメの位置の明示。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "nos fantômes\nVers un ciel de porcelaine épars en blancs atômes",
+      "body": "「陶磁器の空に白い原子として散らばるわれわれの幻影（nos fantômes / Vers un ciel de porcelaine épars en blancs atômes）」──「porcelaine（陶磁器）」という工芸素材が空の形容として使われる。「白い原子（blancs atômes）」という物理学的語彙との結合──「Ses purs ongles」の宝石的・硬質な空間の語彙と同系列。人間の幻影（fantômes）が「陶磁器の空」という美的・人工的表面に「白い原子」として溶解する──死の「自然化（naturalization）」ではなく「工芸化」への傾向。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Magnifique, total et solitaire",
+      "body": "「壮大に、全体として、孤独に（Magnifique, total et solitaire）」──三つの形容詞による詩人像の定義。「total（全体的）」という語が重要──詩人はその作品において「全体（tot)」として存在する、つまり部分でなく完全な体として詩の中に現れる。「solitaire（孤独）」はゴーティエの「芸術のための芸術」の孤立性への言及であり、同時に詩人一般の孤独な使命の宣言。マラルメ「Crise de vers」の「詩人の孤立した操作」という詩学理論の人物化。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "La triste opacité de nos spectres futurs",
+      "body": "「われわれの未来の幽霊たちの悲しい不透明性（La triste opacité de nos spectres futurs）」──「spectre（幽霊・スペクトル）」という語の物理学的・霊学的両義。「opacité（不透明性）」という光学的語彙──「透明（transparent）」な詩的言語への対語として機能する。群衆が「未来の自分たちの幽霊の不透明な影」であるという定義──詩人のみが「透明な言語」によって真の実在に到達するという詩学的エリート主義の表明。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Le Maître, par regard défunt et calme",
+      "body": "「師は、死んだ穏やかな眼差しで（Le Maître, par regard défunt et calme）」──「le Maître（師）」という大文字化はゴーティエへの最高の敬称。「regard défunt（死んだ眼差し）」──死後も機能する眼差しという逆説的定義。師の眼差しが「深い谷に夕暮れが輪郭を描く」という風景を見る──死後も詩人の知覚が自然を「詩的に」認識し続けるという思想。「Andenken」§5の「Was bleibet aber, stiften die Dichter（残るものを詩人が築く）」との対応──死後も「建立する」詩人。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "la bouche ouverte sans le clime\nDe plume",
+      "body": "「羽の気候なしに口を開けたまま（la bouche ouverte sans le clime / De plume）」──「clime de plume（羽の気候）」という難解な表現。「plume（羽・ペン）」はマラルメ詩学において「詩的言語の器官」──死者の口が「羽のペン（詩の道具）なしに」開いているという情景が、詩的言語の喪失と死の等置を示す。「Ses purs ongles」の「pteryx（羽の語根を持つ謎の語）」と同系列の「羽＝詩的言語」の語彙。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Un beau navire qui part avec la Beauté pour toute voile",
+      "body": "「美だけを帆として出発する美しい船（Un beau navire qui part avec la Beauté pour toute voile）」──詩の最終行、全体の帰結命題。「Beauté（美）」の大文字化──美が「帆」として船を動かす。「Andenken」§4の「entlaubter Mast（葉を落とした帆柱）」の孤独な孤立とは逆方向の「出発する帆船」──ゴーティエの詩的遺産が「美を帆として出発する船」として永続する宣言。「Hoelderlin / Andenken」の「残るものを詩人が築く」と並んでコレクション全体の詩人論的コアを構成する帰結行。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "Un beau navire qui part avec la Beauté pour toute voile",
+      "targetId": "hoelderlin_andenken",
+      "body": "ヘルダーリン「Andenken」§4「entlaubten Mast（葉を落とした帆柱）の下で一人で年ごとに住む」という「船に乗り孤立して沈黙する詩人」の形象との対照。「Andenken」では帆柱は「葉を落とした」孤独と剥奪の象徴として機能するのに対し、マラルメでは「美を帆として出発する美しい船」という出発と高揚の象徴として機能する──「帆船」という共通の詩的形象が詩人論の異なる定式化を担う。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "anchor": "c'est de nos vrais bosquets",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「われわれの真の木立（nos vrais bosquets）」──「Crise de vers」の「花（fleur）は不在のもの（l'absente de tous bouquets）」という命題との対応。「真の木立」は現実の植物でなく詩的言語が召喚する「不在の花々」の集まり──「Toast funèbre」全体が「詩こそがゴーティエを真に存在させる（vrai）」という命題の115行による展開として「Crise de vers」の詩学を先取りしている。"
+    }
+  ]
+}
