@@ -3,7 +3,6 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
-import lecontelisleData from './data/lecontelisle';
 import vanlerbergheData from './data/vanlerberghe';
 import verlaineData from './data/verlaine';
 import gautierData from './data/gautier';
@@ -67,6 +66,7 @@ export default function App() {
   const [darkMode, setDarkMode] = useState(false);
   const [fontSize, setFontSize] = useState('medium');
   const [fontFamily, setFontFamily] = useState('garamond');
+  const [jaFontFamily, setJaFontFamily] = useState('shippori');
 
   // 新機能
   const [searchQuery, setSearchQuery] = useState('');
@@ -136,7 +136,6 @@ export default function App() {
       ...mallarmeData,
       ...valeryData,
       ...valmoreData,
-      ...lecontelisleData,
       ...vanlerbergheData,
       ...verlaineData,
       ...gautierData,
@@ -167,18 +166,20 @@ export default function App() {
 
   const categories = {
     all:                        { name: 'すべて' },
-    baudelaire:                 { name: 'ボードレール' },
-    baudelaire_critique:        { name: 'ボードレール批評' },
-    mallarme:                   { name: 'マラルメ' },
-    mallarme_critique:          { name: 'マラルメ批評' },
+    baudelaire_aesthetics:      { name: 'ボードレール美学' },
+    baudelaire_music:           { name: 'ボードレール音楽論' },
+    baudelaire_modernity:       { name: 'ボードレール近代論' },
+    mallarme_poetics:           { name: 'マラルメ詩学' },
+    mallarme_book:              { name: 'マラルメ書物論' },
+    mallarme_representation:    { name: 'マラルメ表象論' },
+    mallarme_theatre:           { name: 'マラルメ演劇・表象論' },
+    mallarme_music:             { name: 'マラルメ音楽論' },
+    mallarme_culture:           { name: 'マラルメ文化論' },
     valery:                     { name: 'ヴァレリー' },
-    valery_critique:            { name: 'ヴァレリー批評' },
-    verlaine:                   { name: 'ヴェルレーヌ' },
+    valmore:                    { name: 'ヴァルモール' },
+    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
     gautier:                    { name: 'ゴーティエ' },
-    valmore:                    { name: 'ヴァルモール' },
-    leconte_de_lisle:           { name: 'ルコント・ド・リール' },
-    vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
     yeats:                      { name: 'イェイツ' },
@@ -650,29 +651,39 @@ export default function App() {
   const inputBg         = darkMode ? 'bg-gray-800 text-gray-100 placeholder-gray-500 border-gray-700' : 'bg-gray-50 text-gray-900 placeholder-gray-400 border-gray-300';
   const settingsBg      = darkMode ? 'bg-gray-900 border-gray-700 shadow-2xl' : 'bg-white border-gray-200 shadow-2xl';
 
-  const fontFamilyStyle =
-  fontFamily === 'garamond' ? '"EB Garamond", "Shippori Mincho B1", serif' :
-  fontFamily === 'im-fell'  ? '"IM Fell English", "Shippori Mincho B1", serif' :
-  fontFamily === 'alice'  ? '"Alice", "Shippori Mincho B1", serif' :
-  fontFamily === 'fraktur'  ? '"UnifrakturMaguntia", "Shippori Mincho B1", serif' :
-  '"Inter", "EB Garamond", serif';
-    
+  const euFontName =
+    fontFamily === 'garamond' ? '"EB Garamond"' :
+    fontFamily === 'im-fell'  ? '"IM Fell English"' :
+    fontFamily === 'alice'    ? '"Alice"' :
+    fontFamily === 'fraktur'  ? '"UnifrakturMaguntia"' :
+    '"Inter"';
+
+  const jaFontName =
+    jaFontFamily === 'shippori'   ? '"Shippori Mincho B1"' :
+    jaFontFamily === 'noto-serif' ? '"Noto Serif JP"' :
+    jaFontFamily === 'noto-sans'  ? '"Noto Sans JP"' :
+    '"Shippori Mincho B1"';
+
+  const fontFamilyStyle = `${euFontName}, ${jaFontName}, serif`;
+
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
   // カテゴリーラベルの短縮表示用マップ
   const catShort = {
-    baudelaire:              'ボードレール',
-    baudelaire_critique:     'ボードレール批評',
-    mallarme:                'マラルメ',
-    mallarme_critique:       'マラルメ批評',
+    baudelaire_aesthetics:   '美学',
+    baudelaire_music:        '音楽',
+    baudelaire_modernity:    '近代性',
+    mallarme_poetics:        '詩学',
+    mallarme_book:           '書物',
+    mallarme_representation: '表象',
+    mallarme_theatre:        '演劇',
+    mallarme_music:          '音楽',
+    mallarme_culture:        '文化',
     valery:                  'ヴァレリー',
-    valery_critique:         'ヴァレリー批評',
-    verlaine:                'ヴェルレーヌ',
+    valmore:                 'ヴァルモール',
+    vanlerberghe:            'ヴァン・レルベルグ',
     verlaine_critique:       'ヴェルレーヌ批評',
     gautier:                 'ゴーティエ',
-    valmore:                 'ヴァルモール',
-    leconte_de_lisle:        'ルコント・ド・リール',
-    vanlerberghe:            'ヴァン・レルベルグ',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     yeats:                   'イェイツ',
@@ -687,7 +698,6 @@ export default function App() {
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
-    if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-stone-900/40 text-stone-300' : 'bg-stone-100 text-stone-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
@@ -708,7 +718,7 @@ export default function App() {
       <header className={`sticky top-0 z-30 ${darkMode ? 'bg-gray-950/95 border-gray-800' : 'bg-white/95 border-gray-200'} border-b backdrop-blur-md shadow-sm`}>
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center gap-4">
           <div className="flex-1 min-w-0">
-            <h1 className={`text-lg font-Shippori Mincho B1 font-semibold ${textClass} truncate`}>
+            <h1 className={`text-lg font-serif font-semibold ${textClass} truncate`}>
               近代西洋テクスト対訳
             </h1>
             <p className={`text-xs ${textSecondary}`}>{Object.keys(texts).length}編収録</p>
@@ -754,29 +764,55 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* フォント */}
-                <div className="mb-4">
-                  <label className={`text-xs font-medium ${textClass} block mb-2`}>フォント</label>
+                {/* 欧文フォント */}
+                <div className="mb-3">
+                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>欧文フォント</label>
                   <div className="flex flex-col gap-1">
                     {[
-                ['garamond', 'Garamond (推奨)'],
-                ['alice',    'Alice (優雅)'],
-                ['im-fell',  'IM Fell English (17世紀風)'],
-                ['fraktur',  'UnifrakturMaguntia (中世写本風)'],
-              ].map(([val, label]) => (
-                <button
-                  key={val}
-                  onClick={() => setFontFamily(val)}
-                  className={`py-1.5 px-3 text-xs rounded text-left transition-colors ${
-        fontFamily === val 
-          ? 'bg-indigo-600 text-white' 
-          : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-      }`}
-    >
-      {label}
-    </button>
-  ))}
-</div>
+                      ['garamond', 'Garamond',  'EB Garamond'],
+                      ['alice',    'Alice',      'Alice'],
+                      ['im-fell',  'IM Fell',    'IM Fell English'],
+                      ['fraktur',  'Fraktur',    'UnifrakturMaguntia'],
+                    ].map(([val, label, preview]) => (
+                      <button
+                        key={val}
+                        onClick={() => setFontFamily(val)}
+                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors flex items-center justify-between ${
+                          fontFamily === val
+                            ? 'bg-indigo-600 text-white'
+                            : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                        }`}
+                      >
+                        <span>{label}</span>
+                        <span className="opacity-60" style={{ fontFamily: `"${preview}", serif`, fontSize: '0.95em' }}>Abc</span>
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* 和文フォント */}
+                <div className="mb-4">
+                  <label className={`text-xs font-medium ${textClass} block mb-1.5`}>和文フォント</label>
+                  <div className="flex flex-col gap-1">
+                    {[
+                      ['shippori',   'しっぽり明朝',   '"Shippori Mincho B1", serif'],
+                      ['noto-serif', 'Noto Serif JP', '"Noto Serif JP", serif'],
+                      ['noto-sans',  'Noto Sans JP',  '"Noto Sans JP", sans-serif'],
+                    ].map(([val, label, stack]) => (
+                      <button
+                        key={val}
+                        onClick={() => setJaFontFamily(val)}
+                        className={`py-1.5 px-3 text-xs rounded text-left transition-colors flex items-center justify-between ${
+                          jaFontFamily === val
+                            ? 'bg-indigo-600 text-white'
+                            : darkMode ? 'bg-gray-800 text-gray-300 hover:bg-gray-700' : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                        }`}
+                      >
+                        <span>{label}</span>
+                        <span className="opacity-60" style={{ fontFamily: stack, fontSize: '0.95em' }}>あア字</span>
+                      </button>
+                    ))}
+                  </div>
                 </div>
 
                 {/* 読み上げ速度 */}
@@ -1379,7 +1415,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ルコント・ド・リール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · イェイツ · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · イェイツ · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
