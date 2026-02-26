@@ -1,53 +1,194 @@
 {
-  "id": "mallarme_crise",
+  "id": "mallarme_crise_de_vers",
   "title": "Crise de vers",
   "author": "Stéphane Mallarmé",
-  "source": "Divagations",
-  "year": "1897",
+  "source": "Divagations (Fasquelle, Paris, 1897); 初出は複数テキストとして Revue Blanche および Variations sur un sujet (1895)",
+  "year": "1895",
+  "firstPublication": "Revue Blanche (Paris, 1895); Variations sur un sujet (1895) — Divagations (1897) に再編・収録",
   "difficulty": "上級",
   "category": "mallarme_critique",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "ユゴー後の詩の危機。自由詩の出現。",
+  "context": "1895年執筆、1897年 Divagations 収録。マラルメの詩学散文の中で最も影響力を持つ理論的テキスト。全体は独立した複数の断章が再編されたもので、①ヴィクトル・ユゴーの死後の詩の解放、②vers libre（自由詩）の出現と意義、③言語の二重状態（日常語 vs 詩的語）、④「名付けの廃絶・暗示の美学」、⑤「Je dis: une fleur!（私は言う：花！）」という不在論的命題、⑥詩と音楽の関係、⑦詩の振動論的定義、という主要命題が展開される。20世紀言語論・記号論・文学理論（ソシュール・デリダ・クリステヴァ）への根本的影響源。10段落で構成。",
   "keywords": [
-    "crise",
-    "vers",
-    "Hugo",
-    "poésie"
+    "詩の危機",
+    "ユゴーの死",
+    "vers libre",
+    "言語の二重状態",
+    "名付けの廃絶",
+    "暗示の美学",
+    "花の不在",
+    "音楽と詩",
+    "振動と消滅",
+    "詩人の使命"
   ],
   "relatedTexts": [
-    "mallarme_musique",
-    "mallarme_mystere"
+    "mallarme_ses_purs_ongles",
+    "mallarme_les_fleurs",
+    "mallarme_lazur",
+    "mallarme_toast_funebre",
+    "mallarme_tombeau_baudelaire",
+    "baudelaire_romantisme_complet",
+    "verlaine_poetes_maudits_mallarme",
+    "yeats_adams_curse"
   ],
   "paragraphs": [
     {
       "id": 1,
-      "french": "La littérature ici subit une exquise crise, fondamentale.",
-      "officialTranslation": "ここで文学は、ある精妙な、根源的な危機を経験している。"
+      "originalText": "Tout, à coup, ce fut comme si les poètes de notre temps avaient senti une crise se former: on assista, avec la curiosité gênée et un peu anxieuse de chacun, à l'effondrement soudain de quelque chose que, dans les lettres, on avait cru définitif et inébranlable, — l'alexandrin. Victor Hugo, qui avait jadis été le vers français, lui survivait; s'il n'y avait pas eu, de cette œuvre, en dehors du tombeau solennel, un reste de bruits de forge, une cadence du marteau, encore, héroïquement martèle quelque part.\n\nLui disparu, tout le reste — ce qui précède — fut mis en question. Et dans ce grand silence qui parut régner, comme si le maître eût existé, absent comme un géant, une nuit dans les éclairs d'un blanc de pages, à quelque hauteur défendue et de tonnerre, il fut évident que les poètes avaient enfin le droit, dans leur tour solitaire, de se retirer.",
+      "provisionalTranslation": "突然、まるでわれわれの時代の詩人たちが一つの危機が形成されるのを感じたかのようだった：各人の困惑した、やや不安な好奇心とともに、文学において確定的で揺るぎないと信じられていたものの突然の崩壊が目撃された──アレクサンドランの崩壊が。ヴィクトル・ユゴーは、かつてフランス詩そのものであったが、それよりも長く生き延びた；もし彼の作品の中に、荘厳な墓の外に、鍛冶場の音の残骸が、鎚の調べが、英雄的にどこかで叩き続けていなかったならば。\n\n彼が消えると、残りのすべてが──これに先立つすべてが──問いに付された。そして、まるで師が存在していたかのように思われた大いなる沈黙の中で、白いページの稲妻の夜に巨人として不在の師として、禁じられた高みと雷鳴において、詩人たちはついに、その孤独な塔の中に退く権利を持つことが明らかになった。"
     },
     {
       "id": 2,
-      "french": "Un lecteur français ne peut que se déconcerter.",
-      "officialTranslation": "フランスの読者は、困惑せざるを得ない。"
+      "originalText": "Le vers, je crois, attendait respectueusement que le géant qui l'identifiait à sa main ferme et plus souple que nul n'eût soupçonné de lui la marche de tout le monde, fût détourné; pour, lui, se rompre. Toute la langue, ajustée à la métrique, y recouvrant ses coupes vitales, s'évade, selon une libre disjonction aux mille éléments; et, je l'indiquerai, pas sans similitude avec la multiplicité des cris d'une orchestration, qui reste verbale.\n\nCette innovation de jeunes poètes, dont je suis, n'est pas chose absolument neuve. Il en avait été longtemps parlé dans nos milieux. Elle date expressément de la Grèce où la lyre modulait, au gré du joueur, une variété riche de modes. Mais une reprise sérieuse, en France, vient de se produire. Ce que le vers libre signifie pour les poètes, c'est la liberté de ne pas cadencer de manière convenue, ni toujours, leur émotion ou pensée: par contre le risque, pour eux, d'y sacrifier quelque chose d'essentiel.",
+      "provisionalTranslation": "詩句は、私が信じるところでは、それを固く柔軟な手によって自分自身と同一視していた巨人が──誰も彼から万人の歩みを疑わなかったが──逸らされるのを敬意をもって待っていた；そのために、詩句自身が断ち切られるために。言語全体が、韻律に調整されて、そこに生命的な区切りを回収しながら、千の要素への自由な離接に従って逃れていく；そして私が示そうとするように、言語的なままであるオーケストレーションの無数の叫び声の多様性との類似なしにではない。\n\n私も属する若い詩人たちのこの革新は、絶対的に新しいものではない。われわれの環境ではずいぶん前から語られていた。それはギリシアから明示的に始まる──そこでは竪琴が奏者の気に応じて豊かな様式の多様性を調べた。しかし真剣な再開が、フランスで、まさに起こった。vers libreが詩人たちにとって意味するものは、彼らの感情や思考を慣習的な様式でカデンスしないでよい、また常にそうしなくてよい自由だ：その代わりに何か本質的なものを犠牲にするリスクが彼らにはある。"
     },
     {
       "id": 3,
-      "french": "Hugo rabattit toute la prose au vers.",
-      "officialTranslation": "ユゴーは、すべての散文を詩句へと還元した。"
+      "originalText": "Le vers est partout dans la langue où il y a rythme, partout, excepté dans les affiches et à la quatrième page des journaux. Dans le genre appelé prose, il y a des vers, quelquefois admirables, de toutes sortes, mais pas de vers de telle espèce. Et c'est vraiment, cette fois, le droit à ne pas subir une loi qui devient ainsi optionnelle, simplement qu'on ait affaire à un vers ou à une prose.\n\nLe vers, je répète, doué de cette liberté, ne cesse pas d'être le vers; seulement, sa qualité change. La forme appelée vers est simplement elle-même la littérature; que régit une loi plus mystérieuse à énoncer que toute grammaire, instinctive, comme celle d'un retour, entre les mots, à la prosodie originelle du parler humain: c'est-à-dire une cadence vivante.",
+      "provisionalTranslation": "詩句は、リズムのあるところ、言語のどこにでもある──看板や新聞の第四面を除いて。散文と呼ばれるジャンルの中にも詩句がある、あらゆる種類の、時に賞賛に値する詩句が、ただし特定の種類の詩句ではない。そしてこれは真に、今回こそ、法に服従しないでよい権利だ──この法はこのようにして任意のものになる、単に詩句を扱うか散文を扱うかに応じて。\n\n詩句は、私が繰り返すが、この自由を付与されても詩句であることをやめない；ただその質が変わるだけだ。詩句と呼ばれる形式は単純にそれ自体が文学だ；それはあらゆる文法よりも述べることの困難な、人間の語りの原初的な韻律への、言葉と言葉の間の復帰という、本能的な法によって支配されている──つまり生きたカデンスだ。"
     },
     {
       "id": 4,
-      "french": "Le vers attendit que le géant vînt à manquer.",
-      "officialTranslation": "詩句は、巨人が消え去るのを待っていた。"
+      "originalText": "Un désir indéniable en mon temps est de séparer comme en vue d'attributions différentes le double état de la parole, brut ou immédiat ici, là essentiel.\n\nNarrer, enseigner, même décrire, cela va et encore qu'à chacun suffirait peut-être pour échanger la pensée humaine, de prendre ou de mettre dans la main d'autrui en silence une pièce de monnaie, l'emploi élémentaire du discours dessert l'universel reportage dont, la littérature exceptée, participe tout entre les genres d'écrits contemporains.\n\nÀ quoi bon la merveille de transposer un fait de nature en sa presque disparition vibratoire selon le jeu de la parole, cependant; si ce n'est pour qu'en émane, sans la gêne d'un proche ou concret rappel, la notion pure?\n\nJe dis: une fleur! et, hors de l'oubli où ma voix relègue aucun contour, en tant que quelque chose d'autre que les calices sus, musicalement se lève, idée même et suave, l'absente de tous bouquets.",
+      "provisionalTranslation": "私の時代の否定しがたい欲望は、異なる帰属の見地において、言語の二重状態──一方は粗野あるいは即自的、他方は本質的──を分離することだ。\n\n物語ること、教えること、さらには記述することさえ、それはそれでよい──各人が人間の思考を交換するために他者の手に沈黙してコインを渡すか受け取るだけで十分かもしれないとしても、言説の基本的な使用はある普遍的な報告に役立つ──文学を除いて、同時代の書かれたジャンルのあらゆるものがそれに参与する。\n\n自然の事実をその言語の遊びによるほぼ振動的な消滅へと移調することの驚異は、何の役に立つか；もし近くにある具体的な想起の妨げなしに、純粋な観念がそこから発散しないならば？\n\n私は言う：花！そして、私の声がいかなる輪郭も追放する忘却の外に、既知の花萼とは異なる何かとして、音楽的に立ち上がる、観念そのものとして、柔和に──すべての花束の不在のもの（l'absente de tous bouquets）が。"
     },
     {
       "id": 5,
-      "french": "Toute la langue s'évade selon une libre disjonction.",
-      "officialTranslation": "すべての言語は、自由な分離に従って、逃避する。"
+      "originalText": "Nommer un objet, c'est supprimer les trois quarts de la jouissance du poème qui est faite de deviner peu à peu: le suggérer, voilà le rêve. C'est le parfait usage de ce mystère qui constitue le symbole: évoquer petit à petit un objet pour montrer un état d'âme, ou, inversement, choisir un objet et en dégager un état d'âme, par une série de déchiffrements.\n\nLes poètes de ce siècle n'ont guère réussi qu'à effleurer les apparences des choses, et les sentiments qui s'y rattachent; ils n'ont fait, en somme, que de l'impressionnisme en vers. Il s'agit de faire plus: de chercher la réalité des choses, et non leur apparence; d'atteindre l'âme des choses.",
+      "provisionalTranslation": "物を名付けることは、少しずつ推測することによって作られる詩の享楽の四分の三を抑圧することだ：それを示唆すること、それが夢だ。これがシンボルを構成するこの神秘の完璧な使用だ：一つの魂の状態を示すために少しずつ一つの対象を喚起すること、あるいは逆に、一連の解読によって一つの対象を選びそこから魂の状態を引き出すこと。\n\nこの世紀の詩人たちは、物事の外観とそれに付随する感情をかすめることにしかほとんど成功しなかった；彼らは要するに、詩における印象主義にすぎないことをやっただけだ。もっとすることが問題だ：物事の現実を、その外観ではなく、探すこと；物事の魂に到達すること。"
     },
     {
       "id": 6,
-      "french": "La Musique rejoint le Vers pour former la Poésie.",
-      "officialTranslation": "音楽が詩句と合流して、詩を形成する。"
+      "originalText": "Les langues imparfaites en cela que plusieurs, manque la suprême: penser étant écrire sans accessoires, ni chuchotement mais tacite encore l'immortelle parole, la diversité, sur terre, des idiomes empêche personne de proférer les mots qui, sinon se trouveraient, par une frappe unique, elle-même matériellement la vérité.\n\nCette prohibition sévit expressément, dans le cas des langues et pour les sens que j'indique ci-dessous, dans les langues imparfaites, au premier chef desquelles figure notre français: on observe un usage chez ces peuples à parler, sans jamais viser à un résultat littéraire, des sons familiers que le langage retient; et cela fait l'instrument de musique le plus admirable.\n\nOr, en comparaison de cela, le français est pauvre; mais qu'importe si cette musique y réside.",
+      "provisionalTranslation": "言語が不完全なのは複数あるという点によってだ、至高のものが欠けている：思考することが付属物なしに書くことであるならば、囁きもなく、しかしまだ沈黙の中で不死の言葉──地上における方言の多様性は、もし存在するとすれば物質的にそれ自体真理である唯一の刻印によってそこに見出されるだろう言葉を発することを誰にも妨げている。\n\nこの禁止は明示的に働いている、言語の場合に、私が以下に示す意味においては不完全な言語の中で──その筆頭にわれわれのフランス語がある：人々の間に、文学的な結果を決して目指さずに、言語が保持する馴染みの音を語るという習慣が観察される；そしてそれが最も賞賛すべき楽器を作る。\n\nさて、これと比較して、フランス語は貧しい；しかしこの音楽がそこに宿っているとするなら、それが何だというのか。"
+    },
+    {
+      "id": 7,
+      "originalText": "Quel pivot, j'entends, dans ces contrastes, à l'intelligibilité? il en faut un.\n\nLa Nature a lieu, on n'y ajoutera pas; que des cités, les voies ferrées et plusieurs inventions formant notre matériel. Tout l'acte disponible, à jamais et seulement, reste de saisir les rapports entre-temps, rares ou multipliés; d'après quelque état intérieur et que l'on veuille à son gré étendre, simplifier le monde.\n\nÀ l'égal de créer: la notion d'un objet, échappant, qui fait défaut.\n\nCe procédé, réfléchi, ou la poésie.",
+      "provisionalTranslation": "これらの対比において、可知性への軸は何か？一つが必要だ。\n\n自然は存在している、それに付け加えられるものは何もない；都市・鉄道路線・われわれの素材を形成するいくつかの発明を除いて。利用可能な行為はすべて、永遠にそしてただ、その間の関係──稀なまたは多数の──を捉えることに留まる；ある内的状態に従って、そして好みに応じて世界を拡大・単純化しようとして。\n\n創造するに等しい：逃げていく、欠けている一つの対象の観念。\n\nこの反省的な手続き、あるいは詩。"
+    },
+    {
+      "id": 8,
+      "originalText": "Tout devient suspens, disposition fragmentaire avec alternance et vis-à-vis, concourant au rythme total, lequel serait le poème tu, aux blancs; seulement traduit, en une manière, par chaque pendentif.\n\nL'air ou chant sous le texte, conduisant la divination d'ici là, y applique son motif en fleuron et cul-de-lampe invisibles.\n\nÀinsi projeté, que nul bruit concret ne distrait, le sens enseveli dans une ombre exprès se meut et, comme une symphonie, y dispose, à côté de celle de tel instrument, de sa propre grandeur qui n'est pas de celui-ci mais du mystère: et c'est ainsi que la poésie, proche de l'idée, est Musique, par excellence — ne consentant aucune infériorité.",
+      "provisionalTranslation": "すべてが懸念となる、交替と向かい合いによる断片的な配置、それが沈黙の詩──白紙──における全体的なリズムに貢献する；ただし各ペンダントによってある様式で翻訳されるのみだ。\n\nテキストの下の空気あるいは歌が、ここからあそこへの占いを導きながら、見えない花飾りと末尾飾りにその主題を適用する。\n\nこのように投影されて、いかなる具体的な音も散漫にさせず、意図的な影の中に埋葬された意味が動き、そして、まるで交響曲のように、そこにある楽器のそれのそばに、その楽器のものではなく神秘のものである自らの偉大さを配置する：そして詩は、観念に近く、卓越した意味において音楽だ──いかなる劣性も認めず。"
+    },
+    {
+      "id": 9,
+      "originalText": "Le vers qui de plusieurs vocables refait un mot total, neuf, étranger à la langue et comme incantatoire, achève cet isolement de la parole: niant, d'un trait souverain, le hasard demeuré aux termes malgré l'artifice de leur retrempe alternée en le sens et la sonorité, et vous cause cette surprise de n'avoir ouï jamais tel fragment ordinaire d'élocution, en même temps que la réminiscence de l'objet nommé baigne dans une neuve atmosphère.\n\nCombien de vers sont sortis, comme une voix des ténèbres. Je pourrais énumérer beaucoup de poèmes dignes de se reproduire ici, que j'omets seulement parce que la personnalité des auteurs en fera, dans la mémoire, le lieu.",
+      "provisionalTranslation": "複数の語から一つの全体的な、新しい、言語に異質な、呪文的とでも言うような語を再び作る詩句は、言語の孤立化を完成させる：交替する鍛え直しの人工性にもかかわらず意味と音響において諸語に留まっていた偶然を、一つの主権的な引き划きで否定しながら、そして、通常の話し方のそのような断片をかつて聞いたことがないという驚きを、同時に命名された対象の回想が新しい大気の中に浸るという驚きを、お前に与える。\n\nいかに多くの詩句が、暗闇の声として出てきたことか。私はここに再現するに値する多くの詩を列挙できるだろうが、私がそれを省略するのはただ著者たちの個性が記憶の中でその場所を作るからだ。"
+    },
+    {
+      "id": 10,
+      "originalText": "Quelque symétrie parallèle entre les conduites de l'homme et ses actes, avec leur relation exacte, se maintient: réfléchir plus tôt, ainsi que la nature, selon un ou, en dernier lieu, quelque morceau de nature, un tombeau, pour ainsi dire, de la vanité humaine.\n\nDe même, le chant, d'instinct, est une ligne, qui tient par la voix au sol natal. Défaut à travers toute la vie, chez les hommes, d'une parole suprême: que je supposerai être la véritable patrie intime, ce n'est pas que les langues manquent, mais l'homme en lui un manque de recueillement qui lui permet d'en user.\n\nLe poème est une communion avec ce manque; et pour y atteindre, le poète doit d'abord surmonter le langage même: voilà sa tâche, son mystère, sa gloire.",
+      "provisionalTranslation": "人間の行為とその行為の間の何らかの平行的対称性が、その正確な関係とともに、維持されている：より早く省察すること、このように自然に従って、あるいは最後には自然の何らかの断片に従って──人間の虚栄の、いわば一つの墓に従って。\n\n同様に、本能的な歌は一本の線だ、声によって故郷の大地に繋がっている。人間の生涯を通じての欠如──至高の言葉の欠如：私がそれを真の親密な故郷と仮定するが、言語が欠けているのではなく、人間の内でそれを使うことを彼に許す省察の欠如がある。\n\n詩はこの欠如との交わりだ；そしてそこに到達するために、詩人はまず言語そのものを乗り越えなければならない：それが彼の課題、彼の神秘、彼の栄光だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "l'effondrement soudain de quelque chose … l'alexandrin",
+      "body": "「アレクサンドランの突然の崩壊（l'effondrement soudain … l'alexandrin）」──マラルメはアレクサンドラン（12音節フランス語定型詩行）をユゴーと同一視し、ユゴーの死（1885年）を詩的形式の「崩壊」として歴史化する。これはナイーヴな形式崩壊論でなく「定型詩行が一人の天才の権威によって維持されていた」という詩学的制度論──ユゴーという「巨人の手」が取り除かれたとき詩は自由に「断ち切られる」ことができた。「Toast funèbre」の「Magnifique, total et solitaire（壮大に、全体として、孤独に）」というゴーティエ描写と同系列の「詩人と詩形式の一体化」論。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "les poètes avaient enfin le droit … de se retirer",
+      "body": "「詩人たちはついに退く権利を持つ（les poètes avaient enfin le droit … de se retirer）」──「孤独な塔に退く（se retirer dans leur tour solitaire）」という詩人像。「tour solitaire（孤独な塔）」──ヴィニー「狼の死」の象牙の塔（tour d'ivoire）を連想させるが、マラルメにとって「退く」は「孤立」でなく「詩的言語を純化するための集中」──世界の喧騒から退いて言語の根本操作に向かうこと。後の「Angoisse」・「L'Azur」で描かれた詩人の孤独な苦悩がここでは「権利」として肯定的に再定義される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "vers libre",
+      "body": "「vers libre（自由詩）」──1880年代後半フランスで急速に普及した、定型韻律・脚韻・音節数に縛られない詩形式。マラルメ自身は vers libre の実践者ではなく（彼の詩はほぼ定型詩行を使う）、理論的擁護者として位置づける。「ギリシアの竪琴から来た（Elle date … de la Grèce）」という歴史化──vers libre を「新しい無秩序」でなく「古代の韻律的自由の回復」として正当化する。ヴェルレーヌ「詩法（Art poétique）」の「音楽よりも何よりもまず（De la musique avant toute chose）」というスローガンとの並行的立場。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le vers est partout dans la langue où il y a rythme",
+      "body": "「詩句はリズムのあるところ言語のどこにでもある（Le vers est partout dans la langue où il y a rythme）」──「看板や新聞の第四面を除いて」という限定が重要。詩と散文の区別は「詩句形式の有無」でなく「リズムへの志向の有無」として再定義される。新聞（reportage universelle）の言語が「リズムなき言語」の典型として排除される──詩的言語は「報告（reporting）」を廃絶したところに成立する。後の§4の「言語の二重状態（brut vs essentiel）」の分類の基礎。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "le double état de la parole, brut ou immédiat ici, là essentiel",
+      "body": "「言語の二重状態──一方は粗野あるいは即自的、他方は本質的（le double état de la parole, brut ou immédiat ici, là essentiel）」──マラルメ詩学の基本的二項対立。「brut/immédiat（粗野・即自的）」：日常的コミュニケーション語・物を直接指示する語。「essentiel（本質的）」：詩的語・物を不在化することで観念を召喚する語。この区別がソシュール記号論（シニフィアン/シニフィエの恣意的関係）・デリダ脱構築（現前の形而上学への批判）の先行として20世紀理論に吸収される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Je dis: une fleur! … l'absente de tous bouquets",
+      "body": "「私は言う：花！……すべての花束の不在のもの（Je dis: une fleur! … l'absente de tous bouquets）」──「Crise de vers」の最重要命題・マラルメ詩学の核心。「花！」という語を発したとき、現実の花（既知の花萼 calices sus）は「忘却の外に」追放される──言語が物を「不在化（absenter）」する。その不在化の中から「観念そのもの（idée même）」として「すべての花束の不在のもの」が音楽的に立ち上がる。「les calices sus（既知の花萼）」──「Les fleurs」（1864年）で豊かに具体的に描かれた「花」がここで「不在のもの」として理論化される──30年間の詩学的変容の到達点。「l'absente de tous bouquets」はフランス文学批評の最も引用される命題の一つ。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Nommer un objet, c'est supprimer les trois quarts de la jouissance du poème",
+      "body": "「物を名付けることは詩の享楽の四分の三を抑圧することだ（Nommer un objet, c'est supprimer les trois quarts de la jouissance）」──「暗示（suggérer）」vs「命名（nommer）」の対立として詩的美学を定式化する。「享楽（jouissance）」──ロラン・バルト「テキストの快楽（Le Plaisir du texte）」（1973年）における「jouissance（享楽）」概念への直接的影響源。「deviner peu à peu（少しずつ推測すること）」──読者の能動的参与への要請。「Éventail」の「Sans te nommer ni pourquoi（名を言わず理由も言わず）」という詩的実践がここで理論的に基礎づけられる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "évoquer petit à petit un objet pour montrer un état d'âme",
+      "body": "「一つの魂の状態を示すために少しずつ一つの対象を喚起すること（évoquer petit à petit un objet pour montrer un état d'âme）」──象徴主義詩学の最も明確な定義文の一つ。「état d'âme（魂の状態）」──内的感情状態を指す語彙が、外的対象の「喚起（évocation）」によって示されるという間接的・迂回的な詩的プロセスの定義。「Harmonie du soir」のパンタン形式──花・ヴィオール・空という「対象の少しずつの喚起」が「憂鬱の魂の状態」へと収斂する──がこの定義を詩的に実装する。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Les langues imparfaites en cela que plusieurs, manque la suprême",
+      "body": "「言語が不完全なのは複数あるという点によってだ、至高のものが欠けている（Les langues imparfaites en cela que plusieurs, manque la suprême）」──バベル以後の言語の多様性が「至高の言語」の不在として定義される。「至高の言語（langue suprême）」──もし存在するとすれば「物質的にそれ自体真理である唯一の刻印によって語を発する」言語。フランス語が「不完全な言語の筆頭（au premier chef）」として名指しされながら「この音楽がそこに宿っているとするなら（si cette musique y réside）」という条件付きで詩的可能性が保留される。ヴァレリー「詩と抽象的思考（Poésie et pensée abstraite）」への影響源。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "La Nature a lieu, on n'y ajoutera pas",
+      "body": "「自然は存在している、それに付け加えられるものは何もない（La Nature a lieu, on n'y ajoutera pas）」──詩人の役割についての根本的定義。詩は「自然に付け加える」のでなく「自然の事物の間の関係（rapports）を捉える」──詩的行為は「創造（creation ex nihilo）」でなく「関係の発見・配置」として定義される。「À l'égal de créer（創造するに等しい）」──創造に等しいが創造ではない、という詩的行為の微妙な位置づけ。マラルメ後期の「Un coup de dés」における「散文の偶然を制御する配置（disposition）」との接続。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "le poème tu, aux blancs",
+      "body": "「沈黙の詩──白紙（le poème tu, aux blancs）」──マラルメ詩学における「白（blanc）」の根本的機能。「tu（沈黙した）」──発声されない詩、白紙の沈黙が詩の「全体的なリズム（rythme total）」を構成する。「Sainte」の「Musicienne du silence（沈黙の音楽家）」・「Éventail」の「すべての花束の不在のもの」と同系列の「不在・沈黙・白」の詩学。「Un coup de dés」（1897年）における「白紙の積極的な使用」の直接的理論的先行──詩の空白が「余白」でなく意味の担い手として機能することの宣言。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "la poésie, proche de l'idée, est Musique, par excellence",
+      "body": "「詩は観念に近く、卓越した意味において音楽だ（la poésie, proche de l'idée, est Musique, par excellence）」──マラルメの「詩＝音楽」論の最も直接的な定式化。ここでの「Musique（音楽）」は実際の音響でなく「具体的な想起（rappel concret）の妨げなしに純粋な観念を発散させる」能力──「Sainte」の「沈黙の音楽家」がこの意味での「音楽」を体現する。ボードレール「Wagner論」（「baudelaire_wagner_1」）の「音楽が直接感情を伝達する」という主張との対照──ボードレールの音楽論は音響的直接性を称賛するのに対し、マラルメは「音楽的な観念の発散」という非音響的な「音楽性」を定義する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "glossary",
+      "anchor": "un mot total, neuf, étranger à la langue et comme incantatoire",
+      "body": "「言語に異質な、呪文的とでも言うような全体的な、新しい語（un mot total, neuf, étranger à la langue et comme incantatoire）」──詩句の最高の機能の定義。複数の語から「全体的で新しい語」を再生成する詩句──日常言語の語彙にない「異質な（étranger）」新しい語。「incantatoire（呪文的）」──詩的言語の魔術的・儀礼的次元。「偶然を否定する（niant … le hasard）」──詩の各語の配置が「意味と音響」の二重の必然性によって偶然性を排除する。マラルメ「Un coup de dés」の「偶然を廃絶しない（n'abolira pas le hasard）」という逆命題への布石──詩は偶然を「否定する（nier）」と言いながら、後の「Un coup de dés」では「廃絶しない（n'abolira pas）」として「偶然との格闘」として再定義される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le poème est une communion avec ce manque",
+      "body": "「詩はこの欠如との交わりだ（Le poème est une communion avec ce manque）」──「Crise de vers」の結語・最終定義。「manque（欠如）」──「至高の言語の欠如」・「人間の内での省察の欠如」。詩はこの「欠如」を克服するのでなく「欠如と交わる（communion）」──キリスト教の「聖体拝領（communion）」という宗教的語彙が「詩的言語との結合」に転用される。「詩人はまず言語そのものを乗り越えなければならない（le poète doit d'abord surmonter le langage même）」──これが「彼の課題・神秘・栄光（sa tâche, son mystère, sa gloire）」。「Angoisse」・「L'Azur」・「Ses purs ongles」で描かれた詩人の苦闘がここで「詩人の使命」として肯定的に定義される──マラルメ詩学の完結点。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "anchor": "surmonter le langage même: voilà sa tâche, son mystère, sa gloire",
+      "targetId": "yeats_adams_curse",
+      "body": "「言語そのものを乗り越えること：それが彼の課題、神秘、栄光（surmonter le langage même: sa tâche, son mystère, sa gloire）」──イェイツ「Adam's Curse」の「A line will take us hours maybe / Yet if it does not seem a moment's thought, / Our stitching and unstitching has been naught（一行に何時間もかかるかもしれない、しかしそれが一瞬の思いつきに見えないなら、縫ったり解いたりしても無駄だ）」との対照。マラルメが「言語を乗り越える」という詩人の超言語論的使命として詩作を定義するのに対し、イェイツは「見えない労働の美学」として詩作を定義する──「詩作の困難さ」という共通主題の仏英対照。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "l'absente de tous bouquets",
+      "targetId": "mallarme_les_fleurs",
+      "body": "「すべての花束の不在のもの（l'absente de tous bouquets）」──「Les fleurs」（1864年）で豊かに具体的に描かれた「白百合・薔薇・月桂樹・グラジオラス」という花々が、「Crise de vers」（1895年）では「既知の花萼（les calices sus）」として詩的言語によって不在化される対象として位置づけられる。31年間の詩学的変容：初期の「花が神に語る生命論的詩学」から「花は言語によって不在化される不在論的詩学」への転換が「花」という一語を通じて確認できる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "intertextual",
+      "anchor": "le poème tu, aux blancs",
+      "targetId": "mallarme_ses_purs_ongles",
+      "body": "「沈黙の詩──白紙（le poème tu, aux blancs）」──「Ses purs ongles」の「Ce soir nul ptyx / Aboli bibelot d'inanité sonore（今夜いかなるプティクスもない、音響的空虚の廃絶された骨董品）」という「廃絶・不在・空虚の空間」との対応。「Ses purs ongles」では詩的対象（プティクス・一角獣・九頭竜）が不在化された「空の空間」に残されるのに対し、「Crise de vers」では「白紙の沈黙」が詩の全体的リズムを構成すると理論化される──詩的実践（「Ses purs ongles」）と詩学理論（「Crise de vers」）の相互照明。"
     }
   ]
 }
