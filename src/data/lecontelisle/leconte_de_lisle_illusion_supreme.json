@@ -1,0 +1,118 @@
+{
+  "id": "leconte_de_lisle_illusion_supreme",
+  "title": "L'Illusion suprême",
+  "author": "Leconte de Lisle",
+  "source": "Poèmes tragiques (Lemerre, Paris, 1884)",
+  "year": "1884",
+  "firstPublication": "Poèmes tragiques (Lemerre, Paris, 1884)",
+  "difficulty": "中級",
+  "category": "leconte_de_lisle",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1884年「悲劇詩篇」収録。ルコント・ド・リール66歳の作。14行ソネット（ABBA ABBA CCD EDE）。死を前にした詩人が「友人（Ami）」に語りかける形式で、地上の美・夢・詩的理想がすべて「至高の幻想（Illusion suprême）」であったという認識に到達する。「Impassibilité（不動性）」を詩学として掲げたルコント・ド・リールが、晩年に「幻想」という語で自らの詩的営みをどう位置づけたかを示す自己省察的な作品。「Midi」の「不動の美（Impassible Beauté）」が「幻想」として問い直される──同一の詩人内部での哲学的自己対話として読める。",
+  "keywords": [
+    "至高の幻想",
+    "死の前の省察",
+    "詩人の晩年",
+    "友人への語りかけ",
+    "地上の美の儚さ",
+    "ニルヴァーナ",
+    "幻想と認識",
+    "ソネット",
+    "Impassibilité",
+    "自己省察"
+  ],
+  "relatedTexts": [
+    "leconte_de_lisle_midi",
+    "hoelderlin_an_die_parzen",
+    "mallarme_toast_funebre",
+    "baudelaire_spleen",
+    "hofmannsthal_terzinen"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Encore un peu de temps, sur le bord du chemin,\nAmi, laisse-moi vivre et tenir ta main.\nDéjà les froids soleils qui pleurent leur lumière\nOnt fait blêmir ton front et pâli ta lumière.",
+      "provisionalTranslation": "まだ少し、道の縁で、\n友よ、私が生きてお前の手を握ることを許してくれ。\n既に光を泣きながら放つ冷たい太陽たちが\nお前の額を青白くし、お前の輝きを失わせた。"
+    },
+    {
+      "id": 2,
+      "originalText": "Vois comme en ce jardin où soupirait jadis\nL'espoir de quelque amour ou d'un rêve divin,\nLa rose du matin tombe feuille à feuille,\nEt comme le soleil baise et la cueille.",
+      "provisionalTranslation": "見よ、かつてある愛の希望や神的な夢が\n溜息をついていたこの庭で、\n朝の薔薇が一枚一枚と花びらを落とし、\nそして太陽がそれに口づけし、それを摘んでいくのを。"
+    },
+    {
+      "id": 3,
+      "originalText": "Tel est le sort commun. Vivons donc, et tâchons\nD'opposer à l'oubli, qui ronge et qui ravage,\nQuelque œuvre d'art immortel, survivant au naufrage,\nOu la beauté du monde en nos seuls yeux couchons.",
+      "provisionalTranslation": "これが共通の運命だ。だから生きよ、そして試みよ\n蝕み荒廃させる忘却に対して、\n難破を生き延びる何か不死の芸術作品を対置するか、\nあるいは世界の美を私たちの目の中だけに横たえよ。"
+    },
+    {
+      "id": 4,
+      "originalText": "Rêve! tout n'est que rêve. Et pourtant, quand nos yeux\nVont se fermer au seuil de la vie future,\nNous emportons avec nous dans cette nuit obscure\nL'orgueil d'avoir chanté, parmi les Dieux, les Dieux.",
+      "provisionalTranslation": "夢だ！すべては夢に過ぎない。しかしそれでも、私たちの目が\n未来の生の閾で閉じようとするとき、\n私たちはその暗い夜の中に携えていく\n神々の中で、神々を歌ったという誇りを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "14行ソネット（ABBA ABBA CCD EDE）。4段落（4+4+3+3行）構成。「友人（Ami）」への語りかけという対話的形式──「Midi」の「読者への命令（Approche!）」と同様の直接呼びかけだが、「Midi」の力強い命令形とは対照的に「laisse-moi（許してくれ）」という懇願形式。前半8行：まだ生きていたい・庭の薔薇の散り方──死への接近の情景。後半6行：「これが共通の運命だ」という諦観→「しかしそれでも」という逆転→「神々を歌った誇り」という詩人の最終的な自己肯定。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "laisse-moi vivre et tenir ta main",
+      "body": "「私が生きてお前の手を握ることを許してくれ（laisse-moi vivre et tenir ta main）」──詩の第一の驚き。「Impassibilité（不動・非感傷性）」を詩学として掲げたルコント・ド・リールが「手を握る」という親密な身体的接触を求める。「Midi」の最終行「L'Impassible Beauté … qui n'apparaît point en vous tenant la main（手を差し伸べない不動の美）」の「tenir la main（手を握る）」という語が、ここでは詩人自身が求める切実な願いとして反転登場する──晩年に「不動の美」の詩人が「手を握ること」を懇願するという自己省察的逆転。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "les froids soleils qui pleurent leur lumière",
+      "body": "「光を泣きながら放つ冷たい太陽たち（les froids soleils qui pleurent leur lumière）」──「Midi」の「Midi, roi des étés（夏の王の真昼）」という灼熱の太陽の対極。「froids soleils（冷たい太陽たち）」──複数形が晩秋・晩年の衰えゆく複数の日々を示す。「pleurent（泣く）」──光を放ちながら「泣く」太陽という擬人化。「Harmonie du soir」のボードレール「Le soleil s'est noyé dans son sang qui se fige（太陽は凝固する自らの血の中に溺れた）」という自己破壊的な夕陽と対照──ボードレールの太陽は「血の中に溺れる」のに対し、ルコント・ド・リールの晩年の太陽は「泣きながら光を放つ」という悲嘆的様態。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La rose du matin tombe feuille à feuille,\nEt comme le soleil baise et la cueille",
+      "body": "「朝の薔薇が一枚一枚と花びらを落とし、太陽がそれに口づけし、それを摘んでいく（La rose du matin tombe feuille à feuille, / Et comme le soleil baise et la cueille）」──「feuille à feuille（一枚一枚と）」という単調な反復が時間の一方向的な消耗を示す。「baise（口づけする）」と「cueille（摘む）」──太陽が薔薇を「愛でながら摘み取る」という相反する動作の結合。摘まれることで薔薇は終わるが、太陽の「口づけ」という愛の行為によって終わる──消滅が愛の形として提示される。マラルメ「Les fleurs」§2の「cueillaison d'un Rêve（夢の摘み取り）」という語彙との連続──「摘み取られる花」という消滅のメタファー。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Opposer à l'oubli … quelque œuvre d'art immortel",
+      "body": "「忘却に対して不死の芸術作品を対置する（Opposer à l'oubli … quelque œuvre d'art immortel）」──詩人の伝統的な不死の主張。「oubli（忘却）」への「芸術（art immortel）」の対置はホラティウスの「Exegi monumentum aere perennius（私は青銅より永続する記念碑を打ち立てた）」という古典的な詩の不死命題の継承。しかし「quelque（何らかの）」という不定の修飾語──「何らかの不死の芸術作品」というためらいがある。ヘルダーリン「An die Parzen」の「reifem Gesange（熟れた歌）」によって死を受け入れるという詩人の不死命題と対照──ヘルダーリンが「たった一度の夏を」と条件を絞るのに対し、ルコント・ド・リールは「何らかの（quelque）」という曖昧さで不死への確信を弱める。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "quelque œuvre d'art immortel, survivant au naufrage",
+      "targetId": "mallarme_toast_funebre",
+      "body": "「難破を生き延びる不死の芸術作品（quelque œuvre d'art immortel, survivant au naufrage）」──マラルメ「Toast funèbre」§7の「Un beau navire qui part avec la Beauté pour toute voile（美を帆として出発する美しい船）」との対照。マラルメが「難破なしに出発する」美の船を描くのに対し、ルコント・ド・リールは「難破（naufrage）を生き延びる芸術」という対難破的・防御的な不死を語る──詩の永続性への信念を「出発（マラルメ）」vs「生き延び（ルコント・ド・リール）」という異なる身体的メタファーで提示。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Rêve! tout n'est que rêve.",
+      "body": "「夢だ！すべては夢に過ぎない（Rêve! tout n'est que rêve.）」──詩の哲学的転換点・「至高の幻想（Illusion suprême）」というタイトルの内容的実現。§3で「不死の芸術」への志を語りながら、§4冒頭の単語「Rêve！」が「それも夢だ」と突然すべてを相対化する。「tout n'est que rêve（すべては夢に過ぎない）」──ルコント・ド・リールの「Impassibilité」という詩学的強靱さが、最晩年に「夢」という柔軟な語に到達する自己変容。「Midi」の「L'Impassible Beauté」という確信から「Illusion suprême（至高の幻想）」という自己問いへの哲学的変容──同一詩人の32年間（1852→1884年）の思想的軌跡。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "l'orgueil d'avoir chanté, parmi les Dieux, les Dieux",
+      "body": "「神々の中で、神々を歌ったという誇り（l'orgueil d'avoir chanté, parmi les Dieux, les Dieux）」──詩の最終行・帰結命題。「すべては夢だ（Rêve!）」と言いながら「しかしそれでも（Et pourtant）」という逆接が導く最後の拠り所──「神々を歌った誇り（orgueil）」。「parmi les Dieux, les Dieux（神々の中で、神々を）」という反復が詩の音楽的・呪文的クライマックスを形成する──ルコント・ド・リールが古代ギリシア・インド神話・自然の神々を詩化し続けたことへの自己肯定の最終表現。ヘルダーリン「An die Parzen」の「Einmal / Lebt ich, wie Götter（ひとたびは、神々のように生きた）」という「神々のように生きた」という過去の自己肯定との深い共鳴──両詩は「詩人が死を前に、神的な高みで生きた（歌った）ことを自己肯定する」という同一の構造を持つ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "l'orgueil d'avoir chanté, parmi les Dieux, les Dieux",
+      "targetId": "hoelderlin_an_die_parzen",
+      "body": "ヘルダーリン「An die Parzen」§2の「Einmal / Lebt ich, wie Götter, und mehr bedarfs nicht（ひとたびは神々のように生きた、それ以上は必要ない）」との構造的同一性。両詩とも：①死を前にした詩人が、②「神々とともに・神々のように（parmi les Dieux / wie Götter）」生きた・歌ったことを、③「誇り（orgueil）」あるいは「それ以上は必要ない（mehr bedarfs nicht）」として自己肯定し、④死を受け入れる──という四段階の詩的論理を共有する。仏独の異なる時代（1798年ヘルダーリン vs 1884年ルコント・ド・リール）に書かれた「詩人の死の前の最後の自己肯定」という同一の詩的構造の比較読解が可能な対詩。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "quand nos yeux\nVont se fermer au seuil de la vie future",
+      "targetId": "hofmannsthal_terzinen",
+      "body": "「私たちの目が未来の生の閾で閉じようとするとき（quand nos yeux / Vont se fermer au seuil de la vie future）」──ホフマンスタール「Terzinen über Vergänglichkeit」§3の「Und daß mein eignes Ich, durch nichts gehemmt, / Herüberglitt aus einem kleinen Kind（私自身の自我が、何にも妨げられず、幼い子どもから滑り渡ってきた）」という「生から生への移行」の意識と対照。ホフマンスタールが「過去の自己が現在の自己に滑り渡る」という生の連続性を詩化するのに対し、ルコント・ド・リールは「目が閉じる閾」という生と死の境界線における断絶として「未来の生（vie future）」を位置づける──「生の移行」の連続性（ホフマンスタール）vs 断絶（ルコント・ド・リール）の対照。"
+    }
+  ]
+}
