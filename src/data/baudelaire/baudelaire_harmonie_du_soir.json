@@ -1,0 +1,117 @@
+{
+  "id": "baudelaire_harmonie_du_soir",
+  "title": "Harmonie du soir",
+  "author": "Charles Baudelaire",
+  "source": "Les Fleurs du Mal (Poulet-Malassis, Paris, 1857); 2e édition (Poulet-Malassis, Paris, 1861)",
+  "year": "1857",
+  "firstPublication": "Les Fleurs du Mal (Poulet-Malassis, Paris, 1857) — 第27番「Spleen et Idéal」所収",
+  "difficulty": "中級",
+  "category": "baudelaire",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1857年「悪の花」初版第27番。パンタン（pantoum）形式──マレー半島起源の詩形で各連の第2・4行が次連の第1・3行として反復される。4連18行（最終連は第1連の第1・3行が戻る変形）。夕暮れの感覚的豊かさ──花・ヴィオール・空・香り──が「憂鬱（spleen）」と「回想（souvenir）」へと収斂し、「輝く骨董品のような心（ton souvenir en moi luit comme un ostensoir）」という最終イメージに到達する。反復形式が「記憶の円環的性質」を音響的に実装する。",
+  "keywords": [
+    "夕暮れの調和",
+    "パンタン形式",
+    "花と香り",
+    "ヴィオール",
+    "憂鬱",
+    "回想",
+    "聖体顕示台",
+    "共感覚",
+    "記憶の詩学",
+    "Spleen et Idéal"
+  ],
+  "relatedTexts": [
+    "baudelaire_romantisme_complet",
+    "baudelaire_wagner_1",
+    "mallarme_apparition",
+    "mallarme_sainte",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Voici venir les temps où vibrant sur sa tige\nChaque fleur s'évapore ainsi qu'un encensoir;\nLes sons et les parfums tournent dans l'air du soir;\nValse mélancolique et langoureux vertige!",
+      "provisionalTranslation": "さあ、茎の上で震えながら\nそれぞれの花が香炉のように蒸発する時が来た；\n音と香りが夕暮れの空気の中で回る；\n憂鬱なワルツとものうきめまい！"
+    },
+    {
+      "id": 2,
+      "originalText": "Chaque fleur s'évapore ainsi qu'un encensoir;\nLe violon frémit comme un cœur qu'on afflige;\nValse mélancolique et langoureux vertige!\nLe ciel est triste et beau comme un grand reposoir.",
+      "provisionalTranslation": "それぞれの花が香炉のように蒸発する；\nヴァイオリンが苦しめられた心のように震える；\n憂鬱なワルツとものうきめまい！\n空は大きな聖体台のように悲しく美しい。"
+    },
+    {
+      "id": 3,
+      "originalText": "Le violon frémit comme un cœur qu'on afflige,\nUn cœur tendre, qui hait le néant vaste et noir!\nLe ciel est triste et beau comme un grand reposoir;\nLe soleil s'est noyé dans son sang qui se fige.",
+      "provisionalTranslation": "ヴァイオリンが苦しめられた心のように震える、\n広大で暗い虚無を憎む柔らかな心！\n空は大きな聖体台のように悲しく美しい；\n太陽は凝固していく自らの血の中に溺れた。"
+    },
+    {
+      "id": 4,
+      "originalText": "Un cœur tendre, qui hait le néant vaste et noir,\nDu passé lumineux recueille tout vestige!\nLe soleil s'est noyé dans son sang qui se fige...\nTon souvenir en moi luit comme un ostensoir!",
+      "provisionalTranslation": "広大で暗い虚無を憎む柔らかな心が、\n輝かしい過去のあらゆる痕跡を収める！\n太陽は凝固していく自らの血の中に溺れた……\nお前の思い出が私の中で聖体顕示台のように輝く！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "パンタン（pantoum）形式──マレー半島起源、仏語には19世紀初頭に導入。各連第2・4行が次連第1・3行として反復される：§1の「Chaque fleur s'évapore ainsi qu'un encensoir」→§2冒頭、「Valse mélancolique et langoureux vertige」→§2第3行。最終連は変形──§1の第1・3行が§4の第2・4行として戻る円環構造。反復は同一行でありながら文脈が変わることで意味が変容する──「花が香炉のように蒸発する」という行が単独で現れるとき（§1）と「ヴァイオリンの震え」に続いて現れるとき（§2）では感情的文脈が異なる。記憶の円環的・反復的性質を形式が実装する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "chaque fleur s'évapore ainsi qu'un encensoir",
+      "body": "「それぞれの花が香炉のように蒸発する（Chaque fleur s'évapore ainsi qu'un encensoir）」──「encensoir（香炉）」はカトリック典礼で香を焚く器。花の香りの「蒸発（s'évapore）」が香炉の薫香と同一視される──自然物（花）と典礼器物（香炉）の重なりが詩全体に宗教的・感覚的な二重性を与える。パンタン形式によりこの行は§2冒頭に反復される──「花＝香炉」の等置が詩全体に持続音として響く。「Sainte」の「santal vieux qui se dédore（金箔の剥げる古い白檀）」という典礼的香木との語彙的連続。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Les sons et les parfums tournent dans l'air du soir",
+      "body": "「音と香りが夕暮れの空気の中で回る（Les sons et les parfums tournent dans l'air du soir）」──ボードレール「Correspondances」の「Les parfums, les couleurs et les sons se répondent（香り・色・音が互いに応答する）」という共感覚論の動的実装。「音（sons）」と「香り（parfums）」が同じ「回る（tournent）」という動詞で捉えられる──聴覚と嗅覚の統合的運動。マラルメ「Apparition」§1の「blancs sanglots glissant sur l'azur des corolles（花冠の青の上を滑る白い嗚咽）」という共感覚語彙との系譜的連続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le violon frémit comme un cœur qu'on afflige",
+      "body": "「ヴァイオリンが苦しめられた心のように震える（Le violon frémit comme un cœur qu'on afflige）」──楽器（ヴァイオリン）が「苦しめられた心」の直喩として提示される。音楽的物体が感情的主体として機能する──「Sainte」の「Musicienne du silence（沈黙の音楽家）」とは逆の「沈黙でなく震えとして音楽が苦しみを体現する」方向。「afflige（苦しめる）」という他動詞の受動的使用──ヴァイオリンは「苦しめられる」対象でありながら「震える（frémit）」という能動的主体でもある。「baudelaire_wagner」シリーズの「音楽が感情を直接伝達する」という命題の詩的実装。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le ciel est triste et beau comme un grand reposoir",
+      "body": "「空は大きな聖体台のように悲しく美しい（Le ciel est triste et beau comme un grand reposoir）」──「reposoir（聖体台）」は聖体行列の際に聖体を一時的に安置する台。「空」が「聖体台」として比喩化される──空は聖なるものが「一時的に安置される場所」、つまり永続的な神の宿りではなく「一時的な顕現の場」として定義される。「triste et beau（悲しく美しい）」という形容の組み合わせ──ボードレール的な「美の悲しみ」・美が完全であるがゆえに悲しいという逆説。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Un cœur tendre, qui hait le néant vaste et noir",
+      "body": "「広大で暗い虚無を憎む柔らかな心（Un cœur tendre, qui hait le néant vaste et noir）」──「néant（虚無）」はボードレール詩学の根本概念。「vaste et noir（広大で暗い）」という形容が虚無に空間的・視覚的広がりを与える。「憎む（hait）」という強動詞──虚無への「恐怖」ではなく「憎悪」。マラルメ「L'Azur」§3の「parce que j'ai peur de mourir en dormant（眠りながら死ぬのが怖い）」という虚無への「恐怖」とは対照的──ボードレールは虚無を「憎む」という対抗的な強度で対峙する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le soleil s'est noyé dans son sang qui se fige",
+      "body": "「太陽は凝固していく自らの血の中に溺れた（Le soleil s'est noyé dans son sang qui se fige）」──夕焼けの赤を「太陽が自らの血の中に溺れる」という自己破壊的動作として詩化する。「se fige（凝固する）」という現在時制──「溺れた（s'est noyé）」という過去と「凝固していく（qui se fige）」という進行する現在の組み合わせ──夕陽の消滅が完了した死と進行する凝固の二重時制として捉えられる。パンタン形式により§4にも反復されるが、§4では「収める（recueille）」という保存的動作の後に来て感情的文脈が変わる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Ton souvenir en moi luit comme un ostensoir",
+      "body": "「お前の思い出が私の中で聖体顕示台のように輝く（Ton souvenir en moi luit comme un ostensoir）」──詩の最終行・帰結命題。「ostensoir（聖体顕示台）」──カトリックで聖体（キリストの体）を信者に示すための金属製台座・放射状の光輝を持つ。§2の「reposoir（聖体台）」から「ostensoir（聖体顕示台）」への典礼的昇華──安置から顕示（展示）へ。「ton souvenir（お前の思い出）」の「ton（お前の）」──誰への記憶かは詩内に明示されない。詩全体が夕暮れの感覚から「記憶の輝き」へと収斂する──「Crise de vers」の「詩は不在のものを召喚する」という命題を先取りする記憶論的帰結。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Du passé lumineux recueille tout vestige",
+      "targetId": "hoelderlin_andenken",
+      "body": "「輝かしい過去のあらゆる痕跡を収める（Du passé lumineux recueille tout vestige）」──ヘルダーリン「Andenken（回想）」の詩タイトルそのものとの主題的共鳴。ヘルダーリンの「Andenken」が南仏ボルドーの記憶を「詩的言語の源泉」として保存するのに対し、ボードレールの「Harmonie du soir」は「輝く過去の痕跡（vestige）」を「聖体顕示台のように輝く記憶」として保存する──「過去の痕跡を詩が収める」という記憶論的詩学の仏独対照。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Ton souvenir en moi luit comme un ostensoir",
+      "targetId": "mallarme_apparition",
+      "body": "「お前の思い出が私の中で聖体顕示台のように輝く」──マラルメ「Apparition」§3の「la fée au chapeau de clarté（光の帽子の妖精）」という「幼年期の記憶が光として現れる」構造との対応。ボードレールでは「記憶が聖体顕示台として輝く」という宗教的・器物的比喩、マラルメでは「記憶が妖精という幻影として現れる」という神話的比喩──「過去の記憶が光として体験される」という共通構造の仏語詩における二つの変奏。"
+    }
+  ]
+}
