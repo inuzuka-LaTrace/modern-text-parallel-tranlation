@@ -1,0 +1,110 @@
+{
+  "id": "mallarme_angoisse",
+  "title": "Angoisse",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies (Deman, Bruxelles, 1887); Poésies complètes (1899)",
+  "year": "1862",
+  "firstPublication": "Le Papillon (Paris, 1 février 1862) — 初出時題「À celle qui est tranquille」",
+  "difficulty": "中級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "1862年作（マラルメ20歳）、Le Papillon 初出時題「À celle qui est tranquille（静かな彼女へ）」。後に「Angoisse（苦悩）」に改題。14行ソネット（ABBA ABBA CDC DCD）。肉体的な女への接触を求めながら、その接触によって「苦悩（angoisse）・罪悪感・理想の重さ」が軽減されるかどうかを問う詩──ボードレール「悪の花」の「女と理想の弁証法」の直接的な影響下にある。改題の軌跡（「静かな彼女へ」→「苦悩」）そのものが詩の主題の転換を示す：相手女性中心の詩から詩的自我の内的苦悩中心の詩へ。",
+  "keywords": [
+    "苦悩",
+    "女への接触",
+    "理想の重さ",
+    "罪悪感",
+    "ボードレール影響",
+    "改題",
+    "肉体と精神",
+    "虚無",
+    "夜の心",
+    "ソネット"
+  ],
+  "relatedTexts": [
+    "mallarme_apparition",
+    "mallarme_les_fleurs",
+    "mallarme_soupir",
+    "baudelaire_romantisme_complet",
+    "hofmannsthal_erlebnis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Je ne viens pas ce soir vaincre ton corps, ô bête\nEn qui vont les péchés d'un peuple, ni creuser\nDans tes cheveux impurs une triste tempête\nSous l'incurable ennui que verse mon baiser:",
+      "provisionalTranslation": "私は今夜、お前の肉体を征服しに来るのではない、おお獣よ\nその中に民の罪が宿る獣を、また掘り起こしに来るのでもない\nお前の不純な髪の中に悲しい嵐を\n私の口づけが注ぐ癒えない倦怠の下に："
+    },
+    {
+      "id": 2,
+      "originalText": "Je demande à ton lit le lourd sommeil sans songes\nPlanant sous les rideaux inconnus du remords,\nEt que tu peux goûter après tes noirs mensonges,\nToi qui sur le néant en sais plus que les morts:",
+      "provisionalTranslation": "私はお前のベッドに夢のない重い眠りを求める\n後悔の見知らぬカーテンの下に漂う眠りを、\nそしてお前の黒い嘘の後でお前が味わえるものを、\n死者よりも虚無について多くを知るお前よ："
+    },
+    {
+      "id": 3,
+      "originalText": "Car le Vice, rongeant ma native noblesse,\nM'a comme toi marqué de sa stérilité,\nMais tandis que ton sein de pierre est habité\nPar un cœur que la dent d'aucun crime ne blesse,",
+      "provisionalTranslation": "なぜなら悪徳が私の生来の高貴さを蝕み、\nお前のように私をその不毛さで刻んだから、\nしかしお前の石の胸がひとつの心によって住まわれているのに対して\nどんな罪の歯にも傷つかぬ心によって、"
+    },
+    {
+      "id": 4,
+      "originalText": "Je fuis, pâle, défait, hanté par mon linceul,\nAyant peur de mourir lorsque je couche seul.",
+      "provisionalTranslation": "私は青ざめ、打ちひしがれ、自分の経帷子に取り憑かれて逃げる、\n一人で眠るとき死の恐怖を感じながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "14行ソネット（ABBA ABBA CDC DCD）──前半8行（オクターヴ）が「私が求めないもの（肉体征服・髪の嵐）」と「私が求めるもの（夢のない重い眠り）」の対比的提示、後半6行（セステット）が「なぜなら（Car）」による理由の開示と「しかし（Mais）」による逆接──4行の帰結行の代わりに2行のクプレ（結末）で詩が突然閉じる変形構成。改題の軌跡：「À celle qui est tranquille（静かな彼女へ）」→「Angoisse（苦悩）」──相手女性中心から詩的自我の内的苦悩中心へ。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je ne viens pas ce soir vaincre ton corps, ô bête",
+      "body": "「私は今夜、お前の肉体を征服しに来るのではない、おお獣よ（Je ne viens pas ce soir vaincre ton corps, ô bête）」──冒頭の強い否定「Je ne viens pas（私は来ない）」と「ô bête（おお獣よ）」という呼びかけ。「bête（獣）」という呼びかけがボードレール的な女性への呼びかけ語彙の継承──「悪の花」の「femme impure（不純な女）」・「monstre（怪物）」という語彙圏。しかし「征服しに来ない」という否定が詩全体の逆説的構造を導入する：肉体的接触の拒絶が主題。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "l'incurable ennui que verse mon baiser",
+      "body": "「私の口づけが注ぐ癒えない倦怠（l'incurable ennui que verse mon baiser）」──「ennui（倦怠）」はボードレール「悪の花」冒頭「Au Lecteur」の核心語──「ennui」が世界の根本的状態として提示される。「癒えない（incurable）」という形容が倦怠を医学的・慢性的な病として定義する。「私の口づけが注ぐ（que verse mon baiser）」──液体的な動詞「verser（注ぐ）」が口づけの行為を倦怠の「注入」として描く──愛の行為が倦怠の伝播として提示される逆説。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "le lourd sommeil sans songes\nPlanant sous les rideaux inconnus du remords",
+      "body": "「後悔の見知らぬカーテンの下に漂う夢のない重い眠り（le lourd sommeil sans songes / Planant sous les rideaux inconnus du remords）」──「songes（夢）」のない「lourd（重い）」眠りが求められる。「remords（後悔）」のカーテンが「inconnus（見知らぬ）」として提示される──後悔を詩人は知っているはずだが「見知らぬ」カーテン=後悔を知らない眠りを求める逆説。ホフマンスタール「Erlebnis」§2の「生を離れる」という死的眠りへの傾斜と同系列──ただしホフマンスタールは「眠りから戻る」のに対し、マラルメはここで「眠りに留まりたい」と望む。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Toi qui sur le néant en sais plus que les morts",
+      "body": "「死者よりも虚無について多くを知るお前よ（Toi qui sur le néant en sais plus que les morts）」──詩の最も鋭い逆説的定義。「toi（お前）」──罪を重ねた女が「死者よりも虚無（néant）について多くを知っている」。「虚無（néant）」はマラルメ詩学の根本概念──後期の「Igitur」・「Un coup de dés」における存在論的虚無の萌芽がここに既にある。娼婦的女性が「哲学的真理の体現者」として逆説的に提示される──ボードレール的な「美と悪の同一性」の継承。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "le Vice, rongeant ma native noblesse,\nM'a comme toi marqué de sa stérilité",
+      "body": "「悪徳が私の生来の高貴さを蝕み、お前のように私をその不毛さで刻んだ（le Vice … M'a comme toi marqué de sa stérilité）」──「comme toi（お前のように）」という比較が詩の転換点。前半で「私」と「お前（女）」は対立していたが、ここで「悪徳によって不毛さを刻まれた」点での同一化が宣言される。「stérilité（不毛さ）」──詩的創造の不能・理想への到達不可能性の表現。後年の「Igitur」における「不毛の夜」・「Un coup de dés」の「思考の失敗」という主題の最初の定式化。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ton sein de pierre est habité\nPar un cœur que la dent d'aucun crime ne blesse",
+      "body": "「お前の石の胸がどんな罪の歯にも傷つかぬ心によって住まわれている（ton sein de pierre est habité / Par un cœur que la dent d'aucun crime ne blesse）」──「sein de pierre（石の胸）」という身体の無感覚化・物質化。「aucun crime ne blesse（どんな罪も傷つけない）」──女の「石の心」は罪に対して免疫がある。しかし「Mais（しかし）」による反転が示すのは：詩人の心は「石でない」からこそ罪に傷つき、苦悩する──石の心への羨望が詩人の苦悩の根拠。「Die Beiden」§3の「どちらの手も相手の手を見つけられない」という接触不可能性と対照的な「接触への逆説的羨望」。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Je fuis, pâle, défait, hanté par mon linceul",
+      "body": "「私は青ざめ、打ちひしがれ、自分の経帷子に取り憑かれて逃げる（Je fuis, pâle, défait, hanté par mon linceul）」──詩の結末2行は標準ソネットの帰結形式（3行テルツェット）の代わりに2行クプレで突然閉じる。「linceul（経帷子・死装束）」に取り憑かれる──自分の死への恐怖が「経帷子」という具体的物体として現れる。「hanté（取り憑かれた）」という動詞が「Ghost（幽霊）」的な状態を示す──詩人自身が自分の死の幽霊に取り憑かれた存在として提示される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Ayant peur de mourir lorsque je couche seul",
+      "targetId": "hoelderlin_an_die_parzen",
+      "body": "「一人で眠るとき死の恐怖を感じながら（Ayant peur de mourir lorsque je couche seul）」──ヘルダーリン「An die Parzen」§2の「神的な権利（göttlich Recht）」として詩の完成を死後の安らぎの条件とする逆転と対照。ヘルダーリンは「詩が完成するなら死は安らかだ」と積極的に死を受け入れるのに対し、マラルメは「一人で眠るとき死が怖い」という孤独と恐怖として死と向き合う──詩人の死への態度の仏独対照。"
+    }
+  ]
+}
