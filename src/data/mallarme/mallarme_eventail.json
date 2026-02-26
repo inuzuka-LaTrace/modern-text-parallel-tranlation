@@ -1,0 +1,123 @@
+{
+  "id": "mallarme_eventail",
+  "title": "Éventail (de Madame Mallarmé)",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies (Deman, Bruxelles, 1887); Poésies complètes (1899)",
+  "year": "1884",
+  "firstPublication": "Poésies (Deman, Bruxelles, 1887)",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1884年作（マラルメ42歳）、Poésies（1887）初収録。マラルメの「扇子詩（poèmes-éventails）」の代表作──「de Madame Mallarmé（マラルメ夫人のために）」という副題が示す通り、妻マリア・クリスティーナへの献呈詩。4連16行、交互韻。扇子（éventail）が「羽ばたき（battement）」によって空気を動かす動作が、詩的言語の「翼の動き（bat des ailes）」として詩化される。「Crise de vers」の「言語は物を不在化させる」という命題を、扇子の「一振り（coup d'aile）」という身体的動作に仮託して詩化する後期詩学の実践。なお「de Mademoiselle Mallarmé」という姉妹篇（娘ジュヌヴィエーヴへの献呈）も存在する。",
+  "keywords": [
+    "扇子",
+    "羽ばたき",
+    "白い飛翔",
+    "不在",
+    "空気の震え",
+    "詩的言語",
+    "献呈詩",
+    "マラルメ夫人",
+    "翼の一打",
+    "後期詩学"
+  ],
+  "relatedTexts": [
+    "mallarme_crise_de_vers",
+    "mallarme_ses_purs_ongles",
+    "mallarme_sainte",
+    "mallarme_apparition",
+    "hofmannsthal_vorfruehling"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Avec comme pour langage\nRien qu'un battement aux cieux\nLe futur vers se dégage\nDu logis très précieux",
+      "provisionalTranslation": "言語として、ただ\n天への一つの羽ばたきだけをもって\n未来の詩が解き放たれる\nきわめて貴重な住まいから"
+    },
+    {
+      "id": 2,
+      "originalText": "Aile tout bas la courrière\nSans te nommer ni pourquoi\nTiède blancheur de Madeleine\nEn quelque sorte défunte",
+      "provisionalTranslation": "使者である翼が静かに\nお前の名を言わずまた理由も言わずに\n何かしら死に絶えた\nマドレーヌの温かい白さ"
+    },
+    {
+      "id": 3,
+      "originalText": "Selon nul ventre ni plumes:\nLégèreté, si cela\nSe peut, comme d'un vol d'algues\nRythmiques auprès de moi",
+      "provisionalTranslation": "腹部にも羽根にも従わず：\n軽さ、もしそれが\nできるなら、私のそばの\nリズミカルな藻の飛翔のように"
+    },
+    {
+      "id": 4,
+      "originalText": "Vertige! voici que frissonne\nL'espace comme un grand baiser\nQui, fou de naître pour personne,\nNe peut jaillir ni s'apaiser.",
+      "provisionalTranslation": "めまい！見よ空間が震える\n大きな口づけのように\nその口づけは、誰のためにも生まれないことの狂気で、\n噴き出すこともできず静まることもできない。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "4連×4行（計16行）、交互韻（abab）──8音節行（オクトシラーブ）によるアレクサンドランより短い呼吸。扇子の「一振り（battement）」という単一の動作が4連を通じて変奏・深化される：§1「天への羽ばたきが詩を解き放つ」→§2「名もなく理由もなく使者の翼が動く」→§3「腹にも羽根にも従わない軽さ」→§4「空間が大きな口づけのように震える」──扇子の物理的動作から「誰のためでもない口づけ」という存在論的問いへの上昇。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "Avec comme pour langage\nRien qu'un battement aux cieux",
+      "body": "「言語として、ただ天への一つの羽ばたきだけをもって（Avec comme pour langage / Rien qu'un battement aux cieux）」──詩の冒頭・核心命題。「言語（langage）として」ただ「一つの羽ばたき（battement）だけ」──扇子の羽ばたきが「言語の代替」として提示される。「Crise de vers」の「詩的言語は物を直接指さず、その暗示的運動によって観念を召喚する」という命題の詩的実装──「羽ばたき」というノン・ヴァーバルな動作が「言語として（comme pour langage）」機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le futur vers se dégage\nDu logis très précieux",
+      "body": "「未来の詩が解き放たれる、きわめて貴重な住まいから（Le futur vers se dégage / Du logis très précieux）」──「futur vers（未来の詩）」という表現が重要。詩はまだ書かれていない──扇子の一振りが「未来の詩」を「貴重な住まい（logis très précieux）」から「解放（se dégage）」する。「logis très précieux」の指示対象：①扇子という物体、②詩人の心、③言語そのもの、という三重解釈が可能。「Les fleurs」§2の「cet idéal jardin（この理想の庭）」という詩的空間の保護と同系列の「詩が宿る場所」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Sans te nommer ni pourquoi",
+      "body": "「お前の名を言わずまた理由も言わずに（Sans te nommer ni pourquoi）」──「te（お前）」の指示対象の問題──①マラルメ夫人（献呈先）、②読者、③詩そのもの。「名を言わず（sans nommer）」「理由も言わず（sans pourquoi）」という二重の否定──名付けと因果関係の両方を拒絶する。「Crise de vers」の「詩人は物を直接名付けることを廃絶する（abolir)」という命題の詩的先行──名付けの拒絶が詩の本質的操作として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "Tiède blancheur de Madeleine\nEn quelque sorte défunte",
+      "body": "「何かしら死に絶えたマドレーヌの温かい白さ（Tiède blancheur de Madeleine / En quelque sorte défunte）」──「Madeleine（マドレーヌ）」は①聖マグダラのマリア（悔悛した聖女）、②マラルメ夫人の本名「Marie-Christine」からの連想、③プルーストより早い段階での「記憶を呼び起こす女性名」という三重の参照。「défunte（死に絶えた）」──「温かい」でありながら「死に絶えた」という矛盾語法が「かつて存在したものの残余的温もり」を定義する。「Terzinen über Vergänglichkeit」の「われわれが昨日まだ生きていたもの」という過去の温もりとの共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Selon nul ventre ni plumes",
+      "body": "「腹部にも羽根にも従わず（Selon nul ventre ni plumes）」──扇子の動きが「鳥の身体的動作（腹部・羽根）」に従わないという否定。扇子は鳥ではない──しかし「飛翔する」。「腹部（ventre）」という身体的・内臓的語彙が詩に導入されることで、扇子の運動が「脱身体的な純粋な動き」として際立つ。「Sainte」§2の「Magie d'un doigt qui, sans vieux santal ni vieille viole, existe（楽器なしに存在する指の魔法）」と同系列の「道具・身体を超えた純粋な動作」の詩学。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "comme d'un vol d'algues\nRythmiques auprès de moi",
+      "body": "「私のそばのリズミカルな藻の飛翔のように（comme d'un vol d'algues / Rythmiques auprès de moi）」──「藻（algues）」という水中植物が「飛翔（vol）」する直喩。水の中でゆらめく藻が「飛翔する」ように見える──重力・空気・水の通常の区分が崩れる知覚の詩。「Regen in der Dämmerung」§2の「verschwimmen（溶け合う）」・「schwebenden Nebel（漂う霧）」という境界消失的な動態と同系列──ただしマラルメでは「藻」という具体的素材が「飛翔」という異なる運動領域に転用される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "l'espace comme un grand baiser\nQui, fou de naître pour personne,\nNe peut jaillir ni s'apaiser",
+      "body": "「誰のためにも生まれないことの狂気で、噴き出すこともできず静まることもできない大きな口づけのように空間が震える（l'espace comme un grand baiser / Qui, fou de naître pour personne, / Ne peut jaillir ni s'apaiser）」──詩の最終3行・帰結命題。「grand baiser（大きな口づけ）」──扇子の一振りが空間に伝える震えが「口づけ」として比喩化される。「fou de naître pour personne（誰のためにも生まれないことの狂気）」──「personne」は「誰も～ない（nobody）」と「人（person）」の両義。口づけは「誰のためでもなく（pour personne）」に「生まれる（naître）」──届け先のない言語行為の「狂気（fou）」として詩的言語が定義される。「Ne peut jaillir ni s'apaiser（噴き出すこともできず静まることもできない）」──解消されない緊張の永続的状態として詩が終わる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Vertige! voici que frissonne\nL'espace",
+      "body": "「めまい！見よ空間が震える（Vertige! voici que frissonne / L'espace）」──「Vertige（めまい）」という感覚名詞が詩の最終連を開く感嘆符。扇子の物理的な空気の動きが「めまい」という身体的失調として体験される──詩的言語が「空間を震わせる」ことへの驚きと不安。「L'Azur」の「Je suis hanté. L'Azur! l'Azur! l'Azur! l'Azur!（取り憑かれた）」という四重の叫びと構造的に対応──両詩が「空間・青空の絶対的占領」という体験を異なる詩的語彙で捉える。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Qui, fou de naître pour personne",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「誰のためにも生まれないことの狂気（fou de naître pour personne）」──「Crise de vers」の「詩人は物の名を廃絶し（abolir）、暗示によって観念を召喚する」という命題との対応。詩的言語が「誰のためでもない（pour personne）」という宛て先のなさを持ちながら存在する──「Éventail」（1884年）の詩的直感が「Crise de vers」（1895年）の詩学理論として言語化される11年間の思想的軌跡。扇子の「一振り」が詩的言語の本質的操作──届け先のない運動──の比喩として機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "voici que frissonne\nL'espace",
+      "targetId": "hofmannsthal_vorfruehling",
+      "body": "「空間が震える（frissonne / L'espace）」──ホフマンスタール「Vorfrühling」§1の「Es läuft der Frühlingswind / Durch kahle Alleen（春の風が走る、裸の並木道を通って）」という風の動きが「感覚の波紋」として空間を充填する描写との対照。ホフマンスタールでは春の風が空間を「温かく充填する（Berühren）」のに対し、マラルメでは扇子の一振りが空間を「震わせ（frissonne）」ながら「静まることも噴き出すこともできない」緊張として空間を充填する──「風・空間・震え」という共通語彙が仏独で異なる詩的緊張を生む。"
+    }
+  ]
+}
