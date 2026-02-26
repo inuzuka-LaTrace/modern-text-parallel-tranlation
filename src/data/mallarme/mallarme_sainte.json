@@ -1,0 +1,111 @@
+{
+  "id": "mallarme_sainte",
+  "title": "Sainte",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies (Deman, Bruxelles, 1887); Poésies complètes (1899)",
+  "year": "1865",
+  "firstPublication": "Recueil de vers et prose par Stéphane Mallarmé (1887); 草稿は1865年ナンシーの妹アンリエットへの贈り物として作成",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1865年作、妹アンリエットへの聖名祝日の贈り物として書かれた草稿が起源。後に大幅に改訂・精練されPoésies（1887）に収録。別題「Sainte Cécile jouant sur l'aile d'un chérubin（ケルビムの翼の上で奏でる聖チェチーリア）」。4連16行、交互韻（abab）。音楽の守護聖人チェチーリアが、ステンドグラスの中で古い書物とヴィオールを「もはや奏でず」、天使の翼そのものを楽器として奏でるという情景を描く──「楽器の消滅・音楽の内面化」というマラルメ音楽論の詩的実装。「Crise de vers」の「音楽と詩」論の詩的先行。",
+  "keywords": [
+    "聖チェチーリア",
+    "音楽の守護聖人",
+    "ステンドグラス",
+    "ヴィオール",
+    "天使の翼",
+    "楽器なき音楽",
+    "黄金の夕暮れ",
+    "沈黙の音楽",
+    "マラルメ音楽論",
+    "ケルビム"
+  ],
+  "relatedTexts": [
+    "mallarme_crise_de_vers",
+    "mallarme_les_fleurs",
+    "mallarme_apparition",
+    "baudelaire_wagner_1",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "À la fenêtre recélant\nLe santal vieux qui se dédore\nD'une vieille viole et selon\nLe santal vieux qui se dédore,",
+      "provisionalTranslation": "窓に、古い書物を隠して\n金箔が剥げていく古い白檀の\n古いヴィオールの、そして従って\n金箔が剥げていく古い白檀の、"
+    },
+    {
+      "id": 2,
+      "originalText": "Est la Sainte pâle, étalant\nLe livre vieux que se dévore\nMagie d'un doigt qui, sans vieux\nSantal ni vieille viole, existe",
+      "provisionalTranslation": "蒼い聖女がいる、広げながら\n自ら貪り読む古い書物を\nかつての白檀も古いヴィオールもなく\n指の魔法が、存在する"
+    },
+    {
+      "id": 3,
+      "originalText": "À vêpres et complie modulant\nLe vieux livre qui se dévore\nPar un doigt qui, sans vieux santal\nNi vieille viole, fut jadis",
+      "provisionalTranslation": "晩課と終課に調べを奏でて\nかつて自ら貪り読まれた古い書物を\nかつての白檀も古いヴィオールもなく\nかつて存在した指によって"
+    },
+    {
+      "id": 4,
+      "originalText": "Du soir que s'est dévêtu\nL'accord vers quelque ixit\nRêve de l'instrumentiste:\nDu soir qu'un ave vainquit\nUne vesprée soyeuse,\nSi sur le crépuscule à peine\nTe penche avec la candeur\nD'une plume que nul ne froisse\nÀ l'aide du cristal glacé,\nMusicienne du silence.",
+      "provisionalTranslation": "ある夕暮れに脱いだ\n何かイキシットへの和音\n楽器奏者の夢：\nアヴェ・マリアがある夕暮れを征した\n絹のような夕べ、\nもし薄明の上にかろうじて\n身をかがめるなら純潔さで\nどんな皺もつけられていない羽で\n氷のような水晶の助けで、\n沈黙の音楽家よ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "4連×4行（計16行）、交互韻（abab）──ただし韻の繰り返しが内部で複雑に変奏する。「santal（白檀）」・「viole（ヴィオール）」・「vieux（古い）」という三語が各連を貫いて反復・変形される呪文的連鎖──同一語の繰り返しが徐々に意味を剥奪して音響的存在へと変換するマラルメ詩の極端な例。第4連では構造が崩れ「沈黙の音楽家（Musicienne du silence）」という逆説的帰結で詩が閉じる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "santal vieux qui se dédore",
+      "body": "「金箔が剥げていく古い白檀（santal vieux qui se dédore）」──「santal（白檀）」は香木であり聖遺物箱・典礼器物の素材。「se dédore（金箔が剥げる）」という再帰動詞が時間的な衰退・脱色を示す。詩全体の時間的文脈：かつて輝いていた楽器・書物・聖遺物が「金箔を失い」ながら現在に存在する──過去の栄光の残滓として機能する物質。「Andenken」§1の「葉を落とした」帆柱と同系列の「かつての豊かさの剥奪的現在」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "La Sainte pâle",
+      "body": "「蒼い聖女（La Sainte pâle）」──詩の主体・聖チェチーリア（音楽の守護聖人、3世紀ローマの殉教者）の「蒼い（pâle）」という形容。「蒼い」はステンドグラスを通した光の色彩的変容──聖人がステンドグラスの中の存在として、現実の人物でなく「光と色のイメージ」として提示される。「Apparition」§3の「la fée au chapeau de clarté（光の帽子の妖精）」と同系列の「光として定義される女性的存在」。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Magie d'un doigt qui, sans vieux\nSantal ni vieille viole, existe",
+      "body": "「かつての白檀も古いヴィオールもなく、指の魔法が存在する（Magie d'un doigt qui, sans vieux / Santal ni vieille viole, existe）」──詩の核心的転換。「sans（なしに）」という否定が連鎖する──楽器なし・書物なしに「指の魔法（Magie d'un doigt）」だけが「存在する（existe）」。楽器・典礼書物という音楽の「道具」を取り去った後に残る純粋な音楽的身体的能力──「Crise de vers」の「詩は言語という道具を超えた音楽的運動を目指す」という命題の初期詩的実装。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "À vêpres et complie modulant",
+      "body": "「晩課と終課に調べを奏でて（À vêpres et complie modulant）」──「vêpres（晩課）」と「complie（終課）」はキリスト教典礼の夕方・夜の時課（Liturgy of the Hours）。典礼時間の中に詩の情景が位置づけられる──聖チェチーリアが奏でる時間は典礼の夕方から夜へという下降の時間帯。「modulant（調べを奏でる）」という分詞形が「奏でながら」という継続的動態を示す──演奏は継続しているが、楽器なしに。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "Musicienne du silence",
+      "body": "「沈黙の音楽家（Musicienne du silence）」──詩の最終行・最大の矛盾語法。「Musicienne（音楽家）」でありながら「du silence（沈黙の）」──楽器を持たず・書物を持たず・演奏していないはずの聖チェチーリアが「沈黙の音楽家」として定義される。「Crise de vers」の「詩人は言語を使いながら言語の不在を目指す」という命題・「音楽は沈黙の中にある」というマラルメ音楽論の詩的帰結。ホフマンスタール「Erlebnis」§4の「Tod ist Musik geworden（死は音楽になった）」と対照──マラルメでは「音楽は沈黙になる」という逆方向の変換。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "l'aile d'un chérubin",
+      "body": "「ケルビムの翼（l'aile d'un chérubin）」──詩の別題「Sainte Cécile jouant sur l'aile d'un chérubin」が示す核心的イメージ。天使の翼が「楽器の代替」として機能する──ヴィオールの弦の代わりに「天使の羽根（plume）」が奏でられる。「plume（羽根・ペン）」という語の両義性──天使の羽根であると同時に「詩のペン」。聖女が「詩のペン」で「沈黙の音楽」を奏でるという詩学的自己言及。「Toast funèbre」§6の「bouche ouverte sans le clime de plume（羽なしに口を開けた）」との語彙的連鎖。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Musicienne du silence",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「沈黙の音楽家（Musicienne du silence）」──「Crise de vers」（1895年）の「詩は音楽から自らの財産を取り返す（reprendre à la Musique son bien）」という命題との30年間の思想的対応。「Sainte」（1865年）では聖チェチーリアという神話的人物が「沈黙の音楽家」として詩化されるのに対し、「Crise de vers」では詩的言語そのものが「音楽に匹敵する運動」として理論化される──「沈黙の音楽」の詩的直感が詩学的概念へと30年かけて変換される軌跡。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "nul ne froisse\nÀ l'aide du cristal glacé",
+      "targetId": "mallarme_ses_purs_ongles",
+      "body": "「氷のような水晶（cristal glacé）」──「Ses purs ongles」の「or de la trompette d'été（夏のトランペットの黄金）」・「licorne（一角獣）」という宝石的・動物的形象の空間と同系列の「透明・硬質・冷たい素材」が音楽的瞬間を定義する。両詩が「沈黙」と「音楽」の関係を異なる角度から詩化する──「Sainte」は聖女の沈黙する奏楽、「Ses purs ongles」は「廃絶された夢」として。"
+    }
+  ]
+}
