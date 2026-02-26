@@ -1,0 +1,106 @@
+{
+  "id": "mallarme_tombeau_baudelaire",
+  "title": "Le Tombeau de Charles Baudelaire",
+  "author": "Stéphane Mallarmé",
+  "source": "Le Tombeau de Charles Baudelaire (livret, Paris, 1896); Poésies complètes (Deman, Bruxelles, 1899)",
+  "year": "1895",
+  "firstPublication": "Le Tombeau de Charles Baudelaire (livret, Paris, janvier 1896)",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1895年作、1896年1月ボードレール没後25周年追悼詩集冊子 Le Tombeau de Charles Baudelaire 初出。14行ソネット（ABBA ABBA CCD EDE）。マラルメの後期「墓碑銘ソネット（Sonnets funèbres）」シリーズ──ポー（1876年）・ヴェルレーヌ（1896年）のそれと並ぶ──の最高傑作。ボードレールを「毒・闇・娼婦・地下・瓦斯灯（réverbère）」という近代都市の語彙で追悼する──美化でなく「近代性の詩人」としての正確な位置づけ。マラルメが「Crise de vers」でボードレールを「詩の真の起源（vrai précurseur）」と呼んだ批評的立場の詩的実践。",
+  "keywords": [
+    "墓碑銘",
+    "ボードレール追悼",
+    "近代都市の詩",
+    "瓦斯灯",
+    "毒と花",
+    "娼婦と泥",
+    "地下の神",
+    "アヌビス",
+    "悪の花",
+    "後期ソネット"
+  ],
+  "relatedTexts": [
+    "mallarme_ses_purs_ongles",
+    "mallarme_crise_de_vers",
+    "baudelaire_heroisme",
+    "baudelaire_peintre_1",
+    "verlaine_poetes_maudits_mallarme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Le temple enseveli divulgue par la bouche\nSépulcrale d'égout bavant boue et rubis\nAbominablement quelque idole Anubis\nTout le museau flambé comme un aboi farouche",
+      "provisionalTranslation": "埋葬された神殿が暴く、泥と紅玉髓を垂れ流す\n下水の墓口を通して\nおぞましくも、何かアヌビスの偶像を\n野獣の遠吠えのように炎上したすべての鼻面を。"
+    },
+    {
+      "id": 2,
+      "originalText": "Ou que le gaz récent torde la mèche louche\nTu le sais, ennemi que tu te réserves\nEn dessous du bonheur d'une rive aux ciels nubis\nAu voile qui la ceint absente avec frissons.",
+      "provisionalTranslation": "あるいは最近の瓦斯灯が斜めの灯芯をよじるか\nお前はそれを知っている、お前が自分のために留保している敵を\n曇った空の岸辺の幸福の下に\nそれを囲む帳の中に、戦慄しながら不在のものを。"
+    },
+    {
+      "id": 3,
+      "originalText": "Ce poison tutélaire et si la flauve octave\nSelon qui tout s'égara pour un jeu misérable\nDe souffler dans les plis jaunissants du désert\nEt, nul qui puisse boire en lui l'âme native,\nLe souvenir d'horizons en poussière épars\nIvresse, Beauté, sachez-le! je suis leur heureux tuteur.",
+      "provisionalTranslation": "この守護の毒、そして奔放な8音部が\nそれに従ってすべてがさすらってしまった、みじめな遊びのために\n砂漠の黄ばんだ褶曲の中に息吹くために\nそして、誰もそこから生来の魂を飲むことができないと\n塵に散らばった地平線の記憶\n陶酔よ、美よ、知れ！私は彼らの幸福な守護者だ。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "後期マラルメの「墓碑銘ソネット（Sonnets funèbres）」──ポー（1876年）・ヴェルレーヌ（1896年）と並ぶシリーズの一作。14行ソネット（ABBA ABBA CCD EDE）。前半8行が「地下・下水・アヌビス・瓦斯灯」という近代都市の暗い物質的イメージ群を構成し、後半6行が「毒・砂漠・陶酔・美」という詩学的抽象へと転換する──物質から観念への後期マラルメ的上昇構造。韻の難解な組み合わせ（bouche/louche、rubis/Anubis）が詩の閉鎖的・彫刻的性格を強化する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "idole Anubis",
+      "body": "「アヌビスの偶像（idole Anubis）」──エジプト神話の死者の神・黒い犬頭の神アヌビス。ボードレール「悪の花」において死・腐敗・変容というテーマと深く結びついたエジプト的象徴系への参照。「下水の墓口（bouche sépulcrale d'égout）」から「アヌビスの偶像」が「暴かれる（divulgue）」という構造──近代都市（下水）と古代神話（エジプトの死神）の重層。ボードレール「近代生活の英雄主義（Héroïsme de la vie moderne）」が語った「古代と近代の同時性」への詩的応答。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "bavant boue et rubis",
+      "body": "「泥と紅玉髓を垂れ流す（bavant boue et rubis）」──「boue（泥）」と「rubis（紅玉髓・ルビー）」という卑賤と宝石の対置。ボードレール「悪の花」の「花と毒」・「美と腐敗」という弁証法の空間的実装──下水（近代都市の排泄物）が泥と宝石を同時に吐き出す。「Apparition」§1の「blancs sanglots（白い嗚咽）」という初期マラルメの柔らかな象徴主義と対照的な、後期の硬質で暗い物質的象徴語彙。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "glossary",
+      "anchor": "le gaz récent torde la mèche louche",
+      "body": "「最近の瓦斯灯が斜めの灯芯をよじる（le gaz récent torde la mèche louche）」──「gaz récent（最近の瓦斯）」というボードレールの時代（1850〜60年代）に普及したパリの都市インフラへの言及。「mèche louche（斜視の・怪しい灯芯）」──「louche（斜視・怪しい）」という形容が瓦斯灯の炎に道徳的・視覚的な不確かさを付与する。ボードレールが「近代生活の画家」論で詩化した「瓦斯灯に照らされた夜の近代都市」をマラルメが後継的に言語化した瞬間。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "ennemi que tu te réserves",
+      "body": "「お前が自分のために留保している敵（ennemi que tu te réserves）」──「tu（お前）」の指示対象が詩の最大の解釈問題。①ボードレール自身（詩人は自分の中に敵を留保した）、②読者（ボードレールが読者に敵を残した）、③詩的言語そのもの、という三つの解釈が並立する。「tu te réserves（お前が自分のために留保する）」という再帰動詞の構造が「敵」を外部でなく内部に置く──ボードレール詩学の「自己への眼差し・自己分裂」の継承。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ce poison tutélaire",
+      "body": "「この守護の毒（ce poison tutélaire）」──「poison（毒）」と「tutélaire（守護的な）」という矛盾語法。ボードレール「悪の花」の「毒」が「守護する毒」として再定義される──毒が破壊するのでなく詩的意識を「守護する」という逆説。タイトルの「Tombeau（墓）」が「墓石（記念碑）」と「墓（死の場所）」の両義を持つのと同様に、「毒」は「悪」と「守護」の両義を持つ──マラルメにおけるボードレール的「悪の両義性」の継承。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "Ivresse, Beauté, sachez-le! je suis leur heureux tuteur",
+      "body": "「陶酔よ、美よ、知れ！私は彼らの幸福な守護者だ」──詩の最終行・帰結命題。「Ivresse（陶酔）」と「Beauté（美）」という抽象名詞への直接呼びかけ（apostrophe）。「tuteur（守護者・後見人）」という語が§3冒頭の「tutélaire（守護的）」と語根的に接続する──「守護の毒」が最後に「私（マラルメ）」自身の守護者的役割として帰結する。「Crise de vers」でマラルメがボードレールを「真の前駆者」と呼んだ後継宣言の詩的バージョン──マラルメが「陶酔と美の守護者」としてボードレールの遺産を引き受ける宣言。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "anchor": "Ce poison tutélaire",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「Crise de vers」でマラルメは「言語は物（chose）を直接指すのでなく不在化（absenter）させることで詩を生む」と論じ、ボードレールをその詩学の「真の起源」と呼んだ。「Le Tombeau」の「守護の毒」という矛盾語法はその詩学理論の実践──ボードレールという「毒」（近代性の危険）が「詩的言語」という「守護者」に変換される過程として読める。「Apparition」の「la fée au chapeau de clarté（光の帽子の妖精）」という初期の明るい象徴から後期の「毒と守護」の弁証法への詩学的深化が両詩の対比から浮かび上がる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "anchor": "Le temple enseveli divulgue par la bouche\nSépulcrale d'égout",
+      "targetId": "baudelaire_heroisme",
+      "body": "ボードレール「近代性の英雄主義（Héroïsme de la vie moderne）」論が「下水・瓦斯灯・舗道」という近代都市の素材の中に英雄的美を見出したことへの詩的応答。ボードレールが批評散文で語った「近代都市の美」をマラルメが詩形式の中で「下水口から泥と宝石を同時に吐き出す神殿」として凝縮した──批評と詩の相互変換という仏語文学の中心的対話の一例。"
+    }
+  ]
+}
