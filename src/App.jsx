@@ -3,8 +3,9 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
-import vanlerbergheData from './data/vanlerberghe';
 import verlaineData from './data/verlaine';
+import lecontelisleData from './data/lecontelisle';
+import vanlerbergheData from './data/vanlerberghe';
 import gautierData from './data/gautier';
 import wildeData from './data/wilde';
 import swinburneData from './data/swinburne';
@@ -135,6 +136,7 @@ export default function App() {
       ...mallarmeData,
       ...valeryData,
       ...valmoreData,
+      ...lecontelisleData,
       ...vanlerbergheData,
       ...verlaineData,
       ...gautierData,
@@ -684,6 +686,7 @@ export default function App() {
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
+    if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-stone-900/40 text-stone-300': 'bg-stone-100 text-stone-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
