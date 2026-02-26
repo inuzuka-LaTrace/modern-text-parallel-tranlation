@@ -9,7 +9,7 @@
   "category": "yeats",
   "originalLang": "en",
   "modernRelevance": "★★★★★",
-  "context": "1899年初出、The Wind Among the Reeds 所収。話者「Aedh（エド）」はイェイツが同詩集で用いた神話的ペルソナの一つ——「青白く、恋に落ちた（pale, lovelorn）」存在。1906年改訂でタイトルを「He Wishes for the Cloths of Heaven」に変更し、神話的ペルソナ名を削除。8行単一連。前半4行（仮定法——「もし天の布を持っていたなら」）と後半4行（直説法——「しかし夢しかない、そっと踏んでくれ」）の対比が詩の全構造。",
+  "context": "1899年初出、The Wind Among the Reeds 所収。話者「Aedh（エド）」はイェイツが同詩集で用いた神話的ペルソナの一つ──「青白く、恋に落ちた（pale, lovelorn）」存在。1906年改訂でタイトルを「He Wishes for the Cloths of Heaven」に変更し、神話的ペルソナ名を削除。8行単一連。前半4行（仮定法──「もし天の布を持っていたなら」）と後半4行（直説法──「しかし夢しかない、そっと踏んでくれ」）の対比が詩の全構造。",
   "keywords": [
     "天の刺繍された布",
     "エド Aedh",
@@ -41,51 +41,51 @@
     {
       "paragraphId": 1,
       "type": "prosody",
-      "body": "8行単一連。押韻が cloths/cloths・light/light（half-light）・feet/feet・dreams/dreamsという同語反復——通常の異語韻踏みでなく同じ語を行末に繰り返すことで「強迫的な執着」の感情を形式化する。5行目の「I would spread（敷こう）」から6行目の「But（しかし）」という転換が詩の折り返し点であり、仮定法（持っていたなら）から直説法（敷いた）への移行が7行目で完結する。"
+      "body": "8行単一連。押韻が cloths/cloths・light/light（half-light）・feet/feet・dreams/dreamsという同語反復──通常の異語韻踏みでなく同じ語を行末に繰り返すことで「強迫的な執着」の感情を形式化する。5行目の「I would spread（敷こう）」から6行目の「But（しかし）」という転換が詩の折り返し点であり、仮定法（持っていたなら）から直説法（敷いた）への移行が7行目で完結する。"
     },
     {
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "Enwrought with golden and silver light",
-      "body": "「織り込まれた（Enwrought）」——Wrought（鍛造された・精巧に作られた）の接頭辞付き古語形。「Adam's Curse」の「stitching and unstitching（縫ったり解いたり）」と同じ「布・織物」の語彙的世界——詩作と織物制作の同一視がイェイツ初期詩を貫くメタファー体系。「golden and silver light（金と銀の光）」——二金属を「光」として天上化し、物質と光の境界を消す。"
+      "body": "「織り込まれた（Enwrought）」──Wrought（鍛造された・精巧に作られた）の接頭辞付き古語形。「Adam's Curse」の「stitching and unstitching（縫ったり解いたり）」と同じ「布・織物」の語彙的世界──詩作と織物制作の同一視がイェイツ初期詩を貫くメタファー体系。「golden and silver light（金と銀の光）」──二金属を「光」として天上化し、物質と光の境界を消す。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "The blue and the dim and the dark cloths\nOf night and light and the half-light",
-      "body": "三色（blue・dim・dark）と三時間帯（night・light・half-light）が対応する六語の配列——「light」という音が half-light を含め実質3回繰り返される詩の音響的核心。「dim（薄暗がり）」という中間段階の存在が「dark（暗闇）」と「light（光）」の二項対立を三項に開く——唯美主義的な「境界の美」の定式化。"
+      "body": "三色（blue・dim・dark）と三時間帯（night・light・half-light）が対応する六語の配列──「light」という音が half-light を含め実質3回繰り返される詩の音響的核心。「dim（薄暗がり）」という中間段階の存在が「dark（暗闇）」と「light（光）」の二項対立を三項に開く──唯美主義的な「境界の美」の定式化。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "But I, being poor, have only my dreams",
-      "body": "「しかし私は貧しいから、夢しか持っていない（But I, being poor, have only my dreams）」——「poor（貧しい）」という語の二重性：金銭的貧しさと「天の布を持てない」詩人としての存在論的貧しさ。1899年当時ほぼ無名だったイェイツの社会的現実でもある。「夢しか（only my dreams）」——「only」という限定が夢の唯一性・絶対性を逆説的に強化する。"
+      "body": "「しかし私は貧しいから、夢しか持っていない（But I, being poor, have only my dreams）」──「poor（貧しい）」という語の二重性：金銭的貧しさと「天の布を持てない」詩人としての存在論的貧しさ。1899年当時ほぼ無名だったイェイツの社会的現実でもある。「夢しか（only my dreams）」──「only」という限定が夢の唯一性・絶対性を逆説的に強化する。"
     },
     {
       "paragraphId": 1,
       "type": "commentary",
       "anchor": "I have spread my dreams under your feet",
-      "body": "「私は自分の夢をお前の足の下に敷いた（I have spread my dreams under your feet）」——直前の仮定法（would spread）から現在完了直説法（have spread）への転換——夢はすでに敷かれている。「The Rose of the World」の「He made the world to be a grassy road / Before her wandering feet（神は世界を彼女の足の前の草の道として作った）」と構造的に対応——神が世界を足の下に敷き、詩人が夢を足の下に敷く。"
+      "body": "「私は自分の夢をお前の足の下に敷いた（I have spread my dreams under your feet）」──直前の仮定法（would spread）から現在完了直説法（have spread）への転換──夢はすでに敷かれている。「The Rose of the World」の「He made the world to be a grassy road / Before her wandering feet（神は世界を彼女の足の前の草の道として作った）」と構造的に対応──神が世界を足の下に敷き、詩人が夢を足の下に敷く。"
     },
     {
       "paragraphId": 1,
       "type": "glossary",
       "anchor": "Tread softly because you tread on my dreams",
-      "body": "「そっと踏んでくれ、お前は私の夢の上を踏んでいるのだから（Tread softly because you tread on my dreams）」——詩全体の帰結命題。命令形（Tread softly）による依頼——「踏む（tread）」という動詞の反復が「認識」と「行為」を同一にする：お前は踏んでいると知れば、そっと踏む。唯美主義詩における最も広く引用された「脆弱性の宣言」の一つ——詩人の最も内密なもの（夢）の完全な露呈と、その保護の依頼。"
+      "body": "「そっと踏んでくれ、お前は私の夢の上を踏んでいるのだから（Tread softly because you tread on my dreams）」──詩全体の帰結命題。命令形（Tread softly）による依頼──「踏む（tread）」という動詞の反復が「認識」と「行為」を同一にする：お前は踏んでいると知れば、そっと踏む。唯美主義詩における最も広く引用された「脆弱性の宣言」の一つ──詩人の最も内密なもの（夢）の完全な露呈と、その保護の依頼。"
     },
     {
       "paragraphId": 1,
       "type": "intertextual",
       "anchor": "Had I the heavens' embroidered cloths",
       "targetId": "hoelderlin_an_die_parzen",
-      "body": "ヘルダーリン「An die Parzen（運命の女神たちへ）」の「Einmal / Lebt' ich, wie Götter, und mehr bedarfs nicht（かつて一度、私は神々のように生きた——それ以上は必要ない）」との対照。ヘルダーリンが「一度の神的生」をすでに生きたものとして受け入れるのに対し、イェイツは「天の布を持ちたい」という仮定法的渇望から出発し「夢しかない」という受容へと移行する——「詩人の所有と贈与」の問題の異なる解。"
+      "body": "ヘルダーリン「An die Parzen（運命の女神たちへ）」の「Einmal / Lebt' ich, wie Götter, und mehr bedarfs nicht（かつて一度、私は神々のように生きた──それ以上は必要ない）」との対照。ヘルダーリンが「一度の神的生」をすでに生きたものとして受け入れるのに対し、イェイツは「天の布を持ちたい」という仮定法的渇望から出発し「夢しかない」という受容へと移行する──「詩人の所有と贈与」の問題の異なる解。"
     },
     {
       "paragraphId": 1,
       "type": "intertextual",
       "anchor": "being poor, have only my dreams",
       "targetId": "hofmannsthal_manche_freilich",
-      "body": "ホフマンスタール「Manche freilich（確かに多くの者は）」の最終行「mein Teil ist mehr（私の分け前はより多い）」との対照。ホフマンスタールが詩人の「分け前」の豊かさを宣言して閉じるのに対し、イェイツは「夢しかない（have only my dreams）」という貧しさから出発して「そっと踏んでくれ」という脆弱性の宣言に到達する——「詩人の分け前」の異なる定式化として並列できる対詩。"
+      "body": "ホフマンスタール「Manche freilich（確かに多くの者は）」の最終行「mein Teil ist mehr（私の分け前はより多い）」との対照。ホフマンスタールが詩人の「分け前」の豊かさを宣言して閉じるのに対し、イェイツは「夢しかない（have only my dreams）」という貧しさから出発して「そっと踏んでくれ」という脆弱性の宣言に到達する──「詩人の分け前」の異なる定式化として並列できる対詩。"
     }
   ]
 }
