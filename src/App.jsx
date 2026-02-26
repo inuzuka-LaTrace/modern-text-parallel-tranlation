@@ -656,22 +656,20 @@ export default function App() {
 
   const fontSizeMap = { small: 'text-sm', medium: 'text-base', large: 'text-lg', xlarge: 'text-xl' };
 
-  // カテゴリーラベルの短縮表示用マップ
+    // カテゴリーラベルの短縮表示用マップ
   const catShort = {
-    baudelaire_aesthetics:   '美学',
-    baudelaire_music:        '音楽',
-    baudelaire_modernity:    '近代性',
-    mallarme_poetics:        '詩学',
-    mallarme_book:           '書物',
-    mallarme_representation: '表象',
-    mallarme_theatre:        '演劇',
-    mallarme_music:          '音楽',
-    mallarme_culture:        '文化',
+    baudelaire:              'ボードレール',
+    baudelaire_critique:     'ボードレール批評',
+    mallarme:                'マラルメ',
+    mallarme_critique:       'マラルメ批評',
     valery:                  'ヴァレリー',
-    valmore:                 'ヴァルモール',
-    vanlerberghe:            'ヴァン・レルベルグ',
+    valery_critique:         'ヴァレリー批評',
+    verlaine:                'ヴェルレーヌ',
     verlaine_critique:       'ヴェルレーヌ批評',
     gautier:                 'ゴーティエ',
+    valmore:                 'ヴァルモール',
+    leconte_de_lisle:        'ルコント・ド・リール',
+    vanlerberghe:            'ヴァン・レルベルグ',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
     yeats:                   'イェイツ',
