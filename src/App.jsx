@@ -3,6 +3,7 @@ import baudelaireData from './data/baudelaire';
 import mallarmeData from './data/mallarme';
 import valeryData from './data/valery';
 import valmoreData from './data/valmore';
+import lecontelisleData from './data/lecontelisle';
 import vanlerbergheData from './data/vanlerberghe';
 import verlaineData from './data/verlaine';
 import gautierData from './data/gautier';
@@ -135,6 +136,7 @@ export default function App() {
       ...mallarmeData,
       ...valeryData,
       ...valmoreData,
+      ...lecontelisleData,
       ...vanlerbergheData,
       ...verlaineData,
       ...gautierData,
@@ -175,6 +177,7 @@ export default function App() {
     verlaine_critique:          { name: 'ヴェルレーヌ批評' },
     gautier:                    { name: 'ゴーティエ' },
     valmore:                    { name: 'ヴァルモール' },
+    leconte_de_lisle:           { name: 'ルコント・ド・リール' },
     vanlerberghe:               { name: 'ヴァン・レルベルグ' },
     wilde:                      { name: 'ワイルド' },
     swinburne:                  { name: 'スウィンバーン' },
@@ -668,6 +671,7 @@ export default function App() {
     verlaine_critique:       'ヴェルレーヌ批評',
     gautier:                 'ゴーティエ',
     valmore:                 'ヴァルモール',
+    leconte_de_lisle:        'ルコント・ド・リール',
     vanlerberghe:            'ヴァン・レルベルグ',
     wilde:                   'ワイルド',
     swinburne:               'スウィンバーン',
@@ -683,6 +687,7 @@ export default function App() {
     if (cat?.startsWith('mallarme'))     return darkMode ? 'bg-sky-900/40 text-sky-300'       : 'bg-sky-100 text-sky-800';
     if (cat?.startsWith('valery'))       return darkMode ? 'bg-rose-900/40 text-rose-300'     : 'bg-rose-100 text-rose-800';
     if (cat?.startsWith('valmore'))      return darkMode ? 'bg-pink-900/40 text-pink-300'     : 'bg-pink-100 text-pink-800';
+    if (cat?.startsWith('leconte_de_lisle')) return darkMode ? 'bg-stone-900/40 text-stone-300' : 'bg-stone-100 text-stone-800';
     if (cat?.startsWith('vanlerberghe')) return darkMode ? 'bg-emerald-900/40 text-emerald-300' : 'bg-emerald-100 text-emerald-800';
     if (cat?.startsWith('verlaine'))     return darkMode ? 'bg-violet-900/40 text-violet-300' : 'bg-violet-100 text-violet-800';
     if (cat?.startsWith('gautier'))      return darkMode ? 'bg-cyan-900/40 text-cyan-300' : 'bg-cyan-100 text-cyan-800';
@@ -1374,7 +1379,7 @@ export default function App() {
 
         {/* フッター */}
         <div className={`text-center text-xs ${textSecondary} pb-8 space-y-1`}>
-          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · イェイツ · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
+          <p>{Object.keys(texts).length}編収録 · ボードレール · マラルメ · ヴァレリー · ヴァルモール · ルコント・ド・リール · ヴァン・レルベルグ · ヴェルレーヌ · ゴーティエ · ワイルド · スウィンバーン · イェイツ · ゲオルゲ · ホフマンスタール · トラークル · ヘルダーリン</p>
           <p>掲載の日本語訳は学習補助のための試訳であり、確定した翻訳ではありません</p>
         </div>
       </div>
