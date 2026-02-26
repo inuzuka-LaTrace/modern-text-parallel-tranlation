@@ -2,19 +2,20 @@
   "id": "gautier_symphonie_blanc",
   "title": "Symphonie en blanc majeur",
   "author": "Théophile Gautier",
-  "source": "Émaux et Camées",
+  "source": "Émaux et Camées (Charpentier, Paris, 1852)",
   "year": "1852",
   "firstPublication": "Émaux et Camées, 1852 (Charpentier)",
   "difficulty": "中級",
   "category": "gautier",
+  "originalLang": "fr-FR",
   "modernRelevance": "★★★★★",
-  "context": "1852年初版から収録されたゴーティエの代表詩。音楽家ホイッスラーの「白のシンフォニー」三部作（1861–67）に直接霊感を与え、マラルメの「白」への詩学——「エロディアード」「白鳥のソネット」「骰子一擲」の白いページ——の根源的なイメージ源となった。スウェーデンのピアニスト Marie Kalergis に捧げられたとも言われる。白という単一の色調のすべての変奏を——雪・大理石・エルミン・オパール・アロエ・蝋燭・氷河・スフィンクス——連鎖させ、女-白鳥の神秘的な冷厳を通じて、解けることのない美の謎として提示する。",
+  "context": "1852年初版から収録されたゴーティエの代表詩。音楽家ホイッスラーの「白のシンフォニー」三部作（1861–67）に直接霊感を与え、マラルメの「白」への詩学──「エロディアード」「白鳥のソネット」「骰子一擲」の白いページ──の根源的なイメージ源となった。スウェーデンのピアニスト Marie Kalergis に捧げられたとも言われる。白という単一の色調のすべての変奏を──雪・大理石・エルミン・オパール・アロエ・蝋燭・氷河・スフィンクス──連鎖させ、女-白鳥の神秘的な冷厳を通じて、解けることのない美の謎として提示する。",
   "keywords": ["白", "感覚の交響", "女-白鳥", "冷厳", "神秘", "色彩詩", "マラルメへの影響"],
   "relatedTexts": [
-    "gautier_l_art",
+    "gautier_contralto",
     "baudelaire_gautier",
-    "mallarme_poetics",
-    "vanlerberghe_entrevision"
+    "mallarme_ses_purs_ongles",
+    "mallarme_lazur"
   ],
   "paragraphs": [
     {
@@ -70,12 +71,12 @@
     {
       "id": 11,
       "french": "L'ivoire, où ses mains ont des ailes,\nEt, comme des papillons blancs,\nSur la pointe des notes frêles\nSuspendent leurs baisers tremblants ;",
-      "provisionalTranslation": "象牙を——その手が翼を持ち、\n白い蝶のように、\n繊細な音符の先に\n震える口づけを宙吊りにする；"
+      "provisionalTranslation": "象牙を──その手が翼を持ち、\n白い蝶のように、\n繊細な音符の先に\n震える口づけを宙吊りにする；"
     },
     {
       "id": 12,
       "french": "L'hermine vierge de souillure,\nQui pour abriter leurs frissons,\nOuate de sa blanche fourrure\nLes épaules et les blasons ;",
-      "provisionalTranslation": "汚れを知らない白貂を——\n肩と紋章を\nその白い毛皮で包み、\n震えを宿らせるために；"
+      "provisionalTranslation": "汚れを知らない白貂を──\n肩と紋章を\nその白い毛皮で包み、\n震えを宿らせるために；"
     },
     {
       "id": 13,
@@ -106,6 +107,111 @@
       "id": 18,
       "french": "Sous la glace où calme il repose,\nOh ! qui pourra fondre ce cœur !\nOh ! qui pourra mettre un ton rose\nDans cette implacable blancheur !",
       "provisionalTranslation": "静かに憩う氷の下に、\nああ！誰がこの心を溶かせるのか！\nああ！誰がこの容赦なき白さの中に\nひとかけらの薔薇色を注げるのか！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "タイトル「Symphonie en blanc majeur（白の長調による交響楽）」は音楽用語を視覚詩のタイトルに転用する──これ自体が「感覚の照応（correspondances）」の実践。「majeur（長調・主要な）」は音楽では「明るい調性」を指し、白という「主調」を18連72行にわたって変奏し続ける構造を予告する。詩形はゴーティエの典型的な8音節4行連（octosyllabes ABAB）、全体は単一の女性像を「問い続ける」という形式をとり、§1-2（導入）→§3-6（女の登場・白の戦い）→§7-15（白の素材カタログ）→§16-17（神話的同定の問い）→§18（帰結の問い）という五部構成。ジェームズ・マクニール・ホイッスラー「白のシンフォニー第1番」（1862年）はこのタイトルと詩から直接着想を得た。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "des femmes-cygnes\nNager en chantant",
+      "body": "「北方の物語（contes du Nord）」のライン川の「女-白鳥（femmes-cygnes）」──ニーベルング伝説の白鳥乙女（ワルキューレ・白鳥の騎士）を指す。ワーグナーの「ローエングリン」（1850年初演）はほぼ同時代に初演されており、1852年のゴーティエはこの北方神話的白鳥=女性イメージを吸収していた。「歌いながら泳ぐ（Nager en chantant）」──白鳥は死に際して歌うという「白鳥の歌（chant du cygne）」伝説（古来からの迷信）を背景に持つ──「白さ」と「声」と「死」の三位一体。ボードレール「Wagner論（baudelaire_wagner_1）」でワーグナー音楽を「北方神話の壮大な感覚」として论じる1861年より9年早く、ゴーティエは北方神話の「声の白さ」を詩化していた。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "De ces femmes il en est une,\nQui chez nous descend quelquefois",
+      "body": "「そのような女のなかにひとりいる（De ces femmes il en est une）」──§1-2の複数形「女-白鳥たち（femmes-cygnes）」から突然「ひとり（une）」への転換。神話的複数から現実の特定個人への焦点化──これが詩全体の真の主題へのシフト。「われらのもとへ降りてくる（chez nous descend）」という動詞「descend（降りてくる）」は天上・神話的領域から「現在この場所」への垂直移動──神話的存在が現実社会に現れるという驚異の瞬間。詩の献辞的対象とされる Marie Kalergis（ポーランド系スウェーデン人ピアニスト・パリ社交界の著名人）への暗示的言及と解釈される。「冷たい空の氷河にかかる月光のように白い（Blanche comme le clair de lune / Sur les glaciers）」──月光と氷河という二重の光源のない間接的な白さ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "À des régals de chair nacrée,\nÀ des débauches de blancheur",
+      "body": "「真珠色の肌の饗宴へ、白さの放蕩へ（régals de chair nacrée / débauches de blancheur）」──「débauche（放蕩・乱交）」という道徳的に否定的な語が「白さ」という純粋性の象徴と結合する矛盾語法（oxymoron）。白を「過剰（débauche）」として提示することで、純潔・無垢という白の通常の意味を転覆させる。ゴーティエの「悪徳としての美（beauté immorale）」──アートは道徳的効用でなく感覚的過剰を目指す──という唯美主義的立場の詩的実装。「chair nacrée（真珠色の肌）」──真珠（nacre）は有機物が作る乳白色──§8の聖体・§10の大理石・§11の象牙と続く「無機物の白」カタログに先行する、有機的白さの初出。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Soutient des combats insolents",
+      "body": "「不敵な戦いを続ける（Soutient des combats insolents）」──「戦い（combats）」という軍事的比喩が「白の序列競争」を表現する。「胸の白さ」が「白い椿」と「白いサテン」に対して競争的に優越することを「戦闘」として擬人化。「insolents（不敵な・傲慢な）」──胸が人工物（サテン）・植物（椿）に対して「傲慢にも」戦いを挑む──人体の白さが工芸的・植物的白さより根本的に優れているという主張。§6で「サテンも花も黄ばんでゆく（Jaunissent）」という帰結──「白の戦い」における人体の絶対的勝利。§7以降のカタログはこの「白の階層性」の検証として読める──最終的に§18で「誰も溶かせない」という完全な不動性へと帰結する。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "glossary",
+      "anchor": "Paros au grain éblouissant",
+      "body": "「まばゆい粒肌のパロス島（Paros au grain éblouissant）」──パロス（Paros）はエーゲ海のキクラデス諸島の島で、古代から最高品質の白大理石（パロス大理石）の産地として知られた。ミロのヴィーナス・サモトラケのニケ・ヘルメス像など、著名な古代彫刻の多くがパロス大理石で作られた。「grain éblouissant（まばゆい粒肌）」──パロス大理石の特徴的な半透明の結晶粒──光を内側から発するような輝きを持つ。§10の「大理石、冷たく蒼い肉（marbre blanc, chair froide et pâle）」と応答する──パロスの「まばゆい輝き」が§10では「冷たく蒼い肉」という死体的な白さに転換される。ゴーティエは彫刻を繰り返し詩化しており（「ゴーティエ論（baudelaire_gautier）」参照）、大理石は芸術的白さの最高形式として位置づけられる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "allusion",
+      "anchor": "De quelle hostie et de quel cierge",
+      "body": "「どんな聖体パンとどんな蝋燭（De quelle hostie et de quel cierge）」──カトリック典礼の二つの白い要素。「hostie（聖体）」は白いウェハーに形象化されたキリストの体──「無垢の白・犠牲の白」。「cierge（蝋燭）」は白い蜜蝋蝋燭──「光を発しながら消耗する白」。「雲母（mica）・葦の髄（moelle de roseau）・聖体・蝋燭」という四つの素材は「自然素材→典礼素材」という移行をたどる──女の肌の白さが自然的・宗教的・工芸的すべての白さを超越した別次元の白として定義される。§9の「百合（lis）」・§13の「水精の涙（pleurs de l'ondine）」という神話的白さへ続く素材カタログの宗教的連節点。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "la goutte lactée\nTachant l'azur du ciel d'hiver",
+      "body": "「冬空の青を染める乳白色の雫（la goutte lactée / Tachant l'azur du ciel d'hiver）」──「青（azur）」に「白（goutte lactée）」が「染み（tachant）」として侵入するイメージ。マラルメ「L'Azur」（1864年）の「青空が詩人を追いつめる」という「青と詩人」の関係とは対照的に、ゴーティエでは「白が青を汚染する」──白の攻勢性・拡張性が「染み」という予想外の語で示される。「tachant（染みをつける）」は「汚す・染める」の両義──白が青を「汚す」という逆説的な白の攻撃性。§5の「不敵な戦い（combats insolents）」の宇宙的スケールへの拡大──白は地上（胸vs椿）のみならず天空（白が青を染める）においても攻勢的。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Le marbre blanc, chair froide et pâle,\nOù vivent les divinités ;",
+      "body": "「神々の住む白い大理石、冷たく蒼い肉（le marbre blanc, chair froide et pâle, / Où vivent les divinités）」──「chair（肉）」という有機的語彙が無機物の大理石に付与される擬人化。「冷たく蒼い（froide et pâle）」──古代彫刻の大理石の白さが「生命のない肌」として再解釈される。「神々の住む（Où vivent les divinités）」──大理石が神話的・宗教的なものの素材であるという文化的記憶。§7の「パロス島のまばゆい粒肌」という「生き生きした大理石」が§10では「冷たく蒼い肉」へと転換される──詩を通じて白の質が「輝き（§7）→典礼的純粋（§8）→宝石（§10）→音楽（§11）→貴族（§12）→神話（§13）」と変奏される。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "L'ivoire, où ses mains ont des ailes,\nEt, comme des papillons blancs,\nSur la pointe des notes frêles\nSuspendent leurs baisers tremblants",
+      "body": "「象牙、その手が翼を持ち、白い蝶のように、繊細な音符の先に震える口づけを宙吊りにする（L'ivoire … comme des papillons blancs / Sur la pointe des notes frêles / Suspendent leurs baisers tremblants）」──素材カタログの中で唯一「演奏行為」が描かれる連。「象牙（ivoire）」はピアノの白鍵の材料──ここで「白の素材リスト」が「ピアノを弾く女の手」という具体的な場面へと一瞬集中する。Marie Kalergis（1822-1874）──ポーランド系スウェーデン人の著名なピアニストで、パリ社交界の中心人物。ゴーティエはこの詩を彼女に捧げたと伝えられる。「Suspendent leurs baisers tremblants（震える口づけを宙吊りにする）」──「Contralto」§2の「告白を宙吊りにする（suspend son aveu）」と同じ「suspension（宙吊り）」語彙──決定的瞬間を固定するゴーティエ的彫刻的時間性。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "anchor": "comme des papillons blancs,\nSur la pointe des notes frêles\nSuspendent leurs baisers tremblants",
+      "targetId": "gautier_contralto",
+      "body": "「白い蝶のように……震える口づけを宙吊りにする（comme des papillons blancs / Suspendent leurs baisers tremblants）」──「Contralto」§12の「白い閃光、蝶……一方は高く、他方は低く（Le papillon, blanche étincelle … L'un volant haut et l'autre bas）」との語彙的・意味的共鳴。両詩で「白い蝶」は「対をなす二つのもの」の象徴として機能する──「Contralto」では「男女のコントラルト」の二重性、「Symphonie」では「演奏する手と鍵盤」の接触。さらに両詩で「suspension（宙吊り）」という語が決定的瞬間の固定として使われる──ゴーティエにとって「白い蝶の宙吊り」は両詩を貫く詩学的核心イメージ。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "glossary",
+      "anchor": "Pleurs de l'ondine en l'air figés",
+      "body": "「空気の中に凝固した水の精の涙（Pleurs de l'ondine en l'air figés）」──「ondine（水の精）」はヨーロッパのゲルマン・スラヴ系伝承における水の女精霊。フリードリヒ・フーケ「ウンディーネ（Undine）」（1811年）によってロマン主義文学に広く普及した。「涙が空気の中に凝固する（en l'air figés）」──水が空中で白いレース状に固まるという超自然的変容。水（流体）→固体（レース）という相変化が「白い凝固」として美的に捉えられる──§17の「凍った白い秘密を隠す者（Cache de blancs secrets gelés）」という帰結へのカタログ内の予告。ゴーティエの「白の凝固学」──水・涙・霜・氷・鍾乳石という流体の固化が詩全体を通じて反復される。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "la stalactite qui tombe,\nLarme blanche de l'antre noir",
+      "body": "「黒い洞窟の白い涙、落下する鍾乳石（la stalactite qui tombe, / Larme blanche de l'antre noir）」──§7-15の白の素材カタログの最終項。「黒（noir）」が初めて明示的に登場し、白の背景として機能する──「黒い洞窟（antre noir）」の暗闇の中から「白い涙（larme blanche）」が落下する対比。§15の末尾の「？」（疑問符）──§8から始まった「どんな素材から作られたか（De quel mica … ）」という問いの連鎖がここで閉じる。カタログが終わると§16から「セラフィタなのか？雪の聖母なのか？白いスフィンクスなのか？」という神話的同定の問いへと移行する──素材の問いから存在の問いへの詩的転換。"
+    },
+    {
+      "paragraphId": 16,
+      "type": "allusion",
+      "anchor": "Séraphita",
+      "body": "バルザック「セラフィタ（Séraphîta）」（1835年）──スウェーデンのフィヨルドを舞台に設定された神秘主義小説。主人公セラフィタ/セラフィトゥスは男性にはセラフィタ（女性）として、女性にはセラフィトゥス（男性）として現れる両性具有の存在で、最終的に天使として昇天する。スウェーデンボルグ（Emanuel Swedenborg）の神秘主義思想に基づく。「グリーンランドとノルウェーから来るのか（Des Groenlands et des Norvèges / Vient-elle avec Séraphita?）」──北方の神秘的・霊的存在としての女を「セラフィタ」に同定しようとする問い。「Contralto」§18の「グルナーレ/カレド」という両性具有的文学人物と並行する──ゴーティエの両詩は「性別を超えた神秘的美」という共通の主題を持ち、一方は「声（音楽）」として、他方は「白さ（視覚）」として体現する。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Cache de blancs secrets gelés",
+      "body": "「凍った白い秘密を隠す（Cache de blancs secrets gelés）」──詩全体の帰結命題。§7-15の素材カタログが列挙した無数の「白の変奏」が「凍った秘密（secrets gelés）」という一語に収斂する──すべての白は「解読不能な謎」の外皮だった。「gelés（凍った）」──§13の「空気中に凝固した水精の涙」・§15の「鍾乳石」という「凝固モチーフ」の最終形。「secrets（秘密）」が「白（blancs）」という形容詞を持つ──秘密自体が白い、つまり「見えているが読めない」という逆説。マラルメ「Ses purs ongles」の「廃絶された虚無（néant … nul ptyx aboli）」という「消去された謎の空間」との構造的共鳴──ゴーティエの「凍った白い秘密」がマラルメにおいては「廃絶された不在」として抽象化される。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "commentary",
+      "anchor": "Oh ! qui pourra fondre ce cœur !\nOh ! qui pourra mettre un ton rose\nDans cette implacable blancheur !",
+      "body": "「誰がこの心を溶かせるのか！誰がこの容赦なき白さの中にひとかけらの薔薇色を注げるのか！（Oh ! qui pourra fondre ce cœur ! / Oh ! qui pourra mettre un ton rose / Dans cette implacable blancheur !）」──詩の最終命題・感嘆符3連。「fondre（溶かす）」──§13「凝固した涙」・§17「凍った秘密」という「凝固モチーフ」の集約──白は「溶かせない（ne peut pas fondre）」という否定的答えを含意する修辞疑問。「un ton rose（薔薇色のひとかけら）」──詩全体を通じて維持されてきた白の単色性（monochromie）に初めて「他の色」が侵入しようとする──しかし「誰にもできない」として退けられる。ルコント・ド・リール「Midi」の「L'Impassible Beauté … qui n'apparaît point en vous tenant la main（手を差し伸べない不動の美）」との思想的共鳴──両詩人の「不動の美」が、一方は真昼の灼熱の中に、他方は白の凝固の中に宿る。"
+    },
+    {
+      "paragraphId": 18,
+      "type": "intertextual",
+      "anchor": "implacable blancheur",
+      "targetId": "mallarme_ses_purs_ongles",
+      "body": "「容赦なき白さ（implacable blancheur）」──マラルメ「Ses purs ongles」の「空の部屋……鏡が忘却の中に囲んでいる（vide salon au miroir encor / Que dans l'oubli fermé par le cadre, se fixe / De scintillations … le septuor）」という「空虚の中に閃光だけが残る」白い空間との対照。ゴーティエの「凍った白い秘密を隠すスフィンクス」が謎を「内側に保持する」不透過的な白であるのに対し、マラルメの「空の部屋の鏡」は謎を「不在として投影する」透過的な白──「白の謎」の実装が「閉鎖（ゴーティエ）」vs「開口（マラルメ）」として対照される。マラルメがゴーティエの「implacable blancheur」から出発して詩学的に変容させたプロセスが、1852年（Symphonie）→1885年（Ses purs ongles）という33年間の影響関係として示される。"
     }
   ]
 }
