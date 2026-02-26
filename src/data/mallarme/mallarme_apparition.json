@@ -1,0 +1,110 @@
+{
+  "id": "mallarme_apparition",
+  "title": "Apparition",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies (Édition de la Revue indépendante, Paris, 1887); Poésies (Édition définitive, Bruxelles: Deman, 1899)",
+  "year": "1863",
+  "firstPublication": "Revue des lettres et des arts (Paris, 1er novembre 1868)",
+  "difficulty": "中級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1863年作（マラルメ21歳）、1868年初出。マラルメ最初期の傑作にして生涯最も広く読まれた詩。14行の変形ソネット（abba abba ccd ede）。マリア・クリスティーナ・ゲリエン（Maria Christina Gerhard）──マラルメが後に妻とするドイツ人女性──への愛の詩として書かれたという伝記的背景を持つが、詩の構造はそれを超えた「記憶・夢・幻影の顕現」の詩学を展開する。ボードレール的な憂愁（Spleen）の夜から「お前の最初の口づけ」という記憶の顕現へと向かう詩──後期マラルメの「不在・白・純粋性」の詩学への萌芽を早くも示す。「Apparition（顕現）」というタイトルが示すように、愛の対象は実在しない（「il me semble voir … ta première apparition」）──詩人は現在にいながら過去の記憶の「顕現」を「見る気がする」という二重の虚構の中に置かれる。",
+  "keywords": [
+    "顕現",
+    "記憶の幻影",
+    "最初の口づけ",
+    "憂愁の夜",
+    "月の花束",
+    "夢想する妖精",
+    "初期マラルメ",
+    "変形ソネット",
+    "白い光",
+    "愛の幻視"
+  ],
+  "relatedTexts": [
+    "mallarme_ses_purs_ongles",
+    "mallarme_soupir",
+    "baudelaire_valmore_critique",
+    "hofmannsthal_erlebnis",
+    "yeats_aedh_wishes_for_the_cloths_of_heaven"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "La lune s'attristait. Des séraphins en pleurs\nRêvant, l'archet aux doigts, dans le calme des fleurs\nVaporineuses, tiraient de mourantes violes\nDe blancs sanglots glissant sur l'azur des corolles.",
+      "provisionalTranslation": "月が悲しんでいた。涙を流す熾天使たちが\n夢想しながら、指に弓を持ち、蒸発する花々の\n静けさの中で、死にゆくヴィオラから\n花冠の空色の上を滑る白いすすり泣きを引き出していた。"
+    },
+    {
+      "id": 2,
+      "originalText": "C'était le jour béni de ton premier baiser.\nMa songerie aimant à me martyriser\nS'enivrait savamment du parfum de tristesse\nQue même sans regret et sans déboire laisse",
+      "provisionalTranslation": "それはお前の最初の口づけの祝福された日だった。\n私の夢想は私を苦しめることを愛して\n悲しみの香りに巧みに酔いしれた、\n後悔も失意もなく残していくその香りに"
+    },
+    {
+      "id": 3,
+      "originalText": "La cueillason d'un Rêve au cœur qui l'a cueilli.\nJ'errais donc, l'œil rivé sur le pavé vieilli,\nQuand avec du soleil aux cheveux, dans la rue\nEt dans le soir, tu m'es en riant apparue,",
+      "provisionalTranslation": "それを摘んだ心の中の夢の摘み取り。\n私はさまよっていた、目を古びた敷石に釘付けにして、\nその時、髪に太陽を宿らせて、街路の中を\n夕暮れの中で、お前は笑いながら私に現れた、"
+    },
+    {
+      "id": 4,
+      "originalText": "Et j'ai cru voir la fée au chapeau de clarté\nQui jadis sur mes beaux sommeils d'enfant gâté\nPassait, laissant toujours de ses mains mal fermées\nNeiger de blancs bouquets d'étoiles parfumées.",
+      "provisionalTranslation": "そして私は光の帽子をかぶった妖精を見た気がした、\nかつて甘やかされた子どもの美しい眠りの上を\n通り過ぎていた妖精、いつも半開きの手から\n香り立つ白い星の花束を雪のように降らせながら。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "14行ソネット、abba abba ccd ede の韻律。アレクサンドランを基調とする。詩は「月の悲しみ→熾天使の音楽→口づけの記憶→街路での顕現→妖精の幻視」という5段階の幻視的連鎖として展開する。§1（4行）が宇宙的・聴覚的情景として設定され、§4（4行）が「妖精の顕現」という詩の帰結として呼応する──前半の「月・熾天使・白いすすり泣き」と後半の「光の帽子・白い星の花束」が「白さ」として首尾照応する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Des séraphins en pleurs",
+      "body": "「涙を流す熾天使たち（séraphins en pleurs）」──熾天使（séraphin）はキリスト教神学の最高位天使であり、ここでは「ヴィオラを弾く弦楽奏者」として音楽的に機能する。「mourantes violes（死にゆくヴィオラ）」という楽器の擬人化──ヴィオラが「死にゆく」という形容を持つことで、音楽そのものが喪失・消滅の過程として提示される。ボードレール「音楽」・ホフマンスタール「Erlebnis」§4「Der ist Musik geworden（それは音楽になった）」との「死と音楽の同一性」の系譜。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "De blancs sanglots glissant sur l'azur des corolles",
+      "body": "「花冠の空色の上を滑る白いすすり泣き（blancs sanglots glissant sur l'azur des corolles）」──共感覚的複合イメージの典型。「すすり泣き（sanglots）」という聴覚的語が「白い（blancs）」という視覚的形容詞を持ち、「空色（azur）の花冠の上を滑る（glissant）」という触覚的・視覚的動態として提示される。「blanc（白）」と「azur（空色）」はマラルメ詩の二大色彩──後期詩「Ses purs ongles」「Brise marine」にも貫かれる色彩詩学の最初期の定式化。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ma songerie aimant à me martyriser",
+      "body": "「私の夢想は私を苦しめることを愛して（Ma songerie aimant à me martyriser）」──「rêverie（夢想）」の変形語「songerie」という自己再帰的な意識。夢想が詩人の意識を「苦しめる（martyriser）」──殉教（martyr）語根を持つ動詞が用いられ、記憶への耽溺を宗教的・殉教的次元に置く。ボードレール「スパリン」における「記憶と苦悩の結合」と同系列──マラルメ初期詩がまだボードレール的な自己苦悶の語彙を保持している段階。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "l'œil rivé sur le pavé vieilli",
+      "body": "「目を古びた敷石に釘付けにして（l'œil rivé sur le pavé vieilli）」──下を向いて歩く詩人の姿勢。「pavé（敷石）」という都市的・散文的な視覚対象──イェイツ「The Lake Isle of Innisfree」§3「the pavements grey（灰色の舗道）」と同様、敷石・舗道が「都市的現実」「内向きの沈思」の形象として機能する。この「下を向いた目」が「髪に太陽を宿らせた」相手の顕現によって上方に引き上げられる──詩の方向的転換（descente → ascension）。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "avec du soleil aux cheveux",
+      "body": "「髪に太陽を宿らせて（avec du soleil aux cheveux）」──太陽が「髪の中に」という内的所有として表現される。光源を「髪に持つ」という身体的内包は、§4の「光の帽子をかぶった妖精（la fée au chapeau de clarté）」の先行形象──太陽（自然光）が妖精の光（超自然的光）へと変換される。「Aedh Wishes for the Cloths of Heaven」の「golden and silver light（黄金と銀の光）」という織物的光との対照──マラルメでは光が身体に内包され、イェイツでは光が織物として外部化される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "la fée au chapeau de clarté",
+      "body": "「光の帽子をかぶった妖精（la fée au chapeau de clarté）」──詩のクライマックス形象。「clarté（明るさ・光）」を素材とした「帽子」という具体的衣装の幻視──「見た気がした（j'ai cru voir）」という知覚の条件法的不確実性の中に置かれる。これがマラルメ詩学の核心的構造：詩人は現在にいながら過去の記憶の「顕現」を「見る気がする」だけ──現実の知覚でも完全な幻覚でもない「顕現（apparition）」の宙吊り的状態。後期の「不在（absence）」の詩学の萌芽。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Neiger de blancs bouquets d'étoiles parfumées",
+      "body": "「香り立つ白い星の花束を雪のように降らせながら（Neiger de blancs bouquets d'étoiles parfumées）」──「neiger（雪が降る）」という動詞の他動詞的使用（「雪のように降らせる」）。「白い（blancs）」「星（étoiles）」「香り立つ（parfumées）」という三つの形容・名詞が「花束（bouquets）」に集積する──視覚・嗅覚・宇宙的スケールの共感覚的最終像。§1の「白いすすり泣き（blancs sanglots）」との「blanc」による首尾照応──詩は「白さ」として開かれ「白さ」として閉じる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "j'ai cru voir la fée",
+      "targetId": "mallarme_ses_purs_ongles",
+      "body": "「妖精を見た気がした（j'ai cru voir la fée）」──「見た気がする」という知覚の不確実性が「顕現（apparition）」の詩学を定義する。「Ses purs ongles」の「ptyx（存在しない語）」・「nixe（水の精）」という非在の存在の示唆と同系列──マラルメ初期（1863年）から後期（1885年頃）への詩学的一貫性：詩人は「存在するとも存在しないとも言えない対象」を知覚の宙吊り状態において召喚する。"
+    }
+  ]
+}
