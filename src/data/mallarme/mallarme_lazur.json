@@ -1,0 +1,129 @@
+{
+  "id": "mallarme_lazur",
+  "title": "L'Azur",
+  "author": "Stéphane Mallarmé",
+  "source": "Le Parnasse contemporain (Lemerre, Paris, 1866); Poésies (Deman, Bruxelles, 1887); Poésies complètes (1899)",
+  "year": "1864",
+  "firstPublication": "Le Parnasse contemporain (Lemerre, Paris, 1866)",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "1864年1月作（マラルメ22歳）、1866年 Le Parnasse contemporain 初出。13連52行アレクサンドラン。マラルメが書簡でアンリ・カザリスへ「これは完全に新しい詩法で作った」と報告した自覚的転換点の作品──「青空（Azur）」という絶対的理想の冷笑的眼差しに詩人が苦しめられ、霧や煙で隠そうとするが失敗し、最終的に「L'Azur！L'Azur！L'Azur！L'Azur！」という四重の叫びで詩が終わる。4段落構成（①青の苛責→②逃避の試み→③逃避の失敗→④青の勝利）。「Les fleurs」の「花が神に語る」という初期の生命論的詩学から「青空が詩人を迫害する」という対立的・悲劇的詩学への転換を示す同年の作。",
+  "keywords": [
+    "青空",
+    "理想の苛責",
+    "霧による逃避",
+    "詩人の無能",
+    "四重の叫び",
+    "絶対者",
+    "倦怠",
+    "鐘の声",
+    "アレクサンドラン",
+    "転換点"
+  ],
+  "relatedTexts": [
+    "mallarme_les_fleurs",
+    "mallarme_angoisse",
+    "mallarme_ses_purs_ongles",
+    "mallarme_crise_de_vers",
+    "hofmannsthal_erlebnis"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "De l'éternel Azur la sereine ironie\nAccable, belle indolemment comme les fleurs,\nLe poète impuissant qui maudit son génie\nÀ travers un désert stérile de Douleurs.\n\nFuyant, les yeux fermés, je le sens qui regarde\nAvec l'intensité d'un remords atterrant,\nMon âme vide. Où fuir? Et quelle nuit hagarde\nJeter, lambeaux, jeter sur ce mépris navrant!\n\nBrouillards, montez! versez vos cendres monotones\nAvec de longs haillons de brume dans les cieux\nQue noiera le marais livide des automnes\nEt bâtissez un grand plafond silencieux!",
+      "provisionalTranslation": "永遠の青空の穏やかな冷笑が\n花々のように美しく無頓着に苦しめる、\n苦悩の不毛な砂漠を通して\n自らの才能を呪う無力な詩人を。\n\n逃げながら、目を閉じて、私は感じる、それが眺めていることを\n恐ろしい後悔の強度で、\n私の空虚な魂を。どこへ逃げる？そしてどんな荒れた夜を\n切れ切れに、投げつけよ、この心を痛める侮蔑に！\n\n霧よ、立ち上れ！お前たちの単調な灰を注げ\n空に長い霞の布切れとともに\n秋の青白い沼がそれを水没させ\n大きな沈黙する天井を築け！"
+    },
+    {
+      "id": 2,
+      "originalText": "Et toi, sors des étangs léthéens et ramasse\nEn t'en venant la vase et les pâles roseaux,\nCher Ennui, pour boucher d'une main jamais lasse\nLes grands trous bleus que font méchamment les oiseaux.\n\nEncore! que sans répit les tristes cheminées\nFument, et que de suie une errante prison\nÉteigne dans l'horreur de ses noires traînées\nLe soleil se mourant jaunâtre à l'horizon!\n\n–– Le Ciel est mort. –– Vers toi, j'accours! donne,\nô matière,\nL'oubli de l'Idéal cruel et du Péché\nÀ ce martyr qui vient partager la litière\nOù le bétail heureux des hommes est couché,",
+      "provisionalTranslation": "そしてお前よ、レーテーの池から出てきて集めよ\nやってくる途中で泥と淡い葦を、\n親愛なる倦怠よ、疲れを知らない手で塞ぐために\n鳥たちが意地悪く作る空の大きな青い穴を。\n\nさらに！絶え間なく悲しい煙突が\n煙を吐き、そして煤の迷える牢獄が\nその黒い痕跡の恐怖の中で消し去れ\n地平線で黄ばんで死にゆく太陽を！\n\n──空は死んだ。──お前へと、私は駆け付ける！与えよ、\nおお物質よ、\n残酷な理想と罪の忘却を\nこの殉教者に、幸福な家畜の人間たちが\n横たわる敷き藁を分かち合いに来た殉教者に、"
+    },
+    {
+      "id": 3,
+      "originalText": "Car j'y veux, puisque enfin ma cervelle, vidée\nComme le pot de fard gisant au pied d'un mur,\nN'a plus l'art d'attifer la sanglotante idée,\nLumbago! de traîner dans un sens obscur\n\nD'inutiles gisements de vague insanité,\nBâillant à la noirceur des nuits qu'il fait si tard\nEt, parce que j'ai peur de mourir en dormant,\nVoudrait-il pas que sans retour sur ce passage",
+      "provisionalTranslation": "なぜなら私はそこで望む、ついに私の脳が、からにされて\n壁の足元に転がった化粧壺のように、\n泣き叫ぶ観念を飾り立てる術をもはや持たないから、\n腰痛よ！曖昧な意味の中で引きずるために\n\n役に立たない漠然とした狂気の鉱床を、\nこんなに夜が更けた夜の暗さに欠伸しながら\nそして眠りながら死ぬのが怖いから、\n引き返しなくこの通過の上で戻ることなく"
+    },
+    {
+      "id": 4,
+      "originalText": "En vain! L'Azur triomphe, et je l'entends qui chante\nDans les cloches. Mon âme, il se fait voix pour plus\nNous faire peur avec sa victoire méchante,\nEt du métal vivant sort en bleus angélus!\n\nIl roule par la brume, ancien et traverse\nTa native agonie ainsi qu'un glaive sûr;\nOù fuir dans la révolte inutile et perverse?\nJe suis hanté. L'Azur! l'Azur! l'Azur! l'Azur!",
+      "provisionalTranslation": "無駄に！青空は勝利し、私はそれが歌うのを聞く\n鐘の中に。私の魂よ、それはより一層われわれを\nその意地悪な勝利で怖がらせるために声となり、\n生きた金属から青いアンジェラスとして出てくる！\n\nそれは霧の中を転がり、古く、横断する\n確かな剣のようにお前の生来の苦悩を；\n無用で倒錯した反抗の中でどこへ逃げる？\n私は取り憑かれている。青空！青空！青空！青空！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "13連×4行、計52行のアレクサンドラン。4段落に集約した思想的展開：§1（連1-3）青の苛責・逃避の宣言→§2（連4-6）逃避の手段（霧・煙・倦怠・物質）の召喚→§3（連7-9）逃避の失敗・脳の空洞化の告白→§4（連10-13）青の勝利・四重の叫び。マラルメがカザリス宛書簡（1864年1月）で「これは完全に新しい詩法で作った」と報告した自覚的な詩学転換点。「Les fleurs」（同年）の「花が神に語る」生命論的詩学と対照的な「青空が詩人を迫害する」悲劇的・対立的詩学。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "glossary",
+      "anchor": "De l'éternel Azur la sereine ironie",
+      "body": "「永遠の青空の穏やかな冷笑（De l'éternel Azur la sereine ironie）」──詩の冒頭・核心命題。「Azur（青空）」の大文字化が絶対的理想・完全性の固有名詞化。「sereine ironie（穏やかな冷笑）」──「穏やか（serein）」という形容が「冷笑（ironie）」と結合する矛盾語法──無関心な冷笑がより残酷。「L'Azur」は「青空」であると同時に「理想・絶対者・神」の表象──詩人が到達できない絶対者が上から「穏やかに冷笑する」という基本構図が冒頭一行に凝縮される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le poète impuissant qui maudit son génie",
+      "body": "「自らの才能を呪う無力な詩人（Le poète impuissant qui maudit son génie）」──「impuissant（無力な）」という自己定義がマラルメ詩学の出発点として提示される。詩人の「無力さ」は「能力の欠如」でなく「理想（Azur）に対する人間的限界」──「genius（才能）」を持ちながら「無力（impuissant）」である逆説が詩全体の緊張を生む。「Angoisse」§3の「stérilité（不毛さ）」との語彙的連続──同年・前年の詩群で「詩人の不毛・無力」が一貫したテーマとして展開される。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Brouillards, montez! versez vos cendres monotones",
+      "body": "「霧よ、立ち上れ！お前たちの単調な灰を注げ（Brouillards, montez! versez vos cendres monotones）」──霧への命令的呼びかけ（apostrophe）。詩人が青空を覆い隠すために「霧（brouillards）・灰（cendres）・霞（brume）・沼（marais）」を召喚する──青の理想から逃避するための「灰色化・曇天化」の試み。「単調な灰（cendres monotones）」──「monotone（単調）」という形容詞が「ennui（倦怠）」と同系列の語彙として機能する。「Regen in der Dämmerung」§4の「薄明の中の目標なき道」という類似の「灰色の中の安住」希求と対照。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "cher Ennui, pour boucher d'une main jamais lasse\nLes grands trous bleus que font méchamment les oiseaux",
+      "body": "「親愛なる倦怠よ、疲れを知らない手で塞ぐために鳥たちが意地悪く作る空の大きな青い穴を（cher Ennui … Les grands trous bleus que font méchamment les oiseaux）」──「ennui（倦怠）」への親愛的呼びかけ「cher（親愛なる）」という逆説──倦怠が「苦悩からの逃避手段」として肯定的に求められる。「鳥が青い穴を開ける」──鳥の飛翔が雲や霧に「穴（trous bleus）」を開けて青空を露出させる──つまり鳥は「理想の苛責の穴開け者」として詩人に敵対的存在として提示される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le Ciel est mort. –– Vers toi, j'accours! donne, ô matière,\nL'oubli de l'Idéal cruel et du Péché",
+      "body": "「空は死んだ。──お前へと、私は駆け付ける！与えよ、おお物質よ、残酷な理想と罪の忘却を（Le Ciel est mort … donne, ô matière, / L'oubli de l'Idéal cruel et du Péché）」──詩の偽りの転換点。「空は死んだ（Le Ciel est mort）」という宣言──しかし§4で青空は蘇る。「物質（matière）」への転向宣言：理想（Idéal）から物質（matière）へ──唯物論的・快楽主義的逃避の試み。「Idéal（理想）」と「Péché（罪）」の両方の「忘却」を物質に求める──理想から逃げることと罪から逃げることが同一の「物質への転向」によって求められる逆説。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ma cervelle, vidée\nComme le pot de fard gisant au pied d'un mur",
+      "body": "「私の脳が、からにされて、壁の足元に転がった化粧壺のように（ma cervelle, vidée / Comme le pot de fard gisant au pied d'un mur）」──詩の最も具体的で散文的な直喩。「化粧壺（pot de fard）」という日用品が詩人の「空洞化した脳」の比喩として使われる──使い果たされた化粧品の容器と使い果たされた詩的能力の同一視。後年の「Igitur」における「空虚な部屋の中の思考の空洞化」という主題の初期形態。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "parce que j'ai peur de mourir en dormant",
+      "body": "「眠りながら死ぬのが怖いから（parce que j'ai peur de mourir en dormant）」──「Angoisse」最終行「Ayant peur de mourir lorsque je couche seul（一人で眠るとき死の恐怖を感じながら）」と同一の死への恐怖が同年の詩で反復される。「眠り＝死の縁」という1864年マラルメの根本的な不安──「Erlebnis」§2の「生を離れる（das Leben verlassen）」というホフマンスタール18歳の詩との対照：ホフマンスタールは「生を離れて戻る」体験として詩化するが、マラルメは「眠りの中で死ぬ恐怖」として「戻れないこと」を怖れる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "glossary",
+      "anchor": "L'Azur! l'Azur! l'Azur! l'Azur!",
+      "body": "「青空！青空！青空！青空！（L'Azur! l'Azur! l'Azur! l'Azur!）」──詩の最終行・四重の反復。マラルメ詩の中で最も有名な行の一つ。「四重（×4）」という反復の強度が「取り憑かれ（Je suis hanté）」の絶対性を形式的に示す──逃避を試みた詩人が最後に「青空」の絶対的支配を叫び声として体験する。「Les fleurs」の静的な花の列挙・「Apparition」の光の幻影と対照的な「声による占領」──「青空」が視覚的イメージから音響的・存在的「取り憑き」へと変容する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "il se fait voix pour plus\nNous faire peur avec sa victoire méchante,\nEt du métal vivant sort en bleus angélus",
+      "body": "「それはより一層われわれを怖がらせるために声となり、生きた金属から青いアンジェラスとして出てくる（il se fait voix … du métal vivant sort en bleus angélus）」──「Azur（青空）」が「声（voix）」に変容し「金属（métal）」から「アンジェラス（angelus）」として鳴り響く。「アンジェラス（angelus）」は教会の鐘の音──青空が「霧の隙間から見える視覚的青」から「鐘の音が空間を充填する聴覚的青」へと様態転換する。「victoire méchante（意地悪な勝利）」──§1の「sereine ironie（穏やかな冷笑）」から「méchante（意地悪な）」への感情的昇温。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "De l'éternel Azur la sereine ironie",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「永遠の青空の穏やかな冷笑」──「Crise de vers」（1895年）の「詩は物を不在化させることで観念を召喚する」という詩学理論への30年間の思想的軌跡の出発点。「L'Azur」（1864年）では「青空」は詩人を外から迫害する絶対者として体験されるが、「Crise de vers」ではその「青（azur）」が詩的言語の中の「不在のもの（l'absent）」として内面化される──「外部からの迫害」から「言語内部の構造的不在」への転換がマラルメ詩学30年間の核心的変容。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "anchor": "Je suis hanté. L'Azur! l'Azur! l'Azur! l'Azur!",
+      "targetId": "hoelderlin_hyperions_schicksalslied",
+      "body": "「私は取り憑かれている。青空！青空！青空！青空！」──ヘルダーリン「Hyperions Schicksalslied」§1の「ihr wandelt droben im Licht（お前たちは上で光の中をさすらう）」という天上の神々と地上の詩人の落差構造との対照。ヘルダーリンでは天上（droben）と地上（hinab）の落差が哀歌的な受容として詩化されるのに対し、マラルメでは天上（Azur）の「冷笑的支配」に対する詩人の反抗→失敗→被占領という劇的過程として詩化される──「天上の絶対者と地上の詩人」という共通主題の仏独対照。"
+    }
+  ]
+}
