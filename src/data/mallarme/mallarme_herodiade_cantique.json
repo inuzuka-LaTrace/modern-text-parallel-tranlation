@@ -1,0 +1,118 @@
+{
+  "id": "mallarme_herodiade_cantique",
+  "title": "Cantique de Saint Jean",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies, Nouvelle Revue Française, 1914 (8e éd.) (p. 68-70) (Wikisource: fr.wikisource.org/wiki/Poésies_(Mallarmé,_1914,_8e_éd.)/Cantique_de_Saint_Jean)",
+  "year": "1869",
+  "firstPublication": "Poésies, Deman, 1899",
+  "difficulty": "上級",
+  "category": "mallarme",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「洗礼者聖ヨハネの賛歌（Cantique de Saint Jean）」はPoésiesにおいて「Hérodiade — Scène」の直後、「L'Après-midi d'un faune」の直前に置かれる。「Scène」でヘロディアが「知られざる何かを待っている」と結んだ直後に、その「何か」──洗礼者ヨハネの斬首──の瞬間を首（頭部）の視点から歌う。7連28行、各連AABB韻・4行目のみ短行（4音節）でインデントされる独特の形式。語り手は斬首されたヨハネの頭部──「脊椎に暗闇が広がる」という首切りの身体感覚から始まり、「孤独な見張り（Solitaire vigie）」として飛翔する頭部が「身体との古い不和を断ち切り（tranche / Les anciens désaccords / Avec le corps）」、「断食に酔いしれた純粋な眼差し」を追いながら「氷河よりも高く」昇り、最後に「洗礼の原理によって一つの挨拶を傾ける（Penche un salut）」という帰結に至る。夏至の太陽の「超自然的な停止（halte / Surnaturelle）」──至点（solstice）──と首切りが重ねられ、「精神の純化・身体からの解放・洗礼」という三重の主題が28行に凝縮される。",
+  "keywords": ["洗礼者ヨハネ", "斬首", "頭部の飛翔", "夏至", "身体からの解放", "純粋な眼差し", "洗礼", "氷河"],
+  "relatedTexts": [
+    "mallarme_herodiade_scene",
+    "mallarme_ses_purs_ongles",
+    "mallarme_lazur",
+    "hoelderlin_hyperions_schicksalslied"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Le soleil que sa halte\nSurnaturelle exalte\nAussitôt redescend\n  Incandescent",
+      "provisionalTranslation": "その超自然的な停止が\n讃えた太陽は\nたちまち再び降りてくる\n  白熱しながら"
+    },
+    {
+      "id": 2,
+      "french": "Je sens comme aux vertèbres\nS'éployer des ténèbres\nToutes dans un frisson\n  À l'unisson",
+      "provisionalTranslation": "私は感じる、脊椎のあたりに\n暗闇が広がるのを\nすべてが一つの震えの中に\n  一斉に"
+    },
+    {
+      "id": 3,
+      "french": "Et ma tête surgie\nSolitaire vigie\nDans les vols triomphaux\n  De cette faux",
+      "provisionalTranslation": "そして浮かび上がった私の頭部は\n孤独な見張りとして\nこの大鎌の\n  勝利の飛翔の中に"
+    },
+    {
+      "id": 4,
+      "french": "Comme rupture franche\nPlutôt refoule ou tranche\nLes anciens désaccords\n  Avec le corps",
+      "provisionalTranslation": "率直な断絶のように\nむしろ押し返し、あるいは断ち切る\n身体との\n  古い不和を"
+    },
+    {
+      "id": 5,
+      "french": "Qu'elle de jeûnes ivre\nS'opiniâtre à suivre\nEn quelque bond hagard\n  Son pur regard",
+      "provisionalTranslation": "断食に酔いしれた頭部は\nある野性的な跳躍の中に\nその純粋な眼差しを\n  頑なに追い続ける"
+    },
+    {
+      "id": 6,
+      "french": "Là-haut où la froidure\nÉternelle n'endure\nQue vous le surpassiez\n  Tous ô glaciers",
+      "provisionalTranslation": "高みへ──そこでは永遠の\n冷たさが\nあなたたちがそれを超えることを\n  耐えない、おお氷河たちよ"
+    },
+    {
+      "id": 7,
+      "french": "Mais selon un baptême\nIlluminée au même\nPrincipe qui m'élut\n  Penche un salut.",
+      "provisionalTranslation": "しかし一つの洗礼に従い\n私を選んだ同じ\n原理によって照らされた\n  一つの挨拶が傾く。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "7連×4行（28行）の形式詩。各連の韻律：1・2行目が同韻（A）、3・4行目が同韻（B）──AABB対韻。4行目のみが短行（4音節前後）でインデントされる視覚的・音響的特徴：halte/exalte（AA）+ redescend/Incandescent（BB）、vertèbres/ténèbres（AA）+ frisson/unisson（BB）、surgie/vigie（AA）+ triomphaux/faux（BB）、franche/tranche（AA）+ désaccords/corps（BB）、ivre/suivre（AA）+ hagard/regard（BB）、froidure/endure（AA）+ surpassiez/glaciers（BB）、baptême/même（AA）+ élut/salut（BB）。インデント短行が各連の「落下・着地・切断」を視覚的に体現する──詩の内容（首の落下・太陽の再降下）が形式に刻印される。Poésies (1914, 8e éd.) p. 68-70。← Scène / L'Après-midi d'un faune →。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Le soleil que sa halte\nSurnaturelle exalte\nAussitôt redescend\n  Incandescent",
+      "body": "「その超自然的な停止が讃えた太陽はたちまち再び降りてくる、白熱しながら（Le soleil que sa halte / Surnaturelle exalte / Aussitôt redescend / Incandescent）」──夏至（solstice d'été）の天文学的現象への参照。夏至の太陽は天の頂点で「超自然的な停止（halte Surnaturelle）」──至点（solstice、ラテン語 sol sistere「太陽が止まる」）──を迎えた後、「たちまち」再び降下を始める。「Incandescent（白熱した）」──インデントの短行として孤立させられた単語：太陽が降りてくる状態の形容詞が、詩の第1連の「落下」の帰結として4行目に置かれる。夏至＝洗礼者ヨハネの祝日（6月24日）──キリスト教暦でヨハネの誕生日は夏至の頃と定められており、太陽の「頂点での停止と再降下」がヨハネの「頂点での首切りと魂の上昇」に重ねられる。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "targetId": "mallarme_herodiade_scene",
+      "body": "「太陽の超自然的な停止（halte Surnaturelle）」──「Scène」の最終行「J'attends une chose inconnue（知られざる何かを待っている）」への直接的な応答。「Scène」が「待機」で終わったのに対し、「Cantique」はその「待たれていたもの（斬首の瞬間）」を太陽の「停止」と重ねることで開始する。「Scène」のヘロディアが「冷たい宝石・氷・処女性」のイメージで自己を定義したのに対し、「Cantique」のヨハネは「太陽・白熱・洗礼」というヘロディアとは逆の熱的イメージで語られる──二つの詩が対照的な「熱と冷」のシステムを形成する。また「Scène」でヘロディアが「Et je déteste, moi, le bel azur !（私はあの美しい青空が嫌いなのだ）」と言ったその「青空」が、「Cantique」では首が飛翔する空間として暗黙のうちに召喚される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Je sens comme aux vertèbres\nS'éployer des ténèbres\nToutes dans un frisson\n  À l'unisson",
+      "body": "「私は感じる、脊椎のあたりに暗闇が広がるのを、すべてが一つの震えの中に、一斉に（Je sens comme aux vertèbres / S'éployer des ténèbres / Toutes dans un frisson / À l'unisson）」──首切りの身体感覚の精密な描写。語り手は「切断された首（頭部）」──だが第1人称で「私は感じる（Je sens）」と語ることで、切断後もなお「感覚する」存在としての頭部が提示される。「aux vertèbres（脊椎のあたりに）」──首と胴体を結ぶ「頸椎」に暗闇が広がる：斬首の刃が首を通過するときの感覚。「S'éployer（広がる・羽ばたく）」──「広がる・展開する」という動詞は鳥が翼を広げるような動作を含意する──暗闇が「翼を広げるように」脊椎に広がる：切断が「飛翔の準備」として提示される。「À l'unisson（一斉に・同時に）」──短行でインデントされた「一斉に」が連の「落下」を体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "glossary",
+      "anchor": "De cette faux",
+      "body": "「この大鎌（De cette faux）」──「faux」の多義性：(1) 大鎌（fauchon、刈り入れ道具）、(2) 死神の持つ大鎌、(3) 「faux」= 「偽り・誤り」（形容詞「faux/fausse」の名詞形）という三重の意味。文脈上「首を切った刃物（大鎌・刀）」の比喩として最も直接的。しかし「死神の大鎌」としての読みも同時に活性化される──ヨハネの死は「死神の大鎌による刈り入れ」。「faux = 偽り」という読みでは「この誤りの飛翔」──首切りという「偽りの死」の中に「真の上昇」が潜むという逆説的読解が可能。Poésiesのテキストでは「De cette faux」がインデントされた短行として配置される──大鎌の孤立したイメージが、頭部の「飛翔」と「切断」を同時に体現する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Et ma tête surgie\nSolitaire vigie",
+      "body": "「浮かび上がった私の頭部は孤独な見張り（Et ma tête surgie / Solitaire vigie）」──「Scène」でヘロディアが「私は孤独に花咲く（je fleuris, déserte）」と語ったのに対し、ヨハネの首は「孤独な見張り（Solitaire vigie）」として浮かび上がる。「surgie（浮かび上がった）」──「surgir（突然現れる・浮かび上がる）」の過去分詞：切断された頭部が「突然浮かび上がる」──斬首の物理的瞬間が「上昇の始まり」として再定義される。「vigie（見張り・見張り台）」──船の見張り台・見張りをする者：浮かび上がった頭部が「高みから見渡す者」として機能する。ヴァレリー「La Dormeuse」の「ta forme veille（あなたの形が見張る）」との対応──「見張ること（veille/vigie）」が身体から離れた存在に帰属する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Les anciens désaccords\n  Avec le corps",
+      "body": "「身体との古い不和（Les anciens désaccords / Avec le corps）」──詩の核心命題の一つ。「désaccords（不和・不協和）」──音楽的な不協和音の比喩：首（頭部・精神・霊）と「corps（身体）」の間には「古い（anciens）」不協和音があったという宣言。洗礼者ヨハネの伝説──ヨハネは砂漠で苦行し「断食（jeûnes）」によって肉体を否定した（§5の「de jeûnes ivre（断食に酔いしれた）」と呼応）──その生涯全体が「精神と肉体の不和」として読まれる。「Comme rupture franche / Plutôt refoule ou tranche」──「率直な断絶（rupture franche）」か「押し返す（refoule）」か「断ち切る（tranche）」か：三つの選択肢が並置されるが「tranche（断ち切る）」が「首を切る（trancher la tête）」という行為の語彙的エコーを持つ──斬首そのものが「身体との不和を断ち切る行為」として肯定的に提示される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Son pur regard",
+      "body": "「純粋な眼差し（Son pur regard）」──詩全体の上昇運動の目的地。「Qu'elle de jeûnes ivre（断食に酔いしれた頭部は）」──「elle」は「tête（頭部）」を受ける代名詞。断食（jeûnes）によって「酔いしれた（ivre）」状態──断食の極限が「酔い」に転化するという逆説：禁欲の極致が陶酔を生む。「S'opiniâtre à suivre（頑なに追い続ける）」──「s'opiniâtrer（頑固に・執拗に続ける）」という強調的動詞。「En quelque bond hagard（ある野性的な跳躍の中に）」──「hagard（野性的な・放心した）」という形容詞：鷹術で「野生のまま捕らえられた鷹（oiseau hagard）」の意味を持つ──首は「野性の鷹」のように飛翔しながら「純粋な眼差し」を追う。「Son pur regard」の「son（その）」──何の「純粋な眼差し」か：ヨハネ自身の眼差し（自己参照）か、あるいは「神の眼差し」か──指示詞の曖昧性が詩の開口部を作る。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Là-haut où la froidure\nÉternelle n'endure\nQue vous le surpassiez\n  Tous ô glaciers",
+      "body": "「高みへ──そこでは永遠の冷たさがあなたたちがそれを超えることを耐えない、おお氷河たちよ（Là-haut où la froidure / Éternelle n'endure / Que vous le surpassiez / Tous ô glaciers）」──「Hérodiade — Scène」§8の「Nuit blanche de glaçons et de neige cruelle（氷柱と残酷な雪の白い夜）」との直接的な呼応。ヘロディアが「氷・雪・月・処女性」という「冷」の系を持つのに対し、ヨハネの首は「その冷たさを超える高み」へ昇る──「Scène」の「冷」を超越する「Cantique」の上昇。「Éternelle n'endure / Que vous le surpassiez（永遠の冷たさがあなたたちがそれを超えることを耐えない）」──「n'endure que（〜しか耐えない）」= 「〜であることしか許さない」：永遠の冷たさは「氷河たちに超えられること」を許さない──だがヨハネの首はその氷河たちを超えて飛翔している、という暗示。「ô glaciers（おお氷河たちよ）」──短行インデントの呼格：氷河への呼びかけが孤立して「落下する」視覚的効果。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Penche un salut.",
+      "body": "「一つの挨拶が傾く（Penche un salut）」──詩の最終命題・最終インデント短行。「salut」の多義性：(1) 「挨拶・会釈（salutation）」、(2) 「救済・救い（salvation）」、(3) 「洗礼（baptême）」との連結における「洗礼による救済」。「Penche（傾く）」──「pencher（傾く・झुकना）」という動詞：頭部が「傾く」という身体的動作──斬首された首が傾くこと、あるいは「挨拶として会釈する」こと。「Mais selon un baptême / Illuminée au même / Principe qui m'élut（しかし一つの洗礼に従い、私を選んだ同じ原理によって照らされた）」──「洗礼（baptême）」がヨハネの固有の属性として召喚される：ヨハネはキリストに洗礼を授けた者──その「洗礼の原理（Principe）」が今度はヨハネ自身に返ってくる。「Penche un salut」の主語は何か：「tête（頭部）」か「Hérodiade」か「詩そのもの」か──意味的な主語の不定性が最終行の開口性を作り出す。"
+    }
+  ]
+}
