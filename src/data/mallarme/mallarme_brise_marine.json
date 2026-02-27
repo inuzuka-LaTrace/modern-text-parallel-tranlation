@@ -1,0 +1,103 @@
+{
+  "id": "mallarme_brise_marine",
+  "title": "Brise marine",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies, Éditions de la Revue Indépendante, Deman, 1899 ; initialement publié dans L'Artiste, 1865",
+  "year": "1865",
+  "firstPublication": "L'Artiste, 1865",
+  "difficulty": "中級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「海の微風（Brise marine）」は1865年、マラルメ23歳のときに発表された詩。冒頭「肉体は悲しい、ああ！ そして私はすべての書物を読んだ（La chair est triste, hélas ! et j'ai lu tous les livres）」は19世紀後半のフランス文学を貫く「spleen と理想」の疲弊感を凝縮した最も有名な詩行の一つ。「逃走（fuir）」の衝動が16行を通じて展開されるが、最終行「水夫の歌（le chant des matelots）」に至って逃走が「不可能な夢」であることが示唆される——実際に船は出港せず、詩はその場に留まる。「白紙の紙を守る白さ（le vide papier que la blancheur défend）」という行はマラルメ詩学の核心命題を予告する：書くことの不可能性・白さの圧力・空白への恐怖。ボードレール「L'Invitation au voyage（旅への誘い）」との対話として読める——どちらも「ここではないどこか」への渇望を歌うが、マラルメの渇望は実現されないまま詩の形式の中に閉じ込められる。",
+  "keywords": ["逃走", "海", "書物", "白紙", "倦怠（Ennui）", "蒸気船", "難破", "水夫"],
+  "relatedTexts": [
+    "mallarme_lazur",
+    "mallarme_angoisse",
+    "mallarme_ses_purs_ongles",
+    "baudelaire_heroisme"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "La chair est triste, hélas ! et j'ai lu tous les livres.\nFuir ! là-bas fuir ! Je sens que des oiseaux sont ivres\nD'être parmi l'écume inconnue et les cieux !",
+      "provisionalTranslation": "肉体は悲しい、ああ！ そして私はすべての書物を読んだ。\n逃げよう！ あそこへ逃げよう！ 感じる、鳥たちが酔いしれているのを\n知られざる波の泡と空の間にいることに！"
+    },
+    {
+      "id": 2,
+      "french": "Rien, ni les vieux jardins reflétés par les yeux\nNe retiendra ce cœur qui dans la mer se trempe\nÔ nuits ! ni la clarté déserte de ma lampe\nSur le vide papier que la blancheur défend\nEt ni la jeune femme allaitant son enfant.",
+      "provisionalTranslation": "何ものも、眼に映る古い庭々も、\n海に浸されるこの心を引き止めることはできない——\nああ夜よ！ 私のランプの人気のない明かりも\n白さが守る空白の紙の上に\n子に乳を与える若い女も——できない。"
+    },
+    {
+      "id": 3,
+      "french": "Je partirai ! Steamer balançant ta mâture,\nLève l'ancre pour une exotique nature !\nUn Ennui, désolé par les cruels espoirs,\nCroit encore à l'adieu suprême des mouchoirs !",
+      "provisionalTranslation": "私は出発する！ 帆柱を揺らす蒸気船よ、\n異国の自然に向けて錨を上げよ！\n残酷な希望に荒らされた倦怠（Ennui）が、\nハンカチの最高の別れをまだ信じている！"
+    },
+    {
+      "id": 4,
+      "french": "Et, peut-être, les mâts, invitant les orages\nSont-ils de ceux qu'un vent penche sur les naufrages\nPerdus, sans mâts, sans mâts, ni fertiles îlots…\nMais, ô mon cœur, entends le chant des matelots !",
+      "provisionalTranslation": "そして、もしかしたら、帆柱は嵐を招くものの類で、\nある風が難破船の上に傾けるものではないか——\n失われて、帆柱もなく、帆柱もなく、豊かな島もなく……\nしかし、ああ私の心よ、水夫たちの歌を聞け！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "16行、アレクサンドラン（12音節）、AABB 対韻（rimes plates）——livres/ivres、cieux/yeux、trempe/lampe、défend/enfant、mâture/nature、espoirs/mouchoirs、orages/naufrages、îlots/matelots。対韻の連続が「前進する運動感」を生み出す——抱韻（ABBA）が「閉じた内省」を生むのに対し、対韻は「開放・出発・前進」の形式的表現として機能する。1865年発表、マラルメ23歳の作。Poésies (Deman, 1899) に所収、「L'Azur」「Angoisse」と同時期に書かれた「逃走と不可能性」テーマの詩群の一篇。ボードレール「L'Invitation au voyage」（1855年）との形式的・主題的対話関係——どちらも「ここではないどこか」への渇望を歌うが、マラルメは出発を先送りにし続ける。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "La chair est triste, hélas ! et j'ai lu tous les livres.",
+      "body": "「肉体は悲しい、ああ！ そして私はすべての書物を読んだ（La chair est triste, hélas ! et j'ai lu tous les livres）」——19世紀フランス詩における最も有名な詩行の一つ。二つの「疲弊」が並置される：「肉体の疲弊（肉欲・官能的生の空虚）」と「精神の疲弊（書物・知識・文学的生の枯渇）」。ボードレール「スプリーン（Spleen）」——肉体と精神の両方が飽和した状態——への継承であり、さらなる急進化。「すべての書物を読んだ」という誇張法——ここでの「すべての書物」は文字通りの全書物でなく「書物によって世界を理解しようとする行為の枯渇」を指す。文学が世界の代替ではなくなったとき、残るのは「逃走」の衝動のみ——次行の「Fuir !」への必然的な論理的帰結。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Fuir ! là-bas fuir !",
+      "body": "「逃げよう！ あそこへ逃げよう！（Fuir ! là-bas fuir !）」——感嘆符による二重の叫び、動詞「fuir」の反復。「là-bas（あそこ）」——目的地は特定されない。ボードレール「旅への誘い（Invitation au voyage）」の「Là, tout n'est qu'ordre et beauté（あそこでは、すべてが秩序と美だ）」が「理想の地」の幻想を持つのに対し、マラルメの「là-bas」は内容を持たない方向性のみ——「逃走そのものが目的」であり「どこへ」は問われない。後の詩行でこの「逃走」が難破によって挫折するという構造が先取りされている——「Fuir !」という叫びが叫びのまま終わることを詩全体の構造が保証している。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "le vide papier que la blancheur défend",
+      "body": "「白さが守る空白の紙（le vide papier que la blancheur défend）」——マラルメ詩学の核心命題の最初期の出現。書くことへの衝動と書くことを不可能にする「白さ（blancheur）」の圧力。「défend（守る・禁じる）」の両義性——紙の白さが「空白を守護する（紙が白いままでいることを望む）」と同時に「書くことを禁じる（詩人に書かせない）」。後のマラルメ詩学において「白さ・空白・沈黙」は詩語の理想的状態として肯定的に評価されるが、ここでは「書けないこと」の苦悩として提示される——詩学的命題の最初の出現は「恐怖」の形をとる。「Ses purs ongles（ソネット en -yx）」の「空の部屋の謎」や「骰子一擲」の白ページとの連続線上にあるマラルメ的「白の詩学」の起点。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "la jeune femme allaitant son enfant.",
+      "body": "「子に乳を与える若い女（la jeune femme allaitant son enfant）」——§2の「引き止めるものの列挙」の最後に置かれた最も具体的・家庭的なイメージ。「古い庭・ランプ・白紙の紙」という詩学的・知的な「引き止めるもの」から、「授乳する女」という肉体的・生物的・家庭的な「引き止めるもの」への急激な下降。この「若い女」はマラルメの妻マリー・ジェラール（Marie Gerhard）と娘ジュヌヴィエーヴへの可能な参照——1863年に結婚し1864年に娘が生まれており、詩はその翌年に書かれた。「しかしそれすらも心を引き止めない」という詩人の逃走の衝動の強烈さと、家庭の幸福の「拒絶」という読みを可能にする。冒頭の「肉体は悲しい」という身体的疲弊と「授乳」という最も身体的な行為の対照。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Un Ennui, désolé par les cruels espoirs,",
+      "body": "「残酷な希望に荒らされた倦怠（Un Ennui, désolé par les cruels espoirs）」——「Ennui（倦怠）」の大文字化によって固有名詞・擬人化として提示される。ボードレール「悪の華」序詩「読者へ（Au Lecteur）」の「倦怠（Ennui）！」——「煙草を吸いながら断頭台を夢見る」拡大鏡的な怪物としての倦怠——の継承と変容。マラルメの「Ennui」は「残酷な希望に荒らされた（désolé par les cruels espoirs）」という修飾を持つ——希望が残酷なのは「実現されない希望がかえって絶望を深める」から。「ハンカチの最高の別れをまだ信じている（Croit encore à l'adieu suprême des mouchoirs）」——「まだ（encore）」という副詞が「信じることの惰性・悲哀」を示す。出発を告げるハンカチという社会的儀礼の中に「まだ希望を持っている」Ennuiの哀れさ。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "targetId": "baudelaire_romantisme_complet",
+      "body": "「Ennui（倦怠）」の大文字化——ボードレール詩学との継承と差異。ボードレール「Correspondances」「Spleen」「Au Lecteur」を通じて構築された「現代的憂鬱・倦怠・無気力」というテーマをマラルメは継承しつつ、「逃走の不可能性」として詩学化する。ボードレールにとって「Ennui」は「悪の華」の根源的条件——悪と美の両方を生産する土壌——だが、マラルメにとってそれは「詩を書くことができない状態」の名前であり、克服すべき敵であると同時に詩の主題そのもの。「La chair est triste」（§1）から「Ennui」（§3）へという詩の展開は「ボードレール的倦怠の診断」から「マラルメ的逃走の試みと挫折」への移行として読める。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "sans mâts, sans mâts,",
+      "body": "「帆柱もなく、帆柱もなく（sans mâts, sans mâts）」——反復による難破の強調。「帆柱（mât）」は直前の「蒸気船の帆柱（ta mâture）」（§3）との対照——出発を告げる「帆柱」が、難破した船の「帆柱なし（sans mâts）」という否定に変わる。「invitant les orages（嵐を招く）」——帆柱が「嵐を招く」という逆説：海に出ることが難破を招くという円環的論理。この難破のイメージは「逃走の夢」が「現実の難破」として終わるという詩全体の論理的帰結——「Fuir !」という叫びは難破という形でしか実現しない。「ni fertiles îlots（豊かな島もない）」——ユートピアの完全な否定。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "le chant des matelots !",
+      "body": "「水夫たちの歌（le chant des matelots）」——詩の最終命題。「ô mon cœur（ああ私の心よ）」という呼格による内省への転換——詩は「外への逃走」から「内心への呼びかけ」で終わる。「水夫の歌を聞け（entends le chant des matelots）」——逃走への衝動が最終的に「歌を聞くこと」へと収束する：実際の出発でなく「出発する者たちの歌を聞くこと」が詩人に残された行為。詩そのものが「水夫の歌」——詩人は出発しないが、詩を書くことで「出発の歌」を作る。逃走の不可能性が詩の必然性に転換されるという逆説的な帰結——マラルメが「L'Azur」「Angoisse」で繰り返す「理想への手の届かなさが詩を生む」という詩学の予告。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "targetId": "mallarme_lazur",
+      "body": "「逃走の不可能性が詩を生む」——「L'Azur（青）」の「青空の執拗な追跡」との構造的対応。「L'Azur」では詩人が理想の「青」から逃げようとしても「青」が追いかけてくる——逃走の不可能性が詩学的な強迫として提示される。「Brise marine」では海への「逃走」が試みられるが難破として終わる——どちらも「逃走の失敗」が詩の帰結。差異：「L'Azur」では理想（青）が詩人を追うが、「Brise marine」では詩人が理想（海・逃走）を追う——追う者と追われる者の逆転によって、同一の「逃走の不可能性」テーマが双方向から照射される。両詩は「マラルメ的詩人の条件」——理想を望みながら理想に手が届かない——という詩学的命題の双極として読める。"
+    }
+  ]
+}
