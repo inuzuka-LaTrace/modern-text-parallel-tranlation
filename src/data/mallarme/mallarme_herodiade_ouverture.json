@@ -1,0 +1,120 @@
+{
+  "id": "mallarme_herodiade_ouverture",
+  "title": "Ouverture ancienne d'Hérodiade",
+  "author": "Stéphane Mallarmé",
+  "source": "Œuvres complètes, Gallimard, 1951 (p. 63-65) (Wikisource: fr.wikisource.org/wiki/Ouverture_d'Hérodiade). ※Poésies (1899/1914) には未収録。Autres Poèmes 所収。",
+  "year": "1866",
+  "firstPublication": "Œuvres complètes, Gallimard, 1945 (初の活字化)",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「ヘロディアード序曲（Ouverture ancienne d'Hérodiade）」はHérodiade三部作の第I部。Poésiesには収録されず、没後に刊行された全集（Œuvres complètes, Gallimard）で初めて活字化された。語り手は「Scène」と同じ乳母（La Nourrice）──「呪文（Incantation）」という副題を持つ独白詩。詩は「廃された（Abolie）」という一語で始まり、廃墟化した池・去った白鳥・灰の塔・古い部屋という荒廃した情景を召喚する。中盤では乳母自身が「この声は私のものか、呪文の準備ができているか（Est-ce la mienne prête à l'incantation ?）」と問い、聖骸布・聖遺物箱・金糸細工という宗教的・典礼的語彙の密林を通過する。終盤では時計の文字盤の三日月・ルシフェルを秤とする時計・父王の不在という現実が、最後に「羽毛の中に目を隠す白鳥」というヘロディアのイメージへと収束する──「Scène」での鏡・処女性・孤独というテーマへの詩的前置き。",
+  "keywords": ["廃墟", "白鳥", "乳母の呪文", "三日月", "ルシフェル", "聖骸布", "巫女", "呪文（Incantation）"],
+  "relatedTexts": [
+    "mallarme_herodiade_scene",
+    "mallarme_herodiade_cantique",
+    "mallarme_ses_purs_ongles",
+    "mallarme_lazur"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Abolie, et son aile affreuse dans les larmes\nDu bassin, aboli, qui mire les alarmes,\nDes ors nus fustigeant l'espace cramoisi,\nUne Aurore a, plumage héraldique, choisi\nNotre tour cinéraire et sacrificatrice,\nLourde tombe qu'a fuie un bel oiseau, caprice\nSolitaire d'aurore au vain plumage noir…\nAh ! des pays déchus et tristes le manoir !\nPas de clapotement ! L'eau morne se résigne,\nQue ne visite plus la plume ni le cygne\nInoubliable : l'eau reflète l'abandon\nDe l'automne éteignant en elle son brandon :\nDu cygne quand parmi le pâle mausolée\nOu la plume plongea la tête, désolée\nPar le diamant pur de quelque étoile, mais\nAntérieure, qui ne scintilla jamais.",
+      "provisionalTranslation": "廃されて、その恐ろしい翼が涙の中に──\n恐怖を映す池の、廃された涙の中に──\n真紅の空間を鞭打つ剥き出しの金の中、\n一つの曙が、紋章的な羽毛をもって、選んだ\n私たちの灰の塔、生け贄の塔を、\n美しい鳥が逃げ去った重い墓を──曙の\n黒い虚しい羽毛の孤独な気まぐれを……\nああ、没落して悲しい国々の館よ！\n水音ひとつない！ 暗い水は諦める、\nあの忘れがたい羽毛ももはや白鳥も\n訪れない水が映す：秋が\n水の中で自らの燃え挿しを消していく放棄を──\n白鳥がかつて青白い霊廟の中で\n羽毛が頭を水に沈めた時の放棄を、打ちひしがれながら\nある星の純粋なダイヤモンドによって、しかし\nより以前の、かつて輝いたことのない星によって。"
+    },
+    {
+      "id": 2,
+      "french": "Crime ! bûcher ! aurore ancienne ! supplice !\nPourpre d'un ciel ! Étang de la pourpre complice !\nEt sur les incarnats, grand ouvert, ce vitrail.\n\nLa chambre singulière en un cadre, attirail\nDe siècles belliqueux, orfèvrerie éteinte,\nÀ le neigeux jadis pour ancienne teinte,\nEt sa tapisserie, au lustre nacré, plis\nInutiles avec les yeux ensevelis\nDe sibylles offrant leur ongle vieil aux Mages.\nUne d'elles, avec un passé de ramages\nSur ma robe blanchie en l'ivoire fermé\nAu ciel d'oiseaux parmi l'argent noir parsemé,\nSemble, de vols partis costumée et fantôme,\nUn arôme qui porte, ô roses ! un arôme,\nLoin du lit vide qu'un cierge soufflé cachait,\nUn arôme d'ors froids rôdant sur le sachet,\nUne touffe de fleurs parjures à la lune\n(À la cire expirée encor s'effeuille l'une),\nDe qui le long regret et les tiges de qui\nTrempent en un seul verre à l'éclat alangui…",
+      "provisionalTranslation": "罪！ 火刑台！ 古い曙！ 責め苦！\n空の紫！ 紫に共犯する沼！\nそして肉色の上に、大きく開かれた、このステンドグラス。\n\n框の中の異様な部屋、戦争の世紀の\n道具立て、消えた金細工、\n雪のような往昔を古い色調として持ち、\nその垂れ幕は、真珠の光沢、使いもせず\n垂れる折り目の中に、マギたちに\n老いた爪を差し出す巫女たちの埋もれた眼を持つ。\nその一人は、象牙の閉じた囲いの中で白く漂白された\n私のドレスの上に、鳥たちが黒い銀を\n散りばめた空の中の、鳥のさえずりの過去をもって、\n飛び去った飛行の衣を纏い幻影のように見える──\n薔薇よ！ 香りを運ぶ香り、\n吹き消された燭台が隠していた空の寝台から遠く、\n小袋の上を漂う冷たい金の香り、\n月への誓いを破った花々の一束\n（消えゆく蝋のそばでその一輪がまだ花弁を散らす）、\nその長い後悔と、その茎とが\n生気の失せた輝きの中で一つのグラスに浸かっている……"
+    },
+    {
+      "id": 3,
+      "french": "Une Aurore traînait ses ailes dans les larmes !\nOmbre magicienne aux symboliques charmes !\nUne voix, du passé longue évocation,\nEst-ce la mienne prête à l'incantation ?\nEncore dans les plis jaunes de la pensée\nTraînant, antique, ainsi qu'une toile encensée\nSur un confus amas d'ostensoirs refroidis,\nPar les trous anciens et par les plis roidis\nPercés selon le rythme et les dentelles pures\nDu suaire laissant par ses belles guipures\nDésespéré monter le vieil éclat voilé\nS'élève : (ô quel lointain en ces appels celé !)\nLe vieil éclat voilé du vermeil insolite,\nDe la voix languissant, nulle, sans acolyte,\nJettera-t-il son or par dernières splendeurs,\nElle, encore, l'antienne aux versets demandeurs,\nÀ l'heure d'agonie et de luttes funèbres !\nEt, force du silence et des noires ténèbres\nTout rentre également en l'ancien passé,\nFatidique, vaincu, monotone, lassé,\nComme l'eau des bassins anciens se résigne.",
+      "provisionalTranslation": "一つの曙が涙の中で翼を引きずっていた！\n象徴的な呪いをもつ魔法の影よ！\n一つの声が、過去の長い召喚が、\nこれは呪文の準備ができた私の声か？\nまだ思想の黄ばんだ折り目の中で\n引きずりながら、古く、冷え切った聖遺物箱の\n混乱した山の上に薫香を焚かれた布のように、\n古い穴と硬直した折り目を通じて\nリズムと聖骸布の純粋なレース飾りに従って穿たれ\nその美しい金糸細工を通じて\n絶望した覆われた古い輝きが昇るがままにして\n立ち昇る：（ああ、これらの呼びかけに隠された遠さよ！）\n異常な朱金の覆われた古い輝きが、\n侍者もなく、声は弱まり、空虚に──\n最後の輝きによってその金を注ぐだろうか、\n彼女は、まだ、懇願する詩節の聖歌を、\n苦悶の時と葬礼的な闘いの時に！\nそして沈黙と黒い暗闇の力によって\nすべては等しく古い過去へと帰っていく、\n運命的に、打ち負かされて、単調に、疲れ果てて、\n古い池の水が諦めるように。"
+    },
+    {
+      "id": 4,
+      "french": "Elle a chanté, parfois incohérente, signe\nLamentable !\n             le lit aux pages de vélin,\nTel, inutile et si claustral, n'est pas le lin !\nQui des rêves par plis n'a plus le cher grimoire,\nNi le dais sépulcral à la déserte moire,\nLe parfum des cheveux endormis. L'avait-il ?\nFroide enfant, de garder en son plaisir subtil\nAu matin grelottant de fleurs, ses promenades,\nEt quand le soir méchant a coupé les grenades !",
+      "provisionalTranslation": "彼女は歌った、時に支離滅裂に──嘆かわしい\n徴！\n    ヴェラム紙のページの寝台、\nそのように、無用でこれほど修道的な、これは麻布ではない！\n折り目によって夢を、もはや懐かしい魔導書を持たず、\n荒廃したモアレの葬礼的天蓋もない、\n眠れる髪の香りも。それを持っていたか？\n冷たい子よ、花々に震える朝の\n微妙な楽しみの中にその散歩を守り、\n意地悪な夕べがザクロを断ち切った時も！"
+    },
+    {
+      "id": 5,
+      "french": "Le croissant, oui le seul est au cadran de fer\nDe l'horloge, pour poids suspendant Lucifer,\nToujours blesse, toujours une nouvelle heurée,\nPar la clepsydre à la goutte obscure pleurée,\nQue, délaissée, elle erre, et sur son ombre pas\nUn ange accompagnant son indicible pas !\nIl ne sait pas cela le roi qui salarie\nDepuis longtemps la gorge ancienne et tarie.\nSon père ne sait pas cela, ni le glacier\nFarouche reflétant de ses armes l'acier,\nQuand sur un tas gisant de cadavres sans coffre\nOdorant de résine, énigmatique, il offre\nSes trompettes d'argent obscur aux vieux sapins !\nReviendra-t-il un jour des pays cisalpins !\nAssez tôt ? Car tout est présage et mauvais rêve !\nÀ l'ongle qui parmi le vitrage s'élève\nSelon le souvenir des trompettes, le vieux\nCiel brûle, et change un doigt en un cierge envieux.\nEt bientôt sa rougeur de triste crépuscule\nPénétrera du corps la cire qui recule !\nDe crépuscule, non, mais de rouge lever,\nLever du jour dernier qui vient tout achever,\nSi triste se débat, que l'on ne sait plus l'heure\nLa rougeur de ce temps prophétique qui pleure\nSur l'enfant, exilée en son cœur précieux\nComme un cygne cachant en sa plume ses yeux,\nComme les mit le vieux cygne en sa plume, allée,\nDe la plume détresse, en l'éternelle allée\nDe ses espoirs, pour voir les diamants élus\nD'une étoile, mourante, et qui ne brille plus !",
+      "provisionalTranslation": "三日月、そう、それだけが鉄の文字盤にある\n時計の──ルシフェルを秤として吊る──\n常に傷つけ、常に新たな時刻を刻む、\n暗い一滴によって泣かれる水時計によって、\n見捨てられて彼女が彷徨い、その影の上にも\nその言いようのない歩みに寄り添う天使もない！\nそれを知らない、古く枯れた喉に\n長い間報酬を払ってきた王が。\nその父も知らない、その武具の鋼鉄を映す\n荒々しい氷河も知らない──\n棺もなく横たわる屍の山の上で\n樹脂の香りをかすかに漂わせ、謎めいて、\n古い松の木々に暗い銀のラッパを差し出す時に！\nいつかアルプス以南の国々から帰ってくるだろうか！\n十分に早く？ なぜならすべては前兆と悪い夢だから！\nラッパの記憶に従ってガラスの間で昇る\n指の爪に、古い空が燃え、\n指を羨む燭台へと変える。\nそしてやがてその悲しい夕暮れの赤みが\n後退する体の蝋へと浸透するだろう！\n夕暮れではなく、だが赤い夜明けの、\nすべてを終わらせに来る最後の日の夜明けの、\nとても悲しく藻掻いて、もはや時刻が分からない\n予言的な時の赤みが、嘆きながら\n幼子の上に流れる──その貴重な心に亡命し\n羽毛の中に目を隠す白鳥のように、\n古い白鳥が去りゆく羽毛の中に目を隠したように──\n羽毛の苦悩から、選ばれたダイヤモンドを見ようとする\n希望の永遠の小道の中で、\n死にゆく、もはや輝かない一つの星の！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "約70行、アレクサンドラン（12音節）、AABB対韻。語り手：La Nourrice（乳母）、副題：Incantation（呪文）。出典：Poésies (1899/1914) には未収録──マラルメ没後、Œuvres complètes (Gallimard, 1945/1951) で初めて活字化された「未完・未刊の習作」扱い。Hérodiade 三部作の第I部（I. Ouverture → II. Scène → III. Cantique de Saint Jean）。「Scène」では乳母とヘロディアの対話が中心だが、「Ouverture」では乳母のみが語り手──ヘロディアは直接登場せず、「幼子（l'enfant）」「冷たい子（Froide enfant）」として指示される。詩は「廃された（Abolie）」という倒置・断片的な語で始まり、白鳥・池・塔・部屋・聖骸布・時計・父王という連想的な情景の連鎖で構成される。「呪文（Incantation）」としての形式──乳母の独白が「ヘロディアを呼び出す儀式」として機能する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Abolie, et son aile affreuse dans les larmes",
+      "body": "「廃されて、その恐ろしい翼が涙の中に（Abolie, et son aile affreuse dans les larmes）」──詩の最初の語「Abolie（廃された・消滅した）」が倒置・孤立して詩を開く。主語が後置される構文（「Abolie, ... Une Aurore a ... choisi」）──「廃されたもの」が「主語」として確定するのが4行目まで遅延される。「son aile affreuse（その恐ろしい翼）」の「son（その）」の指示対象も曖昧──「曙（Aurore）」の翼か「白鳥（cygne）」の翼か。「ソネット en-yx（Ses purs ongles）」の「ptyx は廃された（d'un ptyx, / Aboli bibelot d'inanité sonore）」と同一語「aboli/abolie」──両詩で「廃絶」が詩の根本的条件として提示される。詩の開幕が「すでに何かが廃された後」から始まるという時間的倒錯。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "le cygne\nInoubliable",
+      "body": "「忘れがたい白鳥（le cygne / Inoubliable）」──マラルメ詩における白鳥モチーフの最も精緻な早期出現。「もはや羽毛も白鳥も訪れない（Que ne visite plus la plume ni le cygne / Inoubliable）」──白鳥の不在が強調されることで逆説的に「忘れがたさ（Inoubliable）」が提示される。後の「Le vierge, le vivace et le bel aujourd'hui」（白鳥のソネット）では白鳥が「氷に閉じ込められた詩人」の象徴となるが、「Ouverture」では「去って戻らない白鳥」が「詩的理想の喪失」として機能する。「Du cygne quand parmi le pâle mausolée / Ou la plume plongea la tête（白鳥が青白い霊廟の中で羽毛が頭を水に沈めた時）」──白鳥が「頭を水に入れる」動作：「ヘロディアが鏡を見る」動作との対応。詩の末尾「Comme un cygne cachant en sa plume ses yeux（羽毛の中に目を隠す白鳥のように）」との首尾呼応。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "intertextual",
+      "targetId": "mallarme_ses_purs_ongles",
+      "body": "「Abolie（廃された）」──「ソネット en-yx（Ses purs ongles）」の「aboli bibelot d'inanité sonore（廃された、音の空虚な置物）」との語彙的連結。両詩で「aboli/abolie」は「詩が成立する条件としての不在・廃絶」を指示する──詩は「あるもの」を歌うのでなく「廃されたもの・失われたもの」から出発する。「Ouverture」では詩の最初の一語、「Ses purs ongles」では「ptyx（謎の言語的作品）」の形容として──マラルメ詩学における「廃絶の詩学（poétique de l'abolition）」の二大テキストとして相互参照される。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Crime ! bûcher ! aurore ancienne ! supplice !",
+      "body": "「罪！ 火刑台！ 古い曙！ 責め苦！（Crime ! bûcher ! aurore ancienne ! supplice !）」──名詞・感嘆符の羅列による叫び。通常のアレクサンドランの文法的流れを断ち切る破裂的な構文──4つの名詞が感嘆符とともに並列される。「Crime（罪）」「bûcher（火刑台）」「supplice（責め苦）」──殉教・処刑のイメージの密集：「Cantique de Saint Jean」の「首切り」への予告的な語彙。「aurore ancienne（古い曙）」──§1の「Une Aurore」との照応：曙そのものが「罪・苦しみ」として告発される。「Pourpre d'un ciel ! Étang de la pourpre complice !（空の紫！ 紫に共犯する沼！）」──「紫（pourpre）」が天と池の双方に広がる：血・夕暮れ・王権の色としての「pourpre」が空から池（§1の「bassin」）に「共犯」として届く。「Et sur les incarnats, grand ouvert, ce vitrail（そして肉色の上に、大きく開かれた、このステンドグラス）」──ステンドグラスが「肉色（incarnats）」の上に投影される：光が肉体を染める宗教的・官能的イメージ。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "sibylles offrant leur ongle vieil aux Mages",
+      "body": "「マギたちに老いた爪を差し出す巫女たち（sibylles offrant leur ongle vieil aux Mages）」──タペストリーに織り込まれた図像の描写。「sibylles（シビュラ・巫女たち）」──古代ローマの女性予言者：東方の三博士（Mages）に予言する図像はルネサンス・バロック時代の典型的な宗教図像。「ongle vieil（老いた爪）」──「爪を差し出す」という奇妙な細部：予言の印・書物を指す動作か、あるいは老いの具体的な身体描写。この「巫女とマギ」のタペストリーが部屋に掛かっていることで、「Ouverture」が「呪文（Incantation）」である理由が視覚的に根拠付けられる──巫女たちに囲まれた部屋で行われる乳母の独白は「呪文的な継承」として自己定義される。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Est-ce la mienne prête à l'incantation ?",
+      "body": "「これは呪文の準備ができた私の声か？（Est-ce la mienne prête à l'incantation ?）」──詩の最も重要な自己参照的問い。乳母が「自分の声であるかどうか」を問う──語り手が自らの語りの根拠を問い返すメタポエティックな構造。「Une voix, du passé longue évocation（一つの声が、過去の長い召喚が）」──「声」が「過去の召喚」と同格に置かれる：声を発することが「過去を呼び出すこと（évocation）」であり、「呪文（incantation）」であるという等式。「Encore dans les plis jaunes de la pensée / Traînant（まだ思想の黄ばんだ折り目の中で引きずりながら）」──「思想（pensée）」が「黄ばんだ折り目」を持つ「古い布・書物」として物質化される：精神が「老いた有機物」として提示されるマラルメ的物質詩学の例。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Du suaire laissant par ses belles guipures",
+      "body": "「その美しい金糸細工を通じて聖骸布（Du suaire laissant par ses belles guipures）」──宗教的典礼語彙の密集点。「suaire（聖骸布・死者の白布）」──キリストの聖骸布（Sainte Suaire）の参照：声が「聖骸布」のレース飾り（guipures）を通じて「覆われた古い輝き（vieil éclat voilé）」を昇らせる。「ostensoirs refroidis（冷え切った聖遺物箱）」──聖体顕示台：典礼の中心的祭具が「冷え切った（refroidis）」状態で描かれる──信仰が「冷えた」後の典礼的残骸。「Le vieil éclat voilé du vermeil insolite（異常な朱金の覆われた古い輝き）」──「vermeil（朱金・鍍金）」は聖杯・典礼具の素材：聖なる輝きが「異常（insolite）」という形容詞で世俗化される。この宗教的語彙の濃密な層は「Cantique de Saint Jean」の洗礼・浄化というテーマへの詩的前置きとして機能する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "le lit aux pages de vélin",
+      "body": "「ヴェラム紙のページの寝台（le lit aux pages de vélin）」──詩の最も謎めいた自己参照的イメージの一つ。「vélin（ヴェラム）」──子牛の皮から作られた高級羊皮紙、詩集・写本の素材：寝台が「ページ（pages）」を持つ──寝台が書物として、ないし詩稿として自己参照される。「Tel, inutile et si claustral, n'est pas le lin !（そのように、無用でこれほど修道的な、これは麻布ではない！）」──「lin（麻布）」は修道院の簡素な寝具：「ヴェラム紙の寝台」が「修道的な麻布」でないという否定──詩的・贅沢な素材（ヴェラム）と修道的禁欲（麻布）の対比。「Qui des rêves par plis n'a plus le cher grimoire（折り目によって夢を、もはや懐かしい魔導書を持たない）」──「grimoire（魔導書）」：乳母の「呪文（Incantation）」とヘロディアの「夢の書」の結合。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Le croissant, oui le seul est au cadran de fer\nDe l'horloge, pour poids suspendant Lucifer,",
+      "body": "「三日月、そう、それだけが鉄の文字盤にある時計の──ルシフェルを秤として吊る（Le croissant, oui le seul est au cadran de fer / De l'horloge, pour poids suspendant Lucifer）」──詩中最も密度の高い象徴的イメージ。「croissant（三日月）」──時計の文字盤の三日月形の装飾：しかし「三日月」はイスラム・月の女神・ヘカテー・処女性（ディアナの月）の象徴でもあり、「Scène」でヘロディアが「月（Nuit blanche）」を「永遠の妹」と呼んだことと連結する。「pour poids suspendant Lucifer（ルシフェルを秤として吊る）」──「Lucifer」はラテン語で「光をもたらす者（lux + ferre）」、すなわち「明けの明星（金星）」の古称：時計がルシフェル（明けの明星）を「秤の錘（poids）」として吊り下げることで時を刻む──光が時間を計測する道具に変換されるという逆説。「clepsydre（水時計）」も登場し、時間計測の二重の道具が「暗い一滴で泣く」と描写される。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Comme un cygne cachant en sa plume ses yeux,",
+      "body": "「羽毛の中に目を隠す白鳥のように（Comme un cygne cachant en sa plume ses yeux）」──詩の末尾の白鳥イメージ、§1「le cygne / Inoubliable」との首尾円環。ヘロディアが「白鳥のように自らの羽毛（=詩的孤立）の中に目を隠す」──「Scène」でのヘロディアの自己定義「Hérodiade au clair regard de diamant（ダイヤモンドの澄んだ眼差しのヘロディアード）」と逆説的に対応：「ダイヤモンドの眼差し」を持つヘロディアが同時に「羽毛の中に目を隠す白鳥」でもある。「Comme les mit le vieux cygne en sa plume, allée（古い白鳥が去りゆく羽毛の中に目を隠したように）」──「古い白鳥（vieux cygne）」は乳母自身の比喩か：老いた乳母もまた「羽毛の中に目を隠す白鳥」として詩から退場する。「D'une étoile, mourante, et qui ne brille plus !（死にゆく、もはや輝かない一つの星の！）」──§1の「Antérieure, qui ne scintilla jamais（かつて輝いたことのない、より以前の）」との対応：冒頭の「輝いたことのない星」が末尾では「もはや輝かない死にゆく星」へ──「輝きの不在」が「輝きの終わり」として変奏されて詩が閉じる。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "intertextual",
+      "targetId": "mallarme_herodiade_scene",
+      "body": "「Hérodiade」三部の構造的連鎖：「Ouverture」（乳母の呪文）→「Scène」（乳母とヘロディアの対話）→「Cantique de Saint Jean」（首を切られたヨハネの視点）。「Ouverture」では「ヘロディア」は直接登場せず「幼子（l'enfant）」「冷たい子（Froide enfant）」として遠隔的に指示される──「Scène」で初めてヘロディアは声を持つ。「Ouverture」の「白鳥が羽毛に目を隠す」という末尾イメージは「Scène」§8の「Hérodiade au clair regard de diamant（ダイヤモンドの眼差しのヘロディアード）」の「眼差し」に接続する：「隠された目」が「鏡の中のダイヤモンドの眼差し」へと「開く」過程が三部構造の基本的運動として読める。「Cantique de Saint Jean」の洗礼者ヨハネは「Ouverture」では直接登場しないが、「罪（Crime）・火刑台（bûcher）・責め苦（supplice）」（§2）という語彙群がすでにヨハネの「首切り」を予告している。"
+    }
+  ]
+}
