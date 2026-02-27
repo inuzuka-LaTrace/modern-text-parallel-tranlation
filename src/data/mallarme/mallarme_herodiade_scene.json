@@ -1,0 +1,146 @@
+{
+  "id": "mallarme_herodiade_scene",
+  "title": "Hérodiade — Scène",
+  "author": "Stéphane Mallarmé",
+  "source": "Poésies, Nouvelle Revue Française, 1914 (8e éd.) (p. 53-67) (Wikisource: fr.wikisource.org/wiki/Hérodiade_(Mallarmé)/Scène)",
+  "year": "1869",
+  "firstPublication": "Le Parnasse contemporain, 1871",
+  "difficulty": "上級",
+  "category": "mallarme_poetics",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "「ヘロディアード」は1860年代から断続的に書き続けられたマラルメ最大の未完の長詩計画。現在のPoésiesには「I. Scène」と「II. Cantique de Saint Jean」の2篇が収録される（「Ouverture ancienne」は別に存在）。「Scène」は乳母（N.）とヘロディア（H.）の対話劇形式をとるアレクサンドラン詩（約110行）。ヘロディアはユダヤの王妃・ヘロデ・アンティパスの娘サロメと混同されやすいが、マラルメは娘サロメではなく母ヘロディアを選んだ──「処女性・冷たさ・鏡・金属・孤独」の体現者として。乳母が身体に触れようとするたびにヘロディアは激しく拒絶し、「Oui, c'est pour moi, pour moi, que je fleuris, déserte !（そう、私のために、私のためだけに、私は孤独に花咲く）」という核心命題に至る。鏡・金属・宝石・処女性・死への欲求・「人間的なもの」の拒絶──これらが対話を通じて層状に堆積する。「Cantique de Saint Jean」は首を切られた洗礼者ヨハネの視点からこの詩劇に続く。",
+  "keywords": ["ヘロディア", "処女性", "鏡", "乳母との対話", "金属", "宝石", "孤独", "未完長詩"],
+  "relatedTexts": [
+    "mallarme_herodiade_cantique",
+    "mallarme_ses_purs_ongles",
+    "mallarme_lazur",
+    "mallarme_brise_marine",
+    "valery_la_dormeuse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "N.\nTu vis ! ou vois-je ici l'ombre d'une princesse ?\nÀ mes lèvres tes doigts et leurs bagues et cesse\nDe marcher dans un âge ignoré..",
+      "provisionalTranslation": "N.\nあなたは生きているのか！ それともここで王女の影を見ているのか？\n私の唇に、あなたの指とその指輪を──そして止めなさい\n忘れられた時代の中を歩くのを……"
+    },
+    {
+      "id": 2,
+      "french": "H.\n Reculez.\nLe blond torrent de mes cheveux immaculés,\nQuand il baigne mon corps solitaire le glace\nD'horreur, et mes cheveux que la lumière enlace\nSont immortels. Ô femme, un baiser me tûrait\nSi la beauté n'était la mort..\n Par quel attrait\nMenée et quel matin oublié des prophètes\nVerse, sur les lointains mourants, ses tristes fêtes,\nLe sais-je ? tu m'as vue, ô nourrice d'hiver,\nSous la lourde prison de pierres et de fer\nOù de mes vieux lions traînent les siècles fauves\nEntrer, et je marchais, fatale, les mains sauves,\nDans le parfum désert de ces anciens rois :\nMais encore as-tu vu quels furent mes effrois ?\nJe m'arrête rêvant aux exils, et j'effeuille\nComme près d'un bassin dont le jet d'eau m'accueille\nLes pâles lys qui sont en moi, tandis qu'épris\nDe suivre du regard les languides débris\nDescendre, à travers ma rêverie en silence,\nLes lions, de ma robe écartent l'indolence\nEt regardent mes pieds qui calmeraient la mer.\nCalme, toi, les frissons de ta sénile chair,\nViens et ma chevelure imitant les manières\nTrop farouches qui font votre peur des crinières,\nAide-moi, puisqu'ainsi tu n'oses plus me voir,\nÀ me peigner nonchalamment dans un miroir.",
+      "provisionalTranslation": "H.\n 下がれ。\n私の汚れなき髪の金色の奔流が\n孤独な私の体を浴すとき、それは恐怖で凍らせる──\n光が絡みつく私の髪は\n不死だ。おお女よ、口づけは私を殺すだろう\nもし美が死でないなら……\n どんな誘惑に\n導かれ、予言者たちに忘れられたどんな朝が\n死にゆく遠方に、その悲しい祭りを注ぐのか、\n私は知ろうか？ あなたは私を見た、冬の乳母よ、\n石と鉄の重い牢獄の下──\n私の古い獅子たちが荒々しい世紀を引きずる──\n入っていくのを。私は歩いていた、宿命的に、手は汚れず、\nこれらの古い王たちの荒涼とした香りの中：\nだが、あなたはまた、私の恐怖がいかほどだったか見たか？\n私は追放を夢見て立ち止まり、花弁を散らす\n噴水が私を迎える池のそばにいるように\n私の内にある青白い百合を──獅子たちが\n私の夢想を通じて沈黙の中で降りていく\n打ち萎れた残骸を目で追うことに夢中になりながら、\n私のドレスの怠惰をかき分けて\n海を鎮めるだろう私の足を見つめる。\nあなた自身を鎮めなさい、老いた肌の震えを、\n来て──私の髪は鬣のせいであなたが怖れる\nあまりに荒々しいやり方をまねているが──\n助けてくれ、もうあなたは私を見ることができないのだから、\n鏡の中でのんきに私の髪を梳るのを。"
+    },
+    {
+      "id": 3,
+      "french": "N.\nSinon la myrrhe gaie en ses bouteilles closes,\nDe l'essence ravie aux vieillesses de roses\nVoulez-vous, mon enfant, essayer la vertu\nFunèbre ?",
+      "provisionalTranslation": "N.\n瓶の中に閉じ込められた陽気な没薬でなければ、\n薔薇の老いから奪われた精油で\nお試しになりませんか、我が子よ、その\n葬礼的な効能を？"
+    },
+    {
+      "id": 4,
+      "french": "H.\n Laisse là ces parfums ! ne sais-tu\nQue je les hais, nourrice, et veux-tu que je sente\nLeur ivresse noyer ma tête languissante ?\nJe veux que mes cheveux qui ne sont pas des fleurs\nÀ répandre l'oubli des humaines douleurs,\nMais de l'or, à jamais vierge des aromates,\nDans leurs éclairs cruels et dans leurs pâleurs mates,\nObservent la froideur stérile du métal,\nVous ayant reflétés, joyaux du mur natal,\nArmes, vases, depuis ma solitaire enfance.",
+      "provisionalTranslation": "H.\n その香りはほっておけ！ 知らないのか\n私がそれらを憎むことを、乳母よ。その酔いが\n私のもの憂い頭を溺れさせるのを感じさせたいのか？\n私の髪は、人間の苦しみの忘却を\n広めるための花ではない──\nだが金だ、芳香から永遠に処女のままの、\nその残酷な閃光と鈍い蒼白さの中で、\n金属の不毛な冷たさを保つべきものだ、\n幼い頃から孤独な、生まれ育った壁の宝石よ、\n武具よ、壺よ、汝らを映してきた。"
+    },
+    {
+      "id": 5,
+      "french": "N.\nPardon ! l'âge effaçait, reine, votre défense\nDe mon esprit pâli comme un vieux livre ou noir..\n\nH.\nAssez ! Tiens devant moi ce miroir.\n Ô miroir !\nEau froide par l'ennui dans ton cadre gelée\nQue de fois et pendant les heures, désolée\nDes songes et cherchant mes souvenirs qui sont\nComme des feuilles sous ta glace au trou profond,\nJe m'apparus en toi comme une ombre lointaine,\nMais, horreur ! des soirs, dans ta sévère fontaine,\nJ'ai de mon rêve épars connu la nudité !\nNourrice, suis-je belle ?",
+      "provisionalTranslation": "N.\n許して！ 年齢が、王女様、あなたのご禁止を\n古い黒ずんだ本のように色褪せた私の精神から消していたのです……\n\nH.\n十分だ！ この鏡を私の前に持て。\n おお鏡よ！\n倦怠によって枠の中で凍った冷たい水よ、\n夢の絶望の中で何度、何時間も、\n深い穴のあなたの氷の下の葉のような\n私の記憶を探しながら、\n私は遠い影として汝の中に現れたことか、\nだが、恐怖！ 夜ごとに、汝の厳しい泉の中で、\n私は散り散りの夢の裸体を知った！\n乳母よ、私は美しいか？"
+    },
+    {
+      "id": 6,
+      "french": "N.\n Un astre, en vérité\nMais cette tresse tombe..\n\nH.\n Arrête dans ton crime\nQui refroidit mon sang vers sa source, et réprime\nCe geste, impiété fameuse : ah ! conte-moi\nQuel sûr démon te jette en le sinistre émoi,\nCe baiser, ces parfums offerts et, le dirai-je ?\nÔ mon cœur, cette main encore sacrilège,\nCar tu voulais, je crois, me toucher, sont un jour\nQui ne finira pas sans malheur sur la tour..\nÔ tour qu'Hérodiade avec effroi regarde !",
+      "provisionalTranslation": "N.\n 真に、一つの星のようです\nだがこの三つ編みが落ちて……\n\nH.\n その罪の中で止まれ\n私の血を源へと冷やすその罪、そして抑えよ\nこの仕草を、名高い冒涜を：ああ！ 教えてくれ\nどんな確かな悪魔があなたを不吉な動揺へ突き落とすのか、\nその口づけ、差し出された香り、そして言えば──\nおお私の心よ、いまだ神聖を汚すその手──\nあなたは、私が思うに、私に触れようとしていた、それは一日だ\n塔の上で不幸なく終わりはしない日が……\nおおヘロディアが恐怖とともに見上げる塔よ！"
+    },
+    {
+      "id": 7,
+      "french": "N.\nTemps bizarre, en effet, de quoi le ciel vous garde !\nVous errez, ombre seule et nouvelle fureur,\nEt regardant en vous, précoce avec terreur :\nMais toujours adorable autant qu'une immortelle,\nÔ mon enfant, et belle affreusement et telle\nQue..\n\nH.\n Mais n'allais-tu pas me toucher ?\n\nN.\n … J'aimerais\nÊtre à qui le Destin réserve vos secrets.\n\nH.\nOh ! tais-toi !\n\nN.\n Viendra-t-il parfois ?\n\nH.\n Étoiles pures,\nN'entendez pas !\n\nN.\n Comment, sinon parmi d'obscures\nÉpouvantes, songer plus implacable encor\nEt comme suppliant le dieu que le trésor\nDe votre grâce attend ! et pour qui, dévorée\nD'angoisses, gardez-vous la splendeur ignorée\nEt le mystère vain de votre être ?\n\nH.\n Pour moi.\n\nN.\nTriste fleur qui croît seule et n'a pas d'autre émoi\nQue son ombre dans l'eau vue avec atonie.\n\nH.\nVa, garde ta pitié comme ton ironie.\n\nN.\nToutefois expliquez : oh ! non, naïve enfant,\nDécroîtra, quelque jour, ce dédain triomphant..\n\nH.\nMais qui me toucherait, des lions respectée ?\nDu reste, je ne veux rien d'humain et, sculptée,\nSi tu me vois les yeux perdus au paradis,\nC'est quand je me souviens de ton lait bu jadis.\n\nN.\nVictime lamentable à son destin offerte !",
+      "provisionalTranslation": "N.\n奇妙な時代、なんたること、天があなたをお守りを！\nあなたは彷徨う、孤独な影、新たな怒りとして、\n自分の中を見つめながら、恐怖とともに早熟に：\nだがいつも愛らしい、不死の者と同じほど、\nおお我が子よ、そして恐ろしいほど美しく──\n\nH.\n でも、あなたは私に触れようとしていたのでは？\n\nN.\n ……運命があなたの秘密を\n取っておく人の立場になりたいものです。\n\nH.\nおお！ 黙れ！\n\nN.\n 彼はいつか来ますか？\n\nH.\n 純粋な星々よ、\n聴くな！\n\nN.\n どうして、暗い恐怖の中でなければ、\nさらに容赦なく夢想できようか、\nあなたの恵みの宝庫を待つ神に\n懇願するかのように！ そしてだれのために、苦悩に\n食い尽くされながら、あなたは知られざる輝きと\nあなたの存在の空虚な神秘を守るのか？\n\nH.\n 私のために。\n\nN.\n独りで育ち、無気力に水に映る\n影以外の感動を持たない悲しい花よ。\n\nH.\n行け、あなたの憐れみをあなたの皮肉とともに取っておけ。\n\nN.\nとはいえ説明して：おお！ いいえ、無邪気な子よ、\nいつかはこの勝ち誇った蔑みも衰えるでしょう……\n\nH.\nだが、獅子たちに敬われる私に誰が触れようか？\nそれに、私は人間的なものは何も求めない。彫刻のように、\nあなたが楽園に目を失った私を見るなら、\nそれはかつて飲んだあなたの乳を思い出すときだ。\n\nN.\n哀れな犠牲者、その宿命に捧げられた！"
+    },
+    {
+      "id": 8,
+      "french": "H.\nOui, c'est pour moi, pour moi, que je fleuris, déserte !\nVous le savez, jardins d'améthyste, enfouis\nSans fin dans de savants abîmes éblouis,\nOrs ignorés, gardant votre antique lumière\nSous le sombre sommeil d'une terre première,\nVous, pierres où mes yeux comme de purs bijoux\nEmpruntent leur clarté mélodieuse, et vous\nMétaux qui donnez à ma jeune chevelure\nUne splendeur fatale et sa massive allure !\nQuant à toi, femme née en des siècles malins\nPour la méchanceté des antres sibyllins,\nQui parles d'un mortel ! selon qui, des calices\nDe mes robes, arôme aux farouches délices,\nSortirait le frisson blanc de ma nudité,\nProphétise que si le tiède azur d'été,\nVers lui nativement la femme se dévoile,\nMe voit dans ma pudeur grelottante d'étoile,\nJe meurs !\n J'aime l'horreur d'être vierge et je veux\nVivre parmi l'effroi que me font mes cheveux\nPour, le soir, retirée en ma couche, reptile\nInviolé sentir en la chair inutile\nLe froid scintillement de ta pâle clarté\nToi qui te meurs, toi qui brûles de chasteté,\nNuit blanche de glaçons et de neige cruelle !\nEt ta sœur solitaire, ô ma sœur éternelle,\nMon rêve montera vers toi : telle déjà\nRare limpidité d'un cœur qui le songea,\nJe me crois seule en ma monotone patrie\nEt tout, autour de moi, vit dans l'idolâtrie\nD'un miroir qui reflète en son calme dormant\nHérodiade au clair regard de diamant..\nÔ charme dernier, oui ! je le sens, je suis seule.",
+      "provisionalTranslation": "H.\nそう、私のために、私のためだけに、私は孤独に花咲く！\nあなたたちは知っている、見事な深淵の中に\n無限に埋もれたアメジストの庭よ、\n無知の金よ、最初の大地の\n暗い眠りの下で古の光を守りながら──\nあなたたち、石よ、私の目が純粋な宝石のように\n旋律的な輝きを借りる──そしてあなたたち、\n金属よ、若い私の髪に\n宿命的な輝きとその重量感ある佇まいを与える！\nあなたに関しては、悪意ある世紀に生まれた女よ、\n巫女の洞窟の意地悪さのために、\n死すべき者のことを語る！ その者によれば、私の衣の\n杯から、荒々しい悦びの芳香として、\n私の裸体の白い戦慄が出てくるという──\n予言せよ、もし夏の穏やかな青空が\n本来の女の姿で彼に向かって自らをさらけ出す女を\n星のように震える私の慎みの中に見るなら、\n私は死ぬ！\n 私は処女であることの恐怖を愛し、\n夜ごと寝床に退きながら、侵されない\n爬虫類として無用な肉体の中に感じたいと欲する\nあなたの青白い明かりの冷たいきらめきを──\n死にゆくあなた、貞潔に燃えるあなた、\n氷柱と残酷な雪の白い夜よ！\nそしてあなたの孤独な妹よ、おお私の永遠の妹よ、\n私の夢があなたに向かって昇るだろう：そのように、すでに\nそれを夢見た心の稀な透明さをもって、\n私は単調な祖国の中で独りだと信じる\n私の周りのすべてが、眠れる静けさの中に映す\nダイヤモンドの澄んだ眼差しのヘロディアードを\n崇拝する中で生きている……\n最後の魅力よ、そう！ 私はそれを感じる、私は独りだ。"
+    },
+    {
+      "id": 9,
+      "french": "N.\nMadame, allez-vous donc mourir ?\n\nH.\n Non, pauvre aïeule,\nSois calme et, t'éloignant, pardonne à ce cœur dur,\nMais avant, si tu veux, clos les volets : l'azur\nSéraphique sourit dans les vitres profondes,\nEt je déteste, moi, le bel azur !\n Des ondes\nSe bercent et, là-bas, sais-tu pas un pays\nOù le sinistre ciel ait les regards haïs\nDe Vénus qui, le soir, brûle dans le feuillage ;\nJ'y partirais.\n Allume encore, enfantillage\nDis-tu, ces flambeaux où la cire au feu léger\nPleure parmi l'or vain quelque pleur étranger\nEt..\n\nN.\nMaintenant ?",
+      "provisionalTranslation": "N.\n奥様、では死ぬおつもりですか？\n\nH.\n いいえ、哀れな祖母よ、\n静かにして、遠ざかりながら、この硬い心を許しておくれ、\nだが前に、もしよければ、鎧戸を閉めておくれ：青空が\n奥深い窓の中で天使のように微笑んでいる、\n私はあの美しい青空が嫌いなのだ！\n 波が\n揺れている、そして、あそこに、夕刻に\n木の葉の中で燃えるヴィーナスの\n憎まれた眼差しを不吉な空が持つ国を\n知らないか？ そこへ行くだろう。\n また灯せ、子供っぽいと\n言うが、その燭台を──軽い炎の蝋が\n虚ろな金の中で異国の涙を泣く──\nそして……\n\nN.\n今？"
+    },
+    {
+      "id": 10,
+      "french": "H.\n Adieu.\n Vous mentez, ô fleur nue\nDe mes lèvres !\n J'attends une chose inconnue\nOu peut-être, ignorant le mystère et vos cris,\nJetez-vous les sanglots suprêmes et meurtris\nD'une enfance sentant parmi les rêveries\nSe séparer enfin ses froides pierreries.",
+      "provisionalTranslation": "H.\n さようなら。\n 嘘をついている、おお私の唇の\n裸の花よ！\n 私は知られざる何かを待っている\nあるいは多分、神秘を知らず、あなたたちの叫びも知らず、\nあなたたちは投げかけているのだ、最高の傷ついた嗚咽を、\n夢想の中でついに冷たい宝石たちが\n分かれていくのを感じる幼年期の。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "アレクサンドラン（12音節）基調の対話詩劇、全体約110行。Poésies (1914, 8e éd.) p. 53-67 所収。HÉRODIADE の第I部「SCÈNE」。登場人物：N.（La Nourrice、乳母）/ H.（Hérodiade、ヘロディア）。1860年代から書き始められ、1871年「Le Parnasse contemporain」に初掲載。ヘロディアはヘロデ大王の孫娘、ヘロデ・アンティパスの妻──「サロメ（娘）」でなく「ヘロディア（母）」を選んだことで「官能的な踊り」でなく「処女性・冷たさ・孤立」が詩の中心に置かれる。Poésies内では「Don du Poème」の後、「Cantique de Saint Jean」の前──「詩の贈与」から「ヘロディア」を経て「洗礼者ヨハネの賛歌」という配列が、「詩・処女性・死と再生」という主題連鎖を形成する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Le blond torrent de mes cheveux immaculés",
+      "body": "「私の汚れなき髪の金色の奔流（Le blond torrent de mes cheveux immaculés）」──ヘロディアの最初の長い独白は「髪」の定義から始まる。「torrent（奔流）」という自然的・激烈なイメージと「immaculés（汚れなき）」という宗教的・純粋なイメージの結合。「Quand il baigne mon corps solitaire le glace / D'horreur（孤独な私の体を浴すとき、それは恐怖で凍らせる）」──髪が体を「浴す」のではなく「凍らせる」という逆説：自己の一部（髪）が自己の体（肉体）を恐怖で麻痺させる。肉体と精神（ないし美）の乖離というヘロディアの根本的状況の最初の表現。「Ô femme, un baiser me tûrait / Si la beauté n'était la mort（おお女よ、もし美が死でないなら、口づけは私を殺すだろう）」──「美＝死」という等式をヘロディアが最初期に提示する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les pâles lys qui sont en moi",
+      "body": "「私の内にある青白い百合（Les pâles lys qui sont en moi）」──ヘロディアは花弁を「私の内から散らす」──内的な百合を外に出すという自己の内部と外部の境界の曖昧さ。「獅子が私のドレスをかき分け、海を鎮めるだろう私の足を見つめる（les lions … regardent mes pieds qui calmeraient la mer）」──獅子の視線と「海を鎮める足」という神的能力の示唆：ヘロディアの足が神話的・奇跡的な力を持つという誇大妄想的自意識。このヘロディアの「宮廷の中を宿命的に歩く」描写は彼女の「非人間的・神話的」自己像の確立。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais de l'or, à jamais vierge des aromates",
+      "body": "「だが金だ、芳香から永遠に処女のままの（Mais de l'or, à jamais vierge des aromates）」──香り（aromates）の拒絶と金属（or）の肯定という対比がヘロディアの美学の核心。「myrrhe（没薬）」「essence de roses（薔薇の精油）」という有機的・生物的・腐敗する香りを拒絶し、「金属の不毛な冷たさ（la froideur stérile du métal）」を選択する。芳香は「人間的なもの・感情的なもの・腐敗するもの」の象徴であり、金属は「不変・冷たさ・処女性・死」の象徴──ヘロディアはこの二項を明確に選択する。「Vous ayant reflétés, joyaux du mur natal（生まれ育った壁の宝石よ、汝らを映してきた）」──宝石・武具・壺という幼少期から彼女を囲んできた無機物の「家族」との同一化。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "Ô miroir !\nEau froide par l'ennui dans ton cadre gelée",
+      "body": "「おお鏡よ！ 倦怠によって枠の中で凍った冷たい水よ（Ô miroir ! / Eau froide par l'ennui dans ton cadre gelée）」──詩中最も有名な「鏡への呼びかけ」。鏡が「水（Eau froide）」として定義されることで「映す表面」から「凍った・深さを持つ物質」へと変換される。「l'ennui（倦怠）」によって凍った水──ヴァレリー「Brise marine」の「倦怠（Ennui）」と対応するマラルメ的「倦怠」がここでも凍結・停止の力として機能する。「J'ai de mon rêve épars connu la nudité（私は散り散りの夢の裸体を知った）」──鏡の中で「夢の裸体」を見るという逆説：ヘロディアが見るのは「自分の裸体」でなく「夢の裸体」──実体としての自己でなく「夢として分散した自己の裸体」。「Nourrice, suis-je belle ?（乳母よ、私は美しいか？）」──あれほど確固とした自己定義を語ったヘロディアが、初めて他者に問いを投げる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Arrête dans ton crime\nQui refroidit mon sang vers sa source",
+      "body": "「私の血を源へと冷やすその罪の中で止まれ（Arrête dans ton crime / Qui refroidit mon sang vers sa source）」──乳母が「三つ編みを触ろうとした」ことへの激しい拒絶。「refroidit mon sang vers sa source（血を源へと冷やす）」──触れられることが血を「冷やす」だけでなく「源へと戻す」という表現：触れられることは「生の流れを逆流させる」──つまり「死への回帰」を引き起こす。「Ô tour qu'Hérodiade avec effroi regarde !（おおヘロディアが恐怖とともに見上げる塔よ！）」──詩中で主人公が自分の名前を三人称で語る唯一の個所：ヘロディアが自己を外から見る瞬間。「塔（tour）」──閉じ込めの場所・孤立の象徴として突然現れる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Pour moi.",
+      "body": "「私のために（Pour moi）」──§7の長い問答の核心。乳母が「あなたの知られざる輝きと存在の神秘を誰のために守るのか」と問い、ヘロディアは一言「Pour moi（私のために）」と答える。「§8の「Oui, c'est pour moi, pour moi（そう、私のために、私のためだけに）」の予告──この短い返答が次の大独白への入口。「Viendra-t-il parfois ?（彼はいつか来ますか？）」という乳母の問い──「彼（il）」は誰か：洗礼者ヨハネ（Baptiste）、あるいは「死すべき男」一般──ヘロディアは「Étoiles pures, N'entendez pas !（純粋な星々よ、聴くな！）」と応える：「彼が来る可能性」を星々にも聞かせたくない、という、恐怖と欲望の間の逆説的拒絶。「Triste fleur qui croît seule（独りで育つ悲しい花）」──乳母のヘロディアへの詩的定義：§8の「je fleuris, déserte（私は孤独に花咲く）」とのエコー。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Oui, c'est pour moi, pour moi, que je fleuris, déserte !",
+      "body": "「そう、私のために、私のためだけに、私は孤独に花咲く（Oui, c'est pour moi, pour moi, que je fleuris, déserte !）」──詩の核心命題・クライマックス。「déserte（孤独な・荒れ地の）」──「花咲く（fleuris）」という生命の動詞と「孤独な（déserte）」という否定の形容詞の矛盾：美しく咲くが誰も見ない、あるいはその花咲きの美が孤独を深める。「jardins d'améthyste（アメジストの庭）」「Ors ignorés（無知の金）」「Vous, pierres（汝ら石よ）」「Métaux（金属よ）」──宝石・金・石・金属という無機物への呼びかけが連続する。ヘロディアの自己の定義は「人間的なもの」からの完全な切断であり、「無機物・非生命的なもの」との同一化によって達成される。「Je meurs !（私は死ぬ！）」──「もし誰かが私の裸体を見るなら」という仮定的死の宣言：「見られること＝死」という命題。処女性（virginité）が「見られないこと・触れられないこと」によってのみ維持されるという逆説。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "J'aime l'horreur d'être vierge et je veux",
+      "body": "「私は処女であることの恐怖を愛し（J'aime l'horreur d'être vierge et je veux）」──「処女性（virginité）」の定義の転換点。ここまで処女性は「拒絶・冷たさ・金属」として否定的に定義されてきたが、ここで「愛する（j'aime）」という肯定的動詞が加わる──しかし「horreur（恐怖）」とともに愛される処女性。「reptile / Inviolé（侵されない爬虫類）」──自己を爬虫類として定義する：爬虫類の冷血・脱皮・孤独のイメージ。「Toi qui te meurs, toi qui brûles de chasteté, / Nuit blanche de glaçons et de neige cruelle（死にゆくあなた、貞潔に燃えるあなた、氷柱と残酷な雪の白い夜よ）」──呼びかけの対象は「月（la lune）」──月の白さ・冷たさ・処女性（ダイアナ・アルテミスの聖体）がヘロディアの「姉妹」として召喚される。「Hérodiade au clair regard de diamant（ダイヤモンドの澄んだ眼差しのヘロディアード）」──三人称化した自己像が鏡の中に置かれる：自己が鏡の中の「崇拝の対象」として完成する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Et je déteste, moi, le bel azur !",
+      "body": "「私はあの美しい青空が嫌いなのだ（Et je déteste, moi, le bel azur !）」──「L'Azur（青）」との詩集内の鮮明な対話。「L'Azur」では「青（Azur）」が詩人を苛む「理想の追跡者」として提示されたが、「Hérodiade」ではヘロディアが「青空を嫌う」と明言する。しかし「Séraphique sourit dans les vitres profondes（天使のように奥深い窓の中で微笑む青空）」という美しい描写の直後に「嫌い」を宣言するという逆説──「美しい」と知りながら嫌う、という拒絶の構造。「Des ondes / Se bercent（波が揺れている）」からの海のイメージ──「Brise marine」の「逃走への渇望」との接続：ヘロディアも「あそこへ行きたい（J'y partirais）」と呟く。しかしその直後に「flambeaux（燭台）」を灯すよう命じる──逃走の夢はここでも実現されない。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "J'attends une chose inconnue",
+      "body": "「私は知られざる何かを待っている（J'attends une chose inconnue）」──詩の最終命題。「Adieu（さようなら）」という乳母への別れの後、ヘロディアは「唇の裸の花（fleur nue / De mes lèvres）」に向かって「嘘をついている」と語る──唇が「何か」を表現しようとするとき、その表現は常に嘘である、という言語への根本的懐疑。「J'attends une chose inconnue（知られざる何かを待っている）」──「Cantique de Saint Jean」で首を切られる洗礼者ヨハネの死・ヘロディアの処女性の終わり・「未来の何か」への開口：詩は解決せず「待機」で終わる。「D'une enfance sentant parmi les rêveries / Se séparer enfin ses froides pierreries（夢想の中でついに冷たい宝石たちが分かれていくのを感じる幼年期）」──幼年期の「冷たい宝石（§4の宝石・金属との同一化）」がついに分離していく──成長・変化・処女性の終わりへの予感とともに詩は静かに閉じる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "targetId": "mallarme_herodiade_cantique",
+      "body": "「J'attends une chose inconnue（知られざる何かを待っている）」──「Cantique de Saint Jean」への直接的な橋渡し。「Scène」がヘロディアの待機で終わるのに対し、「Cantique」は洗礼者ヨハネ（Saint Jean Baptiste）の首切りの瞬間から始まる──「待たれているもの（一つの死・首切り）」が「Cantique」で実現される。「Scène」の処女性・拒絶・孤独というテーマが、「Cantique」では「身体からの頭部の分離・精神の純化・洗礼」というテーマに変換される：ヘロディアの「内なる分離（冷たい宝石の分離）」が「Cantique」では文字通りの「首の分離」として実現する。"
+    }
+  ]
+}
