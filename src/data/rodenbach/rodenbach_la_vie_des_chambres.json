@@ -1,0 +1,156 @@
+{
+  "id": "rodenbach_la_vie_des_chambres",
+  "title": "La Vie des chambres",
+  "author": "Georges Rodenbach",
+  "source": "Le Règne du silence, Bibliothèque-Charpentier, 1901 (Wikisource: fr.wikisource.org/wiki/Le_Règne_du_silence/La_Vie_des_chambres)",
+  "year": "1891",
+  "firstPublication": "Le Règne du silence, Bibliothèque-Charpentier, 1891 (初版)",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジョルジュ・ローデンバック（1855-1898）の詩集『沈黙の王国（Le Règne du silence）』（1891）所収の長詩「La Vie des chambres（部屋の命）」。XVII章・約342行。詩集内での配置は「Du silence」「Paysages de Ville」「Le Cœur de l'Eau」の後段に位置する。本詩は「室内」を主たる詩的空間として、部屋を擬人化し「魂を持つ存在」として詩的探求する：部屋の多様な感情的性格（I）、部屋の母性的慰め（II）、鏡の中に停泊した夢（III）、ピクニアの花束の死と魂（IV）、鏡と愛（V）、孤独なピアノの待機（VI）、チュールのカーテンと霜の花（VII）、夕暮れの闇の脅威（VIII）、夢のシャボン玉と鏡（IX）、シャンデリアと詩人の心（X）、部屋の老人的記憶（XI）、古い肖像画の声（XII）、帰宅と部屋の歓迎（XIII）、窓から入る音楽（XIV）、時計の苦悩（XV）、窓ガラスの内外（XVI）、夕暮れに死ぬ部屋（XVII）。「部屋＝魂」の同一化が詩集全体の「死んだ街＝詩人の魂」という主題の室内版として展開される。",
+  "keywords": ["部屋", "鏡", "沈黙", "室内", "ピアノ", "シャンデリア", "カーテン", "肖像画", "夢", "死"],
+  "relatedTexts": [
+    "rodenbach_du_silence",
+    "rodenbach_paysages_de_ville",
+    "rodenbach_coeur_de_leau",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "I\n\nLes chambres, qu'on croirait d'inanimés décors,\n— Apparat de silence aux étoffes inertes —\nOnt cependant une âme, une vie aussi certes,\nUne voix close aux influences du dehors\nQui répand leur pensée en halos de sourdines…\nLes unes, faste, joie, un air de nonchaloir !\nD'autres, le résigné sourire d'un parloir\nQui fit vœu de blancheur chez les Visitandines ;\nD'autres encor, grand deuil des trahisons d'un Cœur,\nMouillant les bibelots de larmes volatiles ;\nChambres qui sont tantôt bonnes comme une sœur,\nPuis accueillent tantôt avec des yeux hostiles,\nQuand on trouble leur rêve au fil nu du miroir,\nLeur rêve d'Ophélie au miroir d'eau dormante !\nElles ont une vie étrange qui s'augmente\nDes souvenirs que les vieux portraits dans le soir\nÀ leur front d'Ophélie, en guirlandes fanées,\nVont effeuillant dans le miroir languissamment,\nSouvenirs presque plus roses d'autres années !\nChambres pleines de songe ! Elles vivent vraiment\nEn des rêves plus beaux que la vie ambiante,\nGrandissant toute chose au symbole, voyant\nDans chaque rideau pâle une Communiante\nAux falbalas de mousseline s'éployant\nQui communie au bord des vitres, de la lune !\nEt voyant dans le lustre une âme de cristal\nQui crispe au moindre heurt ses branches une à une,\nSensitive de verre à qui le bruit fait mal.\nChambres pleines de songe et qui, visionnaires,\nParmi leur rangement strict et méticuleux,\nPrennent les grands fauteuils pour des vieillards frileux\nEn cercle dans la chambre et valétudinaires.",
+      "provisionalTranslation": "I\n\n部屋は生気のない舞台装置と思われるが──\n──不動の布地の沈黙の飾り──\nそれでも確かに魂を、命をも持ち、\n外からの影響に閉じた声を持つ\nその思想を弱音器の光輪に広げる声を……\nあるものは豪華さ、喜び、無頓着な雰囲気！\n他のものは、訪問会修道院で白さを誓った\n応接室の諦めた微笑み；\nさらに他は、ある心の裏切りの大いなる喪──\n揮発する涙で小物を濡らしながら；\n時に姉妹のように優しい部屋、\n次いで敵意ある目で迎える部屋──\n眠る水の鏡でのオフェリアの夢、\n鏡の裸の縁でその夢を乱す時に。\n部屋は奇妙な命を持ち、それが増す──\n夕暮れに古い肖像画が\nオフェリアの額に、萎れた花環の中で、\n倦怠げに鏡に散らしていく思い出によって、\nもう他の年月のバラ色ではない思い出によって！\n夢に満ちた部屋よ！ 部屋は本当に生きている\n周囲の生よりも美しい夢の中で、\nすべてのものを象徴に高め、\n薄いカーテン各々に、広がるモスリンの\nフリルをまとった、窓と月の縁で\n聖体拝領をする初聖体の少女を見る！\nそしてシャンデリアに水晶の魂を見る──\n少しの衝撃にも枝を一本一本縮ませる、\n物音が痛いガラスのオジギソウを。\n夢に満ちた部屋──幻視する部屋、\n厳格で几帳面な整理の中で、\n大きな肘掛け椅子を、部屋の中で円になった\n寒がりで病弱な老人たちと見なす。"
+    },
+    {
+      "id": 2,
+      "french": "II\n\nDouceur d'associer notre âme à cette vie\nDes chambres, qui du moins sont bonnes à nos maux ;\nCar, pour nous consoler, il ne faut pas des mots\nEt leur silence aux linges frais nous lénifie\n— Tel un malade entrant dans un lit rafraîchi !\nAh ! Qu'on nous recajole ! Ah ! Quel mal à nos membres !\nEt cet immense ennui que rien n'aura fléchi !\nEt ce mal à notre âme en exil… Mais les chambres\nSont accueillantes, sont des mères sachant bien\nLe cœur de notre cœur, et jusqu'à la nuance…\nElles ont des douceurs et des baumes ! Combien\nConsolante est leur paix dont l'âme s'influence ;\nEt quel soudain oubli de tout ! Quel réconfort\nQuand le vague soupir des choses nous y berce,\nRespiration lente et qui, rythmique, endort\nComme un bruit d'eaux, ou de jardin sous une averse !",
+      "provisionalTranslation": "II\n\n私たちの魂を部屋のこの命と結びつける優しさ──\n部屋は少なくとも私たちの苦しみに優しいから；\nなぜなら私たちを慰めるために言葉は必要なく、\n新鮮なリネンとともにある沈黙が私たちを和らげるから──\n──冷やされたベッドに入る病者のように！\nああ！ 甘やかされたい！ ああ！ 四肢の何という痛み！\nそして何も和らげることのないこの果てしない倦怠！\nそして追放中の私たちの魂の痛み……だが部屋は\n温かく迎え、私たちの心の心を──\n微妙なところまで──よく知る母たち……\n優しさと膏薬を持つ！ その魂が感化される\n平和は何と慰めになることか；\nそして何という突然のすべての忘却！ 何という安堵──\n物事の漠然とした溜め息が私たちをそこで揺り動かす時、\n水の音や、夕立の下の庭のように\n眠りに誘うリズムのゆっくりした呼吸！"
+    },
+    {
+      "id": 3,
+      "french": "III\n\nOui ! C'est doux ! C'est la chambre, un doux port relégué\nOù mon rêve, lassé de tendre au vent ses voiles,\nDans le miroir tranquille et pâle s'est cargué.\nLas ! Sans plus espérer des sillages d'étoiles,\nEt des départs vers des îles, mon rêve dort\nDans le profond miroir, comme en un canal mort ;\nEt faut-il désirer un coup de vent qui chasse\nEn pleine mer, cette âme à l'ancre dans la glace ?",
+      "provisionalTranslation": "III\n\nそうだ！ 優しい！ 部屋──風に帆を向けることに\n疲れた私の夢が、穏やかで蒼い鏡の中で\n帆を畳んだ、辺鄙な優しい港だ。\nああ、もはや星の航跡も、\n島々への出発も望まず、私の夢は眠る\n深い鏡の中で、死んだ運河の中のように；\nそして氷の中で錨を下ろしたこの魂を\n大海原へと追いやる突風を望むべきだろうか？"
+    },
+    {
+      "id": 4,
+      "french": "IV\n\nMon âme, tout ce long et triste après-midi,\nÀ souffert de la mort d'un bouquet, imminente !\nIl était, loin de moi, dans la chambre attenante\nOù ma peur l'éloigna, déjà presque engourdi,\nBouquet dépérissant de fleurs qu'on croyait sauves\nEncor pour tout un jour dans la pitié de l'eau,\nGloxinias de neige avec des galons mauves,\nBouquet qui dans la chambre éteignait son halo\nEt se désargentait en ce soir de dimanche !\nMon âme, tu souffris et tu t'ingénias\nÀ voir ta vie, aussi fanée et qui se penche,\nAgoniser avec ces doux gloxinias.\nOr me cherchant moi-même en cette analogie\nJ'ai passé cette fin de journée à m'aigrir\nPar le spectacle vain et la psychologie\nDouloureuse des fleurs pâles qui vont mourir.\nTriste vase : hôpital, froide alcôve de verre\nQu'un peu de vent, par la fenêtre ouverte, aère\nMais qui les fait mourir plus vite, en spasmes doux,\nLes pauvres fleurs, dans l'eau vaine, qui sont phtisiques,\nRépandant, comme en de brusques accès de toux,\nLeurs corolles sur les tapis mélancoliques.\nDouceur ! Mourir ainsi sans heurts, comme on s'endort,\nCar les fleurs ne sont pas tristes devant la mort,\nEt disparaître avec ce calme crépuscule\nQui d'un jaune rayon à peine s'acidule.",
+      "provisionalTranslation": "IV\n\n私の魂よ、この長く悲しい午後中、\n花束の差し迫った死に苦しんだ！\n花束は私から遠く、隣の部屋にあった──\n私の恐れがそこへ遠ざけたのだ、すでにほとんど感覚がなく、\n水の哀れみの中でまだ一日は救われると思っていた\n萎れていく花の花束──\n紫の縁飾りの雪のグロキシニア、\n部屋の中で光輪を消しつつある花束、\nこの日曜の夕べに銀色を失っていく！\n私の魂よ、あなたは苦しみ、\n萎れて傾いているあなたの命もまた\nこれらの優しいグロキシニアとともに苦悶するのを\n見ることに知恵を絞った。\nさてこの類比の中で自分自身を探しながら\n私は空虚な見世物と、死にゆく蒼い花々の\n痛ましい心理学によって\nこの日の終わりを悔やみながら過ごした。\n悲しい花瓶：病院、ガラスの冷たい閨房──\n開いた窓から少しの風が通気するが\nそれが彼女たちを──虚しい水の中の、\n肺病の哀れな花々を──柔らかなけいれんの中で\nより速く死なせる、憂鬱な絨毯の上に\n急な咳の発作のように花冠を広げながら。\n優しさ！ このように衝突なく、眠るように死ぬこと、\nなぜなら花々は死の前で悲しくないから、\nそして黄色い光線でかろうじて酸っぱくなる\nこの穏やかな薄明とともに消えること。"
+    },
+    {
+      "id": 5,
+      "french": "V\n\nLe miroir est l'amour, l'âme-sœur de la chambre\nOù tout d'elle : le lustre en fleur, les bahuts vieux,\nLa statuette au dos de bronze qui se cambre,\nSe réfléchit en un hymen silencieux.\nCar l'amour n'est-ce pas n'être plus seul et n'est-ce\nPas se doubler par un autre meilleur que soi ?\nOr la chambre se double au fond du miroir coi\nAvec un renouveau de songe et de jeunesse ;\nMais les Choses pourtant entre le cadre d'or\nOnt un air de souffrir de leur vie inactive ;\nLe miroir qui les aime a borné leur essor\nEn un recul de vie exiguë et captive ;\nEt l'amour absorbant et profond du miroir\nAttriste d'infini la chambre, qui se doute\nD'un désaccord entre eux aux approches du soir,\nSentant que le miroir ne la contient pas toute !",
+      "provisionalTranslation": "V\n\n鏡は愛であり、部屋の魂の姉妹──\nそこに部屋のすべてが：花開くシャンデリア、古い収納棚、\n背中を反らす青銅の小像──\n無言の結婚の中で映る。\nなぜなら愛とは、もはや孤独でなく、\n自分よりも優れた他者によって倍加されることではないか？\nさて部屋は静かな鏡の奥で倍加される──\n夢と若さの新しさとともに；\nだが金の額縁の中の物事は\n不活発な命に苦しむ雰囲気を持つ；\n物事を愛する鏡は、その飛翔を\n小さく捕らわれた命の後退に制限した；\n鏡の吸収する深い愛が\n部屋を無限に悲しくする──部屋は夕暮れが近づくと\n二者の間の不和を感じとり、\n鏡が自分全体を包み込まないと感じる！"
+    },
+    {
+      "id": 6,
+      "french": "VI\n\nDans l'angle obscur de la chambre, le piano\nSonge, attendant des mains pâles de fiancée\nDe qui les doigts sont sans reproche et sans anneau,\nDes mains douces par qui sa douleur soit pansée\nEt qui rompent un peu son abandon de veuf,\nCar il refrémirait sous des mains élargies\nPuisqu'en lui dort encor l'espoir d'un bonheur neuf.\nAprès tant de silence, après tant d'élégies\nQue le deuil de l'ébène enferma si longtemps,\nQuelle ivresse si, par un soir doux de printemps,\nQuelque vierge attirée à sa mélancolie\nRessuscitait de lui tous les rythmes latents :\nGerbe de lis blessés que son jeu lent délie ;\nEau pâle du clavier où son geste amusé\n— Rafraîchi comme ayant joué dans une eau claire —\nFerait surgir un blanc cortège apprivoisé,\nCygnes vêtus de clair de lune en scapulaire,\nCygnes de Lohengrin dans l'ivoire nageant !\nHélas ! Le piano reste seul et morose\nEt défaille d'ennui par ce soir affligeant\nOù dans la chambre meurt une suprême rose.\nLa nuit tombe ; le vent fraîchit ; nul n'est venu\nEt, résigné parmi cette ombre qui le noie,\nIl refoule dans le clavier désormais nu\nLes possibilités de musique et de joie !",
+      "provisionalTranslation": "VI\n\n部屋の暗い角で、ピアノが\n夢想する、咎もなく指輪もない指の\n婚約者の蒼い手を待ちながら──\nその痛みを手当てし、\n寡夫の孤独を少し破ってくれる優しい手を。\nなぜなら広げた手の下で再び震えるだろうから──\n新しい幸福への希望がまだその中で眠るから。\nこれほどの沈黙の後、これほどの哀歌の後──\n黒檀の喪がこれほど長く封じ込めた──\nある春の優しい夕暮れに、その憂鬱に\n引き寄せられたある処女が\nすべての潜在するリズムを蘇らせるなら何と陶酔か：\nゆっくりした演奏が解き放つ傷ついた百合の束；\n楽しんだしぐさが──澄んだ水で\n遊んだように爽やかに──白い飼い慣らされた行列を\n生み出すだろうクラヴィアの蒼い水、\n修道服の月光をまとった白鳥、\n象牙の中を泳ぐローエングリンの白鳥を！\nああ！ ピアノは孤独で陰鬱なままで\n部屋で最高のバラが死んでいくこの悲しい夕暮れに\n倦怠で気絶しそうだ。\n夜が落ちる；風が冷える；誰も来なかった、\nそして自分を溺れさせるこの影の中で諦め、\nもはや裸のクラヴィアに押し込める──\n音楽と喜びの可能性を！"
+    },
+    {
+      "id": 7,
+      "french": "VII\n\nLes vitrages de tulle en fleur et de guipures\nPendent sur les carreaux en un blanc nonchaloir ;\nOn y voit des bouquets comme des découpures\nAdhérant sur la vitre au verre déjà noir.\nMais le tulle est si loin, encor qu'il les effleure,\nEt ne s'y mêle pas, en vivant à côté ;\nLes blancheurs des rideaux n'étant au fond qu'un leurre\nQui laisse aux carreaux froids toute leur nudité !\nEt leurs frimas figés, flore artificielle,\nNe font pas oublier aux vitres d'autres soirs\nOù de réelles fleurs naissent des carreaux noirs,\nDes fleurs que la gelée élabore et nielle,\n— Au lieu de ce grésil de linge mensonger —\nSonge de fleurs qui ne leur est plus étranger,\nBlancheurs où leur cristal se sent brusquement vivre,\nRamages incrustés dans le verre, et brodés\nSur les carreaux qui s'en sont tout enguirlandés,\nRideaux incorporés en dentelles de givre !",
+      "provisionalTranslation": "VII\n\n花咲くチュールと金糸細工のカーテンが\nすでに黒いガラスの上で、白い無頓着さとともに垂れる；\n切り紙細工のような花束が\nガラスの上に貼りついて見える。\nだがチュールはこれほど遠く、触れるとしても、\n隣に生きて溶け込まず；\nカーテンの白さは結局ただの見せかけで、\n冷たいガラスに裸さ全体を残す！\nそして固まった霜、人工の植物相は、\n黒いガラスから本物の花が生まれる\n他の夕暮れをガラスに忘れさせない──\n霜が作り込む花──\n──この嘘つきリネンのみぞれの代わりに──\n最早ガラスに異質でない花の夢、\n水晶がくっきりと生き生きと感じる白さ、\nガラスに刻み込まれた葉模様、\n花環を巻いたガラスの上に刺繍されて、\n霜のレースに化体したカーテン！"
+    },
+    {
+      "id": 8,
+      "french": "VIII\n\nL'obscurité, dans les chambres, le soir, est une\nIrréconciliable apporteuse de craintes ;\nEn deuil, s'habillant d'ombre et de linges de lune,\nElle inquiète ; elle a de félines étreintes\nComme une eau des canaux traîtres où l'on se noie\nL'obscurité, c'est la tueuse de la Joie\nQui dépérit, bouquet de roses transitoires,\nQuand elle y verse un peu de ses fioles noires.\nL'obscurité s'installe avec le crépuscule ;\nElle descend dans l'âme aussi qui s'enténèbre ;\nSur le miroir heureux tombe un crêpe funèbre ;\nLa clarté, dirait-on, est blessée et recule\nVers la fenêtre où s'offre un linceul de dentelle.\nL'ombre est un poison noir, d'une douceur mortelle !\nEt voici qu'on frémit d'on ne sait quoi… c'est l'heure\nOù le vol libéré des âmes nous effleure ;\nAh ! Quel trouble ! Et les peurs, les peurs dominatrices\nDans les rideaux des lits agitant des fantômes !\nEt ces sachets du linge aux sensuels arômes !\nEt les lampes, là-bas, rouvrant leurs cicatrices,\nQui vont recommencer à faire saigner l'ombre !\nMais l'ombre se défend contre les lampes frêles,\nÉpaississant dans les angles sa force sombre\n— On écoute les moucherons griller leurs ailes… —\nEt l'on soupçonne, à voir mourir les bestioles,\nQue c'est l'obscurité qui se venge ainsi d'elles\nPour avoir aimé mieux que ses noires fioles\nLe soleil qui revit dans les lampes fidèles !",
+      "provisionalTranslation": "VIII\n\n夕暮れに部屋の中の暗闇は\n和解しがたい恐れの運び手；\n喪に服して、影と月のリネンに身を包み、\n不安を引き起こす；背信的な運河の水のように\n溺れる猫科の抱擁を持つ──\n暗闇は喜びの殺し屋、\n喜びが黒い薬瓶を少し注がれると\n萎れる束の間のバラの花束。\n暗闇は薄明とともに居座る；\nそれは暗くなっていく魂にも降りる；\n幸せな鏡に葬送のクレープが落ちる；\n光は傷つき後退して、言うなら、\nレースの屍衣を広げる窓へと向かう。\n影は死の優しさを持つ黒い毒！\nそして何かわからないもので震える……それは\n解き放たれた魂たちの飛行が私たちをかすめる時刻；\nああ！ 何という乱れ！ そしてベッドのカーテンの中で\n幻霊を揺り動かす恐れ、支配する恐れよ！\nそして官能的な香りのリネンの袋！\nそして向こうの、ランプが傷口を再び開き、\n影を再び出血させ始めようとする！\nだが影は弱いランプに抵抗して、\n角の中に暗い力を厚くする──\n──蚊が翅を焼く音を聞く……──\nそして小動物が死ぬのを見て疑う──\n忠実なランプの中に生き返る太陽より\n暗闇の黒い薬瓶を好んだために\n暗闇がこうして彼女たちに復讐するのではと！"
+    },
+    {
+      "id": 9,
+      "french": "IX\n\nChaque rêve, les soirs de rêve, qu'on formule\nA l'air de s'évader de nous languissamment\nEt de traîner par la chambre comme une bulle\nPortant la part d'azur au fond de nous dormant ;\nGlobes fragiles, or et bleu, boules de verre\nOù tout le luxe clair de la chambre est miré.\nL'une suit l'autre ; l'une est vacillante, elle erre\nAvec une lenteur de flocon expiré ;\nD'autres rôdent d'un air perdu de somnambules,\nAyant peur des rideaux, ayant peur du plafond,\nCar, se heurter un peu, c'est la mort… elles vont !\nLa chambre fait silence et jongle avec ces bulles.\nOr le miroir cruel les attire. Voici\nQu'elles virent dans l'air vers la clarté du piège,\nCroyant l'espace libre en ce cadre transi\nDont le leurre recule un chemin qui s'abrège.\nMais toutes, arrivant près du miroir blafard,\nOù leur illusion voyait une fenêtre\nOuverte à l'infini, sur l'infini peut-être,\nY sentent éclater leur cristal plein de fard…\n— Symboles de la fuite éparse de nos Rêves\nQui vont vite mourir au fond des glaces brèves.",
+      "provisionalTranslation": "IX\n\n夢見る夕暮れに、形成される各々の夢は\n倦怠げに私たちから逃げ出して\n私たちの奥底で眠っている青空の分け前を携えた\nシャボン玉のように部屋を漂うように見える；\n部屋の明るい贅沢全体が映る\n金と青の脆い球体、ガラス玉。\n一つが他の一つに続く；一つは揺れて漂う──\n消えかけた雪の片の遅さで；\n他のものは夢遊病者の迷った雰囲気で彷徨う、\nカーテンを恐れ、天井を恐れながら──\nなぜなら少しの衝突が死だから……それらは行く！\n部屋は沈黙し、これらのシャボン玉を手玉に取る。\nさて残酷な鏡がそれらを引き寄せる。見よ──\nそれらが罠の光に向かって空中で向きを変える、\nその騙しが短くなる道を後退させる\n凍えた額縁の中で空間が自由だと思いながら。\nだが蒼白い鏡の近くに来ると──\nそこで錯覚が無限に開いた窓を、\n無限の上の窓を見た──\n化粧でいっぱいの水晶が砕けるのを感じる……\n──すぐに短い鏡の奥で死にに行く\n私たちの夢のまばらな逃亡の象徴。"
+    },
+    {
+      "id": 10,
+      "french": "X\n\nQuand le soir est tombé dans la chambre quiète\nMélancoliquement, seul le lustre émiette\nSon bruit d'incontenté dans le silence clos.\nLustre toujours vibrant comme un arbre d'échos,\nLustre aux calices fins en verre de Venise\nOù la douleur de la poussière s'éternise,\nMais en gémissements qu'à peine on remarqua,\nGrêles comme un chagrin lointain d'harmonica.\nC'est une panoplie aux cliquetis de verre\nOù l'on entend le bruit blessé qui persévère ;\nC'est un grand reliquaire à l'aspect végétal\nOù d'invisibles pleurs, captifs dans le cristal,\nRoulent en sons mouillés parmi les pendeloques.\nLustre, fontaine blanche aux givres équivoques ;\nLustre, jet d'eau gelé, mais où l'eau souffre encor…\nCe lustre, c'est mon Cœur visible en ce décor\nQui frissonne en sourdine et sans cesse s'afflige,\nJet d'eau fleurdelisé dont la plainte se fige !",
+      "provisionalTranslation": "X\n\n夕暮れが穏やかな部屋に憂鬱げに落ちた時、\nシャンデリアだけが閉じた沈黙の中で\n不満の音を細かく砕く。\n常に響きの木のように振動するシャンデリア、\n埃の痛みが永遠化されるが──\nかろうじて気づかれた呻き声で、\nハーモニカの遠い悲しみのように細い──\nヴェネツィアガラスの繊細な萼のシャンデリア。\nそれはガラスのカチカチという音を持つ武器陳列棚──\n続く傷ついた音が聞こえる；\nそれは植物的な外見の大きな聖遺物箱──\n水晶に捕らわれた見えない涙が\n飾り玉の中で濡れた音として転がる。\nシャンデリア、曖昧な霜の白い噴水；\nシャンデリア、凍った水の噴水、だが水はまだ苦しむ……\nこのシャンデリア、それはこの舞台の中の私の見える心臓──\n弱音で震え、絶えず悲しむ、\nユリの紋の水の噴水──その嘆きが凍る！"
+    },
+    {
+      "id": 11,
+      "french": "XI\n\nLes chambres vraiment sont de vieilles gens\nSachant des secrets, sachant des histoires,\n— Ah ! Quels confidents toujours indulgents ! —\nQu'elles ont cachés dans les vitres noires,\nQu'elles ont cachés au fond des miroirs\nOù leur chute lente est encore en fuite\nEt se continue à travers les soirs,\nChute de secrets dont nul ne s'ébruite !\nLes chambres vraiment sont de bons vieillards\nEt ce sont aussi de bonnes aïeules ;\nEux, rêvent tout bas à d'anciens départs ;\nElles prennent peur quand elles sont seules,\nTriste pour jamais d'avoir vu mourir.\nVoilà la douleur toujours actuelle,\nLa douleur humaine et contre laquelle\nLes chambres en deuil n'ont pu s'aguerrir ;\nSe remémorant encor la minute\nOù jadis telle Âme, à la fin du soir,\nS'envola soudain dans l'air du miroir\nEt depuis ce temps y poursuit sa chute.",
+      "provisionalTranslation": "XI\n\n部屋は本当に老人たち──\n秘密を知り、物語を知る、\n──ああ！ 常に寛大な告白を聞く者！──\n黒いガラスに隠した秘密を、\n鏡の奥に隠した秘密を──\nそこでその緩やかな落下がまだ逃げ続け、\n夕暮れを通して続く、\n誰も漏らさない秘密の落下！\n部屋は本当に善き老人たち──\nそして善き祖母たちでもある；\n男は小声で昔の出発を夢見る；\n女は独りでいる時に恐れ、\n死を見たことで永遠に悲しい。\nそれが常に現在の痛み、\n人間の痛み──それに対して\n喪の部屋は慣れることができなかった；\nかつてある魂が、夕暮れの終わりに、\n突然鏡の空気の中に飛び去り、\nそれ以来そこで落下を続けている\nあの瞬間をまだ思い出しながら。"
+    },
+    {
+      "id": 12,
+      "french": "XII\n\nDans les chambres, comme ils parlent, les vieux portraits\nDont la bouche a gardé des roses d'azalées ;\nComme ils parlent tout bas, malgré leurs yeux distraits\nQui regardent au loin des choses en allées ;\nIls parlent dans le soir d'un air avertisseur\nEt disent d'être doux et d'être bénévoles ;\nIls ont des mots ouatés et blancs de confesseur,\nDes mots tels qu'on en lit au long des banderoles\nPeintes, dans les missels, aux lèvres des élus.\nIls parlent lentement, avec des voix si nulles !\nVoix comme en rêve ; voix en conciliabules,\nS'appareillant avec leurs yeux irrésolus.\nVoix dans l'absence ; voix tristes qui semblent veuves ;\nVoix dans l'éloignement et qu'on dirait venir\nD'au de la des jardins et d'au de la des fleuves…\nAh ! Ces voix des portraits quand le jour va finir !\nPortraits d'aïeux, portraits d'aïeules ingénues\nQue nous aimons un peu sans les avoir connues ;\nPortraits anciens, portraits d'il y a si longtemps,\nAvec qui nous causions souvent dans le silence\nQuand l'ombre s'épandait en noirs tulles flottants,\n— Posthumes entretiens où l'âme se fiance !\nTelle aïeule surtout en blanc déshabillé\nDe linge suranné dont le fichu se croise\nQui souriait, la bouche encore un peu narquoise,\nMais de qui le sourire avait l'air effeuillé !",
+      "provisionalTranslation": "XII\n\n部屋の中で、古い肖像画たちは何と語ることか──\nアザレアのバラを口に保った肖像画が；\n去っていった物事を遠くに見る\n上の空の目にもかかわらず、何と小声で語ることか；\n告知する雰囲気で夕暮れに語り──\n柔和に、善意をもって在れと言う；\n聴罪司祭の綿のように白い言葉を持つ、\n祈祷書の中で選ばれた者の唇に\n描かれた吹き流しに沿って読まれるような言葉を。\nゆっくり語る、これほど無の声で！\n夢の中のような声；内緒話の声──\n決断しかねる目と対になる。\n不在の声；寡婦のようで悲しい声；\n庭々の彼方から、川々の彼方から\n来るように思われる、遠くの中の声……\nああ！ 日が終わろうとする時の肖像画の声よ！\n私たちが少し愛するが知らない祖先の肖像画、\n純朴な祖母たちの肖像画；\n古い肖像画、こんなにも昔の肖像画──\n影が黒い浮かぶチュールに広がる時、\n沈黙の中でしばしば話した肖像画──\n──魂が婚約する死後の語らい！\nとりわけある祖母、交差するショールを持つ\n時代遅れのリネンの白い部屋着で──\nまだ少し皮肉な口で微笑んでいたが\nその微笑みは散ってしまったように見えた！"
+    },
+    {
+      "id": 13,
+      "french": "XIII\n\nQuand on rentre chez soi, délivré de la rue,\nAux fins d'automne où, gris cendré, le soir descend\nAvec une langueur qu'il n'a pas encore eue,\nLa chambre vous accueille alors tel qu'un absent…\nUn absent cher, depuis longtemps séparé d'elle,\nDont le visage aimé dormait dans le miroir ;\nÔ chambre délaissée, ô chambre maternelle\nQui, toute seule, eût des tristesses de parloir.\nMais pour l'enfant prodigue elle n'a que louanges…\nL'ombre remue au long des murs silencieux :\nC'est le soir nouveau-né qui bouge dans ses langes ;\nLes lampes doucement s'ouvrent comme des yeux,\nComme les yeux de la chambre, pleins de reproche\nPour celui qui chercha dehors un bonheur vain ;\nEt les plis des rideaux, qu'un frisson lent rapproche,\nSemblent parler entre eux de l'absent qui revint.\n⁂\nLa chambre fait accueil ; et le miroir lucide\nPour l'absent qui s'y mire, est soudain devenu\nSon portrait — grâce à quoi lui-même il élucide\nTant de choses sur son visage mieux connu,\nDes choses de son âme obscure qui s'avère\nDans ce visage à la dérive où transparaît\nSon identité vraie au fil nu du portrait,\nPastel qui dort dans le miroir comme sous verre !",
+      "provisionalTranslation": "XIII\n\n秋の終わりに、灰色の夕暮れが──\nまだかつてなかった倦怠とともに降りる時、\n通りから解放されて家に戻ると、\n部屋は不在者のように迎える……\n鏡に愛しい顔が眠っていた\n大切な不在者、長い間彼女から離れていた；\nああ捨てられた部屋よ、母性的な部屋よ──\n一人きりで、応接室の悲しさを持っていた。\nだが放蕩息子のために部屋は褒め言葉しか持たない……\n沈黙した壁に沿って影が動く：\nそれは産まれたばかりの夜が産着の中で動いている；\nランプが目のように優しく開く──\n外で虚しい幸福を探した者への\n非難に満ちた部屋の目のように；\nそして緩やかな震えで近づくカーテンの折り目が\n戻ってきた不在者について互いに語るようだ。\n⁂\n部屋は歓迎する；そして明晰な鏡が\n自分を映す不在者にとって突然\n肖像画になった──そのおかげで彼自身が\nより良く知られた顔について多くのことを解明する、\n表れている魂の暗い物事を──\n素描の裸の縁に透けて見える\n真のアイデンティティが漂う顔の中で、\nガラスの下で眠るように鏡に眠るパステル画！"
+    },
+    {
+      "id": 14,
+      "french": "XIV\n\nDans l'air fraîchi, venant d'où, déclose comment ?\nVers moi, par la fenêtre ouverte, une musique\nDéferle à petites vagues si tristement.\nElle me fait à l'âme un mal presque physique.\nConfuse comme un songe… est-ce d'un piano,\nEst-ce d'un violon méconnu qui s'afflige\nOu d'une voix humaine en élans comme une eau\nD'un jet d'eau qui s'effeuille en larmes sur sa tige.\nAh ! La musique triste en route dans le soir,\nQui voyage en fumée, en rubans, qui sinue\nEn forme de ruisseaux pauvres dans l'ombre nue,\nEt trace de muets signes sur le ciel noir\nOù l'on peut suivre et lire un peu sa destinée\nDont les lignes du son tracent la preuve innée,\nChiromancie éparse, oracle instrumental !\nPuis s'embrouille dans l'air la musique en partance,\nÉteignant peu à peu ses plaintes de cristal\nQu'on s'obstine à poursuivre aux confins du silence.",
+      "provisionalTranslation": "XIV\n\n冷えた空気の中、どこから、どのように咲いて？\n私に向かって、開いた窓から、一つの音楽が\nこれほど悲しく小さな波で押し寄せる。\nそれは魂にほとんど肉体的な痛みを与える。\n夢のように曖昧……それはピアノから？\n苦悶する知られないヴァイオリンから？\nそれとも茎の上に涙で散る噴水の水のような\n高まりの中の人間の声から？\nああ！ 夕暮れを旅する悲しい音楽──\n煙の中、リボンの中を旅し、裸の影の中で\n貧しい小川の形をして蛇行し、\n黒い空に無言の記号を描く──\nそこで、音の線が先天的な証拠を描く\n運命をいくらか追って読める、\nまばらな手相占い、器楽的な神託！\nそして出発する音楽が空気の中で絡まる、\n次第に水晶の嘆きを消しながら──\n沈黙の境界まで執拗に追い続ける嘆きを。"
+    },
+    {
+      "id": 15,
+      "french": "XV\n\nSongeur, dans de beaux rêves t'absorbant,\nLa pendule, à l'heure où seul tu médites,\nT'afflige avec ses bruits froids, stalactites\nDu temps qui s'égoutte et pleure en tombant.\nC'est une eau qui filtre en petites chutes\nEt soudain se glace aux parois du cœur ;\nEt cela produit toute une langueur\nL'émiettement de l'heure en minutes.\nCollier monotone et désenfilé\nDe qui chaque perle est pareille et noire,\nRoulant parmi la chambre sans mémoire ;\nPiqûres du temps ; tic-tac faufilé.\nAh ! qu'elle s'arrête un peu, la pendule !\nToujours l'araignée invisible court\nDans le grand silence, avec un bruit sourd…\nEt ce qu'elle mord, et nous inocule !\nLa peur que demain soit comme aujourd'hui,\nQue l'heure jamais ne sonne autre chose :\nUn destin réglé dans la chambre close ;\nUn peu plus de sable au désert d'ennui.",
+      "provisionalTranslation": "XV\n\n夢想者よ、美しい夢に没頭しながら、\n一人で瞑想する時刻に、時計が\n落ちながら滴って泣く時間の\n冷たい音──鍾乳石──で苦しませる。\nそれは小さな滝で滴る水で\n突然心臓の壁で凍る；\nそして時間が分へと細かく砕けることが\n倦怠全体を引き起こす。\n記憶なく部屋を転がる、\n各々の珠が同じで黒い、\n単調でほどけた首飾り；\n時の刺し傷；縫い合わされたカチカチ。\nああ！ 少し止まれ、時計よ！\n常に見えない蜘蛛が大いなる沈黙の中を\n鈍い音で走り……\nそして噛み、私たちに接種するもの！\n明日が今日のようである恐れ、\n時刻が決して他のものを鳴らさない恐れ：\n閉じた部屋の中の調整された運命；\n倦怠の砂漠にもう少しの砂。"
+    },
+    {
+      "id": 16,
+      "french": "XVI\n\nOn aura beau s'abstraire en de calmes maisons,\nCouvrir les murs de bon silence aux pâles ganses,\nLa vie impérieuse, habile aux manigances,\nA des tapotements de doigts sur les cloisons.\nDans des chambres sans bruit on aura beau s'enclore,\nOn aura beau vouloir, comme je le voulais,\nQue le miroir pensif soit de nacre incolore,\nUn peu de clarté filtre à travers les volets.\nEt l'on entend toujours la plainte de la Vie !\nCar, malgré notre vœu d'exil, nous nous créons\nUne âme solidaire et qui s'identifie\nAvec la rue en pleurs dans les accordéons.\nEt peut-on empêcher ses vitres sous la pluie\nD'être comme un visage exsangue, couronné\nPar des épines d'eau que le vent obstiné\nTresse parmi le verre en pleurs, que nul n'essuie !\nVitres pâles, sur qui les rideaux s'échancrant\nSont cause que toujours la Vie est regardée ;\nVitres : cloison lucide et transparent écran\nOù la pluie est encor de la douleur dardée.\nVitres frêles, toujours complices du dehors,\nOù même la musique, au loin, qui persévère,\nSe blesse en traversant le mensonge du verre\nEt m'apporte sanglants ses rythmes presque morts !\nAinsi la vie encor par les carreaux m'obsède,\nCar toutes les douleurs sans nom qu'on oubliait :\nLes cloches, le feuillage — éternel inquiet —\nLa pluie, et jusqu'au cri d'une fleur qui décède,\nTout cela qui gémit parmi le soir tombé\nAttire mon esprit dans les vitres, doux piège\nOù les larmes, les glas, les rayons morts, la neige\nSe mêlent dans le verre à l'azur absorbé.",
+      "provisionalTranslation": "XVI\n\n穏やかな家に引きこもっても無駄、\n蒼い縁飾りの良い沈黙で壁を覆っても──\n策略に長けた横柄な命が\n隔壁を指でトントン叩く。\n音のない部屋に閉じこもっても無駄、\n私が望んでいたように、物思わしい鏡が\n無色の真珠母貝であることを望んでも──\n少しの光が鎧戸を通って滴る。\nそして命の嘆きは常に聞こえる！\nなぜなら追放の誓いにもかかわらず、私たちは\nアコーデオンの中で泣く通りと\n同一化する連帯した魂を作り出すから。\nそして雨の下のガラスが──\n誰も拭かない涙の中で執拗な風が\nガラスの中に編み込む水の茨で冠をかぶった、\n血の気のない顔のようになるのを防げるか！\n蒼いガラス──カーテンが切れ込み\n命が常に見られる原因となるガラス；\nガラス：明晰な仕切り、透明な画面──\nそこで雨がまだ痛みを突き刺す。\n外の共犯者、常にいる脆いガラス──\nそこで遠くで続く音楽さえも\nガラスの嘘を横断して傷つき、\nほとんど死んだリズムを血まみれで私にもたらす！\nこうして命はまだガラスを通して私に取りついく、\nなぜなら忘れていたすべての名のない痛みが：\n鐘、葉──永遠に落ち着かない──\n雨、そして死んでいく花の叫びまで、\n落ちた夕暮れの中で呻くそれらすべてが\n私の精神をガラスに引き込む、優しい罠──\nそこで涙、弔いの鐘、死んだ光線、雪が\n吸収された青空とともにガラスの中で混ざり合う。"
+    },
+    {
+      "id": 17,
+      "french": "XVII\n\nLes chambres, dans le soir, meurent réellement :\nLes persiennes sont des paupières se fermant\nSur les yeux des carreaux pâles où tout se brouille ;\nChaque fauteuil est un prêtre qui s'agenouille\nPour l'entrée en surplis d'une Extrême-Onction ;\nLa pendule dévide avec monotonie\nLes instants brefs de son rosaire d'agonie ;\nEt la glace encore claire offre une Assomption\nOù l'on devine, au fond de l'ombre, un envol d'âme\nQuotidienne détresse ! Âme blanche du jour\nQui nous quitte et nous laisse orphelins de sa flamme !\nCar chaque soir cette douleur est de retour\nDe la mort du soleil en adieu sur nos tempes\nEt de l'obscurité de crêpe sur nos mains.\nÔ chambres en grand deuil où jusqu'aux lendemains\nNous consolons nos yeux avec du clair de lampes !",
+      "provisionalTranslation": "XVII\n\n夕暮れに部屋は本当に死ぬ：\nブラインドは閉じるまぶた──\nすべてがぼやける蒼いガラスの目の上で；\n各々の肘掛け椅子は、末期の塗油の\n白衣での入場のために跪く聖職者；\n時計は単調に苦悶の数珠の\n短い瞬間をほぐす；\nそしてまだ明るい鏡は聖母被昇天を提供し──\nそこで影の奥に魂の飛翔が感じられる。\n日々の苦悩よ！ 炎の孤児に私たちを残して\n去っていく日の白い魂よ！\nなぜなら各々の夕暮れにこの痛みが戻るから──\n私たちのこめかみでの別れの中の太陽の死と\n私たちの手の上のクレープの暗さ。\nああ、翌日まで私たちがランプの光で\n目を慰める深い喪の中の部屋よ！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "XVII章・約342行。アレクサンドラン（12音節）基調。ただしXI章（8音節のオクタシラブ基調）とXV章（8〜10音節混合）のみ変則的な短い詩節形式を採用──これらの章では時計・老人といった「小刻みなもの」を表現する際に詩形自体が変化する：XI章「秘密の落下（Chute de secrets）」とXV章「時計のカチカチ（tic-tac faufilé）」は詩形の収縮で時間の細分化を模倣する。全体構造：部屋の魂（I）→慰め（II）→夢の停泊（III）→花束（IV）→鏡（V）→ピアノ（VI）→カーテン（VII）→闇（VIII）→夢のシャボン玉（IX）→シャンデリア（X）→記憶（XI）→肖像画（XII）→帰宅（XIII）→音楽（XIV）→時計（XV）→窓ガラス（XVI）→部屋の死（XVII）。出典：Wikisource PDF直接照合済み。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Leur rêve d'Ophélie au miroir d'eau dormante !",
+      "body": "「眠る水の鏡でのオフェリアの夢（Leur rêve d'Ophélie au miroir d'eau dormante !）」──シェイクスピア「ハムレット」のオフェリアへの参照（「Paysages de Ville」V章でも「L'eau s'en vint d'elle-même au-devant d'Ophélie」として登場）。ローデンバックにとってオフェリアは「水鏡に映る女性的・受動的な美」と「水への自己放棄」の複合象徴：部屋は鏡という「水」の中にオフェリアのように夢を浮かべる。「Le Cœur de l'Eau」のモチーフと連続：水＝鏡＝オフェリア＝沈黙の部屋。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Sensitive de verre à qui le bruit fait mal.",
+      "body": "「物音が痛いガラスのオジギソウ（Sensitive de verre à qui le bruit fait mal）」──シャンデリアをオジギソウ（タッチミーノット）に喩える。オジギソウは触れると葉を閉じる植物：物音に反応してガラスの枝を縮めるシャンデリアが植物的な感受性を持つ存在として提示される。「Du silence」I章の「Le bruit me fait mal（物音が痛い）」との言語的・主題的連続：病気の女性→部屋→シャンデリアと「物音が痛い」主体が連鎖する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dans le profond miroir, comme en un canal mort ;",
+      "body": "「深い鏡の中で、死んだ運河の中のように（Dans le profond miroir, comme en un canal mort）」──III章の核心句。「Paysages de Ville」XV章の「Moi, dont la vie aussi n'est qu'un grand canal mort（私の命もまた一本の大きな死んだ運河）」と完全に対応する：部屋の鏡＝死んだ運河という等価関係が「夢の停泊」という航海的比喩の中で確立される。「帆を畳んだ（s'est cargué）」「星の航跡（des sillages d'étoiles）」という船の語彙──夢・魂が帆船として鏡・運河に停泊する統一的な詩的宇宙観。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Cygnes de Lohengrin dans l'ivoire nageant !",
+      "body": "「象牙の中を泳ぐローエングリンの白鳥（Cygnes de Lohengrin dans l'ivoire nageant !）」──「Paysages de Ville」II章の「Conduisant le songeur comme un Lohengrin vierge（純潔なローエングリンのように夢想者を導く）」と対応するワーグナー参照。ここでは「ピアノのクラヴィア（象牙鍵盤）」が「運河の水」の等価として提示され、白鳥が鍵盤の上を泳ぐという視覚的比喩が生まれる：ピアノの音楽＝白鳥の行列という共感覚的転換。VI章全体が「孤独に待機するピアノ」を「寡夫（veuf）」として擬人化する独特の詩的戦略を取る。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Mais toutes, arrivant près du miroir blafard,\nOù leur illusion voyait une fenêtre\nOuverte à l'infini, sur l'infini peut-être,\nY sentent éclater leur cristal plein de fard…",
+      "body": "「蒼白い鏡の近くに来ると、錯覚が無限に開いた窓を見たそこで水晶が砕ける（Mais toutes, arrivant près du miroir blafard, / Où leur illusion voyait une fenêtre / Ouverte à l'infini, sur l'infini peut-être, / Y sentent éclater leur cristal plein de fard）」──IX章のクライマックス。夢のシャボン玉が鏡を「無限に開いた窓」と錯覚して飛び込み、砕ける：鏡は「解放への出口」ではなく「閉じた罠」であることが明示される。これはローデンバックの鏡詩学の核心命題──鏡は「開放の幻想」を与えながら「閉じ込める愛」を提供する（V章「sentant que le miroir ne la contient pas toute」との対話）。「Symboles de la fuite éparse de nos Rêves（私たちの夢のまばらな逃亡の象徴）」──詩人の明示的な寓意解釈。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "Ce lustre, c'est mon Cœur visible en ce décor\nQui frissonne en sourdine et sans cesse s'afflige,\nJet d'eau fleurdelisé dont la plainte se fige !",
+      "body": "「このシャンデリア、それはこの舞台の中の私の見える心臓（Ce lustre, c'est mon Cœur visible en ce décor）」──X章の最終3行。詩人が初めて「部屋のオブジェ＝詩人の心臓」を明示的に同一化する瞬間。「Le Cœur de l'Eau（水の心臓）」という詩集タイトルとの照応：「水の心臓」は運河の水だが、「部屋の心臓」はシャンデリア──「凍った水の噴水（Lustre, jet d'eau gelé）」というX章の比喩がこの同一化を準備する。「弱音で震え（frissonne en sourdine）」──「Du silence」I章のカーテンの「弱音（sourdines）」と同一語彙：沈黙の詩学の語彙的連続。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "Les chambres, dans le soir, meurent réellement :",
+      "body": "「夕暮れに部屋は本当に死ぬ（Les chambres, dans le soir, meurent réellement）」──XVII章・最終章の開幕句。「La ville est morte, morte, irréparablement（街は死んでいる、死んでいる、取り返しなく）」（「Du silence」XXV章）と「Les chambres, dans le soir, meurent réellement」──両詩の最終章が同一の動詞「mourir」で死を宣言する構造的対応。XVII章は部屋の死を典礼的に描く：「まぶた（paupières）」「跪く聖職者（prêtre qui s'agenouille）」「末期の塗油（Extrême-Onction）」「苦悶の数珠（rosaire d'agonie）」「聖母被昇天（Assomption）」──カトリック的な臨終の典礼が部屋の夕暮れに重ねられる。詩集全体の終局：「街が死ぬ→部屋が死ぬ→詩人は翌日までランプの光で慰める」という循環的な喪の構造。"
+    }
+  ]
+}
