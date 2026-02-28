@@ -1,0 +1,77 @@
+{
+  "id": "valery_orphee",
+  "title": "Orphée",
+  "author": "Paul Valéry",
+  "source": "Album de vers anciens, 1920; Wikisource fr.wikisource.org/wiki/Album_de_vers_anciens/Orphée. 複数ソース照合：Wikisource Pibewiki/Valéry所収テキスト（Œuvres de Paul Valéry, Vol.3, N.R.F., 1933）",
+  "year": "1920",
+  "firstPublication": "La Conque, 1891 (初出誌); Album de vers anciens, 1920 (詩集初収録)",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『旧詩帖（Album de vers anciens）』（1920）所収のソネット。アレクサンドラン（12音節）14行、変形ソネット。1891年に詩誌『La Conque』に初掲載、ヴァレリー20歳の作。詩の主題は「詩人の歌（リラ）による石の秩序化・神殿建設」：「私は精神の中でオルフェウスを作り上げる（Je compose en esprit… Orphée）」という詩人の語りで始まり、オルフェウスの竪琴が石を動かし神殿を建てる神話的光景を描く。「岩が歩み、つまずく（Le roc marche, et trébuche）」「魔法の石が感じる（chaque pierre fée / Se sent）」──詩的言語によって物質が秩序づけられる詩学的比喩。最終2行「黄金の中で自ら集い秩序立てる（soi-même il s'assemble et s'ordonne dans l'or）」「リラの上の偉大な賛歌の広大な魂に（À l'âme immense du grand hymne sur la lyre）」──詩（賛歌）が宇宙的な秩序の原理として作用することを宣言する。『L'Amateur de poèmes』の「人工的思考」という詩定義と対となる、神話的・象徴的形式での詩学宣言。",
+  "keywords": ["オルフェウス", "リラ", "石", "神殿", "神話", "詩人", "秩序", "黄金", "賛歌", "建築"],
+  "relatedTexts": [
+    "valery_l_amateur_de_poemes",
+    "mallarme_crise_de_vers",
+    "hofmannsthal_ballade"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Je compose en esprit, sous les myrtes, Orphée\nL'Admirable !... le feu, des cirques purs descend ;\nIl change le mont chauve en auguste trophée\nD'où s'exhale d'un dieu l'acte retentissant.",
+      "provisionalTranslation": "私は精神の中で、ミルテの木々の下に、オルフェウスを作り上げる──\n比類なき者を！……火が、純粋な円形劇場から降る；\nそれは禿げた山を荘厳な戦勝碑へと変える──\nそこから一人の神の響き渡る行為が立ち昇る。"
+    },
+    {
+      "id": 2,
+      "french": "Si le dieu chante, il rompt le site tout-puissant ;\nLe soleil voit l'horreur du mouvement des pierres ;\nUne plainte inouïe appelle éblouissants\nLes hauts murs d'or harmonieux d'un sanctuaire.",
+      "provisionalTranslation": "神が歌えば、全能の場を破る；\n太陽は石々の動きの恐怖を目撃する；\n聞いたことのない嘆きが、目を眩ませる\n聖域の調和した黄金の高い壁を呼び集める。"
+    },
+    {
+      "id": 3,
+      "french": "Il chante, assis au bord du ciel splendide, Orphée !\nLe roc marche, et trébuche ; et chaque pierre fée\nSe sent un poids nouveau qui vers l'azur délire !",
+      "provisionalTranslation": "彼は歌う、壮麗な空の縁に座して、オルフェウスが！\n岩は歩み、つまずく；そして魔法をかけられた各々の石が\n青空へと向かって錯乱する新しい重さを感じる！"
+    },
+    {
+      "id": 4,
+      "french": "D'un Temple à demi nu le soir baigne l'essor,\nEt soi-même il s'assemble et s'ordonne dans l'or\nÀ l'âme immense du grand hymne sur la lyre !",
+      "provisionalTranslation": "半ば裸の神殿の飛翔を夕暮れが浸す、\nそして神殿は黄金の中で自ら集い、自ら秩序立つ──\nリラの上の偉大な賛歌の広大な魂へ向かって！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "変形ソネット、アレクサンドラン（12音節）14行。韻律構造：ABAB（第1四行詩）/ ABCB（第2四行詩、変形）/ CCB（第1三行詩）/ DDB（第2三行詩）──厳密なソネット形式から逸脱した「自由なソネット」。1891年、ヴァレリー20歳の作。段落構成：段落1=第1四行詩（詩人の作曲とオルフェウス召喚）、段落2=第2四行詩（神の歌と石の運動）、段落3=第1三行詩（オルフェウスの歌と石の錯乱）、段落4=第2三行詩（神殿の完成・黄金・賛歌）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je compose en esprit, sous les myrtes, Orphée",
+      "body": "「私は精神の中で、ミルテの木々の下に、オルフェウスを作り上げる（Je compose en esprit, sous les myrtes, Orphée）」──冒頭句。「精神の中で（en esprit）」は「想像の中で」にとどまらず、ヴァレリー的な「知性による構成（composition intellectuelle）」を指す──詩人が神話的オルフェウスを知的作業によって「作る（composer）」という二重性：詩人＝オルフェウス、詩的作業＝神話的行為。「ミルテ（myrtes）」は古代ギリシャで詩人・愛・死者に奉献される植物。「L'Amateur de poèmes」の「je pense par artifice（人工的に思考する）」と対をなす、神話的形式での「詩人像」の提示。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Les hauts murs d'or harmonieux d'un sanctuaire.",
+      "body": "「聖域の調和した黄金の高い壁（Les hauts murs d'or harmonieux d'un sanctuaire）」───詩（音楽）の建築的力の核心像。「調和した（harmonieux）」：ハーモニア（harmonia）はギリシャ語で「連結・接合」を意味し、建築と音楽の共通根──石を「調和によって」組み上げる詩的言語の建築的力。「黄金（d'or）」：最終連の「dans l'or（黄金の中で）」への伏線、詩的完成の色彩。マラルメ「詩の危機」の「詩は言語の建築」という命題との対話。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le roc marche, et trébuche ; et chaque pierre fée\nSe sent un poids nouveau qui vers l'azur délire !",
+      "body": "「岩は歩み、つまずく；そして魔法をかけられた各々の石が青空へと向かって錯乱する新しい重さを感じる（Le roc marche, et trébuche ; et chaque pierre fée / Se sent un poids nouveau qui vers l'azur délire !）」──ソネットの詩的頂点。「歩み、つまずく（marche, et trébuche）」：石は「人間のように」歩くが完全には制御されない──詩的言語の力は絶対的ではなく物質性との拮抗を含む。「vers l'azur délire（青空へと向かって錯乱する）」：マラルメ「L'Azur」の「青空（azur）」＝理想・純粋性への錯乱的上昇──物質（石）が精神（青空）へと向かう垂直運動。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "soi-même il s'assemble et s'ordonne dans l'or\nÀ l'âme immense du grand hymne sur la lyre !",
+      "body": "「神殿は黄金の中で自ら集い、自ら秩序立つ──リラの上の偉大な賛歌の広大な魂へ（soi-même il s'assemble et s'ordonne dans l'or / À l'âme immense du grand hymne sur la lyre !）」──結語。「自ら（soi-même）」：詩人の意図を超えて神殿が「自律的に」秩序立つ──「L'Amateur de poèmes」の「意図された欠落（lacunes calculées）」という設計された自律性と対応する。「賛歌（hymne）」：ギリシャ語 humnos（歌・詩）の原型、リラ伴奏の詩歌──アポロン賛歌・オルペウス讃歌との連続。「L'Amateur de poèmes」の散文詩的詩定義と「Orphée」の神話的詩形、詩集内で詩学の二面を担う対の関係。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "body": "オルフェウス（オルペウス）神話：ギリシャ神話の詩人・竪琴奏者。音楽が石・木・動物を動かし、冥府のハデスとペルセポネをも感動させたと伝えられる。主典拠：オウィディウス「変身物語」X巻・XI巻、ウィルギリウス「農耕詩」IV巻、「オルペウス讃歌」。ヴァレリーの詩は神話の「石を動かす力」に着目し、詩的言語の建築的・秩序化力として再解釈する──「詩人＝建築家としてのオルフェウス」という象徴主義以降の典型的な詩人像。"
+    }
+  ]
+}
