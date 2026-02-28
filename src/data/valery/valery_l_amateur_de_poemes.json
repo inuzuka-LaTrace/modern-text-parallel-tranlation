@@ -1,0 +1,81 @@
+{
+  "id": "valery_l_amateur_de_poemes",
+  "title": "L'Amateur de poèmes",
+  "author": "Paul Valéry",
+  "source": "Album de vers anciens, Gallimard (Poésie/Gallimard, ISBN 9782070302826). 複数ソース照合：Gallimard公式サイト・librairie-gallimard.com・sauramps.com・halldulivre.com・Wikisource目次・ebooks-bnr.com（定本テキスト一致確認）",
+  "year": "1920",
+  "firstPublication": "Album de vers anciens, Les Cahiers des amis du livre (Adrienne Monnier), 1920. 改訂増補版 Éditions de la N.R.F., 1926. Gallimard, Poésie/Gallimard 定本収録。",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『旧詩帖（Album de vers anciens）』の掉尾を飾る散文詩。詩集全体の詩学的宣言として機能する。全3段落。第1段落：自然な「内的言語」の欠点──由来も宛先もなく、非一貫的で、文体を欠く──を批判する。第2段落：詩的読書の能力が「いつもあるわけではない」という条件付け。第3段落：詩（ポエム）の定義──「持続する時間（une durée）」「準備された法則（une loi qui fut préparée）」「沈黙との和解」「驚きさえも設計の中に（Même mes étonnements sont assurés）」、そして「人工的思考（je pense par artifice）」「意図された欠落（lacunes calculées）」「奇妙なほど完成された思考（une pensée singulièrement achevée）」。ヴァレリーの詩学の核心命題を最も凝縮した形で提示するテキスト。マラルメの「暗示の詩学」を継承しながら、より明示的に「人工性・計算・確実性」を肯定する象徴主義後期の詩学的転換を示す。",
+  "keywords": ["詩学", "内的言語", "人工的思考", "沈黙", "持続", "計算", "文体", "確実性", "lacunes calculées"],
+  "relatedTexts": [
+    "valery_orphee",
+    "mallarme_crise_de_vers",
+    "mallarme_musique_lettres",
+    "baudelaire_romantisme_complet"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "SI je regarde tout à coup ma véritable pensée, je ne me console pas de devoir subir cette parole intérieure sans personne et sans origine ; ces figures éphémères ; et cette infinité d'entreprises interrompues par leur propre facilité, qui se transforment l'une dans l'autre, sans que rien ne change avec elles. Incohérente sans le paraître, nulle instantanément comme elle est spontanée, la pensée, par sa nature, manque de style.",
+      "provisionalTranslation": "突然自分の真の思考を見つめると、私はこれを被らなければならないことを慰める術がない──由来も宛先もないこの内的言語；これらの束の間の形象たち；そして自らの容易さによって中断される無数の企て──それらは互いに変容し合いながら、しかしそれらとともに何も変わらない。一見非一貫的に見えないまま非一貫的で、自発的であるとともに即座に無に帰す思考は、その本性によって、文体を欠く。"
+    },
+    {
+      "id": 2,
+      "french": "MAIS je n'ai pas tous les jours la puissance de proposer à mon attention quelques êtres nécessaires, ni de feindre les obstacles spirituels qui formeraient une apparence de commencement, de plénitude et de fin, au lieu de mon insupportable fuite.",
+      "provisionalTranslation": "だが私は毎日、いくつかの必要な存在を私の注意に提示する力を持つわけではなく、私の耐えがたい逃走の代わりに、始まりと、充満と、終わりの外見を形成するであろう精神的障害を偽る力を持つわけでもない。"
+    },
+    {
+      "id": 3,
+      "french": "UN poème est une durée, pendant laquelle, lecteur, je respire une loi qui fut préparée ; je donne mon souffle et les machines de ma voix ; ou seulement leur pouvoir, qui se concilie avec le silence. Même mes étonnements sont assurés : ils sont cachés d'avance, et font partie du nombre. MU par l'écriture fatale, et si le mètre toujours futur enchaîne sans retour ma mémoire, je ressens chaque parole dans toute sa force, pour l'avoir indéfiniment attendue. Cette mesure qui me transporte et que je colore, me garde du vrai et du faux. Ni le doute ne me divise, ni la raison ne me travaille. Nul hasard, mais une chance extraordinaire se fortifie. Je trouve sans effort le langage de ce bonheur ; et je pense par artifice, une pensée toute certaine, merveilleusement prévoyante, — aux lacunes calculées, sans ténèbres involontaires, dont le mouvement me commande et la quantité me comble : une pensée singulièrement achevée.",
+      "provisionalTranslation": "詩（ポエム）は一つの持続する時間である──その間、読者よ、私はかつて準備された法則を呼吸する；私は息と声の機械を与える；あるいはただその力のみを──それは私を沈黙と和解させる。私の驚きさえも保証されている：それらはあらかじめ隠されていて、数の中に組み込まれている。宿命的な書字によって動かされ、常に未来にある韻律が引き返しなく私の記憶を繋ぐなら、私は各々の言葉をその力の全体において感じる──それを無限に待ち続けてきたがゆえに。私を運び私が色づける、このリズムが私を真と偽から守る。懐疑が私を分裂させることもなく、理性が私を苦しめることもない。偶然ではなく、ある並外れた幸運が強化される。私はこの幸福の言語を労なく見出す；そして私は人工的に思考する──完全に確実な、驚くほど先見的な、意図された欠落を持ち、意図されざる暗闇を持たない思考を──その運動が私に命じ、その量が私を満たす：奇妙なほど完成された思考を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "cette parole intérieure sans personne et sans origine",
+      "body": "「由来も宛先もない内的言語（parole intérieure sans personne et sans origine）」──ヴァレリーが批判する「自然な思考」の定義。「内的言語（parole intérieure）」は19世紀末の心理学（テーヌ、リボー）が研究した「内声的思考」。「由来なし（sans origine）」──自発性の否定：詩的言語は意図的に設計される。「宛先なし（sans personne）」──コミュニケーション不全：詩的言語はつねに誰かに向けられるものであるべき。第3段落「宿命的な書字（écriture fatale）」「準備された法則（loi qui fut préparée）」との対比。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "la pensée, par sa nature, manque de style.",
+      "body": "「思考は、その本性によって、文体を欠く（la pensée, par sa nature, manque de style）」──第1段落の帰結命題。「文体（style）」はヴァレリーにとって詩的言語の固有性。自然な思考は「非一貫的・束の間・未完了」であり文体を持てない。詩はこの「文体のなさ」を克服する人工的構造物。第3段落「人工的に思考する（je pense par artifice）」の布石。ゴーティエ「芸術のための芸術」・ボードレール「美の人工性」の伝統に接続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "feindre les obstacles spirituels",
+      "body": "「精神的障害を偽る（feindre les obstacles spirituels）」──第2段落の核心句。詩を読む行為は「障害を受け入れる」こと──韻律・形式・制約という「人工的障害」に身を委ねること。「feindre（偽る・演じる）」：詩の「人工性」が「偽装・演技」として明示される。「始まりと充満と終わり（commencement, plénitude et fin）の外見（apparence）」──詩は有機的完全性の幻想を作り出す人工物。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "UN poème est une durée",
+      "body": "「詩は一つの持続する時間である（UN poème est une durée）」──ヴァレリーの詩定義の最も凝縮した表現。「持続（durée）」はベルクソン哲学の中心概念（『意識に直接与えられたものについての試論』1889）。ヴァレリーはベルクソン的「自然な持続」を「準備された法則を呼吸する（je respire une loi qui fut préparée）」という人工的に設計された持続体験へと詩的に変換する。「呼吸（respire）」という生理的語彙が人工的設計の「内面化・身体化」を示す。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Même mes étonnements sont assurés : ils sont cachés d'avance, et font partie du nombre.",
+      "body": "「私の驚きさえも保証されている：それらはあらかじめ隠されていて、数の中に組み込まれている（Même mes étonnements sont assurés : ils sont cachés d'avance, et font partie du nombre）」──Gallimard定本に確認される句（「qui se concilie avec le silence」の直後）。詩的読書における「驚き」さえも詩の設計の一部であるという逆説。「数（nombre）」はフランス語で「韻律・リズム」をも意味する（ラテン語 numerus 由来）：「驚きが韻律に組み込まれている」という詩学的命題。ヴァレリーの最も過激な主張：「偶然も驚きも設計の内側にある」。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "je pense par artifice, une pensée toute certaine, merveilleusement prévoyante, — aux lacunes calculées, sans ténèbres involontaires",
+      "body": "「私は人工的に思考する──完全に確実な、驚くほど先見的な、意図された欠落を持ち、意図されざる暗闇を持たない思考を（je pense par artifice, — aux lacunes calculées, sans ténèbres involontaires）」──ヴァレリーの詩学的プログラムの最も明快な宣言。「人工的（par artifice）」：詩は霊感・自発性の対立項として人工物と定義される。「意図された欠落（lacunes calculées）」：省略・余白・暗示は偶然ではなく設計──マラルメの「暗示（suggestion）」論の知性主義的言い換え。「意図されざる暗闇なし（sans ténèbres involontaires）」：詩の難解さは設計された暗示であって偶然の不透明さではない。「奇妙なほど完成された思考（une pensée singulièrement achevée）」：singulièrement は「奇妙なほど」かつ「類を見ないほど」──完成と奇異の同時性。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "マラルメ「詩の危機（Crise de vers）」との対話。マラルメが「詩人の声の廃棄・詩の自律的発語・暗示」を主張するのに対し、ヴァレリーは「読者が準備された法則を呼吸する」という読者中心の詩体験として定義し直す。「意図された欠落（lacunes calculées）」はマラルメの「暗示（suggestion）」の知性主義的言い換え：両者ともに「語られないもの・省略」を詩学の中心に置くが、ヴァレリーはより明示的に「計算・人工性」として肯定する──ロマン主義的「霊感」の詩学との決定的断絶。"
+    }
+  ]
+}
