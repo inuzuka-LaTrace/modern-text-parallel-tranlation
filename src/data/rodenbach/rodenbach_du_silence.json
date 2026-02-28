@@ -1,0 +1,208 @@
+{
+  "id": "rodenbach_du_silence",
+  "title": "Du silence",
+  "author": "Georges Rodenbach",
+  "source": "Le Règne du silence, Bibliothèque-Charpentier, 1901 (Wikisource: fr.wikisource.org/wiki/Le_Règne_du_silence/Du_silence)",
+  "year": "1891",
+  "firstPublication": "Le Règne du silence, Bibliothèque-Charpentier, 1891 (初版)",
+  "difficulty": "上級",
+  "category": "rodenbach",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★",
+  "context": "ジョルジュ・ローデンバック（1855-1898）の詩集『沈黙の王国（Le Règne du silence）』（1891）の巻頭詩群に位置する長詩「Du silence（沈黙について）」。XXV章・446行からなり、詩集の主題宣言的な位置を占める。「沈黙」を多様な様態において描写する──病者の部屋（I）・夕暮れの恋人たち（II）・夢想に沈む夜の室内（III）・白いカーテンの記憶（IV）・鏡の中の死者（V）・室内に漂う消えかけた音楽（VI）・死んだ街のホテルの部屋（VII）・時計の鐘（VIII）・日曜日の街（IX）・通りの音楽（X）・沈黙を「魂の姉妹」と呼ぶ（XI）・月光とホスチア（XII）・悲嘆の心の池（XIII）・秋の公園（XIV）・雪（XV）・月（XVI）・郊外の夕暮れ（XVII）・鐘（XVIII）・死んだ街の白鳥（XIX）・煙（XX）・閉じた貴族邸（XXI）・運河（XXII）・フランドルの古い小都市（XXIII）・鐘楼の朝の音（XXIV）・死んだ街（XXV）。ブリュージュをはじめとするフランドルの「死んだ街」の風景と沈黙の詩学が全編を貫く。ヴァン・レルベルグの「沈黙（Silence）」やマラルメの「沈黙の詩学」との比較で読める。",
+  "keywords": ["沈黙", "フランドル", "死んだ街", "ブリュージュ", "運河", "鐘", "白鳥", "雪", "鏡", "室内"],
+  "relatedTexts": [
+    "rodenbach_coeur_de_leau",
+    "vanlerberghe_solitude",
+    "mallarme_herodiade_scene",
+    "trakl_ein_winterabend"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "I\n\nSilence : c'est la voix qui se traîne, un peu lasse,\nDe la dame de mon silence, à très doux pas\nEffeuillant les lis blancs de son teint dans la glace ;\nConvalescente à peine, et qui voit tout là-bas\nLes arbres, les passants, des ponts, une rivière\nOù cheminent de grands nuages de lumière,\nMais qui, trop faible encore, est prise tout à coup\nD'un ennui de la vie et comme d'un dégoût\nEt, — plus subtile, étant malade, — mi-brisée,\nDit : « Le bruit me fait mal ; qu'on ferme la croisée… »",
+      "provisionalTranslation": "I\n\n沈黙：それはわずかに疲れて引きずる声──\nごく優しい足取りで、私の沈黙の女主人の声、\n鏡の中に白い肌の百合を散らしながら；\nかろうじて回復期にあり、遠くに見える\n木々、通行人、橋々、一本の川──\n光の大きな雲が歩いていく──\nだがまだ弱すぎて、突然とらわれる\n生への倦怠と嫌悪のようなものに\nそして──病んでいるがゆえにいっそう繊細に──半ば打ち砕かれて、\n言う：「物音が痛い；窓を閉めてください……」"
+    },
+    {
+      "id": 2,
+      "french": "II\n\nDouceur du soir ! Douceur de la chambre sans lampe !\nLe crépuscule est doux comme une bonne mort\nEt l'ombre lentement qui s'insinue et rampe\nSe déroule en fumée au plafond. Tout s'endort.\nComme une bonne mort sourit le crépuscule\nEt dans le miroir terne, en un geste d'adieu,\nIl semble doucement que soi-même on recule,\nQu'on s'en aille plus pâle et qu'on y meure un peu.\nSur les tableaux pendus aux murs, dans la mémoire\nOù sont les souvenirs en leurs cadres déteints,\nPaysages de l'âme et paysages peints,\nOn croit sentir tomber comme une neige noire.\nDouceur du soir ! Douceur qui fait qu'on s'habitue\nÀ la sourdine, aux sons de viole assoupis ;\nL'amant entend songer l'amante qui s'est tue\nEt leurs yeux sont ensemble aux dessins du tapis.\nEt langoureusement la clarté se retire ;\nDouceur ! Ne plus se voir distincts ! N'être plus qu'un !\nSilence ! Deux senteurs en un même parfum :\nPenser la même chose et ne pas se le dire.",
+      "provisionalTranslation": "II\n\n夕暮れの優しさ！ 灯りのない部屋の優しさ！\n薄明は良い死のように優しく\nゆっくりと忍び込んでくる影は\n天井に煙のように広がる。すべてが眠る。\n良い死のように薄明は微笑み\n錆びた鏡の中で、別れのしぐさのように、\n柔らかく自分自身が後退するように思われ、\nより蒼ざめて去っていき、そこで少し死ぬようだ。\n壁に掛かった絵画の上、記憶の中──\n色褪せた額縁の中の思い出──\n魂の風景と描かれた風景、\n黒い雪が落ちるように感じられる。\n夕暮れの優しさ！ 弱音に、\n眠れるヴィオラの音に慣れさせる優しさ；\n恋人は沈黙した愛人が夢想しているのを聞き\n二つの目は共にカーペットの模様に注がれる。\n倦怠げに光は退く；\n優しさ！ もはや互いに別々に見えないこと！ ただ一つになること！\n沈黙！ 一つの香りの中の二つの香り：\n同じことを考えてそれを言わないこと。"
+    },
+    {
+      "id": 3,
+      "french": "III\n\nSilence de la chambre assoupie et gagnée\nPar de l'ombre qui tend ses toiles d'araignée\nDans les angles, obscurs les premiers, où l'essor\nDes rêves va finir son vol de mouches d'or !\nSilence où toute l'âme assombrie est encline\nÀ se sentir de plus en plus comme orpheline,\nToute seule parmi le soir endolori\nÀ revoir son passé comme un tombeau fleuri.\nEt le songeur muet resonge à son enfance\nQui s'écoule et qui fond dans cet obscur silence\nDont la vague se mêle à son plus vague ennui.\nIl entre dans du noir et du noir entre en lui\nEt la sensation lui vient, douce et suprême,\nDe changer peu à peu tout en restant lui-même\nDouceur de ce silence et de ne plus savoir\nS'analyser et d'être à ce point qu'on croit voir\nDes fils d'ombre dans la chambre de sa mémoire\nDescendre et se confondre en une tache noire\nComme la toile d'une araignée où l'essor\nDes songes va finir son vol de mouches d'or\nEt tout s'éteint ! Plus de rêve qui se dévide !\nDouceur ! Penser du vague et regarder du vide !",
+      "provisionalTranslation": "III\n\nまどろむ部屋の沈黙──影に占領された部屋、\n影は最初に暗くなる角々に\n蜘蛛の巣を張り、そこで夢の飛翔は\n黄金のハエの飛行を終える！\n暗く沈んだ魂がますます\n孤児のように感じる傾向にある沈黙、\n痛む夕暮れの中でたった一人、\n花の咲いた墓のように過去を見直す。\nそして黙した夢想者は幼年時代を再び夢想する、\nその幼年時代がこの暗い沈黙の中に\n流れ出て溶けていき、その波が最も曖昧な倦怠に混ざる。\n彼は暗闇に入り、暗闇が彼に入り\n感覚が来る、柔らかく至高の感覚──\n自分自身のままでいながら少しずつ変わっていく感覚。\nこの沈黙の優しさ、自己分析することを\nもはや知らず、記憶の部屋に\n影の糸が降りて黒い染みに溶け合うのが\n見えるほどになっているという優しさ──\n夢想が黄金のハエの飛行を終える\n蜘蛛の巣のように。\nすべてが消える！ 夢はもうほぐれない！\n優しさ！ 曖昧なことを考え、虚無を眺めること！"
+    },
+    {
+      "id": 4,
+      "french": "IV\n\nSeuls les rideaux, tandis que la chambre est obscure,\nTout brodés, restent blancs, d'un blanc mat qui figure\nUn printemps blanc parmi l'hiver de la maison.\nSur les vitres, ce sont des fleurs de guérison\nPareilles dans le soir à ces palmes de givre\nQue sur les carreaux froids les nuits d'hiver font vivre.\nEt dans ces floraisons de guipure on croit voir\nTous les souvenirs blancs parmi le présent noir ;\nCe sont les rideaux clairs du berceau ; c'est la bonne\nAïeule aux cheveux blancs en bandeaux de madone ;\nCe sont les grands jardins d'enfance où les pommiers\nÉtaient poudrés ; ce sont les cierges coutumiers\nEt les nappes d'autel pour les communiantes ;\nC'est l'hostie aux lys purs de leurs lèvres priantes ;\nPuis c'est le clair de lune épars comme du lait\nDans la forêt magique où l'art nous appelait\nParmi sa gloire et ses blancheurs éternisées !\nPuis la guirlande en fleur au front des épousées\nDont l'espoir doux se fane irréparablement\nParmi cette blancheur vaporeuse qui ment.\nCar le leurre est rapide en cette ombre équivoque,\nEt tous les autres blancs du passé qu'on évoque\nVont se faner avec les souvenirs d'amour\nQuand descendra dans les rideaux la mort du jour.",
+      "provisionalTranslation": "IV\n\n部屋が暗い間、カーテンだけが、\nすべて刺繍され、白いまま残る、家の冬の中で\n白い春を模した艶消しの白で。\n窓ガラスに映るのは回復の花々──\n冬の夜が冷たいガラスに生かす\n霜のシュロに夕暮れの中で似た花々。\nそしてこの金糸細工の開花の中に見える気がする\n黒い現在の中のすべての白い思い出；\nそれは揺りかごの明るいカーテン；それは\nマドンナの髪飾りのように白髪を結った優しい祖母；\nそれはリンゴの木が粉をまぶしていた\n幼年時代の大きな庭；それは習慣の蝋燭\nそして初聖体の少女たちのための祭壇のテーブルクロス；\nそれは祈る唇の純粋な百合のホスチア；\nそしてミルクのように散らばる月光──\n芸術が私たちを呼んでいた魔法の森の中、\nその栄光と永遠化された白さの中で！\nそして花嫁たちの額に咲く花の花環──\nその柔らかな希望が取り返しのなく萎える\nこの嘘をつく蒸気の白さの中で。\nなぜなら錯覚はこの曖昧な影の中で速く、\n人が喚起する過去のすべての他の白は\n愛の思い出と共に萎れていく\n日の死がカーテンに降りる時。"
+    },
+    {
+      "id": 5,
+      "french": "V\n\nLes miroirs, par les jours abrégés des décembres,\nSongent-telles des eaux captives-dans les chambres,\nEt leur mélancolie a pour causes lointaines\nTant de visages doux fanés dans ces fontaines\nQui s'y voyaient naguère, embellis du sourire !\nEt voilà maintenant, quand soi-même on s'y mire,\nQu'on croit y retrouver l'une après l'autre et seules\nCes figures de sœurs défuntes et d'aïeules\nEt qu'on croit, se penchant sur la claire surface,\nY baiser leurs fronts morts, demeurés dans la glace !",
+      "provisionalTranslation": "V\n\n十二月の短い日々に、鏡は──\n捕らわれた水のように──部屋の中で夢想する、\nその憂鬱には遠い原因があり、\nかつてこの泉に映り微笑みで美しくなって\n見えていた多くの柔らかな顔が萎れた。\nそして今、自分が映る時、\n亡くなった姉妹たちと祖母たちの面影を\n一人一人、孤独に見出すように思われ、\n清らかな水面に身を乗り出して\n鏡の中に留まったその死んだ額に口づけするように思われる！"
+    },
+    {
+      "id": 6,
+      "french": "VI\n\nIl flotte une musique éteinte en de certaines\nChambres, une musique aux tristesses lointaines\nQui s'apparie à la couleur des meubles vieux…\nMusique d'ariette en dentelle et fumée,\nAriette d'antan qu'on aurait exhumée,\nInformulée encore, et qu'on cherche des yeux :\nRythmes se renouant, musique qui tâtonne,\nLe vieil air se dégage un peu, se nuançant\nGrâce au pianotement de la pluie, en automne,\nSur les vitres ; et l'air, changé comme un absent.\nRéapparaît soudain en des grâces fluettes ;\nPuis peu à peu précis, on retrouve ses traits\nEt tout l'air passe encor dans les chambres muettes\nOh ! Musique rapprise aux lèvres des portraits !",
+      "provisionalTranslation": "VI\n\nある部屋々に消えた音楽が漂う、\n古い家具の色合いに似合う\n遠い悲しみの音楽……\nレースと煙のアリエットの音楽、\n発掘したであろう昔のアリエット、\nまだ形になっておらず、目で探す：\n繋がり直すリズム、手探りする音楽、\n古い曲が少し浮かび上がり、秋に\n窓ガラスをたたく雨のピアニズムのおかげで\n微妙に変化し；その曲は、不在者のように変わって、\n突然か細い優美さの中に再び現れる；\nそして次第に明確になり、その面影を取り戻す\nそして曲全体がまた無言の部屋を過ぎる──\nああ！ 肖像画の唇に再び習われた音楽よ！"
+    },
+    {
+      "id": 7,
+      "french": "VII\n\nLa chambre avait un air mortuaire et fermé\nDans cette hôtellerie, en une ville morte,\nOù nous avons vécu, ce divin soir de mai !\nSilencieusement se referma la porte,\nComme en peine de voir entrer notre bonheur.\nEt nous allions à pas étouffés, pris de peur,\nComme on entre dans la chambre d'une malade…\nIl flottait quelque chose encor d'une odeur fade\nD'anciens bouquets mêlés jadis à des baisers\nEt maintenant défunts en d'invisibles verres.\nEt les sombres rideaux aux plis éternisés\nEt les meubles d'un luxe âgé, froids et sévères,\nGardaient sur eux de la poussière en flocons noirs\nQui parmi l'autrefois des étoffes fanées\nMélancoliquement, depuis tant de longs soirs,\nAvaient neigé du lent sablier des années !\nChambre étrange : on eût dit qu'elle avait un secret\nD'une chose très stricte et dont elle était lasse\nD'avoir vu le mystère en fuite dans la glace !…\nCar notre amour faisait du mal à son regret.\nEt même lorsque avec des mains presque dévotes\nTu vins frôler le vieux clavecin endormi,\nCe fut un chant si pâle et si dolent parmi\nLa solitude offerte au réveil des gavottes\nQue tu tremblas comme au contact d'un clavier mort.\nEt muets, nous sentions, dans cette chambre étrange\nAvec qui notre joie était en désaccord,\nL'hostilité d'un grand silence qu'on dérange !",
+      "provisionalTranslation": "VII\n\n部屋は葬儀的で閉じた雰囲気を持っていた\nあの宿の中、死んだ街の中──\n私たちが生きた、あの神聖な五月の夕暮れに！\nドアは静かに閉まった、\nまるで私たちの幸福が入ってくるのを見て悲しむように。\n私たちは恐れにとらわれ、忍び足で進んだ、\n病人の部屋に入るように……\nまだ何か薄い香りが漂っていた──\nかつて口づけに混じっていた古い花束の香りが\n今は見えないグラスの中で死んでいた。\nそして永遠化された折り目の暗いカーテンと\n年老いた贅沢の、冷たく厳しい家具は\n黒い雪の塊の埃をその上に留め、\n褪せた布地の昔の中で\n憂鬱に、長い多くの夕べの間、\n年月のゆっくりした砂時計から雪が降っていた！\n奇妙な部屋：厳格な何かの秘密を持ち、\n鏡の中に逃げていく謎を見ることに\n疲れていたかのように！……\nなぜなら私たちの愛がその後悔を傷つけたから。\nそしてほとんど信心深い手で\n古い眠れるチェンバロをそっと触れに来た時でさえ、\nガボットの目覚めに捧げられた孤独の中で\n歌はこれほど蒼く悲しかった\n死んだ鍵盤に触れたように震えた。\nそして無言で、私たちは感じた、この奇妙な部屋の中で──\n私たちの喜びと不協和だった部屋──\n乱された大いなる沈黙の敵意を！"
+    },
+    {
+      "id": 8,
+      "french": "VIII\n\nDans le silence et dans le soir de la maison\nA retenti le carillon de la pendule.\nOn ne sait si joyeux ou triste, un air ondule :\nTantôt le chapelet de l'heure en oraison ;\nPuis ce semble un oiseau si peu viable et frêle\nQui se baigne et qui joue avec des perles d'eau ;\nPuis du verre qui pleut mêlé de fer qui grêle ;\nÉtincelles de bruit sous un vague marteau,\nMusique d'une noce au retour, clopinante\nQui monte un escalier tournant, et disparaît ;\nBruit de verres choqués, cristal qui se lamente,\nGrelots de la folie-oh ! Valses, vin clairet,\nCarnaval fatigué de danses enragées\nQui s'en revient vidé d'argent et de raison\nEt qui laisse dégringoler dans la maison\nSes derniers confetti, des sous et des dragées.",
+      "provisionalTranslation": "VIII\n\n家の沈黙と夕暮れの中、\n置き時計のカリヨンが鳴り響いた。\n喜ばしいのか悲しいのかわからず、一つの曲が揺れる：\nある時は祈祷の中の時の数珠；\n次いでこれほど生命力がなく繊細な鳥のようで\n水の珠と遊び水浴びする；\n次は雨のように降るガラスと霰のような鉄が混じる；\n曖昧な槌の下の音の火花、\n帰り道の結婚式の音楽──跛行しながら\n螺旋階段を上り、消える；\n打ち合わせたグラスの音、嘆くクリスタル、\n狂気の鈴──ああ！ ワルツ、淡いワイン、\n熱狂した踊りに疲れた仮面舞踏会が\n金も理性も空にして戻り、\n家の中に転がり落とす\n最後の紙吹雪、小銭と砂糖菓子を。"
+    },
+    {
+      "id": 9,
+      "french": "IX\n\nLes dimanches : tant de tristesse et tant de cloches !\nVolets fermés, outils au repos, piano\nGrêlement tapoté par des doigts sans anneau,\nDes doigts de vierges dont les cœurs sont sans reproches.\nSolitude où quelques passants ; vêpres qui geint ;\nCouleur de demi-deuil planant sur les dimanches,\nAvec de la fumée en lentes vapeurs blanches\nEt du triste dans l'air comme un jour de toussaint.\nSilence des quartiers monotones. L'espace\nEst indistinct, d'un vague où tout semble éloigné ;\nEt l'on entend, tandis que le soir a saigné,\nLes lointains cris d'enfants en oubli de la classe.\nSois-même, dans la rue, on regrette les bons\nNaguères parmi la maison familiale\nEt son enfance et l'âme en ce temps liliale\nEt la tiède chaleur de lampe et de charbons.\nLes dimanches : tant de tristesses ! Tant de cloches\nVers le faubourg où la lenteur des pas conduit…\nUne lanterne en ce commencement de nuit\nS'éclaire doucement comme un œil qui reproche.\nL'horizon noir ressemble à des linceuls cousus…\nPuis voici qu'un second réverbère s'allume\nTriste, si triste au loin, clignotant dans la brume,\nTous deux, — comme les yeux d'enfants qu'on n'a pas eus.",
+      "provisionalTranslation": "IX\n\n日曜日：これほどの悲しさとこれほどの鐘！\n閉じた鎧戸、休む道具、ピアノ──\n指輪のない指によって細かく叩かれ、\n心に咎のない処女の指で。\n数人の通行人がいる孤独；うめく晩課；\n日曜日の上に漂う準喪服の色、\n緩やかな白い蒸気の煙とともに\nそして万聖節のような悲しさが空気の中に。\n単調な街区の沈黙。空間は\n不明瞭で、すべてが遠く見えるぼんやりとした曖昧さ；\n夕暮れが出血した間、聞こえる、\n授業を忘れた子供たちの遠い叫び声。\n通りにいても、かつての良き日々──\n家族の家の中の昔──が恋しく、\n幼年時代と、当時の百合のような魂と、\nランプと炭の温かな熱が恋しい。\n日曜日：これほどの悲しさ！ これほどの鐘──\n歩みの遅さが向かう郊外へと……\n夜の始まりのこの時刻に一つのランタンが\n咎める目のように優しく光る。\n黒い地平線は縫い合わされた屍衣に似る……\nそして二番目のガス燈が灯る──\n悲しく、遠くに、霧の中で瞬く、\n二つとも──産まれなかった子どもたちの目のように。"
+    },
+    {
+      "id": 10,
+      "french": "X\n\nMusiques de la rue : accordéons\nQu'une chanson amoureuse commente,\nRythme indistinct auquel nous suppléons,\nQui du meilleur de nous rit et s'augmente ;\nClairons de cuivre au-devant des soldats,\nProcessions, chants des catéchumènes,\nMarche guerrière ou psaumes presque bas\nPsalmodiés par des lèvres amènes ;\nToute la joie éparse dans le bruit :\nAccords lointains qui traversent les vitres\nDe notre âme, violons dans la nuit,\nTambours mêlés aux boniments des pitres,\nFête des sons ! Ivresse des crincrins !…\nPourtant rien n'est plus triste, rien ne glace\nQuand on fléchit pour sa part de chagrins\nQue d'entendre la musique qui passe.",
+      "provisionalTranslation": "X\n\n通りの音楽：アコーデオン──\n恋の歌がコメントをつけ、\n私たちが補う不明瞭なリズム、\n私たちの最良の部分から笑い大きくなる；\n兵士たちの前の銅のクラリオン、\n行列、洗礼志願者たちの歌、\n愛想の良い唇によって\n詠唱される戦いの行進曲やほとんど低い詩篇；\n騒音の中に散らばるすべての喜び：\n魂の窓ガラスを通り抜ける\n遠い和音、夜のヴァイオリン、\n道化師の客引きに混じる太鼓、\n音の祭り！ バイオリンの陶酔！……\nしかし悲しみの分け前に屈する時、\n何もこれほど悲しくなく、何も凍りつかせない──\n通り過ぎる音楽を聞くこと以上に。"
+    },
+    {
+      "id": 11,
+      "french": "XI\n\nAh ! Vous êtes mes sœurs, les âmes qui vivez\nDans ce doux nonchaloir des rêves mi-rêvés\nParmi l'isolement léthargique des villes\nQui somnolent au long des rivières débiles ;\nÂmes dont le silence est une piété,\nÂmes à qui le bruit fait mal ; dont l'amour n'aime\nQue ce qui pouvait être et n'aura pas été ;\nMystiques réfectés d'hostie et de saint chrême ;\nSolitaires de qui la jeunesse rêva\nUn départ fabuleux vers quelque ville immense,\nDont le songe à présent sur l'eau pâle s'en va,\nL'eau pâle qui s'allonge en chemins de silence…\nEt vous êtes mes sœurs, âmes des bons reclus\nEt novices du ciel chez les visitandines,\nÂmes comme des fleurs et comme des sourdines\nAutour de qui vont s'enroulant les angélus\nComme autour des rouets la douceur de la laine !\nEt vous aussi, mes sœurs, vous qui n'êtes en peine\nQue d'un long chapelet bénit à dépêcher\nEn un doux béguinage à l'ombre d'un clocher,\nOh ! Vous, mes sœurs, — car c'est ce cher nom que l'église\nM'enseigne à vous donner, sœurs pleines de douceurs,\nDans ce halo de linge où le front s'angélise,\nOh ! Vous qui m'êtes plus que pour d'autres des sœurs\nChastes dans votre robe à plis qui se balance,\nÔ vous mes sœurs en notre mère, le silence !",
+      "provisionalTranslation": "XI\n\nああ！ あなたたちは私の姉妹──半ば夢見た夢の\n柔らかな無関心の中に生きる魂たちよ、\n弱々しい川沿いにうとうとする\n街の無気力な孤立の中で；\n沈黙が敬虔さである魂たち、\n物音が痛い魂たち；その愛が\nあり得たがあり得なかったものだけを愛す；\nホスチアと聖香油で養われた神秘家たち；\n若さがある巨大な街への\n素晴らしい旅立ちを夢見た孤独者たち、\nその夢が今は蒼い水の上を去り、\n沈黙の道に伸びる蒼い水の上を……\nそしてあなたたちも私の姉妹──善き隠者の魂、\nビジタンディーヌ修道院の天の初修道者、\n花のような弱音器のような魂──\n周りにアンジェルスが巻きついていく、\n糸車の周りに羊毛の優しさが巻きつくように！\nそしてあなたたちも、私の姉妹よ──鐘楼の影で\n穏やかなベギン会において\n祝福された長い数珠を繰ることだけを心配している人たち、\nああ！ あなたたち、私の姉妹よ──それが教会が\n教えてくれるあなたたちへの愛しい名──優しさ満ちた姉妹たちよ、\n額が天使化するこのリネンの後光の中で、\nああ！ 他の人たちにとって以上に私の姉妹であるあなたたち──\nその揺れる折り目のあるドレスの中で貞淑な、\nああ、私たちの母、沈黙の中の姉妹たちよ！"
+    },
+    {
+      "id": 12,
+      "french": "XII\n\nL'hostie est comme un clair de lune dans l'église.\nOr les songeurs errants et les extasiés\nQui vont par les jardins où dans une ombre grise\nDes papillons fripés meurent sur les rosiers,\nCeux que la nuit pieuse a pour catéchumènes\nRegardant l'astre à la chevelure d'argent\nPeu à peu croient y voir un sourire indulgent,\nUn visage d'aïeule et des lèvres humaines !\nOr l'hostie est un clair de lune au fond du chœur !\nEt tandis que l'encens azure le silence\nEt que l'orgue au jubé déroule sa langueur,\nQu'à peine un encensoir mollement se balance,\nTous les benoîts chrétiens dans l'hostie ont cru voir,\n— Comme un visage dans la lune qui se lève, —\nLa face aux cheveux d'or d'un doux jésus qui rêve\nEt qui se rend visible à ses amis du soir !",
+      "provisionalTranslation": "XII\n\nホスチアは教会の中の月光のよう。\nさてバラ園の灰色の影の中で\nしわくちゃの蝶が死ぬ庭を歩む\n彷徨う夢想者と法悦者たち──\n敬虔な夜が洗礼志願者として持つ者たち──\n銀の髪の星を眺めて\n次第に寛大な微笑を見出すと思い、\n祖母の顔と人間の唇を！\nさてホスチアは聖歌隊席の奥の月光！\n乳香が沈黙を青く染め、\nジュベのオルガンが倦怠を広げ、\n乳香炉が柔らかく揺れる間、\nすべての敬虔なキリスト者たちはホスチアの中に見ると信じた──\n昇る月の中の顔のように──\n夢見る優しいイエスの金の髪の顔、\n夕暮れの友人たちに姿を現すイエスを！"
+    },
+    {
+      "id": 13,
+      "french": "XIII\n\nDans l'étang d'un grand cœur quand la douleur s'épanche\nComme du soir, et met un tain d'ombre et de nuit\nSous la surface en fleur de cette eau longtemps blanche\nQui, durant le soleil et le bonheur enfui,\nN'avait rien reflété que le songe des rives,\nAlors l'étang du cœur se colore soudain\nD'un mirage agrandi dans le noir des eaux vives\nArbres longs et mouillés d'un nocturne jardin,\nMaisons se décalquant, étoiles délayées.\nTout se précise et se nuance maintenant\nDans ces routes de l'eau que le soir a frayées.\nEt la douleur qui fait de l'âme un lac stagnant\nLa remplit de lueurs et de nobles pensées\nQui sont comme, dans l'eau, les branches balancées ;\nEt la remplit aussi de grands rêves qui sont\nComme, dans l'eau, les tours se mirant jusqu'au fond.\nOr parmi cette eau morte et pourtant animée\nSurnage ton visage, ô toi, l'unique aimée !\nEt ton visage blanc dans la lune sourit,\nLa lune de profil, la lune émaciée\n— Ô la visionnaire, et la suppliciée ! —\nQui douloureusement dans l'eau froide périt ;\nCar la douleur accrue éteint tous les mirages\nEt des cygnes, nageant vers la face au halo,\nLes cygnes noirs du désespoir, durs et sauvages,\nInexorablement la déchirent dans l'eau !",
+      "provisionalTranslation": "XIII\n\n大きな心の池の中で悲嘆が\n夕暮れのように広がり、長く白かった水の\n花咲く水面の下に影と夜の錫箔を置く時──\n逃げた太陽と幸福の間、\n岸辺の夢しか映していなかった水──\nすると心の池は突然色づく\n生き生きした水の黒の中で大きくなった蜃気楼で：\n夜の庭の長く濡れた木々、\n映り込む家々、滲んだ星。\nすべてが今、夕暮れが切り開いた\n水の道の中で明確になり微妙に変化する。\nそして魂を停滞した湖にする悲嘆が\n魂を光と崇高な思想で満たす──\n水の中の揺れる枝のように；\nそして水の中に底まで映る塔のような\n大きな夢でも満たす。\nさてこの死んでいながら生き生きとした水の中に\n浮かぶ、おお唯一愛しい人よ、あなたの顔が！\nそして月の中のあなたの白い顔は微笑む、\n横顔の月、やつれた月──\nああ、幻視者、苦しめられた者！──\n痛ましく冷たい水の中で消えていく；\nなぜなら増した悲嘆はすべての蜃気楼を消し、\n後光の顔に向かって泳ぐ白鳥たちが──\n絶望の黒い白鳥、固く野蛮な──\n容赦なく水の中でその顔を引き裂くから！"
+    },
+    {
+      "id": 14,
+      "french": "XIV\n\nChagrin d'être un sans gloire qui chemine\nDans le grand parc d'octobre délabré,\nChagrin encor de s'être remembré\nLe printemps vert que le vent dissémine,\nLe vent qui pleure, au loin, comme un tambour\nBattant l'appel des anciennes années…\nEt l'on se sent, dans l'exil du faubourg,\nLes yeux aussi pleins de choses fanées.\nEt, bien qu'en la jeunesse encore-on croit\nQue son printemps a presque un air d'automne,\nAvec l'ennui d'un jet d'eau monotone\nDont la chanson, comme un amour, décroît.\nEt, triste à voir le vent froid qui balance\nDes fils de la vierge fins et frileux,\nOn s'imagine en ce parc de silence\nQue ces fils blancs entrent dans les cheveux.",
+      "provisionalTranslation": "XIV\n\n荒れた十月の大きな公園を歩む\n栄光なき者であることの悲しさ、\nさらに風が散らす\n緑の春を思い出した悲しさ、\n遠くで古い年々の呼び出しを\n打つ太鼓のように泣く風……\nそして郊外の追放の中で感じる──\n目もまた萎れたものでいっぱいだと。\nそして、まだ若さの中にあっても──思う、\nその春がほとんど秋の雰囲気だと、\n愛のように衰える歌を持つ\n単調な噴水の倦怠とともに。\nそして細く肌寒い聖母の糸を\n揺らす冷たい風を見るのが悲しく、\nこの沈黙の公園で想像する──\nこれらの白い糸が髪に入っていくと。"
+    },
+    {
+      "id": 15,
+      "french": "XV\n\nÔ neige, toi la douce endormeuse des bruits\nSi douce, toi la sœur pensive du silence,\nÔ toi l'immaculée en manteau d'indolence\nQui gardes ta pâleur même à travers les nuits,\nDouce ! Tu les éteins et tu les atténues\nLes tumultes épars, les contours, les rumeurs ;\nÔ neige vacillante, on dirait que tu meurs\nLoin, tout au loin, dans le vague des avenues !\nEt tu meurs d'une mort comme nous l'invoquons,\nUne mort blanche et lente et pieuse et sereine,\nUne mort pardonnée et dont le calme égrène\nUn chapelet de ouate, un rosaire en flocons.\nEt c'est la fin : le ciel sous de funèbres toiles\nEst trépassé ; voici qu'il croule en flocons lents,\nLe ciel croule ; mon cœur se remplit d'astres blancs\nEt mon cœur est un grand cimetière d'étoiles !",
+      "provisionalTranslation": "XV\n\nああ雪よ、あなたは物音の優しい眠らせ者──\nこれほど優しく、あなたは沈黙の物思わしい姉妹、\nああ無垢なるもの、怠惰の外套をまとい\n夜々の中でさえ蒼白さを保つ、\n優しく！ あなたはそれらを消し和らげる──\n散らばった騒乱、輪郭、噂々を；\nああ揺れる雪よ、遠く、大通りの曖昧さの中で\nあなたは死んでいくようだ！\nそしてあなたは私たちが望むような死を死ぬ、\n白く緩やかで敬虔で穏やかな死、\n許された死──その静寂が\n綿の数珠、雪の片の連祷を繰る。\nそしてこれが終わり：喪服の幕の下で空は\n息を引き取り；見よ、ゆっくりした雪の片で崩れていく、\n空は崩れる；私の心は白い星々で満ち、\n私の心は星々の大きな墓地だ！"
+    },
+    {
+      "id": 16,
+      "french": "XVI\n\nLa lune dans le ciel nocturne s'étalait\nComme un sein chaste et nu, sein de bonne nourrice\nTendu pour les songeurs de qui c'est le caprice\nDe boire sa clarté blanche comme du lait.\nEt c'est assez pour me nourrir. De quoi me plains-je ?\nSurtout que je m'endors sur ce grand sein les soirs\nDe tristesses et de recommencements noirs…\nEt le ciel tout autour a des fraîcheurs de linge.",
+      "provisionalTranslation": "XVI\n\n月は夜の空に広がっていた──\n貞淑で裸の乳房のように、良い乳母の乳房──\nその白い乳のような光を飲むことを\n気ままに望む夢想者たちのために差し伸べられた。\nそしてそれで私を養うに足りる。何を嘆くのか？\n特に悲しさと暗い始まり直しの\n夕暮れにその大きな乳房の上で眠る時……\nそして周りの空はリネンの涼しさを持つ。"
+    },
+    {
+      "id": 17,
+      "french": "XVII\n\nÀ l'heure délicate où comme de l'encens\nLe jour se décompose en molles vapeurs bleues,\nVa dans l'abandon noir des quartiers finissants,\nVa donc, ô toi dont l'âme est la sœur des banlieues,\nToi dont l'âme est morose et souffre au moindre bruit,\nÀ travers le faubourg, comme au hasard construit,\nLe faubourg où la ville agonise et s'achève\nDans du brouillard, dans de l'eau morte et dans du rêve…\nEt vois ! Tout au lointain parmi des fonds aigris\nS'allumer droitement la ligne des lanternes\nMettant leur ganse jaune au long des chemins gris.\nOh ! Lanternes debout sur les horizons ternes !\nSurvivance de la lumière dans le soir,\nSurvivance de la jeunesse dans la vie !\nCes lueurs devant toi, sur la route suivie,\n— Calices d'or s'ouvrant en dépit du vent noir—\nVois ! C'est tout ce qui reste, en ce doux crépuscule,\nDu soleil mort, de ta jeunesse qui recule :\nQuelques vagues espoirs de gloires et d'amours,\nQuelques vagues clartés dans la pâleur des verres\nQue l'avenir, pareil à ces mornes faubourgs,\nTe garde en ses mélancoliques réverbères !",
+      "provisionalTranslation": "XVII\n\n乳香のように日が\n柔らかな青い蒸気に分解される繊細な時刻に、\n果てていく街区の黒い廃棄の中へ行け、\n行け、ああ魂が郊外の姉妹である者よ、\n最小の音にも魂が陰鬱で苦しむ者よ、\n霧と、死んだ水と夢の中で\n街が息絶えて終わる郊外を、\n偶然に建てられたような郊外を通って……\nそして見よ！ 遠くに苦い背景の中で\nランタンの列がまっすぐに灯る──\n灰色の道に沿って黄色い縁飾りを置きながら。\nああ！ 暗い地平線の上に立つランタンよ！\n夕暮れの中の光の存続、\n生の中の若さの存続！\n歩んだ道の前に広がるこれらの光──\n黒い風にもかかわらず開く金の聖杯──\n見よ！ この柔らかな薄明に残るのはそれだけ──\n死んだ太陽の、後退するあなたの若さの残り：\nいくつかの曖昧な栄光と愛の希望、\nガラスの蒼白さの中のいくつかの曖昧な光──\n陰鬱な郊外に似た未来が\n憂鬱な街灯の中に取っておくもの。"
+    },
+    {
+      "id": 18,
+      "french": "XVIII\n\nDes cloches, j'en ai su qui cheminaient sans bruit,\nDes cloches pauvres, qui vivaient dans des tourelles\nSordides, et semblaient se lamenter entre elles\nDe n'avoir de repos ni le jour ni la nuit.\nDes cloches de faubourg toussotantes, brisées ;\nDes vieilles, eût-on dit, qui dans la fin du jour\nAllaient se visiter de l'une à l'autre tour,\nChancelantes, dans leurs robes de bronze usées.",
+      "provisionalTranslation": "XVIII\n\n物音なく歩む鐘を私は知っていた、\n卑しい小塔に住んでいた貧しい鐘たち──\n昼も夜も休みがないことを\n互いに嘆いているように見えた。\n咳をするように鳴り、壊れた郊外の鐘；\n老婦人たちのようで、一日の終わりに\n塔から塔へ訪ね合いに行く──\nよろめきながら、使い古した青銅のドレスを着て。"
+    },
+    {
+      "id": 19,
+      "french": "XIX\n\nLes cygnes blancs, dans les canaux des villes mortes,\nParmi l'eau pâle où les vieux murs sont décalqués\nAvec des noirs usés d'estampes et d'eaux-fortes,\nLes cygnes vont comme du songe entre les quais.\nEt le soir, sur les eaux doucement remuées,\nCes cygnes imprévus, venant on ne sait d'où,\nDans un chemin lacté d'astres et de nuées\nMangent des fleurs de lune en allongeant le cou.\nOr ces cygnes, ce sont des âmes de naguères\nQui n'ont vécu qu'à peine et renaîtront plus tard,\nPoètes s'apprenant aux silences de l'art,\nQui s'épurent encore en ces blancs sanctuaires,\nPoètes décédés enfants, sans avoir pu\nFleurir avec des pleurs une gloire et des nimbes,\nÂmes qui reprendront leur œuvre interrompu\nEt demeurent dans ces canaux comme en des limbes !\nMais les cygnes royaux sentant la mort venir\nSe mettront à chanter parmi ces eaux plaintives\nEt leur voix presque humaine ira meurtrir les rives\nD'un air de commencer plutôt que de finir…\nCar dans votre agonie, ô grands oiseaux insignes,\nCe qui chante déjà c'est l'âme s'évadant\nD'enfants-poètes qui vont revivre en gardant\nQuelque chose de vous, les ancêtres, les cygnes !",
+      "provisionalTranslation": "XIX\n\n死んだ街の運河の中、白い白鳥が、\n版画とエッチングの使い古した黒で\n古い壁が映る蒼い水の中、\n白鳥は埠頭の間を夢のように進む。\nそして夕暮れ、優しく揺れる水の上で、\nどこからとも知れずやって来たこれらの思いがけない白鳥が、\n星と雲の乳白色の道の中で\n首を伸ばして月の花を食べる。\nさてこれらの白鳥は、かつての魂──\nかろうじて生き後で生まれ変わるだろう魂、\n芸術の沈黙に習う詩人たち──\nこれらの白い聖域でまだ浄化される、\n涙で栄光と後光を咲かせることなく\n子供のうちに亡くなった詩人たち、\n中断した作品を再び取り上げるだろう魂──\n煉獄のようにこれらの運河に留まる！\nだが王者の白鳥たちは死が来るのを感じると\nこれらの嘆く水の中で歌い始めるだろう、\nそのほとんど人間のような声が岸辺を打つだろう──\n終わるというよりも始まるような雰囲気で……\nなぜならあなたたちの苦悶の中で、ああ偉大な著名な鳥たちよ、\nすでに歌っているのは逃れる魂──\nあなたたちから、祖先の白鳥たちから、何かを保ちながら\n生き返るだろう子供詩人たちの魂！"
+    },
+    {
+      "id": 20,
+      "french": "XX\n\nDans l'horizon du soir où le soleil recule\nLa fumée éphémère et pacifique ondule\nComme une gaze où des prunelles sont cachées ;\nEt l'on sent, rien qu'à voir ces brumes détachées,\nUn douloureux regret de ciel et de voyage,\nCar la blanche fumée est la sœur du nuage\nEt va vers les lointains où se mêlent en rêve\nL'odeur fanée et la musique qui s'achève.\nEt la fumée entraîne en ses molles spirales\nL'âme s'exténuant des cloches vespérales\nQui s'éteint avec elle en très lente agonie ;\nEt tout le triste doux d'une chose finie\nEt tout le triste doux d'une chose en allée\nSubsiste après ce bleu de vapeur exhalée\nComme si la fumée, on savait qu'elle porte\nUn linceul impalpable à quelque étoile morte !",
+      "provisionalTranslation": "XX\n\n太陽が後退する夕暮れの地平線で\n束の間の平和な煙が揺れる──\n目が隠れたガーゼのように；\nそして離れたこれらの霞を見るだけで感じる、\n空と旅への痛ましい後悔──\nなぜなら白い煙は雲の姉妹で、\n夢の中で萎れた香りと\n終わっていく音楽が混ざる遠くへ向かう。\nそして煙は柔らかな渦巻きの中に引き込む──\n晩課の鐘の衰えていく魂を、\nとてもゆっくりした苦悶の中で煙とともに消える魂を；\nそして終わったものの甘い悲しさのすべてと\n去っていったものの甘い悲しさのすべてが\n吐き出されたこの青い蒸気の後に残る──\nまるで煙が何か死んだ星に\n不可触の屍衣を運ぶと知っているかのように！"
+    },
+    {
+      "id": 21,
+      "french": "XXI\n\nTrès défuntes sont les maisons patriciennes\nEt très dorénavant closes dans du silence\nParmi des quartiers froids, en des villes anciennes,\nOù les pignons, pris d'une inerte somnolence,\nNe voient plus rien de grand, dans le soir diaphane,\nQui descende sur eux du soleil qui se fane ;\nEt, pour fleurir le deuil de ces vieilles demeures\nQui sont les tombeaux noirs des choses disparues,\nSeul le carillon lent sème tous les quarts d'heures\nSes lourdes fleurs de fer dans le vide des rues !",
+      "provisionalTranslation": "XXI\n\n貴族の邸宅はまったく死んでおり、\n今では沈黙の中に深く閉じている──\n古い街の冷たい街区の中で、\n惰性的な眠気にとらわれた切妻は\n透き通った夕暮れの中で、萎えていく太陽から\n自分たちの上に降りてくる偉大なものをもはや何も見ない；\nそして消えた物事の黒い墓である\nこれらの古い住居の喪を飾るため、\n遅い鐘楼だけが十五分ごとに蒔く──\n通りの虚空の中にその重い鉄の花を！"
+    },
+    {
+      "id": 22,
+      "french": "XXII\n\nLes canaux somnolents entre les quais de pierre\nSongent, entre les quais rugueux, comme en exil,\nSans paysage clair qui se renverse au fil\nDe l'eau qui rêve, — ainsi s'isole une âme fière, —\nL'âme de l'eau captive entre les quais dormants\nOù le ciel se transpose en pensive nuance\nDont la douceur à du silence se fiance.\nQuelques nuages seuls cheminent par moments\nDans les canaux muets aux eaux inanimées\nQui semblent des miroirs réflétant des fumées.\nPuis le ciel s'unifie, incolore et profond,\nEt les pâles canaux entre leurs quais de pierre\nSont sans mirage, — ainsi dédaigne une âme fière, —\nEt tout passage d'aile en leur cristal se fond ;\nPlus rien n'entre parmi leurs eaux coagulées\nDont la blancheur ressemble à des vitres gelées\nDerrière qui l'on voit, dans le triste du soir,\nL'âme de l'eau, captive au fond, qui persévère\nÀ ne rien regretter du monde en son lit noir\nEt qui semble dormir dans des chambres de verre !",
+      "provisionalTranslation": "XXII\n\n石の埠頭の間でうとうとする運河が\n荒い埠頭の間で、追放されたように夢想する──\n夢見る水の流れに逆さに映る\n明るい風景もなく──誇り高い魂がこうして孤立する──\n眠る埠頭の間で捕らわれた水の魂が、\n空が沈思する微妙さへと移調され、\nその優しさが沈黙に婚約する。\nいくつかの雲だけが時折進む──\n煙を映す鏡のように見える\n生気なき水の無言の運河の中を。\nやがて空は無色で深く統一され、\n石の埠頭の間の蒼い運河は\n蜃気楼なく──誇り高い魂はこうして軽蔑する──\nその水晶の中ですべての翼の通過が溶ける；\n凝固した水の中にはもはや何も入らない──\n夕暮れの悲しさの中で見える\n凍ったガラスに似たその白さの背後で、\n黒いベッドの中でを世界について何も後悔しないことを\n持続する、底に捕らわれた水の魂が、\nガラスの部屋で眠っているようだ！"
+    },
+    {
+      "id": 23,
+      "french": "XXIII\n\nMon rêve s'en retourne en souvenirs tranquilles\nVers votre humilité, vieilles petites villes,\nVilles de mon passé, villes élégiaques,\nSi dolentes les soirs de noël et de pâques,\nVilles aux noms si doux : Audenarde, Malines,\nPieuses, qui priez comme des ursulines\nEn rythmant des avé sur les carillons tristes !\nOh ! Villes de couvents, villes de catéchistes,\nAvec la sainte odeur des encens et des cires,\nVilles s'assoupissant, si doucement martyres\nDe n'avoir pas été suffisamment aimées,\nQui, dégageant le gris mourant de leurs fumées\nComme une plainte d'âme exténuée et vierge,\nAgonisent dans le brouillard qui les submerge.\nEnsommeillement doux de mes villes natales\nQue, le soir, je retrouve en des marches mentales ;\nMais, le long des vieux quais, ô mon rêve, où tu erres,\nHélas ! Tu reconnais des maisons mortuaires\nQue dénoncent, jusqu'à l'obit, parmi la brume,\nCe cérémonial d'une antique coutume :\nUn nœud de crêpe noir qui flotte sur les portes ;\nOn dirait des oiseaux cloués, des ailes mortes…\nPuis, sur les volets clos, une grande lanterne\nPend, de qui la lueur si grelottante et terne\nBrûle, en forme de cœur, dans la prison du verre.\nC'est comme de la vie encor qui persévère\nEt l'on croirait que l'âme ancienne est là qui pleure\nEt guette pour rentrer un peu dans sa demeure !",
+      "provisionalTranslation": "XXIII\n\n私の夢は穏やかな思い出の中に戻っていく──\nあなたたちの謙虚さへ、古い小さな街よ、\n私の過去の街、哀歌的な街、\nクリスマスとイースターの夕暮れにこれほど悲しい、\nこれほど優しい名の街：アウデナールデ、メヘレン、\nウルスラ修道女のように祈る敬虔な街──\n悲しい鐘楼のリズムに合わせてアヴェを唱えながら！\nああ！ 修道院の街、教理問答の街、\n乳香と蝋燭の聖なる香りとともに、\nうとうとする街──十分に愛されなかったことの\n殉教者として優しく、\n疲れ果て処女の魂の嘆きのように\n死にゆく灰色を煙から発して、\n水没させる霧の中で息絶える。\n精神的な散歩の中で夕暮れに取り戻す\n私の生まれた街の優しい眠り；\nだが、ああ私の夢よ、あなたが彷徨う古い埠頭沿いで、\nああ！ 霞の中で葬式の最後まで\n古い習慣の礼式によって告げられる\n葬儀の家を認識する：\nドアの上に漂う黒いクレープの結び目；\n釘打ちされた鳥、死んだ翼のように見える……\nそして閉じた鎧戸の上に大きなランタンが\n垂れ下がり、震えるほど暗い光が\nガラスの牢の中で心の形に燃える。\nまるでまだ続く命のようで、\n古い魂がそこで泣き、\n自分の住居に少し入ろうとうかがっていると思われる！"
+    },
+    {
+      "id": 24,
+      "french": "XXIV\n\nEn province, dans la langueur matutinale\nTinte le carillon, tinte dans la douceur\nDe l'aube qui regarde avec des yeux de sœur,\nTinte le carillon, — et sa musique pâle\nS'effeuille fleur à fleur sur les toits d'alentour,\nEt sur les escaliers des pignons noirs s'effeuille\nComme un bouquet de sons mouillés que le vent cueille :\nMusique du matin qui tombe de la tour,\nQui tombe de très loin en guirlandes fanées,\nQui tombe de naguère en invisibles lis,\nEn pétales si lents, si froids et si pâlis\nQu'ils semblent s'effeuiller du front mort des années.",
+      "provisionalTranslation": "XXIV\n\n地方で、朝の倦怠の中で\nカリヨンが鳴る、姉妹の目で見つめる\n夜明けの優しさの中で鳴る、\nカリヨンが鳴る──その蒼い音楽が\n周りの屋根の上に花から花へと散る、\n黒い切妻の階段の上に\n風が摘む濡れた音の花束のように散る：\n塔から落ちてくる朝の音楽、\n萎れた花環の中でとても遠くから落ちてくる、\n見えない百合の中で昔から落ちてくる、\nこれほど遅く、冷たく、蒼白んだ花びらが\n年々の死んだ額から散るように見えるほど。"
+    },
+    {
+      "id": 25,
+      "french": "XXV\n\nLa ville est morte, morte, irréparablement !\nD'une lente anémie et d'un secret tourment,\nEst morte jour à jour de l'ennui d'être seule…\nPetite ville éteinte et de l'autre temps qui\nConserve on ne sait quoi de vierge et d'alangui\nEt semble encor dormir tandis qu'on l'enlinceule ;\nCar voici qu'à présent, pour embaumer sa mort,\nLes canaux, pareils à des étoffes tramées\nDont les points d'or du gaz ont faufilé le bord,\nEt le frêle tissu des flottantes fumées\nS'enroulent en formant des bandelettes d'eau\nEt de brouillard, autour de la pâle endormie\n— Tel le cadavre emmailloté d'une momie\nEt la lune à son front ajoute un clair bandeau !",
+      "provisionalTranslation": "XXV\n\n街は死んでいる、死んでいる、取り返しなく！\n緩やかな衰弱と秘密の苦悶の中で、\n独りでいる倦怠から日々死んでいった……\n消えた小さな街、もう一つの時の街──\n処女性と倦怠の何かを知らずに保ち、\n屍衣に包まれながらもまだ眠っているように見える；\nなぜなら今や、その死の防腐処理のために、\n縁をガスの金の糸で縫い合わされた\n織物のような運河と、\n漂う煙の脆い組織が\n蒼い眠る者の周りに\n水と霧の包帯を巻き付けながら巻きつく──\nミイラの包まれた死体のように、\nそして月がその額に明るい包帯を加える！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "XXV章・446行。アレクサンドラン（12音節）基調。章ごとに独立した詩節形式。「沈黙」の多様な様態を章ごとに変奏する構造詩：病者の部屋（I）→恋人たちの夕暮れ（II）→夜の夢想（III）→白いカーテンと記憶（IV）→鏡の死者（V）→室内の消えた音楽（VI）→死んだ街のホテル（VII）→時計のカリヨン（VIII）→日曜日（IX）→通りの音楽（X）→沈黙の「姉妹たち」（XI）→月とホスチア（XII）→悲嘆の心の池（XIII）→秋の公園（XIV）→雪（XV）→月（XVI）→郊外の夕暮れ（XVII）→鐘（XVIII）→死んだ街の白鳥（XIX）→煙（XX）→閉じた貴族邸（XXI）→運河（XXII）→フランドルの古い小都市（XXIII）→朝のカリヨン（XXIV）→死んだ街（XXV）。出典：Le Règne du silence, Bibliothèque-Charpentier, 1901。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Silence : c'est la voix qui se traîne, un peu lasse,",
+      "body": "詩の最初の語が「Silence :（沈黙：）」──コロンに続き「沈黙とは何か」の定義が始まる逆説的な開幕。「沈黙」は「引きずる声（la voix qui se traîne）」として最初に「声」として定義される：沈黙は無音ではなく「疲れた声」である。「私の沈黙の女主人（la dame de mon silence）」──沈黙が擬人化された「女主人」を持つ：詩集全体を通じて沈黙は「女性的・病的・繊細」な主体として語られる。「Le bruit me fait mal（物音が痛い）」──詩集の核心命題の最初の表明。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Penser la même chose et ne pas se le dire.",
+      "body": "「同じことを考えてそれを言わないこと（Penser la même chose et ne pas se le dire）」──II章の最終句。「二つの香りが一つの香りに（Deux senteurs en un même parfum）」という先行句とともに、恋人たちの沈黙が「言語を超えた完全な一致」として定義される：沈黙は欠如ではなく「言語が不要な状態」。マラルメの「暗示」による詩学──「物事を名指すことは詩の快楽の四分の三を破壊する」──との共鳴。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Des fils d'ombre dans la chambre de sa mémoire",
+      "body": "「記憶の部屋に降りる影の糸（Des fils d'ombre dans la chambre de sa mémoire）」──III章が「蜘蛛の巣」「黄金のハエ」という虫の比喩で開かれ（「l'essor / Des rêves va finir son vol de mouches d'or（夢の飛翔が黄金のハエの飛行を終える）」）、同一の句が章末に繰り返される首尾円環構造。「Il entre dans du noir et du noir entre en lui（彼は暗闇に入り、暗闇が彼に入る）」──内外の溶解としての夢想：夢想者が暗闇に入るのと同時に暗闇が夢想者に入る、主客の相互浸透。「自己分析をもはや知らない（de ne plus savoir / S'analyser）」──I章で「水の心理学者」を目指したローデンバックが、ここでは「自己分析の不可能性」を「優しさ（Douceur）」として称揚する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Tous deux, — comme les yeux d'enfants qu'on n'a pas eus.",
+      "body": "「産まれなかった子どもたちの目のように（comme les yeux d'enfants qu'on n'a pas eus）」──IX章の最終句。二つの街灯が「産まれなかった子どもたちの目」に比喩される：日曜日の孤独の悲しさが「産まれなかった子どもたちへの哀惜」として帰結する。詩集全体を通じた「不在・喪失・あり得たがなかったもの（ce qui pouvait être et n'aura pas été）」というモチーフの最初の凝縮した表現。XI章の「その愛があり得たがあり得なかったものだけを愛す（dont l'amour n'aime / Que ce qui pouvait être et n'aura pas été）」と直接的に呼応する。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Ô vous mes sœurs en notre mère, le silence !",
+      "body": "「私たちの母、沈黙の中の姉妹たちよ（Ô vous mes sœurs en notre mère, le silence !）」──XI章の最終句にして詩集の核心命題。「沈黙」が「共通の母」として擬人化・神聖化される──沈黙を「敬虔さ（piété）」と呼ぶXI章全体が一つの「沈黙の典礼」として構成される：訪問会修道女（visitandines）・ベギン会（béguinage）・アンジェルス・数珠・クレームという宗教語彙が「沈黙の修道共同体」を形成する。ローデンバックの象徴主義における沈黙は「言語の否定」ではなく「宗教的・共同体的実践」として提示される。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "Les cygnes noirs du désespoir, durs et sauvages,\nInexorablement la déchirent dans l'eau !",
+      "body": "「絶望の黒い白鳥、固く野蛮な、容赦なく水の中でその顔を引き裂く（Les cygnes noirs du désespoir, durs et sauvages, / Inexorablement la déchirent dans l'eau !）」──XIII章の最終2行。詩集全体で最も暴力的な句：「白い白鳥（XIX章）」と「黒い白鳥（XIII章）」の対立がローデンバックの白鳥象徴主義の二重性を示す。水面に浮かぶ愛人の「白い顔（visage blanc）」を「絶望の黒い白鳥」が引き裂く──愛と絶望・白と黒の対立が水の鏡の中で終結する。マラルメの白鳥ソネット（「Le vierge, le vivace et le bel aujourd'hui」）との対話的関係。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Et mon cœur est un grand cimetière d'étoiles !",
+      "body": "「私の心は星々の大きな墓地だ（Et mon cœur est un grand cimetière d'étoiles !）」──XV章の最終句。「Le Cœur de l'Eau」XI章の「黒い水は星々の大いなる霊柩台を灯す（L'eau noire allume un grand catafalque d'étoiles）」と対応する：溺死者を囲む「星の霊柩台」が、ここでは「星の墓地」として詩人自身の心臓へと転写される。空が「喪服の幕の下で死に（trépassé）」雪の片として崩れ落ちる時、詩人の心は「星の墓地」として残る──雪・空・星・墓地の連鎖がXV章の終末論的雰囲気を締めくくる。"
+    },
+    {
+      "paragraphId": 19,
+      "type": "commentary",
+      "anchor": "Les cygnes blancs, dans les canaux des villes mortes,",
+      "body": "「死んだ街の運河の中の白い白鳥（Les cygnes blancs, dans les canaux des villes mortes）」──XIX章の白鳥詩。ローデンバックの「白鳥＝詩人の魂」という独自の象徴体系：白鳥は「かろうじか生きて後で生まれ変わる詩人の魂（des âmes de naguères / Qui n'ont vécu qu'à peine et renaîtront plus tard）」として転生論的に提示される。「死にゆく白鳥の歌（le chant du cygne）」の伝説──白鳥は死に際して初めて歌う──を「始まるというよりも終わるような雰囲気（D'un air de commencer plutôt que de finir）」と逆説的に書き換える：死が「終わり」ではなく「子供詩人への転生の始まり」として詩的継承論の寓話となる。マラルメ「白鳥のソネット」やイェイツ「レダと白鳥」との比較で読める。"
+    },
+    {
+      "paragraphId": 25,
+      "type": "commentary",
+      "anchor": "La ville est morte, morte, irréparablement !",
+      "body": "「街は死んでいる、死んでいる、取り返しなく（La ville est morte, morte, irréparablement !）」──詩の最終章の開幕句。ローデンバック最大の主題「死んだ街（la ville morte）」の最も直接的な宣言。小説『死都ブリュージュ（Bruges-la-Morte）』（1892）の副題「morte」と同一の語が繰り返しとともに使われる。最終句「月がその額に明るい包帯を加える（la lune à son front ajoute un clair bandeau）」──ミイラのように包帯を巻かれた街の額に月が「白い包帯」を加える：「Le Cœur de l'Eau」XIV章の「月は水の聖心（la lune est le cœur, le sacré-cœur de l'eau）」と呼応し、月が「傷・喪・ミイラ化」した存在への最後の贈り物として詩集を閉じる。"
+    }
+  ]
+}
