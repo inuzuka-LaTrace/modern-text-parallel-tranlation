@@ -1,0 +1,163 @@
+{
+  "id": "valery_fragments_du_narcisse",
+  "title": "Fragments du Narcisse",
+  "author": "Paul Valéry",
+  "source": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922 (初版); Œuvres de Paul Valéry, vol. 3, Éditions de la N.R.F., 1933. 複数ソース照合：fr.wikisource.org/wiki/Fragments_du_Narcisse, poeticous.com/paul-valery/fragments-du-narcisse, enmotdiese.free.fr/po.val.narcisse.htm, devoir-de-philosophie.com",
+  "year": "1922",
+  "firstPublication": "Charmes ou Poèmes, Gallimard, 1922",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『魅惑（Charmes）』（1922）所収の大詩。全3つのFragment（I：約130行、II：約60行、III：約70行）からなる。题辞：Fragment I「Cur aliquid vidi?（なぜ私は何かを見てしまったのか？）」──オウィディウス『変身物語』第3巻のナルキッソス神話への参照。ナルキッソスは泉の水鏡に自分の姿を見て恋に落ち、その像を捕まえようとして死ぬ。ヴァレリーはこの神話を「自己意識・自己認識の哲学的探求」として読み替える：水面の像＝意識が捉えようとしながら決して把持できない自己の像。3つのFragmentは「接近→対話→断念」の弧を描く：I（夕暮れの泉への到達とニンフへの呼びかけ）→II（像との対話と合一への欲求）→III（夜と自己解体の受容）。ヴァレリーの長詩「若きパルク（La Jeune Parque）」（1917）と並ぶ代表作。前身は『旧詩帖』所収「ナルキッソスは語る（Narcisse parle）」（1891年）──青年期の象徴主義的習作が30年かけて哲学的大詩へ成長した。",
+  "keywords": ["ナルキッソス", "神話", "自己意識", "鏡", "泉", "ニンフ", "夜", "自己認識", "像", "魂"],
+  "relatedTexts": [
+    "valery_l_amateur_de_poemes",
+    "valery_orphee",
+    "mallarme_herodiade_scene",
+    "mallarme_crise_de_vers",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "I\n\nCur aliquid vidi?\n\nQue tu brilles enfin, terme pur de ma course !\nCe soir, comme d'un cerf, la fuite vers la source\nNe cesse qu'il ne tombe au milieu des roseaux,\nMa soif me vient abattre au bord même des eaux.",
+      "provisionalTranslation": "I\n\nなぜ私は何かを見てしまったのか？\n\nああ、ついにあなたは輝く、私の走りの純粋な終点よ！\n今宵、牡鹿のように、泉へと向かう逃走は\n葦の茂みの中に倒れ込むまで止まらない──\n私の渇きが私を水のほとりに打ち倒す。"
+    },
+    {
+      "id": 2,
+      "french": "Mais, pour désaltérer cette amour curieuse,\nJe ne troublerai pas l'onde mystérieuse :\nNymphes ! si vous m'aimez, il faut toujours dormir !\nLa moindre âme dans l'air vous fait toutes frémir ;\nMême, dans sa faiblesse, aux ombres échappée,\nSi la feuille éperdue effleure la napée,\nElle suffit à rompre un univers dormant…\nVotre sommeil importe à mon enchantement,\nIl craint jusqu'au frisson d'une plume qui plonge !\nGardez-moi longuement ce visage pour songe\nQu'une absence divine est seule à concevoir !\nSommeil des nymphes, ciel, ne cessez de me voir !\nRêvez, rêvez de moi !… Sans vous, belles fontaines,\nMa beauté, ma douleur, me seraient incertaines.",
+      "provisionalTranslation": "だが、この好奇心旺盛な愛を癒すために、\n私は神秘の水面を乱すまい：\nニンフたちよ！ もし私を愛するなら、常に眠っていなければならない！\n空中の最も小さな魂でさえあなたたちを皆震わせる；\n弱く、影から逃れた\n迷子の葉がたとえ水のニンフに触れただけでも、\nそれだけで眠れる宇宙を壊すのに十分……\nあなたたちの眠りが私の魔法に必要で、\nそれは水に飛び込む羽根のかすかな震えさえ怖れる！\nしばらく私のためにこの顔を夢として守ってくれ──\n神聖な不在だけが思い描ける顔を！\nニンフたちの眠りよ、空よ、私を見続けてくれ！\n夢見よ、私の夢を見よ！…… あなたたちなしでは、美しい泉よ、\n私の美も、私の痛みも、私に不確かなままだろう。"
+    },
+    {
+      "id": 3,
+      "french": "Vous attendiez, peut-être, un visage sans pleurs,\nVous calmes, vous toujours de feuilles et de fleurs,\nEt de l'incorruptible altitude hantées,\nÔ Nymphes !… Mais docile aux pentes enchantées\nQui me firent vers vous d'invincibles chemins,\nSouffrez ce beau reflet des désordres humains !\nHeureux vos corps fondus, Eaux planes et profondes !\nJe suis seul !… Si les Dieux les échos et les ondes\nEt si tant de soupirs permettent qu'on le soit !\nSeul !… mais encor celui qui s'approche de soi\nQuand il s'approche aux bords que bénit ce feuillage…\nDes cimes, l'air déjà cesse le pur pillage ;\nLa voix des sources change, et me parle du soir ;\nUn grand calme m'écoute, où j'écoute l'espoir.\nJ'entends l'herbe des nuits croître dans l'ombre sainte,\nEt la lune perfide élève son miroir\nJusque dans les secrets de la fontaine éteinte…",
+      "provisionalTranslation": "おそらくあなたたちは涙のない顔を待っていた──\n穏やかな、常に葉と花の中にいる、\n腐敗なき高みに憑かれた、\nああニンフたちよ！…… しかし私はあなたたちへと\n抵えがたい道を作った魅惑の坂に従順に、\n人間の混乱のこの美しい影を許してくれ！\nあなたたちの溶け合う体よ、平らで深い水よ、幸いなるかな！\n私は独りだ！…… 神々と反響と波が、\nそしてこれほどの溜め息がそれを許すなら！\n独り！…… しかしまだ自己に近づく者は\nこの葉が祝福するほとりに近づく時に自己に近づく……\n山頂から、空気がすでに純粋な略奪をやめる；\n泉の声が変わって夕暮れを語りかける；\n大いなる静けさが私に耳を傾け、私は希望に耳を傾ける。\n夜の草が聖なる影の中で育つのを私は聞く、\nそして背信の月がその鏡を高く掲げる──\n消えた泉の秘密の奥にまで……"
+    },
+    {
+      "id": 4,
+      "french": "Rien ne peut échapper au silence du soir…\nLa nuit vient sur ma chair lui souffler que je l'aime.\nSa voix fraîche à mes vœux tremble de consentir ;\nÀ peine, dans la brise, elle semble mentir,\nTant le frémissement de son temple tacite\nConspire au spacieux silence d'un tel site.\nÔ douceur de survivre à la force du jour,\nQuand elle se retire enfin rose d'amour,\nEncore un peu brûlante, et lasse, mais comblée,\nEt de tant de trésors tendrement accablée\nPar de tels souvenirs qu'ils empourprent sa mort,\nEt qu'ils la font heureuse agenouiller dans l'or,\nPuis s'étendre, se fondre, et perdre sa vendange,\nEt s'éteindre en un songe en qui le soir se change.\nQuelle perte en soi-même offre un si calme lieu !\nL'âme, jusqu'à périr, s'y penche pour un Dieu\nQu'elle demande à l'onde, onde déserte, et digne\nSur son lustre, du lisse effacement d'un cygne…",
+      "provisionalTranslation": "何も夕暮れの沈黙から逃れられない……\n夜が私の肌の上に来て、愛していると囁く。\nその清涼な声が私の願いに同意しようと震える；\n微風の中でほとんど嘘のように見えるほど──\n黙した神殿のかすかな戦慄が\nかくも広大な場所の静寂と共謀するほど。\nああ、昼の力より長く生きる甘さよ──\n昼が愛でバラ色になって引いていく時、\nまだ少し燃えながら、疲れながら、しかし満ち足りて、\nそしてかくも多くの宝にやさしく押しつぶされて\nかくも多くの思い出に──それらが死を緋色に染め、\n彼女を黄金の中で幸せに跪かせ、\nそれから横たわり、溶け、収穫を失い、\n夕暮れが変わっていく夢の中で消えていく。\nかくも穏やかな場所が自己喪失としていかに豊かか！\n魂は滅びるまで、神を求めて身を屈める──\n見捨てられた水面に、その光沢の上に、\n白鳥の滑らかな消えゆきに値する水面に……"
+    },
+    {
+      "id": 5,
+      "french": "Quand l'opaque délice où dort cette clarté,\nCède à mon corps l'horreur du feuillage écarté,\nAlors, vainqueur de l'ombre, ô mon corps tyrannique,\nRepoussant aux forêts leur épaisseur panique,\nTu regrettes bientôt leur éternelle nuit !\nPour l'inquiet Narcisse, il n'est ici qu'ennui !\nTout m'appelle et m'enchaîne à la chair lumineuse\nQue m'oppose des eaux la paix vertigineuse !",
+      "provisionalTranslation": "この明るさが眠る不透明な官能が\n分かれた葉の戦慄を私の体に譲る時、\nするとああ、専制的な私の体よ、影の征服者よ、\n森をその圧倒的な濃密さの中に押し返すと、\nあなたはやがてその永遠の夜を悔やむ！\n不安なナルキッソスにとって、ここに倦怠しかない！\n水の眩暈のような静けさが私に差し向ける\n発光する肉体に、私は呼ばれ縛られる！"
+    },
+    {
+      "id": 6,
+      "french": "Que je déplore ton éclat fatal et pur,\nSi mollement de moi, fontaine environnée,\nOù puisèrent mes yeux dans un mortel azur,\nLes yeux mêmes et noirs de leur âme étonnée !\nProfondeur, profondeur, songes qui me voyez,\nComme ils verraient une autre vie,\nDites, ne suis-je pas celui que vous croyez,\nVotre corps vous fait-il envie ?\nCessez, sombres esprits, cet ouvrage anxieux\nQui se fait dans l'âme qui veille ;\nNe cherchez pas en vous, n'allez surprendre aux cieux\nLe malheur d'être une merveille :\nTrouvez dans la fontaine un corps délicieux…",
+      "provisionalTranslation": "嘆くよ、あなたの致命的で純粋な輝きを、\n泉よ、これほど柔らかく私に取り囲まれた泉──\nそこで私の目は致命的な青空の中に汲んだ、\n驚いた魂の黒い目そのものを！\n深淵よ、深淵よ、私を見る夢たちよ──\n他の命を見るように見ている──\n言ってくれ、私はあなたたちが信じるあの者ではないか、\nあなたたちの体があなたたちを羨ましくさせるか？\nやめよ、暗い精神たちよ、この不安な作業を──\n覚醒した魂の中で行われる作業を；\n自分の中を探すな、天で驚くな──\n奇跡であることの不幸を：\n泉の中に愉悦の体を見つけよ……"
+    },
+    {
+      "id": 7,
+      "french": "Hélas ! entre les bras qui naissent des forêts,\nUne tendre lueur d'heure ambiguë existe…\nLà, d'un reste du jour, se forme un fiancé,\nNu, sur la place pâle où m'attire l'eau triste,\nDélicieux démon désirable et glacé !\nTe voici, mon doux corps de lune et de rosée,\nÔ forme obéissante à mes vœux opposée !\nQu'ils sont beaux, de mes bras les dons vastes et vains !\nMes lentes mains, dans l'or adorable se lassent\nD'appeler ce captif que les feuilles enlacent ;\nMon cœur jette aux échos l'éclat des noms divins !…",
+      "provisionalTranslation": "ああ！ 森から生まれる腕の間で、\n曖昧な時刻のやわらかな光が存在する……\nそこで、一日の残光から、婚約者が形成される──\n悲しい水が私を引き寄せる蒼白い場所に、裸で──\n愉悦の悪魔よ、欲しいが凍てついた！\nここに来た、月と露の私の優しい体よ、\nああ、私の願いに逆らって従順な形よ！\n何と美しいか、私の腕の広大で虚しい贈り物は！\n私の遅い手は、崇拝すべき黄金の中で疲れる──\n葉が絡みつくこの捕虜を呼び寄せることに疲れる；\n私の心は神々しい名の輝きを反響に投げかける！……"
+    },
+    {
+      "id": 8,
+      "french": "Mais que ta bouche est belle en ce muet blasphème !\nÔ semblable !… Et pourtant plus parfait que moi-même,\nÉphémère immortel, si clair devant mes yeux,\nPâles membres de perle, et ces cheveux soyeux,\nFaut-il qu'à peine aimés, l'ombre les obscurcisse,\nEt que la nuit déjà nous divise, ô Narcisse,\nEt glisse entre nous deux le fer qui coupe un fruit !",
+      "provisionalTranslation": "だがこの無言の冒涜の中で、あなたの口は何と美しいか！\nああ似た者よ！…… それでも私自身よりも完璧で、\n束の間の不死者よ、私の目の前でこれほど明るく、\n真珠のような蒼白い手足と、絹のような髪よ──\nほとんど愛されるやいなや、影がそれらを暗くしなければならないのか、\nそして夜がすでに私たちを分けなければならないのか、ああナルキッソスよ、\nそして果物を切る刃が私たちの間に滑り込むのか！"
+    },
+    {
+      "id": 9,
+      "french": "Qu'as-tu ?…\nMa plainte même est funeste ?…\nLe bruit\nDu souffle que j'enseigne à tes lèvres, mon double,\nSur la limpide lame a fait courir un trouble !…\nTu trembles !… Mais ces mots que j'expire à genoux\nNe sont pourtant qu'une âme hésitante entre nous,\nEntre ce front si pur et ma lourde mémoire…\nJe suis si près de toi que je pourrais te boire,\nÔ visage !… Ma soif est un esclave nu…\nJusqu'à ce temps charmant je m'étais inconnu,\nEt je ne savais pas me chérir et me joindre !\nMais te voir, cher esclave, obéir à la moindre\nDes ombres dans mon cœur se fuyant à regret,\nVoir sur mon front l'orage et les feux d'un secret,\nVoir, ô merveille, voir ! ma bouche nuancée\nTrahir… peindre sur l'onde une fleur de pensée,\nEt quels événements étinceler dans l'œil !\nJ'y trouve un tel trésor d'impuissance et d'orgueil,\nQue nulle vierge enfant échappée au satyre,\nNulle ! aux fuites habiles, aux chutes sans émoi,\nNulle des nymphes, nulle amie, ne m'attire\nComme tu fais sur l'onde, inépuisable Moi !…",
+      "provisionalTranslation": "どうしたのか？……\n私の嘆きさえ不吉なのか？……\n私の分身よ、あなたの唇に私が吹き込む\n息の音が、澄んだ水鏡の上に波紋を走らせた！……\nあなたは震える！…… しかし私が跪いて吐き出すこれらの言葉は、\n私たちの間を漂うためらいがちな魂に過ぎない、\nこれほど純粋な額と私の重い記憶の間の……\n私はあなたにこれほど近くて、飲み干せそうだ、\nああ顔よ！…… 私の渇きは裸の奴隷だ……\nこの魅惑的な時まで私は自分を知らなかった、\n自分を慈しみ自分に結びつく術を知らなかった！\nしかし、ちいさな奴隷よ、心の影たちが──\n後悔しながら逃げ合う影が──あなたが従うのを見ること、\n額の上の嵐と秘密の炎を見ること、\n見よ、ああ奇跡、見よ！ 微妙に変化する私の口が\n裏切り……水面に思考の花を描くのを、\nそして目の中でいかなる出来事が輝くかを！\nそこに私は無力と誇りの宝を見出す──\n羊男から逃れた処女の子も、\n誰も！ 巧みな逃走と動じない転倒の、\nニンフの誰も、友人の誰も、私を引き寄せない──\nあなたが水面でするように、汲みつくせぬ私よ！……"
+    },
+    {
+      "id": 10,
+      "french": "Fontaine, ma fontaine, eau froidement présente,\nDouce aux purs animaux, aux humains complaisante\nQui d'eux-mêmes tentés suivent au fond la mort,\nTout est songe pour toi, Sœur tranquille du Sort,\nEt que tu me paraisses ou lointaine ou prochaine,\nTu te résous toujours en cette même peine\nD'eau vaine,—et cependant tu gardes mon image,\nÉternellement vive en quelque mirage !",
+      "provisionalTranslation": "泉よ、私の泉よ、冷たく存在する水よ、\n純粋な動物には優しく、人間には順従──\n自分自身に誘惑されて死を追って深みへ入る人間に──\nすべてがあなたにとって夢だ、運命の穏やかな姉妹よ、\nあなたが私に遠く見えても近く見えても、\nあなたは常にこの同じ苦しみに帰着する──\n虚しい水の苦しみに──しかしあなたは私の像を守る、\nある蜃気楼の中で永遠に生きている！"
+    },
+    {
+      "id": 11,
+      "french": "II\n\nJe vous salue, enfant de mon âme et de l'onde,\nCher trésor d'un miroir qui partage le monde !\nMa tendresse y vient boire, et s'enivre de voir\nUn désir sur soi-même essayer son pouvoir !\nÔ qu'à tous mes souhaits, que vous êtes semblable !\nMais la fragilité vous fait inviolable,\nVous n'êtes que lumière, adorable moitié\nD'une amour trop pareille à la faible amitié !\nHélas ! la nymphe même a séparé nos charmes !\nPuis-je espérer de toi que de vaines alarmes ?\nQu'ils sont doux les périls que nous pourrions choisir !\nSe surprendre soi-même et soi-même saisir,\nNos mains s'entremêler, nos maux s'entre-détruire,\nNos silences longtemps de leurs songes s'instruire,\nLa même nuit en pleurs confondre nos yeux clos,\nEt nos bras refermés sur les mêmes sanglots\nÉtreindre un même cœur, d'amour prêt à se fondre…\nQuitte enfin le silence, ose enfin me répondre,\nBel et cruel Narcisse, inaccessible enfant,\nTout orné de mes biens que la nymphe défend…",
+      "provisionalTranslation": "II\n\n挨拶する、私の魂と波の子よ、\n世界を分かち合う鏡の愛しい宝よ！\n私の優しさがそこに飲みに来て、見て酔いしれる──\n欲求が自身への力を試みるのを！\nああ、私のすべての願いに、あなたは何と似ていることか！\nしかし脆さがあなたを侵しがたくする、\nあなたは光だけでできている、崇拝すべき半分──\n弱い友情に似すぎた愛の！\nああ！ ニンフ自身が私たちの魅力を分けた！\nあなたから虚しい不安以上のものを期待できるか？\n私たちが選べる危険は何と甘いか！\n自分自身を驚かせ、自分自身を捕まえること、\n手を絡め合い、苦しみを互いに打ち消すこと、\n沈黙がその夢から長く学ぶこと、\n同じ夜に涙して閉じた目を混ぜ合わせること、\nそして同じ嗚咽の上で閉じた腕が\n溶けようとする同じ心を抱きしめること……\nついに沈黙を捨てて、ついに私に答えることを試みよ、\n美しく残酷なナルキッソスよ、届かない子よ、\nニンフが守る私の財で飾られた子よ……"
+    },
+    {
+      "id": 12,
+      "french": "Ce corps si pur, sait-il qu'il me puisse séduire ?\nDe quelle profondeur songes-tu de m'instruire,\nHabitant de l'abîme, hôte si précieux\nD'un ciel sombre ici-bas précipité des cieux ?\nÔ le frais ornement de ma triste tendance\nQu'un sourire si proche, et plein de confidence,\nEt qui prête à ma lèvre une ombre de danger\nJusqu'à me faire craindre un désir étranger !\nQuel souffle vient à l'onde offrir ta froide rose !…\n« J'aime… J'aime !… » Et qui donc peut aimer autre chose\nQue soi-même ?… Toi seul, mon corps, mon cher corps,\nJe t'aime, unique objet qui me défends des morts.\nFormons, toi sur ma lèvre, et moi, dans mon silence,\nUne prière aux dieux qu'émus de tant d'amour\nSur sa pente de pourpre ils arrêtent le jour !…\nFaites, Maîtres heureux, Pères des justes fraudes,\nDites qu'une lueur de rose ou d'émeraudes\nQue des songes du soir votre sceptre reprit,\nPure, et toute pareille au plus pur de l'esprit,\nAttende, au sein des cieux, que tu vives et veuilles,\nPrès de moi, mon amour, choisir un lit de feuilles,\nSortir tremblant du flanc de la nymphe au cœur froid\nQui te sépare encor de mes bras qui te voient,\nTendre ta forme fraîche, et cette claire écorce…\nOh ! te saisir enfin !… Prendre ce calme torse\nPlus pur que d'une femme et non formé de fruits…\nMais, d'une pierre simple est le temple où je suis,\nOù je vis… Car je vis sur tes lèvres avares !…\nÔ mon corps, mon cher corps, temple qui me sépares\nDe ma divinité, je voudrais apaiser\nVotre bouche… Et bientôt, je briserais, baiser,\nCe peu qui nous défend de l'extrême existence,\nEntre moi-même et l'onde, et mon âme, et les dieux !",
+      "provisionalTranslation": "これほど純粋な体は、私を誘惑できると知っているか？\nいかなる深みから、あなたは私を諭そうとするのか、\n淵の住民よ、天から地へと落とされた\n暗い空のこれほど貴重な客人よ？\nああ、私の悲しい傾向の清涼な飾りよ──\nこれほど近く、確信に満ちた微笑みで、\n私の唇に危険の影を貸して、\n異質な欲求を怖れさせるほどの微笑みよ！\nいかなる息があなたの冷たいバラを水面に捧げるのか！……\n「愛している……愛している！……」 いったい誰が愛せるか、自分自身以外の\n何かを？…… あなただけ、私の体、私の愛しい体よ、\n私はあなたを愛する、私を死から守る唯一の対象よ。\n形成しよう──あなたは私の唇の上で、私は沈黙の中で──\n神々への祈りを、かくも多くの愛に感動した神々が\n紫の斜面でその日を止めるように！……\nしてくれ、幸福な主人たちよ、正しい欺きの父たちよ、\n言ってくれ、あなたたちの笏が夜の夢から取り戻した\nバラかエメラルドの光が、\n純粋に、精神の最も純粋なものに全く似て、\n天の中で待つと──あなたが生き望んで、\n私の近くで、私の愛よ、葉のベッドを選んで、\n私たちを分かつ冷たい心のニンフの脇腹から\n震えながら出てくることを──\n私を見る私の腕から、\n新鮮な形と明るい皮膚を差し延べることを……\nああ！ ついにあなたを掴むこと！…… この穏やかな胴体を握ること──\n女のものより純粋で果実でできていない胴体を……\nしかし、私がいる神殿は単純な石でできている、\n私がいる神殿は…… なぜなら私はあなたの物惜しむ唇の上で生きるから！……\nああ私の体、私の愛しい体よ、私の神性から\n私を分かつ神殿よ、なだめたい──\nあなたの口を……。 そしてやがて私は砕くだろう、口づけよ、\n私たちを極限の存在から守るこの薄さを、\n私自身と水面の間、私の魂と神々の間の！"
+    },
+    {
+      "id": 13,
+      "french": "Adieu… Sens-tu frémir mille flottants adieux ?\nBientôt va frissonner le désordre des ombres !\nL'arbre aveugle vers l'arbre étend ses membres sombres,\nEt cherche affreusement l'arbre qui disparaît…\nTandis que dans la nuit brisée et qui renaît,\nMes songes vont chercher à s'y joindre et s'y perdre,\nOù la puissance échappe à ses formes suprêmes…\nL'âme, l'âme aux yeux noirs, touche aux ténèbres mêmes,\nElle se fait immense et ne rencontre rien…",
+      "provisionalTranslation": "さようなら…… 千の浮かぶ別れが震えるのを感じるか？\nまもなく影の混乱が揺れ始める！\n盲いた木が暗い手を別の木に伸ばし、\n消えていく木を恐ろしく求める……\n砕けながら生まれ変わる夜の中で、\n私の夢はそこに結びつき迷い込もうとする──\n力がその最高の形から逃れるところへ……\n魂、黒い目の魂は、闇そのものに触れ、\n広大になり、何にも出会わない……"
+    },
+    {
+      "id": 14,
+      "french": "III\n\nJusque dans les secrets que je crains de savoir,\nJusque dans le repli de l'amour de soi-même,\nRien ne peut échapper au silence du soir…\nLa nuit vient sur ma chair lui souffler que je l'aime.\nSa voix fraîche à mes vœux tremble de consentir ;\nÀ peine, dans la brise, elle semble mentir,\nTant le frémissement de son temple tacite\nConspire au spacieux silence d'un tel site.",
+      "provisionalTranslation": "III\n\n私が知ることを恐れる秘密の奥にまで、\n自己愛の折り畳みの奥にまで、\n何も夕暮れの沈黙から逃れられない……\n夜が私の肌の上に来て、愛していると囁く。\nその清涼な声が私の願いに同意しようと震える；\n微風の中でほとんど嘘のように見えるほど──\n黙した神殿のかすかな戦慄が\nかくも広大な場所の静寂と共謀するほど。"
+    },
+    {
+      "id": 15,
+      "french": "Ô douceur de survivre à la force du jour,\nQuand elle se retire enfin rose d'amour,\nEncore un peu brûlante, et lasse, mais comblée,\nEt de tant de trésors tendrement accablée\nPar de tels souvenirs qu'ils empourprent sa mort,\nEt qu'ils la font heureuse agenouiller dans l'or,\nPuis s'étendre, se fondre, et perdre sa vendange,\nEt s'éteindre en un songe en qui le soir se change.\nQuelle perte en soi-même offre un si calme lieu !\nL'âme, jusqu'à périr, s'y penche pour un Dieu\nQu'elle demande à l'onde, onde déserte, et digne\nSur son lustre, du lisse effacement d'un cygne…\nÀ cette onde jamais ne burent les troupeaux !\nEt depuis que les Dieux ont des ombres pour eaux,\nNymphe, et les Dieux, eux-mêmes, dans la sombre terre,\nCherchent un clair tombeau qui s'ouvre et qui s'éclaire.",
+      "provisionalTranslation": "ああ、昼の力より長く生きる甘さよ──\n昼が愛でバラ色になってついに引いていく時、\nまだ少し燃えながら、疲れながら、しかし満ち足りて、\nそしてかくも多くの宝にやさしく押しつぶされて\nかくも多くの思い出に──それらが死を緋色に染め、\n彼女を黄金の中で幸せに跪かせ、\nそれから横たわり、溶け、収穫を失い、\n夕暮れが変わっていく夢の中で消えていく。\nかくも穏やかな場所が自己喪失としていかに豊かか！\n魂は滅びるまで、神を求めて身を屈める──\n見捨てられた水面に、その光沢の上に、\n白鳥の滑らかな消えゆきに値する水面に……\nこの水面に群れは一度も飲みに来なかった！\n神々が水の代わりに影を持って以来、\nニンフよ、神々自身が暗い大地の中で\n開いて輝く明るい墓を求める。"
+    },
+    {
+      "id": 16,
+      "french": "Mais ce n'est pas le calme, hélas ! que j'y découvre !\nL'inextricable amour s'y dénonce et s'y couvre,\nÔ Violence ! qui dans la faible tourmente\nL'arbre nu qui frissonne est heureux de sentir\nLe même don du vent qui le force à partir\nRan imer pour mourir de sa race absente !\nJ'y perds ce faux repos que le mensonge offrait\nD'un fragile univers comblé de son effet !\nPour l'inquiet Narcisse, il n'est ici qu'ennui.\nTout m'appelle et m'enchaîne à la chair lumineuse\nQue m'oppose des eaux la paix vertigineuse.",
+      "provisionalTranslation": "しかしああ、私がそこで発見するのは静けさではない！\n解きほぐせない愛がそこで告白し、身を隠す、\nああ暴力よ！ 弱い嵐の中で\n震える裸の木は喜んで感じる──\n出発を強いる同じ風の贈り物が\n不在の種族のために死ぬために枝を伸ばすことを！\nそこで私は失う──嘘が差し出していた偽の休息を──\nその効果で満たされた脆い宇宙の！\n不安なナルキッソスには、ここに倦怠しかない。\n水の眩暈のような静けさが私に差し向ける\n発光する肉体に、私は呼ばれ縛られる。"
+    },
+    {
+      "id": 17,
+      "french": "Entre la mort et soi, quel regard est le sien !\nDieux ! de l'auguste jour, le pâle et tendre reste\nVa des jours consumés joindre le sort funeste ;\nIl s'abîme aux enfers du profond souvenir !\nHélas ! corps misérable, il est temps de s'unir…\nPenche-toi… Baise-toi. Tremble de tout ton être !\nL'insaisissable amour que tu me vins promettre\nPasse, et dans un frisson, brise Narcisse, et fuit…",
+      "provisionalTranslation": "死と自己の間で、いかなる眼差しが彼のものか！\n神々よ！ 荘厳な昼の蒼白く優しい残滓が\n燃え尽きた日々の悲しい運命に加わっていく；\n深い記憶の地獄に沈んでいく！\nああ！ 哀れな体よ、合一する時が来た……\n身を屈めよ……自分に口づけよ。全存在で震えよ！\nあなたが私に約束しに来た捉えがたい愛が\n過ぎ去り、かすかな震えの中でナルキッソスを砕き、逃げ去る……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Cur aliquid vidi?",
+      "body": "「なぜ私は何かを見てしまったのか？（Cur aliquid vidi?）」──ラテン語の题辞。オウィディウス『変身物語』（Metamorphoses）第3巻の「ナルキッソスとエコー」の挿話への参照。オウィディウスの原文では「Cur aliquid vidi? cur haec specula noram?（なぜ私は何かを見たのか？なぜこの水鏡を知ってしまったのか？）」（Met. III, 474-475）。自己の像を見てしまったことへの後悔──見ることそのものが呪いとなる逆説的な認識論的問い。ヴァレリーにとってナルキッソスは「自己意識の哲学的寓話」：意識は自己を見ようとするが、その行為そのものが対象（自己）を変容させ、捉えられなくなるというパラドックス。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "Fragment I：約130行、アレクサンドラン（12音節）基調。Fragment II：約60行。Fragment III：約50行。全体で約240行の大詩。1891年の習作「Narcisse parle」（『旧詩帖』所収）から30年の歳月をかけて成長した詩──習作の最終句「Une diversité de nos larmes d'argent（私たちの銀の涙の多様性）」から、成熟詩の最終句「brise Narcisse, et fuit（ナルキッソスを砕き、逃げ去る）」への変貌は、象徴主義的甘美さから哲学的緊張へのヴァレリー固有の移行を示す。韻律は伝統的対韻（AABB）基調だが、Fragment IのNymphe呼びかけ部（段落6）では変則的な詩行（8音節＋12音節混合）が使われ、ニンフへの懇願のリズム的断絶を表現する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Nymphes ! si vous m'aimez, il faut toujours dormir !",
+      "body": "「ニンフたちよ！ もし私を愛するなら、常に眠っていなければならない！（Nymphes ! si vous m'aimez, il faut toujours dormir !）」──Fragment I の核心命題。ニンフ（水の精）の眠りが水鏡の静止を可能にし、ナルキッソスの像を保持する：ニンフの眠り＝水鏡の完璧性という詩的因果関係。「La moindre âme dans l'air vous fait toutes frémir（空中の最も小さな魂でさえあなたたちを皆震わせる）」──自己像の保持がいかに脆い均衡の上にあるかを示す。ロデンバックの詩学（「Du silence」──沈黙の保護的機能）との類比：どちらも「世界との接触の遮断」が美的体験の条件となる。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "L'âme, jusqu'à périr, s'y penche pour un Dieu\nQu'elle demande à l'onde, onde déserte, et digne\nSur son lustre, du lisse effacement d'un cygne…",
+      "body": "「魂は滅びるまで、神を求めて身を屈める──見捨てられた水面に、その光沢の上に、白鳥の滑らかな消えゆきに値する水面に（L'âme, jusqu'à périr, s'y penche pour un Dieu / Qu'elle demande à l'onde, onde déserte, et digne / Sur son lustre, du lisse effacement d'un cygne）」──詩の哲学的中枢の一つ。「神（un Dieu）」＝完全な自己認識の理念──魂は水面（意識の鏡）に「神」（完全な自己）を求めるが、「見捨てられた水面（onde déserte）」は決して答えない。「白鳥の滑らかな消えゆき（lisse effacement d'un cygne）」──マラルメの白鳥のモチーフとの対話：マラルメの白鳥は「不妊の芸術家の自我」の象徴だが、ヴァレリーの白鳥は「自己像の消えゆく美しさ」として読み換えられる。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Profondeur, profondeur, songes qui me voyez,\nComme ils verraient une autre vie,\nDites, ne suis-je pas celui que vous croyez,\nVotre corps vous fait-il envie ?",
+      "body": "「深淵よ、深淵よ、私を見る夢たちよ──他の命を見るように見ている──言ってくれ、私はあなたたちが信じるあの者ではないか、あなたたちの体があなたたちを羨ましくさせるか？」──詩の変則的な詩行（8音節と12音節の交替）が使われる部分。水鏡の「夢（songes）」──水面の像──に向かってナルキッソスが問いかける：像は「私（ナルキッソス）」を見て「私が信じるあの者」であるかを問う──自己認識の不可能性の哲学的定式化。「Votre corps vous fait-il envie?（あなたたちの体があなたたちを羨ましくさせるか？）」──像（水面の体）が現実の体を羨む逆説的な問い：原本と複製の逆転。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "J'y trouve un tel trésor d'impuissance et d'orgueil,\nQue nulle vierge enfant échappée au satyre,\nNulle ! aux fuites habiles, aux chutes sans émoi,\nNulle des nymphes, nulle amie, ne m'attire\nComme tu fais sur l'onde, inépuisable Moi !…",
+      "body": "「汲みつくせぬ私よ！（inépuisable Moi !）」──Fragment I の最高頂・結句。「無力と誇りの宝（trésor d'impuissance et d'orgueil）」──自己意識の逆説的な豊かさ：自己を完全に把持できない（impuissance）にもかかわらず、その認識において無限の誇り（orgueil）が生まれる。「汲みつくせぬ私（inépuisable Moi）」──「私」は水面の像として無尽蔵の魅惑を持つ：自己は決して完全には知られず、それゆえ常に新たな認識の対象であり続ける。「L'Amateur de poèmes」の「意図された欠落を持つ思考（pensée aux lacunes calculées）」との哲学的連続：ヴァレリーにとって詩も自己も「完全には把持されない」という同一の構造を持つ。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Ô mon corps, mon cher corps, temple qui me sépares\nDe ma divinité, je voudrais apaiser\nVotre bouche… Et bientôt, je briserais, baiser,\nCe peu qui nous défend de l'extrême existence",
+      "body": "「ああ私の体、私の愛しい体よ、私の神性から私を分かつ神殿よ（Ô mon corps, mon cher corps, temple qui me sépares / De ma divinité）」──Fragment II の哲学的核心。「体＝神殿」──体は魂（神性）を「分かつ」構造物として定義される：体があるために純粋な自己認識（神性への合一）が不可能になる。「極限の存在（l'extrême existence）」──口づけによって「私自身と水面の間、私の魂と神々の間」を守る薄さが砕ける時に達する状態：自己と像の完全な合一。その合一は死（水に溺れる）でもある──ナルキッソス神話の結末の哲学的再解釈。「Orphée」の「Si le dieu chante, il rompt le site tout-puissant（もし神が歌うなら、全能の場所を壊す）」との対応：詩・歌・口づけはいずれも「現実の構造を壊す」行為として定義される。"
+    },
+    {
+      "paragraphId": 17,
+      "type": "commentary",
+      "anchor": "L'insaisissable amour que tu me vins promettre\nPasse, et dans un frisson, brise Narcisse, et fuit…",
+      "body": "「捉えがたい愛がナルキッソスを砕き、逃げ去る（L'insaisissable amour que tu me vins promettre / Passe, et dans un frisson, brise Narcisse, et fuit）」──詩全体の最終句。「捉えがたい（insaisissable）」──「汲みつくせぬ私（inépuisable Moi）」（Fragment I 末）との呼応：Fragment I で「汲みつくせない」豊かさとして現れた自己が、Fragment III で「捉えがたい」愛として消えていく。「ナルキッソスを砕く（brise Narcisse）」──合一の口づけ（水面に顔を近づける行為）が水面を乱し、像を砕く──自己認識の試みがその試み自体によって対象（自己像）を消滅させる：認識論的逆説の神話的完結。1891年の習作「Narcisse parle」の甘美な「銀の涙（larmes d'argent）」の末尾から、厳格な哲学的解体の終結句へ──ヴァレリーの詩学的成熟の軌跡。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "targetId": "valery_orphee",
+      "body": "「Orphée」との対話：「Orphée」では「詩人（オルフェウス）が神殿（外の世界）を建設する」外向きの詩的行為が描かれるのに対し、「Fragments du Narcisse」では「ナルキッソスが水面（内の自己）に向かう」内向きの探求が描かれる──ヴァレリーの詩学の二極、外的創造と内的認識。「Orphée」の「神殿（temple）」はFragment II で「体（mon corps, temple qui me sépares）」として内面化される：外的建築物＝内的体という変奏。両詩に共通する「捉えられない対象」──「Orphée」の「自律的に自己組織化する神殿」、「Fragments du Narcisse」の「insaisissable amour（捉えがたい愛）」。"
+    }
+  ]
+}
