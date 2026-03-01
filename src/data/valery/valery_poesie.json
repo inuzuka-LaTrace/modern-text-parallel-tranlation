@@ -1,0 +1,120 @@
+{
+  "id": "valery_poesie",
+  "title": "Poésie",
+  "author": "Paul Valéry",
+  "source": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922（詩集第V番）. 原典照合：poeticous.com/paul-valery/poesie（全36行確認）、poesies.net/paulvalerycharmes.txt（定本テキスト照合済み）",
+  "year": "1922",
+  "firstPublication": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922（詩集第V番）",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『魅惑（Charmes）』第V番。8音節詩行（オクトシラブ）9スタンザ36行。形式はA-B-A-B の交差韻（rimes croisées）。詩の主題は「詩」そのものとの対話──「詩（Poésie）」を乳を与える「母（Intelligence）」として、「私（詩人）」をその乳を飲む乳飲み子として設定する。詩人は「詩の源」から引き離された（sevré、離乳された）と嘆き、その理由を問い質す。全詩を通じて「母と子の離乳」という比喩が一貫して維持される：哺乳→切断→問い→答え。最終スタンザで「Source（泉・詩の源泉）」が答える──「あなたが私をあまりに強く噛んだので私の心が止まった（Si fort vous m'avez mordue / Que mon cœur s'est arrêté !）」。詩人の創作への過剰な欲求が詩の源泉そのものを傷つけた、という詩作の逆説的定義。詩集配列：IV「L'Abeille（蜂）」→V「Poésie」→VI「Les Pas（足音）」──「蜂の刺し」（苦痛・刺激）→「詩の離乳」（詩作の危機）→「足音の接近」（詩のゆっくりとした到来）という詩学的三部作。",
+  "keywords": ["詩", "母", "知性", "離乳", "源泉", "詩的創造", "喪失", "対話"],
+  "relatedTexts": [
+    "valery_l_amateur_de_poemes",
+    "valery_le_vin_perdu",
+    "valery_le_sylphe",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Par la surprise saisie,\nUne bouche qui buvait\nAu sein de la Poésie\nEn sépare son duvet :",
+      "provisionalTranslation": "驚きに捕らえられて、\n詩の胸で飲んでいた\nひとつの口が\nその産毛を引き離す："
+    },
+    {
+      "id": 2,
+      "french": "–Ô ma mère Intelligence,\nDe qui la douceur coulait\nQuelle est cette négligence\nQui laisse tarir son lait ?",
+      "provisionalTranslation": "「ああ私の母なる知性よ、\nその甘さが流れ出ていた──\nいかなる怠慢がこれで、\nその乳を枯らしてしまうのか？」"
+    },
+    {
+      "id": 3,
+      "french": "À peine sur ta poitrine,\nAccablé de blancs liens,\nMe berçait l'onde marine\nDe ton cœur chargé de biens ;",
+      "provisionalTranslation": "ようやくあなたの胸の上で、\n白い絆に押しつぶされながら、\nあなたの恵み豊かな心の\n海の波が私を揺り籠に包んでいた；"
+    },
+    {
+      "id": 4,
+      "french": "À peine, dans ton ciel sombre,\nAbattu sur ta beauté,\nJe sentais, à boire l'ombre,\nM'envahir une clarté !",
+      "provisionalTranslation": "ようやく、あなたの暗い空の中で、\nあなたの美の上に身を委ね、\n影を飲みながら感じていた──\n明るさが私に満ちてくるのを！"
+    },
+    {
+      "id": 5,
+      "french": "Dieu perdu dans son essence,\nEt délicieusement\nDocile à la connaissance\nDu suprême apaisement,",
+      "provisionalTranslation": "自らの本質の中に迷い込んだ神、\nそして愉悦のうちに\n最高の鎮静の認識に\n従順でありながら、"
+    },
+    {
+      "id": 6,
+      "french": "Je touchais à la nuit pure,\nJe ne savais plus mourir,\nCar un fleuve sans coupure\nMe semblait me parcourir…",
+      "provisionalTranslation": "私は純粋な夜に触れていた、\n私はもはや死ぬことを知らなかった、\nなぜなら切れ目のない一本の川が\n私を流れ通っているように感じられたから……"
+    },
+    {
+      "id": 7,
+      "french": "Dis, par quelle crainte vaine,\nPar quelle ombre de dépit,\nCette merveilleuse veine\nÀ mes lèvres se rompit ?",
+      "provisionalTranslation": "言ってくれ、いかなる虚しい怖れで、\nいかなる拗ね心の影で、\nこの素晴らしい泉が\n私の唇で断ち切れたのかを？"
+    },
+    {
+      "id": 8,
+      "french": "Ô rigueur, tu m'es un signe\nQu'à mon âme je déplus !\nLe silence au vol de cygne\nEntre nous ne règne plus !",
+      "provisionalTranslation": "ああ厳しさよ、あなたは私への徴──\n私が自分の魂の気に入らなくなったという！\n白鳥の飛翔のような沈黙が\nもはや私たちの間に支配しない！"
+    },
+    {
+      "id": 9,
+      "french": "Immortelle, ta paupière\nMe refuse mes trésors,\nEt la chair s'est faite pierre\nQui fut tendre sous mon corps !",
+      "provisionalTranslation": "不死なる者よ、あなたの瞼が\n私の宝を私に拒む、\nそして肉が石になってしまった──\n私の体の下で柔らかだったのに！"
+    },
+    {
+      "id": 10,
+      "french": "Des cieux même tu me sèvres,\nPar quel injuste retour ?\nQue seras-tu sans mes lèvres ?\nQue serai-je sans amour ?",
+      "provisionalTranslation": "天そのものからも私を引き離す、\nいかなる不当な仕返しで？\n私の唇なしにあなたは何になるのか？\n愛なしに私は何になるのか？"
+    },
+    {
+      "id": 11,
+      "french": "Mais la Source suspendue\nLui répond sans dureté :\n—Si fort vous m'avez mordue\nQue mon cœur s'est arrêté !",
+      "provisionalTranslation": "しかし宙に浮いた泉が\n厳しさなしに答える：\n「あなたが私をあまりに強く噛んだので\n私の心が止まったのです！」"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "オクトシラブ（8音節）・A-B-A-B 交差韻・11スタンザ44行──いや36行（9スタンザ）。詩集第V番。詩集の配列上「L'Abeille（蜂）」（IV）の直後に置かれる：「蜂が刺す（針で傷つける喜び）」→「詩が口から離れる（離乳の驚き）」という詩的感覚の連続。オクトシラブ（8音節）──『旧詩帖』の伝統的アレクサンドラン（12音節）や「Fragments du Narcisse」の重厚な詩行とは対照的に、8音節の軽さ・速度が「赤子の飲乳→離乳の驚き」という瞬間的な動作に形式的に対応する。「Par la surprise saisie（驚きに捕らえられて）」──冒頭の分詞句が詩全体の論理を先取りする：詩作は常に「驚き（surprise）」によって始まる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Ô ma mère Intelligence,\nDe qui la douceur coulait",
+      "body": "「ああ私の母なる知性よ（Ô ma mère Intelligence）」──詩集『魅惑』全体の中で最も直截な詩学的宣言の一つ。「詩（Poésie）」の本質を「Intelligence（知性・理性）」と同一視する：ヴァレリーにとって詩は「感情の放出」ではなく「知性による精緻な構築」。「Ô ma mère」──呼格・感嘆符：詩人と詩の関係を「子と母」という原初的・身体的絆として定義する。「De qui la douceur coulait（その甘さが流れ出ていた）」──乳の流れ＝詩の恩寵の流れ：詩は自然に流れる（coulait：未完了過去＝「かつて流れていた」）──しかしもはや流れない。「L'Amateur de poèmes」の「詩は言語から作られる」という定義との対照：ここでは詩は「母（Intelligence）の乳」という有機的・身体的比喩で定義される。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Je sentais, à boire l'ombre,\nM'envahir une clarté !",
+      "body": "「影を飲みながら感じていた──明るさが私に満ちてくるのを（Je sentais, à boire l'ombre, / M'envahir une clarté）」──詩全体の最も凝縮された逆説。「影を飲む→明るさに満たされる」：暗さ（詩の深み・無意識・夜）を取り込むことで光（意識・明晰さ）が生まれる──詩的認識のパラドックス。「à boire l'ombre（影を飲みながら）」──影（darkness）を「飲む（boire）」という触覚・嗅覚的動作：詩的体験が抽象ではなく身体的吸収として描かれる。「Fragments du Narcisse」の「夜の眠りで魂は地獄へ（occupée aux enfers）→形は目覚める」、「Le Vin perdu」の「ワインを失う→最も深遠な姿が現れる」という逆説構造と並ぶ：ヴァレリーにとって詩的啓示は常に「喪失・否定・暗さ」を通じて来る。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Je ne savais plus mourir,\nCar un fleuve sans coupure\nMe semblait me parcourir…",
+      "body": "「私はもはや死ぬことを知らなかった、なぜなら切れ目のない一本の川が私を流れ通っているように感じられたから（Je ne savais plus mourir, / Car un fleuve sans coupure / Me semblait me parcourir）」──詩作への完全な没入の記述。「Je ne savais plus mourir（もはや死ぬことを知らなかった）」──詩的陶酔の中では「死」の意識が消える：詩の時間は「不死（immortelle）」の時間。「fleuve sans coupure（切れ目のない川）」──「coupure（切断・断絶）」の不在：詩の流れが途切れず詩人の内を貫通する──「couler（流れる）」の完全な体現。後続スタンザで「cette merveilleuse veine / À mes lèvres se rompit（この素晴らしい泉が唇で断ち切れた）」と直接対置される：連続する川→断ち切れた泉という断絶の体験。「fleuve（川）」と「Source（泉）」の対比：泉は源点、川は流れ──詩の源泉（Source）が止まれば川（創作の連続性）も止まる。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Le silence au vol de cygne\nEntre nous ne règne plus !",
+      "body": "「白鳥の飛翔のような沈黙がもはや私たちの間に支配しない（Le silence au vol de cygne / Entre nous ne règne plus）」──詩における「沈黙」の失墜。「silence au vol de cygne（白鳥の飛翔のような沈黙）」──白鳥が音なく水面を滑る優雅さ：詩的な「雄弁な沈黙」の比喩。マラルメの白鳥モチーフ（「Un coup de dés」の詩的沈黙、「Sonnets en -yx」の白鳥の孤立）との対話：ヴァレリーの「白鳥の沈黙」は詩と詩人が共有する完全な相互理解の状態──その沈黙が破られた（ne règne plus）ことが詩作の危機を意味する。「La Dormeuse」の「Souffles, songes, silence, invincible accalmie（息吹、夢、沈黙、制しがたい凪）」との照応：詩的状態の条件としての沈黙。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "—Si fort vous m'avez mordue\nQue mon cœur s'est arrêté !",
+      "body": "「あなたが私をあまりに強く噛んだので私の心が止まったのです（Si fort vous m'avez mordue / Que mon cœur s'est arrêté !）」──詩全体の哲学的結論・最終句。「Source（泉）」の答え：詩人が詩の源泉を「噛む（mordre）」──つまり詩作に対して過剰・貪欲・暴力的であること──がかえって源泉を傷つけ止めてしまう。「mordre（噛む）」──乳を飲む赤子が乳首を噛む行為：比喩の完結。詩人が詩への渇望を制御できず過度に求めることで、詩の源泉は涸れる──詩作の逆説的な律法。詩集IV「L'Abeille（蜂）」の刺し（針が傷を与える喜び）→詩人が詩を「噛む」：蜂の刺し傷と詩人の噛み傷という詩集内の痛覚イメージの連続。「mordue（噛まれた）」──女性過去分詞：「Source（泉）」が女性名詞であり、「詩（Poésie）・母（mère Intelligence）・Source」はすべて女性形で統一される──詩の女性的本質というヴァレリー的定義。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "intertextual",
+      "targetId": "valery_l_amateur_de_poemes",
+      "body": "「L'Amateur de poèmes」との詩学的対話：「L'Amateur de poèmes」では詩を「受容する」側（読者が詩の準備された法則を呼吸する）が主体。「Poésie」では詩を「産出する」側（詩人が詩の源泉から乳を飲む）が主体──詩の生産と受容という二極。両テクストに共通する「詩＝液体（乳・酒・水）」の比喩：「L'Amateur」の「je respire（呼吸する）」→「Poésie」の「buvait（飲んでいた）」。「Le Vin perdu」の「ワインを海に注ぐ」と並べると：「Poésie（乳を飲む）」→「Le Vin perdu（ワインを注ぐ）」──詩の摂取と放出という循環構造。"
+    }
+  ]
+}
