@@ -1,0 +1,78 @@
+{
+  "id": "valery_le_sylphe",
+  "title": "Le Sylphe",
+  "author": "Paul Valéry",
+  "source": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922（詩集第XI番）. 原典照合：fr.wikisource.org/wiki/Le_Sylphe_(Paul_Valéry)（Œuvres, vol.3, N.R.F., 1933, p.137, djvu原本スキャン確認）、poesies.net/paulvalerycharmes.txt、barapoemes.net（全4スタンザ・14行一致）",
+  "year": "1922",
+  "firstPublication": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922（詩集第XI番）",
+  "difficulty": "中級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★☆",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『魅惑（Charmes）』第XI番。ペンタシラブ（5音節）・4スタンザ・14行。詩集中最短の詩の一つ。「シルフ（sylphe）」——ルネサンス期の自然哲学（パラケルスス）が定義した四大精霊の一つ：風・空気の精霊（火＝サラマンダー、水＝ウンディーネ、土＝ノーム）。フランス文学では「見えない・捉えられない・刹那的な存在」の詩的比喩として用いられてきた（ポープ「髪盗賊」等）。詩全体が「Ni vu ni connu（見られず知られず）」という句の4度反復を骨格とする：1回目（生命と死の逆説）・2回目（偶然か天才か）・3回目（理解の不可能性）・4回目（瞬間の肉体的官能）。詩集配列：X「La Pythie（ピュティア）」の後、XII「L'Insinuant（ほのめかすもの）」の前——「ピュティア（神の言葉を伝える預言女）」→「シルフ（見えない風の精霊）」→「ほのめかすもの（蛇のような迂回する言葉）」という「詩的言語の三態」。",
+  "keywords": ["シルフ", "精霊", "瞬間", "風", "無視", "偶然", "天才", "官能", "短詩"],
+  "relatedTexts": [
+    "valery_poesie",
+    "valery_le_vin_perdu",
+    "valery_l_amateur_de_poemes"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Ni vu ni connu\nJe suis le parfum\nVivant et défunt\nDans le vent venu !",
+      "provisionalTranslation": "見られず知られず\n私は香りだ\n生きていて死んでいる\n風に乗って来た！"
+    },
+    {
+      "id": 2,
+      "french": "Ni vu ni connu,\nHasard ou génie ?\nÀ peine venu\nLa tâche est finie !",
+      "provisionalTranslation": "見られず知られず、\n偶然か天才か？\nやっと来たかと思えば\n使命は終わった！"
+    },
+    {
+      "id": 3,
+      "french": "Ni lu ni compris ?\nAux meilleurs esprits\nQue d'erreurs promises !",
+      "provisionalTranslation": "読まれず理解されず？\n最も優れた精神にも\n何と多くの約束された誤りよ！"
+    },
+    {
+      "id": 4,
+      "french": "Ni vu ni connu,\nLe temps d'un sein nu\nEntre deux chemises !",
+      "provisionalTranslation": "見られず知られず、\n二枚のシャツの間で\n裸の胸が見える一瞬！"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "ペンタシラブ（5音節）・4スタンザ14行——詩集『魅惑』中最短の詩の一つ。韻律：スタンザ1・2・4は quatrain（4行、AAAB/AAAB 変形）、スタンザ3は tercet（3行、AAB）——ソネットの14行数と同一だが、構成は3+3+3+5行（スタンザ別）ではなく 4+4+3+3行のソネット的変形ともとれる。5音節という稀な短詩行（仏詩は通常4・6・8・10・12音節が主流）——音節の少なさが詩全体の「刹那性・瞬間性」を形式的に体現する：シルフ（風の精霊）の消え去る速さを5音節が演じる。「Ni vu ni connu（見られず知られず）」の4度反復——ロンドー（rondeau）的な折り返しの変形：「Ni vu ni connu」が毎回異なる文脈で反復されることで、その意味が変化していく（1回目：生死→2回目：偶然/天才→4回目：肉体的刹那）。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Je suis le parfum\nVivant et défunt\nDans le vent venu !",
+      "body": "「私は香りだ、生きていて死んでいる、風に乗って来た（Je suis le parfum / Vivant et défunt / Dans le vent venu）」——シルフの自己定義・第一スタンザの命題。「parfum（香り）」——風で運ばれる無形の存在：見えず、触れられず、しかし感じられる——詩の比喩として完璧。「Vivant et défunt（生きていて死んでいる）」——矛盾した同時的状態：存在しながら消えゆく、生命でありながら消滅でもある。「vent venu（風に乗って来た）」——頭韻（v-v）：音の反復が「風（vent）」の吹き過ぎる音を模倣する。「Poésie」の「fleuve sans coupure（切れ目のない川）」との対比：詩の持続する流れ vs シルフの瞬間的な到来——詩の二つのモード（持続する創造と刹那的霊感）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Hasard ou génie ?\nÀ peine venu\nLa tâche est finie !",
+      "body": "「偶然か天才か？ やっと来たかと思えば使命は終わった（Hasard ou génie ? / À peine venu / La tâche est finie）」——第二スタンザ：詩的霊感の起源の問い。「Hasard ou génie ?（偶然か天才か？）」——詩作の根源をめぐる二項対立：詩は偶然の産物か、天才（創造的知性）の産物か——ヴァレリーの詩学の核心的問い。「L'Amateur de poèmes」の「私は人工的に思考する（je pense par artifice）」、「Poésie」の「詩の源泉（Source）が止まる」との照応：霊感は制御不能（偶然）でありながら技術的構築（天才）でもある——この緊張がヴァレリーの詩学を駆動する。「À peine venu / La tâche est finie（やっと来たかと思えば使命は終わった）」——霊感の極度の短命さ：「tâche est finie（使命は終わった）」という断定的完了形の鋭さ。「Le Vin perdu」の「Perdu ce vin, ivres les ondes（ワインが失われ、波が酔いしれる）」との構造的類似：到来→即座の完了・消滅。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Ni lu ni compris ?\nAux meilleurs esprits\nQue d'erreurs promises !",
+      "body": "「読まれず理解されず？ 最も優れた精神にも何と多くの約束された誤りよ（Ni lu ni compris ? / Aux meilleurs esprits / Que d'erreurs promises !）」——第三スタンザ：シルフ＝詩の理解不可能性の宣言。「Ni lu ni compris ?（読まれず理解されず？）」——「Ni vu ni connu（見られず知られず）」の変奏：「見る・知る」→「読む・理解する」へと意味の次元が移動する。問符（?）が初めて登場：これまでの確言から疑問へ——詩の理解不可能性に対するシルフ自身の驚き？あるいは反語的確認？「Aux meilleurs esprits / Que d'erreurs promises（最も優れた精神にも何と多くの約束された誤りよ）」——知的な読者でさえ詩を誤読する：詩は常に「約束された誤り（erreurs promises）」として読まれる——誤読が詩の本質的運命。「mes vers ont le sens qu'on leur prête（私の詩は読者が与える意味を持つ）」というヴァレリーの有名な言葉の詩的表現。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Le temps d'un sein nu\nEntre deux chemises !",
+      "body": "「二枚のシャツの間で裸の胸が見える一瞬（Le temps d'un sein nu / Entre deux chemises）」——第四スタンザ・最終句：詩全体で最も具体的・肉体的・官能的なイメージ。「Le temps d'un sein nu（裸の胸の時間）」——「時間」を「裸の胸が見える瞬間」として定義する：抽象的な「瞬間」が最も具体的な官能的体験として提示される。「Entre deux chemises（二枚のシャツの間で）」——着替えの瞬間・衣服の隙間から見える裸：これが詩の「Ni vu ni connu（見られず知られず）」の最終的な実例——詩的体験とは「偶然に・一瞬だけ・見えてしまう」もの。詩全体の構造を振り返ると：1回目「Ni vu ni connu」→香り・生死（精神的）、2回目→偶然・天才（創造論的）、3回目（変形：Ni lu ni compris）→理解の不可能性（認識論的）、4回目→裸の胸（肉体的・官能的）——「Ni vu ni connu」の意味が抽象から具体へと段階的に降下する。詩集『魅惑（Charmes）』の題名「charms（魔法・魅惑）」のラテン語語源 carmina（詩・呪文）と「シャツの間の官能」という世俗的イメージの共存——聖なる詩と俗なる官能の同一視という「Charmes」全体のトーンを象徴する一行。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "targetId": "valery_poesie",
+      "body": "「Poésie」との詩集内対話（詩集配列V→XI）：「Poésie」では詩作が「母（Intelligence）の乳を飲む」という持続的・身体的・依存的行為として描かれる——詩作には持続する関係性（母子）が必要。「Le Sylphe」では詩的霊感が「風に乗って来た香り」「やっと来たかと思えば使命は終わった」という瞬間的・自律的・制御不能な到来として描かれる——詩作には偶然（Hasard）が必要。「Poésie」の「fleuve sans coupure（切れ目のない川）」vs「Le Sylphe」の「À peine venu / La tâche est finie（やっと来たかと思えば終わった）」：詩的体験の持続性と瞬間性という相補的な二側面。両詩を並べることで「詩とは何か」をめぐるヴァレリーの両義的な回答が浮かび上がる。"
+    }
+  ]
+}
