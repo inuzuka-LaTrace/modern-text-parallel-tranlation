@@ -1,0 +1,191 @@
+{
+  "id": "valery_premiere_lecon_cours_de_poetique",
+  "title": "Première leçon du Cours de Poétique",
+  "author": "Paul Valéry",
+  "source": "コレージュ・ド・フランス詩学講座開講講義（1937年12月10日）→ Variété V, Nrf, Gallimard, 1944, pp. 295-322. 原典照合：classiques.uqam.ca/classiques/Valery_paul/varietes/Lecon_1_esthetique_Var_V/cours_de_poetique.pdf（全文PDF、Les Classiques des sciences sociales、2002年電子化版）",
+  "year": "1937",
+  "firstPublication": "コレージュ・ド・フランス詩学講座開講講義として1937年12月10日朗読。Variété V, Nrf, Gallimard, 1944, pp. 295-322 に所収",
+  "difficulty": "上級",
+  "category": "valery_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）が66歳でコレージュ・ド・フランスの「詩学（Poétique）」講座に就任した際の開講講義。「詩学（poétique）」という語をアリストテレス以来の規範論（韻律・形式の規則集）から解放し、語源「ポイエイン（poïen）＝つくること」に立ち返って「制作の学（science du faire）」として再定義する。講義は三つの核心論点を展開する：(1)「制作（production）」と「消費（consommation）」の根本的分離──作者と読者は作品に対して両立不可能な関係をもつ；(2)「精神の作品は行為においてのみ存在する（l'œuvre de l'esprit n'existe qu'en acte）」──作品は紙上の記号ではなく実行・遂行の中にある；(3)「行為が不定義なものに接触する（l'action vient au contact de l'indéfinissable）」──制作は意志的行為と言語化不可能な内的状態の衝突として成立する。ヴァレリーの批評散文三作（「ボードレールの地位」・「マラルメへの手紙」・本作）の中で最も体系的・哲学的な論考であり、詩作品群「Charmes」の理論的総括として位置づけられる。",
+  "keywords": ["詩学", "制作の学", "ポイエイン", "制作と消費", "精神の作品", "行為", "不定義なもの", "意識", "拒絶", "コレージュ・ド・フランス"],
+  "relatedTexts": [
+    "valery_lettre_sur_mallarme",
+    "valery_situation_de_baudelaire",
+    "valery_l_amateur_de_poemes",
+    "valery_poesie",
+    "valery_le_sylphe",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Mon premier soin doit être d'expliquer ce nom de « Poétique » que j'ai restitué, dans un sens tout primitif, qui n'est pas celui de l'usage. Il m'est venu à l'esprit et m'a paru le seul convenable pour désigner le genre d'étude que je me propose de développer dans ce Cours.\nOn entend ordinairement ce terme de tout exposé ou recueil de règles, de conventions ou de préceptes concernant la composition des poèmes lyriques et dramatiques ou bien la construction des vers. Mais on peut trouver qu'il a assez vieilli dans ce sens avec la chose même, pour lui donner un autre emploi.",
+      "provisionalTranslation": "私がまず取り組まなければならないのは、「詩学（Poétique）」というこの名称を説明することです──私が通常の用法とは異なる、まったく原初的な意味において復活させたこの名称を。それは私の頭に浮かび、このコースで展開しようと企てる研究の種類を指すのに唯一適切だと思われました。\nこの語は通常、抒情詩と劇詩の構成あるいは詩行の構築に関する規則・慣例・訓戒の説明または集成全般を指すものとして理解されています。しかしこの意味においてその語はそのものと共に十分に古びてしまっているので、別の用法を与えることができるでしょう。"
+    },
+    {
+      "id": 2,
+      "originalText": "Tous les arts admettaient, naguère, d'être soumis chacun selon sa nature, à certaines formes ou modes obligatoires qui s'imposaient à toutes les œuvres du même genre, et qui pouvaient et devaient s'apprendre, comme l'on fait la syntaxe d'une langue. On ne consentait pas que les effets qu'une œuvre peut produire, si puissants ou si heureux fussent-ils, fussent des gages suffisants pour justifier cet ouvrage et lui assurer une valeur universelle. Le fait n'emportait pas le droit.\nMais, qu'on le déplore ou qu'on s'en réjouisse, l'ère d'autorité dans les arts est depuis assez longtemps révolue, et le mot « Poétique » n'éveille guère plus que l'idée de prescriptions gênantes et surannées. J'ai donc cru pouvoir le reprendre dans un sens qui regarde à l'étymologie, sans oser cependant le prononcer Poïétique — c'est enfin la notion toute simple de faire que je voulais exprimer. Le faire, le poïen, dont je veux m'occuper, est celui qui s'achève en quelque œuvre et que je viendrai à restreindre bientôt à ce genre d'œuvres qu'on est convenu d'appeler œuvres de l'esprit. Ce sont celles que l'esprit veut se faire pour son propre usage, en employant à cette fin tous les moyens physiques qui lui peuvent servir.",
+      "provisionalTranslation": "かつてはあらゆる芸術が、その性質に応じて、同一ジャンルのすべての作品に課されるある種の義務的形式や様式に従うことを認めていた──そしてそれは言語の統語法を習得するように、学ぶことができ、学ばなければならないものでした。作品が生み出しうる効果は、それがどれほど力強く幸いなものであっても、その作品を正当化し普遍的価値を保証するのに十分な担保とはなりえないとされていた。事実は権利を含意しない。\nしかし嘆くにせよ喜ぶにせよ、芸術における権威の時代はかなり前から終わっており、「詩学」という語は煩わしい時代遅れの規定という観念しか呼び起こしません。それゆえ私は語源を参照する意味でこの語を取り戻せると考えました──私が表現したかったのは「つくること」というまったく単純な概念です。私が取り組もうとするこの「つくること」、「ポイエイン」は、何らかの作品において完結するものであり、まもなく精神の作品と呼ばれる慣習のある種類の作品へと限定していきます。それは精神が自らの用のために作ろうとするもの──そのために役立てうるあらゆる物理的手段を用いて。"
+    },
+    {
+      "id": 3,
+      "originalText": "C'est en ce point, Messieurs, que ma tâche doit se différencier nécessairement de celle qu'accomplit d'une part l'Histoire de la Littérature, d'autre part la Critique des textes et celle des ouvrages.\nL'Histoire de la Littérature recherche les circonstances extérieurement attestées dans lesquelles les ouvrages furent composés, se manifestèrent et produisirent leurs effets. Elle nous renseigne sur les auteurs, sur les vicissitudes de leur vie et de leur œuvre, en tant que choses visibles et qui ont laissé des traces que l'on puisse relever, coordonner, interpréter. Elle recueille les traditions et les documents.\nMais la connaissance des auteurs et de leur temps, l'étude de la succession des phénomènes littéraires ne peut que nous exciter à conjecturer ce qui a pu se passer dans l'intime de ceux qui ont fait ce qu'il a fallu pour obtenir d'être inscrits dans les fastes de l'Histoire des Lettres.",
+      "provisionalTranslation": "この点において、諸君、私の課題は一方では文学史が、他方では文献批評と作品批評が果たすものとは必然的に異なるものでなければなりません。\n文学史は、作品が構成され、現れ、その効果を生み出した外部から証明された状況を探究します。それは著者について、彼らの生と作品の変遷について、可視的な事柄として、跡づけ・座標づけ・解釈できる痕跡を残したものとして教えてくれます。それは伝承と文書を収集します。\nしかし著者とその時代の知識、文学的諸現象の継起の研究は、文学史の年代記に記録されるために必要なことをなした人々の内面で何が起こり得たかを推測する興奮をもたらすに過ぎません。"
+    },
+    {
+      "id": 4,
+      "originalText": "Je viens de prononcer les mots de « valeur » et de « production ». Je m'y arrête un instant.\nSi l'on veut entreprendre l'exploration du domaine de l'esprit créateur, il ne faut pas craindre de se tenir d'abord dans les considérations les plus générales. C'est pourquoi je fais la remarque de cet emprunt de quelques mots à l'Économie : il me sera peut-être commode d'assembler sous les seuls noms de production et de producteur, les diverses activités et les divers personnages dont nous aurons à nous occuper, si nous voulons traiter de ce qu'ils ont de commun, sans distinguer entre leurs différentes espèces. Il ne sera pas moins commode avant de spécifier que l'on parle de lecteur ou d'auditeur ou de spectateur, de confondre tous ces suppôts des œuvres de tous genres, sous le nom économique de consommateur.\nQuant à la notion de valeur, on sait bien qu'elle joue dans l'univers de l'esprit un rôle de premier ordre, comparable à celui qu'elle joue dans le monde économique, quoique la valeur spirituelle soit beaucoup plus subtile que l'économique, puisqu'elle est liée à des besoins infiniment plus variés et non dénombrables.",
+      "provisionalTranslation": "私は今「価値」と「制作（production）」という語を発しました。しばらくここで立ち止まります。\n創造的精神の領域の探究に乗り出そうとするならば、まず最も一般的な考察に留まることを恐れてはなりません。それゆえ私は経済学からいくつかの語を借りることを指摘します──制作と制作者という名のみの下に、それらが共通してもつものを扱おうとするなら、それらの異なる種類を区別することなく、私たちが取り組むべき様々な活動と様々な人物を集めることが便利かもしれません。読者か聴衆か観客かを特定する前に、あらゆるジャンルの作品のすべての受容者を「消費者（consommateur）」という経済的名称の下に一括するのも同様に便利でしょう。\n価値という概念については、経済世界においてそれが果たすものに比肩しうる第一級の役割を精神の宇宙においても果たすことは周知ですが、精神的価値は経済的価値よりはるかに微妙です──それは無限に多様で数え上げることのできない必要に結びついているのですから。"
+    },
+    {
+      "id": 5,
+      "originalText": "Nous devons nous astreindre à séparer très soigneusement notre recherche de la génération d'une œuvre, de notre étude de la production de sa valeur, c'est-à-dire des effets qu'elle peut engendrer ici ou là, dans telle ou telle tête, à telle ou telle époque.\nIl suffit, pour le démontrer, de remarquer que ce que nous pouvons véritablement savoir ou croire savoir en tous domaines, n'est autre chose que ce que nous pouvons ou observer ou faire nous-mêmes, et qu'il est impossible d'assembler dans un même état et dans une même attention, l'observation de l'esprit qui produit l'ouvrage, et l'observation de l'esprit qui produit quelque valeur de cet ouvrage. Il n'y a pas de regard capable d'observer à la fois ces deux fonctions ; producteur et consommateur sont deux systèmes essentiellement séparés. L'œuvre est pour l'un le terme ; pour l'autre, l'origine de développements qui peuvent être aussi étrangers que l'on voudra, l'un à l'autre.\nIl faut en conclure que tout jugement qui annonce une relation à trois termes, entre le producteur, l'œuvre et le consommateur, est un jugement illusoire qui ne peut recevoir aucun sens et que la réflexion ruine à peine elle s'y applique.",
+      "provisionalTranslation": "私たちは作品の生成の探究と、その価値の産出の研究──すなわちそれがここかしこで、どの頭の中で、どの時代に生み出しうる効果──とを非常に注意深く分離するよう努めなければなりません。\nそれを示すには、私たちがあらゆる領域において真に知りうると信じうるものは、自分自身が観察しうるかなしうるものに他ならず、作品を制作する精神の観察と、その作品のある価値を産出する精神の観察とを同一の状態と同一の注意の中に集めることは不可能だ、と指摘するだけで十分です。これら二つの機能を同時に観察できる視点はありません。制作者と消費者は本質的に分離した二つのシステムです。作品は前者にとっては終点であり、後者にとっては、互いに望むだけ無縁でありうる発展の起点です。\nゆえに結論しなければなりません──制作者・作品・消費者の間の三項関係を宣言するすべての判断は、いかなる意味も受け取れず、反省がそれに適用されるやいなや崩壊する幻想的判断だということを。"
+    },
+    {
+      "id": 6,
+      "originalText": "Telle œuvre, par exemple, est le fruit de longs soins, et elle assemble une quantité d'essais, de reprises, d'éliminations et de choix. Elle a demandé des mois et même des années de réflexion, et elle peut supposer aussi l'expérience et les acquisitions de toute une vie. Or, l'effet de cette œuvre se déclarera en quelques instants. Un coup d'œil suffira à apprécier un monument considérable, à en ressentir le choc. En deux heures, tous les calculs du poète tragique, tout le labeur qu'il a dépensé pour ordonner sa pièce et en former un à un chaque vers ; ou bien toutes les combinaisons d'harmonie et d'orchestre qu'a construites le compositeur ; ou bien toutes les méditations du philosophe et les années pendant lesquelles il a retardé, retenu ses pensées, attendant qu'il en aperçoive et en accepte l'ordonnance définitive, tous ces actes de foi, tous ces actes de choix, toutes ces transactions mentales viennent enfin à l'état d'œuvre faite, frapper, étonner, éblouir ou déconcerter l'esprit de l'Autre, brusquement soumis à l'excitation de cette charge énorme de travail intellectuel. Il y a là une action de démesure.",
+      "provisionalTranslation": "たとえばある作品は、長い心配りの果実であり、多くの試み・再試行・淘汰・選択を集積しています。それは数ヶ月、さらには数年の省察を要し、生涯の経験と習得をも前提とするかもしれない。ところが、この作品の効果は数瞬のうちに宣言されます。ひと目で相当な記念碑を鑑賞し、その衝撃を感じ取るに足る。二時間で、悲劇詩人のすべての計算、その劇の秩序付けと各詩行の形成に費やしたすべての労苦；あるいは作曲家が構築したすべての和声と管弦楽の組み合わせ；あるいは哲学者のすべての省察と、最終的な配列を見出し受け入れるのを待って思想を遅らせ引き止めた諸年──これらすべての信の行為、選択の行為、精神的取引が、ついに完成した作品の状態となって、この膨大な知的作業の荷重の興奮に突然さらされた他者の精神を打ち、驚かせ、眩惑させ、あるいは当惑させます。そこには過剰な作用があります。"
+    },
+    {
+      "id": 7,
+      "originalText": "Supposons, au contraire, le grand effet produit. Les personnes qui l'ont subi et qui ont été comme accablées par la puissance, par les perfections, par le nombre des coups heureux, des belles surprises accumulées, ne peuvent, ni ne doivent, se figurer tout le travail interne, les possibilités égrenées, les longs prélèvements d'éléments favorables, les raisonnements délicats dont les conclusions prennent l'apparence de divinations, en un mot, la quantité de vie intérieure qui fut traitée par le chimiste de l'esprit producteur ou triée dans le chaos mental par un démon à la Maxwell.\nCe que l'œuvre nous produit alors est incommensurable avec nos propres facultés de production instantanée. D'ailleurs, certains éléments de l'ouvrage qui sont venus à l'auteur par quelque hasard favorable, seront attribués à une vertu singulière de son esprit. C'est ainsi que le consommateur devient producteur à son tour : producteur, d'abord, de la valeur de l'ouvrage ; et ensuite, producteur de la valeur de l'être imaginaire qui a fait ce qu'il admire.\nPeut-être, si les grands hommes étaient aussi conscients qu'ils sont grands, il n'y aurait pas de grands hommes pour soi-même.",
+      "provisionalTranslation": "逆に、大きな効果が生み出されたとしましょう。その効果を被り、力・完璧さ・幸運な打撃の数・集積された美しい驚きによって圧倒されたような人々は、すべての内的作業、費やされた可能性、有利な要素の長い取り出し、その結論が天啓の様相をとる繊細な推論を、一言でいえば、制作する精神という化学者によって処理されるか、マクスウェルの悪魔によって精神の混沌から選別された内的生の量を、想像することはできず、すべきでもありません。\n作品が私たちに産出するものは、私たち自身の瞬時の産出能力とは比較しえないのです。さらに、何らかの好運な偶然によって著者に訪れた作品のいくつかの要素は、彼の精神の特異な徳に帰されるでしょう。こうして消費者は今度は制作者になります──まず作品の価値の制作者となり、ついで自らが賞賛するものを作った想像上の存在の価値の制作者となります。\nおそらく、偉大な人物が自らの偉大さと同じほど意識的であるなら、自分自身にとっての偉大な人物は存在しなかったでしょう。"
+    },
+    {
+      "id": 8,
+      "originalText": "En résumé, quand nous parlons d'œuvres de l'esprit, nous entendons, ou bien le terme d'une certaine activité, ou bien l'origine d'une certaine autre activité et cela fait deux ordres de modifications incommunicables dont chacun nous demande une accommodation spéciale incompatible avec l'autre.\nReste l'œuvre même, en tant que chose sensible. C'est là une troisième considération, bien différente des deux autres.\nNous regardons alors une œuvre comme un objet, purement objet, c'est-à-dire sans y rien mettre de nous-mêmes que ce qui se peut appliquer indistinctement à tous les objets : attitude qui se marque assez par l'absence de toute production de valeur.\nTout ce que j'ai dit jusqu'ici se resserre en ces quelques mots : l'œuvre de l'esprit n'existe qu'en acte. Hors de cet acte, ce qui demeure n'est qu'un objet qui n'offre avec l'esprit aucune relation particulière. Transportez la statue que vous admirez chez un peuple suffisamment différent du nôtre : elle n'est qu'une pierre insignifiante. Un Parthénon n'est qu'une petite carrière de marbre.",
+      "provisionalTranslation": "要するに、精神の作品について語るとき、私たちはある活動の終点を意味するか、別のある活動の起点を意味するかであり、これは互いに非伝達的な変容の二つの秩序をなし、それぞれが他と両立不可能な特殊な適応を私たちに要求します。\n感覚的なものとしての作品そのものが残ります。これは他の二つとはまったく異なる第三の考察です。\n私たちはそのとき作品を対象として、純粋な対象として──すなわちすべての対象に無差別に適用しうるもの以外には自分自身の何ものも持ち込まずに──眺めます。その態度はあらゆる価値産出の欠如によって十分に特徴づけられます。\n私がここまで述べてきたことはすべてこの数語に凝縮されます──精神の作品は行為においてのみ存在する。この行為の外では、残るものは精神と何ら特別な関係をもたない対象に過ぎません。あなたが賞賛する彫像を私たちとは十分に異なる民族のもとへ移してみてください──それはただの無意味な石に過ぎません。パルテノンはほんのわずかな大理石の採石場に過ぎない。"
+    },
+    {
+      "id": 9,
+      "originalText": "Un poème sur le papier n'est rien qu'une écriture soumise à tout ce qu'on peut faire d'une écriture. Mais parmi toutes ses possibilités, il en est une, et une seule, qui place enfin ce texte dans les conditions où il prendra force et forme d'action. Un poème est un discours qui exige et qui entraîne une liaison continuée entre la voix qui est et la voix qui vient et qui doit venir. Et cette voix doit être telle qu'elle s'impose, et qu'elle excite l'état affectif dont le texte soit l'unique expression verbale. Otez la voix et la voix qu'il faut, tout devient arbitraire. Le poème se change en une suite de signes qui ne sont liés que pour être matériellement tracés les uns après les autres.\nC'est l'exécution du poème qui est le poème. En dehors d'elle, ce sont des fabrications inexplicables, que ces suites de paroles curieusement assemblées.",
+      "provisionalTranslation": "紙上の詩は、ある書記に対してなしうるすべてのことに従属する書記に過ぎません。しかしそのすべての可能性の中に、ただひとつだけ、そのテキストをついに行為の力と形式をとる条件の中に置くものがあります。詩は、今ある声と来るべき声との継続された結びつきを要求し引き起こす言説です。そしてその声は、自らを押しつけ、テキストがその唯一の言語的表現であるような情感的状態を興奮させるようなものでなければならない。声と必要な声を取り去れば、すべては恣意的になります。詩は物質的に次々と描き記されるためにのみ結びついた記号の連続に変わります。\n詩であるのは詩の執行（exécution）です。その外では、これらの奇妙に組み合わされた語の連続は、説明不可能な人工物に過ぎません。"
+    },
+    {
+      "id": 10,
+      "originalText": "Par ces motifs, je ne cesserai de condamner la pratique détestable qui consiste à abuser des œuvres les mieux faites pour créer, et développer le sentiment de la poésie chez les jeunes gens, à traiter les poèmes comme des choses, à les découper comme si la composition n'était rien, à souffrir, sinon à exiger, qu'ils soient récités de la sorte que l'on sait, employés comme épreuves de mémoire ou d'orthographe ; en un mot, à faire abstraction de l'essentiel de ces ouvrages, de ce qui fait qu'ils sont ce qu'ils sont, et non tout autres, et qui leur donne leur vertu propre et leur nécessité.\nLes œuvres de l'esprit, poèmes ou autres, ne se rapportent qu'à ce qui fait naître ce qui les fit naître elles-mêmes, et absolument à rien d'autre.",
+      "provisionalTranslation": "これらの理由から私は、最もよく作られた作品を乱用して若者に詩の感性を作り発展させ、詩を物として扱い、構成が何でもないかのように切り刻み、周知の方法で朗読されるのを許すかそれを要求し、記憶や正書法の試験として使う──一言でいえば、これらの作品の本質を、それらをそれであるものにし他のものではなくしているものを、それら固有の徳と必然性を与えているものを捨象する──この忌まわしい慣行を批判し続けるつもりです。\n精神の作品は──詩であれ他のものであれ──それら自身を生み出したものを生み出すものにのみ関係し、絶対に他の何ものにも関係しません。"
+    },
+    {
+      "id": 11,
+      "originalText": "Parmi ces œuvres, l'usage crée une catégorie dite des œuvres d'art. Il n'est pas très facile de préciser ce terme, si toutefois il est besoin de le préciser. D'abord je ne distingue rien, dans la production des œuvres, qui me contraigne nettement à créer une catégorie de l'œuvre d'art. Je trouve un peu partout, dans les esprits, de l'attention, des tâtonnements, de la clarté inattendue et des nuits obscures, des improvisations et des essais. Artistes, savants, tous s'identifient dans le détail de cette vie étrange de la pensée.\nMais si l'on porte le regard sur les effets des œuvres faites, on découvre chez certaines une particularité qui les groupe et qui les oppose à toutes les autres. Tel ouvrage que nous avons mis à part se divise en parties entières, dont chacune comporte de quoi créer un désir et de quoi le satisfaire. L'œuvre nous offre dans chacune de ses parties, à la fois l'aliment et l'excitant. Elle éveille continuellement en nous une soif et une source. En récompense de ce que nous lui cédons de notre liberté, elle nous donne l'amour de la captivité qu'elle nous impose et le sentiment d'une sorte délicieuse de connaissance immédiate.",
+      "provisionalTranslation": "これらの作品の中から、慣習は芸術作品と呼ばれるカテゴリーを作り出します。この語を精確にすることは、そうする必要があるにしても、あまり容易ではありません。まず私は、作品の制作において、芸術作品のカテゴリーを作り出すことを明確に強いるものを何も見出しません。精神においてあちこちに、注意・試行錯誤・予期せぬ明晰さと暗夜・即興と試みを見出します。芸術家も科学者も、思想のこの奇妙な生の細部において同一のものを見出します。\nしかし完成した作品の効果に目を向けると、いくつかの作品に、それらを一括しすべての他のものと対立させる特殊性が発見されます。私たちが際立てたその作品は完全な部分に分かれており、各部分が欲望を作り出すものとそれを満たすものとを含んでいます。作品はその各部分において、食物と興奮剤の両方を私たちに提供します。それは継続的に私たちの中に渇きと泉を目覚めさせます。自由を譲り渡すことへの報酬として、それは私たちが課される捕囚の愛と、ある種の甘美な即座の認識の感覚を与えます。"
+    },
+    {
+      "id": 12,
+      "originalText": "Il est étrange que l'on s'évertue à former un discours qui doive observer des conditions simultanées parfaitement hétéroclites : musicales, rationnelles, significatives, suggestives, et qui exigent une liaison suivie ou entretenue entre un rythme et une syntaxe, entre le son et le sens.\nCes parties sont sans relations concevables entre elles. Il nous faut donner l'illusion de leur intimité profonde. À quoi bon tout ceci ? L'observance des rythmes, des rimes, de la mélodie verbale gêne les mouvements directs de ma pensée, et voici que je ne peux plus dire ce que je veux... Mais qu'est-ce donc que je veux ? Voilà la question.\nOn conclut qu'il faut ici vouloir ce que l'on doit vouloir, pour que la pensée, le langage et ses conventions, qui sont empruntées à la vie extérieure, le rythme et les accents de la voix qui sont directement choses de l'être, s'accordent, et cet accord exige des sacrifices réciproques dont le plus remarquable est celui que doit consentir la pensée.",
+      "provisionalTranslation": "まったく異質な同時条件──音楽的・合理的・意味的・示唆的──を守るべき言説を形成しようと努め、リズムと統語法の間、音と意味の間の継続的または持続的な結びつきを要求するのは奇妙なことです。\nこれらの部分の間には想像しうる関係がありません。それらの深い親密さの幻想を与えなければならない。これすべてに何の意味があるのか。リズム・韻・言語的旋律の遵守は私の思考の直接的な動きを妨げ、私はもはや自分が望むことを言えない……しかし私が望むこととは何なのか。それが問題です。\nここでは望むべきことを望まなければならない、という結論になります──思考と、外的生活から借りてきたその慣習としての言語と、直接的に存在のことがらであるリズムと声のアクセントとが一致するために。そしてこの一致は相互の犠牲を要求しますが、最も注目すべき犠牲は思考が同意しなければならないものです。"
+    },
+    {
+      "id": 13,
+      "originalText": "J'expliquerai un jour comment cette altération se marque dans le langage des poètes, et qu'il y a un langage poétique dans lequel les mots ne sont plus les mots de l'usage pratique et libre. Ils ne s'associent plus selon les mêmes attractions ; ils sont chargés de deux valeurs simultanément engagées et d'importance équivalente : leur son et leur effet psychique instantané. Ils font songer alors à ces nombres complexes des géomètres, et l'accouplement de la variable phonétique avec la variable sémantique engendre des problèmes de prolongement et de convergence que les poètes résolvent les yeux bandés, — mais ils les résolvent (et c'est là l'essentiel), de temps à autre.\nDe Temps à Autre, voilà le grand mot ! Voilà l'incertitude, voilà l'inégalité des moments et des individus. C'est là notre fait capital.",
+      "provisionalTranslation": "この変容が詩人の言語においてどのように刻まれるか、そして語が実用的で自由な用法の語ではもはやない詩的言語があることを、いつか説明しましょう。それらはもはや同じ引力に従って結合しない。それらは同時に機能し等価な重要性をもつ二つの価値を担っています──その音と即座の心理的効果です。それらは幾何学者の複素数を想起させ、音韻変数と意味変数の組み合わせは、詩人が目隠しをして解く延長と収束の問題を生み出します──しかし彼らはそれを解きます（それが本質です）、時折。\n「時折（De Temps à Autre）」──これが大きな語です。不確実性、瞬間と個人の不平等がここにある。それが私たちの根本的な事実です。"
+    },
+    {
+      "id": 14,
+      "originalText": "Tout ceci se résume en cette formule que : dans la production de l'œuvre, l'action vient au contact de l'indéfinissable.\nUne action volontaire qui, dans chacun des arts, est très composée, qui peut exiger de longs travaux, des attentions des plus abstraites, des connaissances très précises, vient s'adapter dans l'opération de l'art à un état de l'être qui est tout à fait irréductible en soi, à une expression finie, qui ne se rapporte à aucun objet localisable, que l'on puisse déterminer, et atteindre par un système d'actes uniformément déterminés ; et ceci aboutissant à cette œuvre, dont l'effet doit être de reconstituer chez quelqu'un un état analogue, — je ne dis pas semblable (puisque nous n'en saurons jamais rien), — mais analogue à l'état initial du producteur.\nAinsi d'une part l'indéfinissable, d'autre part une action nécessairement finie ; d'une part un état, parfois une seule sensation productrice de valeur et d'impulsion, état dont le seul caractère est de ne correspondre à aucun terme fini de notre expérience ; d'autre part, l'acte, c'est-à-dire la détermination essentielle, puisqu'un acte est une échappée miraculeuse hors du monde fermé du possible, et une introduction dans l'univers du fait.",
+      "provisionalTranslation": "これらすべてはこの定式に要約されます──作品の制作において、行為は不定義なものと接触する。\n各芸術において非常に複合的な、長い作業・最も抽象的な注意・非常に精確な知識を要求しうる意志的行為が、芸術の操作において、それ自体としては有限の表現に絶対に還元不可能な、いかなる定位可能な対象にも関係しない、均一に決定された行為システムによって到達しうる存在の状態に適応します。そしてこれが──制作者の初期状態に類似した──類似の状態を誰かの中に再構成する効果をもつべきその作品に行き着きます。私は同一（semblable）とは言いません（なぜなら私たちはそれについて決して何も知りえないのですから）──しかし類似（analogue）の。\nこうして一方では不定義なもの、他方では必然的に有限の行為；一方では状態、時に価値と衝動を産出するただひとつの感覚──その唯一の特性が私たちの経験のいかなる有限の項にも対応しないという状態；他方では行為──すなわち本質的決定、なぜなら行為とは可能なものの閉じた世界からの奇跡的な逃走であり、事実の宇宙への導入だからです。"
+    },
+    {
+      "id": 15,
+      "originalText": "Dès que l'esprit est en cause, tout est en cause ; tout est désordre, et toute réaction contre le désordre est de même espèce que lui. C'est que ce désordre est d'ailleurs la condition de sa fécondité : il en contient la promesse, puisque cette fécondité dépend de l'inattendu plutôt que de l'attendu, et plutôt de ce que nous ignorons, et parce que nous l'ignorons, que de ce que nous savons.\nComment en serait-il autrement ? Le domaine que j'essaye de parcourir est illimité, mais tout se réduit aux proportions humaines aussitôt que l'on prend garde de s'en tenir à sa propre expérience, aux observations que soi-même on a faites, aux moyens qu'on a éprouvés. Je m'efforce de n'oublier jamais que chacun est la mesure des choses.",
+      "provisionalTranslation": "精神が問題になるとすぐに、すべてが問題になります。すべては無秩序であり、無秩序に対するすべての反応は無秩序と同一の種類のものです。なぜなら、この無秩序はまた豊かさの条件でもあるから──それは豊かさの予約を含んでいます。なぜならその豊かさは、予期されるものよりも予期されないものに、私たちが知ることよりも、私たちが知らないこと、そしてそれを知らないゆえに依存するのですから。\nどうしてそうでないことがありましょう。私が踏破しようとする領域は無限ですが、自分自身の経験、自分自身がなした観察、自分が試みた手段に留まることに気をつけるやいなや、すべては人間的な比率に還元されます。私は決して、各人が万物の尺度であることを忘れないよう努めます。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "c'est enfin la notion toute simple de faire que je voulais exprimer. Le faire, le poïen",
+      "body": "「つくること、ポイエイン（le faire, le poïen）」──「詩学（Poétique）」の語源的再定義。ギリシャ語「poïein（ποιεῖν）」は「つくる・制作する」の意。アリストテレス『詩学（Peri Poietikes）』以来の用法──韻律・様式の規範論──をヴァレリーは廃棄し、「制作一般の学」として再建する。「精神の作品（œuvres de l'esprit）」：詩・音楽・造形芸術・哲学的著作まで含む「精神が自らの用のために作るもの」全般。「poïétique」（ヴァレリーは「生理学が血液産生機能や乳汁産生機能を語るときのように」と断りつつあえてこの綴りを避けた）──現代のフランス語批評理論では「poïétique」という語が芸術創作学の意味で定着しており、ヴァレリーのこの講義がその源泉となった。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "ma tâche doit se différencier nécessairement de celle qu'accomplit d'une part l'Histoire de la Littérature, d'autre part la Critique des textes",
+      "body": "「私の課題は文学史とも文献批評とも必然的に異なる（ma tâche doit se différencier nécessairement de celle qu'accomplit d'une part l'Histoire de la Littérature, d'autre part la Critique des textes）」──三つの文学的アプローチの区別の宣言。文学史：外的証言された状況（著者の生・作品の来歴）を研究する→「外的歴史」。文献批評・作品批評：テキストを対象として、モデルとの照合（文法的正確さ・出典調査・解釈）──これは「作品を物として扱う」姿勢で、後続§10の「忌まわしい慣行」と連続する。詩学：「制作の内的過程」を研究する──外的歴史でも対象分析でもなく「精神がいかに作るか」の探究。「Lettre sur Mallarmé」の影響論（「modification progressive d'un esprit par l'œuvre d'un autre」）と対応：「Lettre」が師弟間の影響を「詩学」の前景として示すなら、本講義はその問いを「すべての制作の普遍的構造」へと抽象化する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "producteur et consommateur",
+      "body": "「制作者と消費者（producteur et consommateur）」──経済学からの語の借用による詩学の概念装置。ヴァレリーが意識的に「経済学の語彙」を詩学に導入した理由：「最も一般的な考察（considérations les plus générales）」から出発することで、詩・音楽・造形芸術・哲学を統一的に扱える。「価値（valeur）」：精神の領域でも経済の領域と同様に「稀少性・非模倣性・持続性」が価値を決める──「イリアスと金は同様に稀少で非模倣的」。「作品の価値産出（production de valeur）」はすでに消費者の精神の内部で起きる制作──読者も「制作者」であり、「作者が作ったものの価値」を能動的に産出する。この図式は「Lettre sur Mallarmé」の「難解な著者」論（読者が知的努力を払うことで詩の価値に参加する）の理論的定式化。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "producteur et consommateur sont deux systèmes essentiellement séparés",
+      "body": "「制作者と消費者は本質的に分離した二つのシステム（producteur et consommateur sont deux systèmes essentiellement séparés）」──詩学の根本公理。「作品は前者にとっては終点であり、後者にとっては起点（L'œuvre est pour l'un le terme ; pour l'autre, l'origine）」：同一の作品が二つの非対称的な関係の節点となる。「三項関係の判断は幻想的（tout jugement qui annonce une relation à trois termes…est un jugement illusoire）」：作者の意図と読者の解釈を結びつける「正確な読み」という概念を根本的に否定。これは「Situation de Baudelaire」での詩の定義──「詩は内的な歌の状態を生み出す（reconstituer…un état analogue）」──の論理的基盤：読者に生じる状態は「類似（analogue）」であっても「同一（semblable）」ではない（§14）。後のロラン・バルト「著者の死」（1968）の先取り的定式でもある。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Il y a là une action de démesure.",
+      "body": "「そこには過剰な作用がある（Il y a là une action de démesure）」──制作時間と受容時間の根本的非対称の定式。「年月の制作 vs 瞬間の効果」：制作者が数年費やした作品が、消費者には「二時間」または「ひと目」で体験される──これは「過剰（démesure）」だがそれが芸術の本質的条件。「まるで数段ずつ運び上げられた大きな質量が数秒で崩落するような効果（comparer cet effet à celui de la chute en quelques secondes d'une masse que l'on aurait élevée, fragment par fragment, au haut d'une tour）」──制作と消費の時間的落差の比喩。「Lettre sur Mallarmé」の「作品は可逆的なものから時間へと落下する（Elle tombe du réversible dans le Temps）」との直接的照応：制作の「可逆的時間（内的省察）」と、完成の「不可逆的時間（受容）」の断絶。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Peut-être, si les grands hommes étaient aussi conscients qu'ils sont grands, il n'y aurait pas de grands hommes pour soi-même.",
+      "body": "「おそらく、偉大な人物が自らの偉大さと同じほど意識的であるなら、自分自身にとっての偉大な人物は存在しなかったでしょう（Peut-être, si les grands hommes étaient aussi conscients qu'ils sont grands, il n'y aurait pas de grands hommes pour soi-même）」──消費者が「制作者の想像的価値」を産出するという逆説の極致。消費者は偶然に由来する要素を「著者の特異な徳（vertu singulière de son esprit）」に帰す──神話化。完全に意識的な制作者なら、自らの偶然性を知っており「自分が偉大だ」とは思えない。「Lettre sur Mallarmé」の中心命題「意識的な弱い作品を好む（j'aimerais infiniment mieux écrire en toute conscience…quelque chose de faible）」との照応──意識的制作者は「偉大な人物の神話」を解体する。「Situation de Baudelaire」でのポー評「明晰さの悪魔（le démon de la lucidité）」：偉大な詩人が完全に意識的（lucide）であるならば、「偉大さの幻想」は消える──しかしその明晰さ自体が偉大さの証拠だというパラドックス。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "l'œuvre de l'esprit n'existe qu'en acte.",
+      "body": "「精神の作品は行為においてのみ存在する（l'œuvre de l'esprit n'existe qu'en acte）」──この講義全体の最も有名な命題（Pléiade版p.1403に凝縮された定式として参照）。「行為（acte）」：読む・演奏する・見る・聞くという受容行為──「紙の上の詩」ではなく「声で実行される詩」。「パルテノンはほんのわずかな大理石の採石場に過ぎない（Un Parthénon n'est qu'une petite carrière de marbre）」──文脈・共同体・解釈実践を失えば最高の芸術作品も「物質」に還元される。「詩の執行（l'exécution du poème）が詩である（§9）」との連続：「act」としての詩は「物（chose）」としての詩ではない──これはテキスト学から遂行的詩学（poétique performative）への転換。「Lettre sur Mallarmé」での「マラルメの詩の結晶性（cristaux）・屈折性（réfringence）」──マラルメの詩はまさに「行為においてのみ」輝く：読む行為の中で「光を屈折」させる。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Un poème est un discours qui exige et qui entraîne une liaison continuée entre la voix qui est et la voix qui vient et qui doit venir.",
+      "body": "「詩は、今ある声と来るべき声との継続された結びつきを要求し引き起こす言説（Un poème est un discours qui exige et qui entraîne une liaison continuée entre la voix qui est et la voix qui vient et qui doit venir）」──詩の定義の最も厳密な定式化。「声（voix）の連続性」：詩は語（mot）の連続ではなく、声（phoné）の連続として存在する──視覚的テキストではなく聴覚的時間芸術。「今ある声と来るべき声（la voix qui est et la voix qui vient）」：各音節が次の音節を「要求（exige）」し「引き起こす（entraîne）」──詩はその内的な音響的論理によって自己駆動する。「状態（état affectif）」の唯一の言語的表現としての声：詩は「意味を伝える」ではなく「状態を触発する」。「Situation de Baudelaire」での「詩の自律性」命題（「詩は教示と説得とは異なる目的をもつ」）の音響的基盤がここに示される。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "les poèmes comme des choses",
+      "body": "「詩を物として扱う（traiter les poèmes comme des choses）」──教育批判・「作品を物として扱う」ことへの告発。「記憶や正書法の試験として使う（employés comme épreuves de mémoire ou d'orthographe）」──フランスの学校教育での詩の扱いへの具体的批判：詩を「暗記材料」として使うことは詩の「行為的本質」を完全に破壊する。「精神の作品はそれら自身を生み出したものを生み出すものにのみ関係する（les œuvres de l'esprit…ne se rapportent qu'à ce qui fait naître ce qui les fit naître elles-mêmes）」──再帰的定義：詩は「詩を作ったもの（創造的精神状態）」を読者の中に「作り出すこと」でのみ存在する。「Lettre sur Mallarmé」での「マラルメは難解な著者の概念を作り出した」との連続：難解さは「理解しにくい物（chose）」ではなく「特別な行為的参加を要求する詩」の性質。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "L'œuvre nous offre dans chacune de ses parties, à la fois l'aliment et l'excitant. Elle éveille continuellement en nous une soif et une source.",
+      "body": "「作品はその各部分において食物と興奮剤の両方を提供する。渇きと泉を目覚めさせる（L'œuvre nous offre dans chacune de ses parties, à la fois l'aliment et l'excitant. Elle éveille continuellement en nous une soif et une source）」──「芸術作品」を他の精神の作品から区別する機能的定義。「欲望を作り出し満たす（comporte de quoi créer un désir et de quoi le satisfaire）」：芸術作品の特殊性は「自己充足的循環」──各部分が欲望を生み出すと同時にそれを充足する。「渇きと泉（une soif et une source）」：この二重性が「芸術作品」の定義的特徴──芸術作品を受容するほど、より受容したくなる（「より多く与えるほど与えたくなる（plus nous donnons, plus voulons-nous donner）」§11続）。「Poésie」（Charmes V）の詩人と「源泉（Source）」の対話との照応：詩の源泉（Intelligence）に対する詩人の欲望は満たされるほど高まる──これが芸術作品の「渇きと泉」の詩的体験。"
+    },
+    {
+      "paragraphId": 12,
+      "type": "commentary",
+      "anchor": "Il est étrange que l'on s'évertue à former un discours qui doive observer des conditions simultanées parfaitement hétéroclites : musicales, rationnelles, significatives, suggestives",
+      "body": "「まったく異質な同時条件──音楽的・合理的・意味的・示唆的（des conditions simultanées parfaitement hétéroclites : musicales, rationnelles, significatives, suggestives）」──詩的言語の定義的複合性。詩が「奇妙（étrange）」なのは、通常は両立しない要求を同時に満たさなければならないから：音楽性（韻律・音響）と合理性（論理・構文）と意味性（語義）と示唆性（暗示・象徴）の四要求。「音と意味の間（entre le son et le sens）」──後のメルロ＝ポンティやソシュール的議論を先取りする詩語論。「望むべきことを望む（vouloir ce que l'on doit vouloir）」：詩的制作においては自由な意志ではなく「詩の内的必然性に従う意志」が求められる──「Lettre sur Mallarmé」での「拒絶（refus）」の論理と対応：拒絶とは「詩の内的法則に従わないもの」を拒絶することだから。`mallarme_crise_de_vers`の「詩の音楽への接近（s'approcher de la Musique）」──マラルメの詩的理念の散文的定式がここにある。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "ils sont chargés de deux valeurs simultanément engagées et d'importance équivalente : leur son et leur effet psychique instantané",
+      "body": "「それらは同時に機能し等価な重要性をもつ二つの価値を担う──その音と即座の心理的効果（ils sont chargés de deux valeurs simultanément engagées et d'importance équivalente : leur son et leur effet psychique instantané）」──「詩語（mot poétique）」の二重構造の定義。「複素数（nombres complexes des géomètres）」の比喩：詩語は実数部（音）＋虚数部（心理的効果）をもつ複素数──どちらの成分も省略できない。「延長と収束の問題（problèmes de prolongement et de convergence）」：詩行の展開は複素数の延長のように計算できない──詩人は「目隠しでそれを解く」。「De Temps à Autre（時折）」──この副詞句への強調が重要：詩は「常に」ではなく「時折」しか成功しない──完璧な詩的瞬間の偶然性・稀少性の認識。「Le Sylphe」の「Hasard ou génie?（偶然か天才か）」との照応：詩的解決は「時折」訪れる──それが「偶然か天才か」は永久に解けない問い。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "dans la production de l'œuvre, l'action vient au contact de l'indéfinissable.",
+      "body": "「作品の制作において、行為は不定義なものと接触する（dans la production de l'œuvre, l'action vient au contact de l'indéfinissable）」──この講義全体の結論命題（§8の「精神の作品は行為においてのみ存在する」と対をなす）。「不定義なもの（l'indéfinissable）」：制作の起点となる内的状態──それは「いかなる有限の経験の項にも対応しない」：感情でも観念でも感覚でもなく、それらすべての手前にある何か。「有限の行為（action nécessairement finie）」：不定義な内的状態が、詩語・韻律・統語という有限の手段によって「一つの決定（détermination）」として具体化される瞬間──それが「作品」。「可能なものの閉じた世界からの奇跡的な逃走（échappée miraculeuse hors du monde fermé du possible）」：制作の行為は「無限の可能性」の閉じた世界（精神の内部）から「事実の宇宙（univers du fait）」への飛躍──「Lettre sur Mallarmé」の「作品は可逆的なものから時間へと落下する（Elle tombe du réversible dans le Temps）」と同一の構造の哲学的定式化。「類似の状態（état analogue）」：制作者の初期状態を読者の中に「再構成」する──完全な「同一（semblable）」は不可能、しかし「類似（analogue）」は芸術の目標。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "intertextual",
+      "targetId": "valery_lettre_sur_mallarme",
+      "body": "「行為は不定義なものと接触する（l'action vient au contact de l'indéfinissable）」と「Lettre sur Mallarmé」の創作論の対照。「Lettre」§9の「作品は可逆的なものから時間へと落下する（Elle tombe du réversible dans le Temps）」──詩的産出における「可逆的（内的省察）↔不可逆的（完成・出版）」の断絶。「Lettre」§10の「意識的な弱い作品を好む」命題──これは本講義§14の「意志的行為が不定義な状態に接触する」という構造の個人的・倫理的応用：「不定義なもの（霊感・天啓）」に依存するより、意識的作業を選ぶ。両テキストは同一の詩学的問題──「意識的制作と非意識的霊感の関係」──をそれぞれ私的回顧（書簡体）と公的体系（講義）という形式で展開している。"
+    },
+    {
+      "paragraphId": 15,
+      "type": "commentary",
+      "anchor": "Dès que l'esprit est en cause, tout est en cause ; tout est désordre, et toute réaction contre le désordre est de même espèce que lui.",
+      "body": "「精神が問題になるとすぐに、すべてが問題になる。すべては無秩序であり、無秩序に対するすべての反応は無秩序と同一の種類のものだ（Dès que l'esprit est en cause, tout est en cause ; tout est désordre, et toute réaction contre le désordre est de même espèce que lui）」──精神論・詩学の認識論的限界の宣言。「無秩序は豊かさの条件（le désordre est la condition de sa fécondité）」：精神の不安定・非整合性が創造の源泉──秩序立てようとする反応自体が無秩序の産物。「豊かさは予期されないものに依存する（fécondité dépend de l'inattendu plutôt que de l'attendu）」：制作において、計画・意図・知識よりも「偶然・予期せぬもの・無知」が本質的役割を果たす──「De Temps à Autre（§13）」の認識論的基盤。「各人が万物の尺度（chacun est la mesure des choses）」──プロタゴラスの命題への言及で締めくくる：詩学の普遍的体系は構築できない。方法は「自分自身の経験・観察・手段」に留まること──これが詩学を「規範（normative）」から「記述的・発見的（descriptive et heuristique）」なものへと転換する。"
+    }
+  ]
+}
