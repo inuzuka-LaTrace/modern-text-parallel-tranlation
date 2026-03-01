@@ -1,0 +1,85 @@
+{
+  "id": "valery_le_vin_perdu",
+  "title": "Le Vin perdu",
+  "author": "Paul Valéry",
+  "source": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922. 初出：Les Feuilles libres, n°25, février 1922. 複数ソース照合：agora.qc.ca（原典照合），poeticamundi.com, lieder.net（primary source照合済み），lingq.com, muse.jhu.edu",
+  "year": "1922",
+  "firstPublication": "Les Feuilles libres, n°25, février 1922（雑誌初出）→ Charmes, Gallimard, 1922（詩集第XVI番）",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『魅惑（Charmes）』（1922）第XVI番。伝統的ソネット形式の変形（ABAB ABAB CCR DDR、octosyllabe 8音節）。「失われたワイン」──「私」はいつかの日に、理由も記憶も曖昧なまま、大洋に貴重なワインを少量注ぎ込んだ。詩の核心は最終2行「失われたこのワイン、酔いしれた波々！……／私は苦い空気の中で跳ね上がるのを見た／最も深遠な姿たちを……」──ワインを失うことで「最も深遠な姿たち（Les figures les plus profondes）」が生まれる逆説。詩の創造（詩人が詩を世界に放出する）の比喩として広く解釈される：詩は作者の手を離れて独自の生を持ち始める（「ivres les ondes──波が酔いしれる」）。第3スタンザの「Sa transparence accoutumée / Après une rose fumée / Reprit aussi pure la mer（慣れ親しんだ透明さが、バラ色の煙の後、海をこれほど純粋に取り戻した）」──詩（ワイン）が融合した後、海（世界）は「これほど純粋に」自己を回復する：詩的行為は世界を変質させない、しかし「最も深遠な姿たち」が生まれる。",
+  "keywords": ["ワイン", "海", "奉納", "失うこと", "詩的創造", "血", "占い師", "変容", "ソネット"],
+  "relatedTexts": [
+    "valery_la_dormeuse",
+    "valery_l_amateur_de_poemes",
+    "valery_orphee",
+    "mallarme_crise_de_vers"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "J'ai, quelque jour, dans l'Océan,\n(Mais je ne sais plus sous quels cieux),\nJeté, comme offrande au néant,\nTout un peu de vin précieux…",
+      "provisionalTranslation": "私はいつかの日に、大洋に──\n（しかしもはやどの空の下かを知らない）──\n虚無への供物として投げ入れた、\n少量の貴重なワインを……"
+    },
+    {
+      "id": 2,
+      "french": "Qui voulut ta perte, ô liqueur ?\nJ'obéis peut-être au devin ?\nPeut-être au souci de mon cœur,\nSongeant au sang, versant le vin ?",
+      "provisionalTranslation": "誰があなたの喪失を望んだのか、ああ液体よ？\n私はおそらく占い師に従ったのか？\nおそらく私の心の憂いに──\n血を思いながら、ワインを注いで？"
+    },
+    {
+      "id": 3,
+      "french": "Sa transparence accoutumée\nAprès une rose fumée\nReprit aussi pure la mer…",
+      "provisionalTranslation": "慣れ親しんだ透明さが\nバラ色の煙の後、\n海をこれほど純粋に取り戻した……"
+    },
+    {
+      "id": 4,
+      "french": "Perdu ce vin, ivres les ondes !…\nJ'ai vu bondir dans l'air amer\nLes figures les plus profondes…",
+      "provisionalTranslation": "失われたこのワイン、酔いしれた波々！……\n私は苦い空気の中で跳ね上がるのを見た──\n最も深遠な姿たちを……"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "変形ソネット・14行・オクトシラブ（8音節）──『魅惑』の中で珍しい8音節基調の詩（通常はアレクサンドラン12音節）。韻律：ABAB ABAB（二つの四行詩）/ CCR（三行詩1）/ DDR（三行詩2）──「R」は繰り返し韻（「vin→vin」の転換）。詩集第XVI番（XVII「Intérieur」の前、XV「Les Grenades」の後）。詩集の第XV「Les Grenades（ザクロ）」と第XVI「Le Vin perdu」は連続して「熟成・破裂・放出」という詩的創造のサイクルを象徴するとしばしば論じられる：ザクロが砕けて種を撒くように、詩人はワインを海に放つ。オクトシラブ（8音節）の軽さ・簡潔さ──ヴァレリーが通常用いるアレクサンドランの「重さ」と対比して、「投げる・放つ」という行為の軽快さを音節数が体現する。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Jeté, comme offrande au néant,\nTout un peu de vin précieux…",
+      "body": "「虚無への供物として投げ入れた、少量の貴重なワインを（Jeté, comme offrande au néant, / Tout un peu de vin précieux）」──詩の中心的行為の定義。「offrande au néant（虚無への供物）」──宗教的供儀（神への供物）ではなく、「虚無（néant）」への供物：行為の受け手が不在であることが最初から明示される。「Tout un peu（たった少量の）」──量詞の逆説（「tout（全部）」と「peu（少し）」の結合）：小さな行為の総体性・十全性を示す。「précieux（貴重な）」──詩的言語の比喩として読む場合：「貴重なワイン」＝詩人が手放す詩。初句「(Mais je ne sais plus sous quels cieux)（しかしもはやどの空の下かを知らない）」──括弧内の挿入句：記憶の曖昧さ・創作の条件の忘却（「どのようにして詩が生まれるかを詩人は知らない」）。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Qui voulut ta perte, ô liqueur ?\nJ'obéis peut-être au devin ?\nPeut-être au souci de mon cœur,\nSongeant au sang, versant le vin ?",
+      "body": "「誰があなたの喪失を望んだのか……血を思いながら、ワインを注いで？（Qui voulut ta perte, ô liqueur ? / … Songeant au sang, versant le vin ?）」──第2四行詩の三重の「問い」構造。「au devin（占い師に）」──予言者・占者への服従：詩人の行為は「外的な声（devin）」に従う衝動的行為として提示される。「Songeant au sang, versant le vin（血を思いながら、ワインを注いで）」──最も濃密な詩行。「sang（血）」と「vin（ワイン）」の典型的な象徴的交換：キリスト教の聖体変容（ワイン＝血）・古代の供儀（血を注ぐ代わりにワインを注ぐ）。詩人の行為が「代替供儀」として読める：自身の血（命・詩）の代わりにワインを捧げる。「L'Amateur de poèmes」の「私は人工的に思考する」との対比──ここでは行為の動機が「peut-être（おそらく）」と三度曖昧化される：詩的創造は「計算」であるとともに、計算を超えた衝動でもある。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Sa transparence accoutumée\nAprès une rose fumée\nReprit aussi pure la mer…",
+      "body": "「慣れ親しんだ透明さが、バラ色の煙の後、海をこれほど純粋に取り戻した（Sa transparence accoutumée / Après une rose fumée / Reprit aussi pure la mer）」──第1三行詩。三行がCCR韻で閉じる。「rose fumée（バラ色の煙）」──ワインが水中に拡散する際の視覚的描写：赤ワインが水に溶けてバラ色の煙のように広がり、消える。「aussi pure（これほど純粋に）」──海はワインを完全に吸収し、元の透明さに戻る：詩（ワイン）は海（世界）に痕跡を残さず消える。しかし次のスタンザで「最も深遠な姿たち」が生まれる──「純粋な消去」が「深遠な姿」の出現条件になる逆説。「透明さ（transparence）」──ヴァレリーの詩学的理想語：詩的言語の透明性・形式の純粋性。「La Dormeuse」の「流れるような腕（bras fluide）」との水的イメージの連続。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Perdu ce vin, ivres les ondes !…\nJ'ai vu bondir dans l'air amer\nLes figures les plus profondes…",
+      "body": "「失われたこのワイン、酔いしれた波々！……私は苦い空気の中で跳ね上がるのを見た──最も深遠な姿たちを（Perdu ce vin, ivres les ondes !… / J'ai vu bondir dans l'air amer / Les figures les plus profondes）」──詩全体の最終3行にして逆説的帰結。「Perdu ce vin, ivres les ondes !」──絶対分詞構文：「このワインが失われ（ると）、波が酔いしれる」──ワインの喪失が波の酔いをもたらす：詩人の手放すことが世界の変容を生む。「ivres les ondes（酔いしれた波々）」──波が「酔う」擬人化：詩の言語が世界に吸収されて世界を変容させる。「les figures les plus profondes（最も深遠な姿たち）」──「姿（figures）」：修辞学の「比喩（figure de style）」・詩的形象・プラトン的イデア・比喩的真実の多義語。「最も深遠な姿たち」が「苦い空気の中で跳ね上がる（bondir dans l'air amer）」──詩の本質的な形象は、詩が世界に放出された後に、世界の中で自律的に跳ね上がる：「Orphée」の「神殿が自ら集まり秩序づけられる（soi-même il s'assemble et s'ordonne）」と同じ詩的自律性の命題。結末の省略記号「…」──詩は終わらない；「最も深遠な姿たち」は跳ね続ける。「L'Amateur de poèmes」の「讃歌の広大な魂に向かって神殿が自ら秩序づけられる」との連続：詩的創造は詩人の制御を超えて完結する。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "Songeant au sang, versant le vin ?",
+      "body": "「血を思いながら、ワインを注いで（Songeant au sang, versant le vin）」──古代ギリシャの供儀（libation：地面・海・神への液体の奉納）への参照。ホメロス的伝統では英雄は神・死者への供物としてワインを注ぐ（「オデュッセイア」第11巻：オデュッセウスが冥界で死者の魂を呼ぶためにワインを注ぐ）。また旧約・新約聖書：「これは私の血である（Hoc est enim corpus meum）」──キリスト教の聖体変容でワインは血となる。「Songeant au sang（血を思いながら）」：詩人は供儀の「血の代替物としてのワイン」という二重の意味を意識しながら注ぐ。「Orphée」の神話参照（オルフェウスは冥界に降りる）・「Fragments du Narcisse」の「地獄（aux enfers）」とあわせて、ヴァレリーの詩集内での冥界モチーフの三態。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "targetId": "valery_orphee",
+      "body": "「Orphée」との主題的対話：「Orphée」では「オルフェウスの歌が石を動かし神殿を建設する」──詩が外部に構造物（神殿）を自律的に生成する。「Le Vin perdu」では「ワインが海に放出されて波を酔わせ、最も深遠な姿たちを生む」──詩が外部（海・世界）に自律的な形象を生成する。両詩に共通する構造：①詩人の行為（歌う・注ぐ）→②対象の自律的変容（神殿が自ら建つ・波が酔い姿が跳ねる）→③詩人は見届けるのみ（「J'ai vu bondir…（私は……跳ね上がるのを見た）」）。「Orphée」の「soi-même il s'assemble et s'ordonne dans l'or（それ自体が集まり黄金の中で秩序づけられる）」と「Le Vin perdu」の「J'ai vu bondir dans l'air amer / Les figures les plus profondes」：詩の自律性という命題の二つの表現形式。"
+    }
+  ]
+}
