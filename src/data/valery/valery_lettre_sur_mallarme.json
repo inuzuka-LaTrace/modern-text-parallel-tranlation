@@ -1,0 +1,181 @@
+{
+  "id": "valery_lettre_sur_mallarme",
+  "title": "Lettre sur Mallarmé",
+  "author": "Paul Valéry",
+  "source": "初出：La Phalange, revue de littérature et d'art（Jean Royère 編）掲載、後に Variété II, Éditions Gallimard, 1930 所収（Pléiade版：Œuvres I, Gallimard, 1975, pp. 634-643）. 原典照合：agora.qc.ca/documents/stephane_mallarme--lettre_sur_mallarme_par_paul_valery（全文一致確認）; 引用箇所の確認：books.openedition.org/puv/2702（p.640, p.642）",
+  "year": "1927",
+  "firstPublication": "La Phalange（Jean Royère 編）掲載後、Maîtres et amis, 1927 所収。Variété II, Gallimard, 1930 再録",
+  "difficulty": "上級",
+  "category": "valery_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）がジャン・ロワイエールのマラルメ研究書の序文として書いた書簡体批評。ヴァレリー20歳のマラルメ詩作品との出会い（1889-90年頃）から1898年7月のヴァルヴァンでの最後の訪問までを振り返り、マラルメが自分の「内的歴史（histoire interne）」に果たした役割を分析する。単なる回顧録ではなく、「影響（influence）」とは何かという批評理論・「拒絶（refus）」という創作論・「意識的な弱い作品 vs 無意識の傑作」というヴァレリー詩学の核心命題が展開される。全体は書簡体（「わが親愛なるロワイエール」への呼びかけ）で統一され、私的告白と批評的分析が交互に現れる。このテキストはヴァレリーの詩学を最も内側から証言する散文であり、「Charmes」「Fragments du Narcisse」等の詩作品群の「作者の声」として機能する。",
+  "keywords": ["マラルメ", "影響", "拒絶", "意識", "形式", "詩学", "師弟関係", "沈黙の20年", "詩の難解さ", "ヴァレリー詩学"],
+  "relatedTexts": [
+    "mallarme_crise_de_vers",
+    "mallarme_musique_lettres",
+    "mallarme_herodiade_scene",
+    "valery_situation_de_baudelaire",
+    "valery_poesie",
+    "valery_l_amateur_de_poemes",
+    "valery_fragments_du_narcisse"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Vous avez souhaité qu'une étude sur Mallarmé, quoique toute pieuse, profonde, et pleine d'amour comme vous l'aviez conçue et l'avez heureusement achevée, s'ouvrît néanmoins par quelques feuillets d'une autre main que la vôtre, et vous m'avez demandé de les écrire. Mais que dire, sur le seuil de ce livre, qu'il ne contienne, ou que je n'aie déjà exprimé, ou que tout le monde n'ait dit ? — Ou que dire, qui ne soit pour moi-même difficile à expliquer sans longueur et sans minutie, et pour le public chose abstraite et pénible à lire ?\nIl m'est bien arrivé de conter çà et là divers souvenirs de notre Mallarmé ; d'en restituer certaines intentions ; de faire observer quelquefois l'étonnante durée de la résonance de sa parole dans le monde pensant, encore après tant d'années écoulées depuis sa mort. Mais je me suis toujours refusé, m'opposant une quantité de raisons puissantes, de composer un ouvrage qui traitât véritablement et absolument de lui. Je sens trop que je n'en pourrais parler à fond sans parler excessivement de moi-même.",
+      "provisionalTranslation": "あなたはマラルメについての研究が、あなたが構想し幸いにも完成させたように、いかに敬虔で深く愛に満ちたものであれ、それでもあなた以外の手による数ページで始まることを望まれ、私にそれを書くよう依頼されました。しかしこの本の敷居に立って、何を言えましょうか。それが含んでいないことを、私がすでに表明していないことを、あるいは誰もが言っていないことを──あるいは何を言えましょうか、私自身にとっては長さと細かさなしには説明しがたく、読者にとっては抽象的で読みにくいものでない何かを。\n私はわれらのマラルメについての様々な思い出をあちこちで語ることはありました。いくつかの意図を復元すること、彼の死後何年も経った今なお、思考する世界における彼の言葉の響きの驚くべき持続性を時折指摘することも。しかし私は常に、数多くの強力な理由を自分に課して、彼について真に絶対的に論じる著作を書くことを拒んできました。彼の深奥について語れば、自分自身について過剰に語らずにはいられないと痛切に感じるからです。"
+    },
+    {
+      "id": 2,
+      "originalText": "Son œuvre me fut dès le premier regard, et pour toujours, un sujet de merveille ; et bientôt sa pensée présumée, un objet secret de questions infinies. Il a joué sans le savoir un si grand rôle dans mon histoire interne, modifié par sa seule existence tant d'évaluations en moi ; son action de présence m'a assuré de tant de choses, m'a confirmé dans tant de choses ; et davantage, elle m'a intimement interdit tant de choses, que je ne sais enfin démêler ce qu'il fut de ce qu'il me fut.\nIl n'est de mot qui vienne plus aisément ni plus souvent sous la plume de la critique que le mot d'influence, et il n'est point de notion plus vague parmi les vagues notions qui composent l'armement illusoire de l'esthétique. Rien toutefois dans l'examen de nos productions qui intéresse plus philosophiquement l'intellect, et le doive plus exciter à l'analyse que cette modification progressive d'un esprit par l'œuvre d'un autre.",
+      "provisionalTranslation": "彼の作品は最初の眼差しから、そして永遠に、私にとって驚嘆の対象でした。そしてまもなく彼の想定される思想は、無限の問いの秘密の対象となった。彼は知らないうちに私の内的歴史においてこれほど大きな役割を演じ、その存在のみによって私の中の多くの評価を変えた。彼の「存在の作用（action de présence）」は私に多くのことを保証し、多くのことを確認させ、さらには多くのことを私に内密に禁じたため、私はついに彼が何であったかと、私にとって彼が何であったかを解きほぐすことができません。\n批評家の筆の下にこれほど容易にこれほど頻繁に現れる語は「影響」という語より他になく、美学の虚偽の武器庫を構成する曖昧な概念のうちでこの概念より曖昧なものはありません。しかし我々の作品の検討において、他者の作品によるある精神の漸進的変容ほど知的に哲学的な関心を引くものはなく、知性を分析に向けさせるものもありません。"
+    },
+    {
+      "id": 3,
+      "originalText": "Il arrive que l'œuvre de l'un reçoive dans l'être de l'autre une valeur toute singulière, y engendre des conséquences agissantes qu'il était impossible de prévoir, et qui se font assez souvent impossibles à déceler. Nous savons, d'autre part, que cette activité dérivée est essentielle à la production dans tous les genres. Qu'il s'agisse de la science ou des arts, on observe, si l'on s'inquiète de la génération des résultats, que toujours ce qui se fait répète ce qui fut fait, ou le réfute ; le répète en d'autres tons, l'épure, l'amplifie, le simplifie, le charge ou le surcharge, — ou bien le rétorque, l'extermine, le renverse, le nie, mais donc le suppose, et l'a invisiblement utilisé. Le contraire naît du contraire.\nNous disons qu'un auteur est original quand nous sommes dans l'ignorance des transformations cachées qui changèrent les autres en lui ; nous voulons dire que la dépendance de ce qu'il fait à l'égard de ce qui fut fait est excessivement complexe et irrégulière.",
+      "provisionalTranslation": "ある者の作品が他者の存在の中でまったく特異な価値を受け取り、予見不可能だった、そして往々にして発見不可能な作用する帰結を生み出すことがあります。他方、この派生的活動はあらゆるジャンルにおける制作に本質的であることを私たちは知っています。科学においても芸術においても、もし結果の生成を問えば、なされることは常になされたことを繰り返すか、またはそれを反駁することを観察します。それを別の調で繰り返し、純化し、拡大し、単純化し、充填または過充填する──あるいはそれを逆用し、殲滅し、転倒し、否定するが、ゆえにそれを前提とし、不可視的にそれを利用してきた。反対は反対から生まれる。\n私たちが著者を独創的と言うのは、他者を彼へと変えた隠れた変容を私たちが知らないときです。つまり彼がなすことの、なされてきたことへの依存が極めて複雑で不規則だということを意味しているのです。"
+    },
+    {
+      "id": 4,
+      "originalText": "C'est ainsi que Mallarmé, développant en soi quelques-unes des qualités des poètes romantiques et de Baudelaire, observant en eux ce qu'ils contenaient de plus exquisément accompli, se donnant pour loi constante d'obtenir en chaque point des résultats qui étaient rares, singuliers, et comme de pure chance chez eux, a peu à peu déduit de cette obstination dans le choix, de cette rigueur dans l'exclusion, une manière toute particulière ; et finalement, une doctrine et des problèmes tout nouveaux, prodigieusement étrangers aux modes mêmes de sentir et de penser de ses pères et frères en poésie. Il a substitué au désir naïf, à l'activité instinctive ou traditionnelle, c'est-à-dire peu réfléchie, de ses prédécesseurs, une conception artificielle, minutieusement raisonnée, et obtenue par un certain genre d'analyse.\nJe lui ai dit un jour qu'il était de la nature d'un grand savant.",
+      "provisionalTranslation": "マラルメはこのようにして、浪漫派詩人たちとボードレールのいくつかの資質を自身の中で発展させ、彼らの中に含まれる最も絶妙に達成されたものを観察し、各点において彼らにおいては稀で特異的で純粋な偶然であったような結果を得ることを常の法則として自らに課することで、この選択における執拗さから、この排除における厳格さから、まったく特別な流儀を少しずつ引き出しました。そして最終的には、詩における父兄たちの感じ方と考え方の様式から驚くほど隔たった、まったく新しい学説と問題群を。彼は先行者たちの素朴な欲望、本能的または伝統的な、すなわちあまり熟考されない活動を、一定の分析の種類によって得られた、人工的で細心に論じ尽くされた構想で置き換えました。\nある日私は彼に、彼の本性は偉大な科学者のそれだと言いました。"
+    },
+    {
+      "id": 5,
+      "originalText": "Sa conception le conduisait nécessairement à envisager et à écrire des combinaisons assez éloignées de celles dont l'usage commun fait la « clarté », et que l'accoutumance nous rend si faciles à entendre sans presque les avoir perçues. L'obscurité qu'on lui trouve résulte de quelque exigence par lui rigoureusement maintenue, — à peu près comme, dans les sciences, il arrive que la logique, l'analogie et le souci de la conséquence conduisent à des représentations bien différentes de celles que l'observation immédiate nous a faites familières, et jusqu'à des expressions qui passent délibérément notre pouvoir d'imaginer.\nQue Mallarmé sans culture ni tendances scientifiques se soit risqué dans des entreprises que l'on peut comparer à celles des sciences du nombre et de l'ordre, qu'il se soit consumé dans un effort merveilleusement solitaire, qu'il se soit éloigné dans ses pensées, comme tout être qui creuse ou ordonne les siennes s'éloigne des humains en s'éloignant de la confusion et de la superficie, — ceci témoigne de la hardiesse et de la profondeur de son esprit.",
+      "provisionalTranslation": "彼の構想は必然的に彼を、日常的用法が「明晰さ」とするものからかなり隔たった、慣れによってほとんど知覚せずに理解できるほど容易になってしまった組み合わせを考案し書くよう導きました。彼に見出される難解さは、彼が厳格に維持したある要求から生じています──ちょうど科学において、論理・類比・帰結への配慮が、直接観察が馴染ませてきたものとはかなり異なる表象へ、さらには故意に私たちの想像力を超える表現へと導くことがあるように。\nマラルメが科学的教養も科学的傾向もなく、数と秩序の科学に比肩しうる企てに身を投じ、驚くほど孤独な努力の中で消耗し、思想において人間から遠ざかった──これは、自らを掘り下げまたは整序するすべての存在が混乱と表面から遠ざかることで人間から遠ざかるように──これは彼の精神の大胆さと深さを証言しています。"
+    },
+    {
+      "id": 6,
+      "originalText": "À l'âge encore assez tendre de vingt ans, et au point critique d'une étrange et profonde transformation intellectuelle, je subis le choc de l'œuvre de Mallarmé ; je connus la surprise, le scandale intime instantané ; et l'éblouissement ; et la rupture de mes attaches avec mes idoles de cet âge. Je me sentis devenir comme fanatique ; j'éprouvai la progression foudroyante d'une conquête spirituelle décisive.\nLa définition du Beau est facile : il est ce qui désespère. Mais il faut bénir ce genre de désespoir qui vous détrompe, vous éclaire.",
+      "provisionalTranslation": "まだかなり若い二十歳の年に、奇妙で深い知的変容の臨界点において、私はマラルメの作品の衝撃を受けました。驚き、即座の内なるスキャンダル、眩惑、そしてその年齢の偶像との絆の断絶を経験しました。私は狂信者になっていくような気がした。私は決定的な精神的征服の電撃的な進行を感じました。\n美の定義は容易です──それは絶望させるものです。しかしあなたの目を覚まさせ、あなたを啓発するこの種の絶望は祝福されなければなりません。"
+    },
+    {
+      "id": 7,
+      "originalText": "L'Hérodiade, l'Après-Midi, les Sonnets, — les fragments que l'on découvrait dans les Revues, que l'on se passait, et qui unissaient entre eux se les transmettant des adeptes dispersés sur la France, comme les antiques initiés s'unissaient à distance par l'échange de tablettes et de lamelles d'or battu, nous constituaient un trésor de délices incorruptibles, bien défendu par soi-même contre le barbare et l'impie.\nEn cette œuvre étrange, et comme absolue, résidait un pouvoir magique. Par le seul fait de son existence, elle agissait comme charme et comme glaive. Elle divisait d'un seul coup tout le peuple des humains qui savent lire. Son apparence d'énigme irritait instantanément le nœud vital des intelligences lettrées.",
+      "provisionalTranslation": "「エロディアード」、「午後」、ソネット群──雑誌の中に発見され、手から手へと渡され、それを伝え合うことでフランスに散らばった信奉者たちを結びつけていた断片群は、古代の入信者たちが叩いた金の板や薄片の交換によって遠くで結ばれたように、私たちにとって野蛮人と不信心者から自ら十分に守られた、朽ちることのない歓喜の宝となりました。\nこの奇妙な、絶対的とも言うべき作品に、魔力が宿っていました。その存在という事実だけで、それは魔法として、また剣として作用しました。それは一挙に、読むことを知るすべての人間の民を分断しました。その謎めいた外観は文学的知性の急所を即座に刺激しました。"
+    },
+    {
+      "id": 8,
+      "originalText": "Mallarmé créait donc en France la notion d'auteur difficile. Il introduisait dans l'art l'obligation de l'effort intellectuel. Par là, il relevait la condition de lecteur ; et avec une admirable intelligence de la véritable gloire, il se choisissait parmi le monde ce petit nombre d'amateurs particuliers qui, l'ayant une fois goûté, ne pourraient plus souffrir de poèmes impurs, immédiats et sans défense. Tout leur semblait naïf et lâche après qu'ils l'avaient lu.\nSes petites compositions merveilleusement achevées s'imposaient comme des types de perfection, tant les liaisons des mots avec les mots, des vers avec les vers, des mouvements avec les rythmes étaient assurées ; tant chacune d'elles donnait l'idée d'un objet en quelque sorte absolu, dû à un équilibre de forces intrinsèques, soustrait par un prodige de combinaisons réciproques à ces vagues velléités de retouche et de changements que l'esprit, pendant ses lectures, conçoit inconsciemment devant la plupart des textes.",
+      "provisionalTranslation": "マラルメはこうしてフランスに「難解な著者」という概念を作り出しました。彼は芸術に知的努力の義務を導入した。それによって彼は読者の境位を高めた。そして真の栄光の驚くべき知性をもって、世界の中からその特別な少数の愛好者たちを自ら選びました──一度彼を味わった者たちは、不純で即座で無防備な詩にはもはや耐えられなくなる。彼を読んだ後には何もかも素朴で弛緩して見えた。\n彼の奇跡的に仕上げられた小品は完成の典型として自らを押しつけました。語と語、詩行と詩行、動きとリズムの結びつきがあれほど確かで、それぞれが内在的力の均衡によるある種絶対的な対象の観念を与え、相互的組み合わせの奇跡によって、精神が読書中にほとんどの文章の前で無意識に抱く漠然とした加筆・変更への衝動から救い出されていたのです。"
+    },
+    {
+      "id": 9,
+      "originalText": "J'essayais de me représenter les chemins et les travaux de la pensée de leur auteur. Je me disais que cet homme avait médité sur tous les mots, considéré, énuméré toutes les formes. Je m'intéressais peu à peu à l'opération d'un esprit si différent du mien plus encore, peut-être, qu'aux fruits visibles de son acte. Je me reconstruisais le constructeur d'une telle œuvre.\nUne œuvre ne peut sortir d'une sphère si réfléchissante et si riche de résonances que par une sorte d'accident qui la jette hors de la pensée. Elle tombe du réversible dans le Temps.\nJe concluais à un système intérieur chez Mallarmé, système qui devait se distinguer de celui du philosophe, et, d'autre part, de celui des mystiques ; mais non sans analogie avec eux.",
+      "provisionalTranslation": "私はその著者の思考の道筋と営みを思い描こうとしました。この人物はすべての語について黙想し、すべての形式を考察し列挙したのだ、と私は自分に言い聞かせました。私はその行為の可視的な果実よりも、おそらくはさらに、自分のものとはこれほど異なる精神の操作に次第に興味を持つようになりました。私はそのような作品の構築者を再構成していました。\n作品は、それを思考の外へ投げ出す一種の偶然によってのみ、これほど反射的でこれほど共鳴に富む球域から出ることができます。それは可逆的なものから時間へと落下します。\n私はマラルメに内的体系があると結論しました──哲学者のそれとは区別されるべきで、他方では神秘主義者のそれとも区別されるべき体系ですが、それらとの類比がないわけではありません。"
+    },
+    {
+      "id": 10,
+      "originalText": "J'avais pensé et naïvement noté, peu de temps auparavant, cette opinion en forme de vœu : que si je devais écrire, j'aimerais infiniment mieux écrire en toute conscience et dans une entière lucidité quelque chose de faible, que d'enfanter à la faveur d'une transe et hors de moi-même, un chef-d'œuvre d'entre les plus beaux.\nC'est qu'il me paraissait qu'il y eût déjà beaucoup de chefs-d'œuvre, et que le nombre des productions du génie n'était pas si petit qu'il y eût grand intérêt à désirer de l'augmenter. Je pensais, avec un peu plus de précision, qu'un ouvrage résolument voulu et cherché dans les hasards de l'esprit, par ordre, et par une analyse obstinée de conditions définies et d'avance prescrites, quelle qu'en fût ensuite la valeur extérieure une fois produite, ne laissait pas son créateur sans l'avoir modifié en lui-même, contraint de se reconnaître et, en quelque sorte, de se réorganiser. Je me disais que ce n'est point l'œuvre faite, et ses apparences ou ses effets dans le monde, qui peuvent nous accomplir et nous édifier ; mais seulement la manière dont nous l'avons faite.",
+      "provisionalTranslation": "少し前、私はひとつの意見を誓いの形で素朴に書き記していました──もし私が書かなければならないなら、陶酔の中で自分を離れて最も美しい傑作を生み出すより、完全な意識の中で完全な明晰さをもって弱いものを書く方を無限に好む、と。\n傑作はすでに多く存在し、天才の産物の数は、それを増やすことを望む大きな意義があるほど少なくはないと私には思われたのです。私はもう少し精確に考えていました──断固として意志され、順序と、定められあらかじめ規定された条件の執拗な分析によって精神の偶然の中から求められた作品は、一度生み出された後の外的価値がどうであれ、その創造者を内的に変容させないままにはせず、自己認識を強い、ある意味で自己再編成を強いると。私は自分に言い聞かせていました──完成した作品とそれが世界においてもつ外観や効果ではなく、それを作った仕方だけが私たちを完成させ高めることができる、と。"
+    },
+    {
+      "id": 11,
+      "originalText": "Ce que j'aimais le plus en lui, c'était ce caractère essentiellement volontaire, cette tendance absolutiste démontrée par l'extrême perfection du travail. Le travail sévère, en littérature, se manifeste et s'opère par des refus. On peut dire qu'il est mesuré par le nombre des refus. Que si l'étude de la fréquence et de l'espèce des refus était possible, elle serait d'une ressource capitale pour la connaissance intime d'un écrivain, puisqu'elle nous éclairerait la discussion secrète qui se livre, au moment d'une œuvre, entre le tempérament, les ambitions, les prévisions de l'homme, et d'autre part, les excitations et les moyens intellectuels de l'instant.\nLa rigueur des refus, la quantité des solutions que l'on rejette, des possibilités que l'on s'interdit, manifestent la nature des scrupules, le degré de conscience, la qualité de l'orgueil, et mêmement les pudeurs et diverses craintes que l'on peut ressentir à l'égard des jugements futurs du public. C'est en ce point que la littérature rejoint le domaine de l'éthique.",
+      "provisionalTranslation": "私が彼の中で最も愛したのは、この本質的に意志的な性格、作業の極端な完全性によって示されたこの専制主義的傾向でした。文学における厳しい作業は拒絶によって現れ、拒絶によって遂行されます。それは拒絶の数によって測られると言えます。もし拒絶の頻度と種類の研究が可能なら、それは作家の内密な知識にとって決定的な資源となるでしょう──なぜならそれは、作品の瞬間に、その人物の気質・野心・予見と、他方における瞬間の知的な興奮と手段の間で行われる秘密の議論を照らし出すからです。\n拒絶の厳格さ、退けられる解決策の量、自らに禁じる可能性の数は、良心の呵責の性質、意識の度合い、誇りの質、さらには読者の将来の判断に対して感じうる慎み深さや様々な恐れを明示します。この点において文学は倫理の領域に接します。"
+    },
+    {
+      "id": 12,
+      "originalText": "La plupart des choses qui s'impriment sont si naïvement fragiles, si arbitraires, et filles d'un monologue si personnel ; la plupart sont si aisées à inventer par quiconque, si faciles à transformer, à nier et même à rendre moins vaines, et l'on imprime tant, qu'il est incroyable que l'on fasse à quelqu'un le reproche de ne pas ajouter assez à l'amas immense des livres parce qu'il prend le temps de réduire les siens à leur essence.\nMallarmé le stérile ; Mallarmé le précieux ; Mallarmé le très obscur ; mais Mallarmé le plus conscient, Mallarmé le plus parfait, Mallarmé le plus dur à soi-même de tous ceux qui ont tenu la plume, me procurait, dès les premiers regards que j'adressais aux Lettres, une idée en quelque sorte suprême, une idée-limite, ou une idée-somme de leur valeur et de leurs pouvoirs.",
+      "provisionalTranslation": "印刷されるものの大半は、これほど素朴に脆く、恣意的で、これほど個人的な独り言の産物です。大半はだれでも発明でき、変形や否定や無駄を減らすことも容易で、しかも印刷物はこれほど多い──だから、自分の作品をその本質に還元する時間を取るという理由で、誰かが書物の膨大な堆積に十分に加えないと責めることは信じがたいことです。\nマラルメは不毛だ、マラルメは衒学的だ、マラルメは難解すぎる──しかし最も意識的なマラルメ、最も完璧なマラルメ、ペンを握ったすべての者の中で自分に最も厳しいマラルメは、私が文学に向ける最初の眼差しの時から、ある種至高の観念、それらの価値と力の極限観念あるいは総和観念を私に与えてくれました。"
+    },
+    {
+      "id": 13,
+      "originalText": "Me rendant plus heureux que Caligula, il m'offrait à considérer une tête en laquelle se résumait tout ce qui m'inquiétait dans l'ordre de la Littérature ; tout ce qui m'attirait, tout ce qui la sauvait à mes yeux. Cette tête si mystérieuse avait pesé tous les moyens d'un art universel ; et connu, et comme assimilé, les bonheurs et les diverses amertumes, et les désespoirs les plus purs que l'extrême désir spirituel engendre ; elle avait éliminé de la poésie les prestiges grossiers ; jugé et exterminé, au sein de ses longs et profonds silences, les ambitions particulières, pour s'élever à concevoir et à contempler un principe de toutes les œuvres possibles.\nVoilà ce que je prêtais à Mallarmé : un ascétisme trop conforme, peut-être, à mes jugements sur les Lettres.",
+      "provisionalTranslation": "カリグラより私を幸福にして、彼は文学の秩序において私を不安にするすべてのもの、私を引きつけるすべてのもの、私の眼に文学を救うすべてのものが要約されている頭を考察するよう私に提示してくれました。この謎めいた頭は普遍的芸術のすべての手段を量り、精神的欲望の極致が生み出す幸福と様々な苦さと最も純粋な絶望を知り、いわば同化し、その長く深い沈黙の中で詩から粗野な威光を排除し、個別的な野心を裁き殲滅して、すべての可能な作品の原理を構想し観想するまで高まりました。\nこれが私がマラルメに帰したもの──おそらく文学についての私の判断にあまりにも一致した禁欲主義です。"
+    },
+    {
+      "id": 14,
+      "originalText": "Ainsi s'éclaircissait à moi-même le conflit qui était sans doute en puissance dans ma nature, entre un penchant pour la poésie, et le besoin bizarre de satisfaire à l'ensemble des exigences de mon esprit. J'ai essayé de préserver l'un et l'autre.\nJe vous le disais tout à l'heure, mon cher Royère, que je ne pourrais penser à Mallarmé sans égotisme. Il faut donc que j'arrête ici ce mélange de réflexions et de souvenirs. Peut-être eût-il été de quelque intérêt de poursuivre, dans le détail et la profondeur, l'analyse d'un cas particulier d'influence, de faire voir les effets directs et contraires d'une certaine œuvre sur un certain esprit, et comment l'extrême d'une tendance est répondue par l'extrême d'une autre.",
+      "provisionalTranslation": "このようにして私には、おそらく私の本性の中に潜在していた葛藤──詩への傾倒と、精神のすべての要求の全体を満たすという奇妙な必要性との間の──が明らかになっていきました。私は両者を守ろうとしました。\n親愛なるロワイエールよ、マラルメについて考えることなしには自我主義なしには考えられないと先ほど申し上げました。ゆえに私はここでこの省察と思い出の混合を止めなければなりません。ある特定の影響の事例の分析を、ある作品があるある精神に及ぼした直接的かつ逆説的な効果を、そしてある傾向の極致がいかに別の傾向の極致で応答されるかを、詳細と深さにおいて追求することは、何らかの興味があったかもしれません。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "son action de présence m'a assuré de tant de choses, m'a confirmé dans tant de choses ; et davantage, elle m'a intimement interdit tant de choses",
+      "body": "「彼の存在の作用は私に多くのことを保証し、確認させ、さらには内密に禁じた（son action de présence m'a assuré de tant de choses, m'a confirmé dans tant de choses ; et davantage, elle m'a intimement interdit tant de choses）」──ヴァレリーのマラルメ論で最も重要な定式の一つ。「禁じた（interdit）」：マラルメの存在が、ヴァレリーに対して多くの詩的路線を「不可能」にした。安易さ・即興・感情的詩作──マラルメを知った後ではこれらは「許されない」。これが「沈黙の20年（1892-1912）」の根本的説明：マラルメを超えることができないと感じたヴァレリーは詩作を中断し、数学・知識論の探求に転じた。「je ne sais enfin démêler ce qu'il fut de ce qu'il me fut（彼が何であったかと私にとって彼が何であったかを解きほぐせない）」──師弟関係が自己形成と不可分に絡み合うという批評家的誠実さの告白。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "cette modification progressive d'un esprit par l'œuvre d'un autre",
+      "body": "「他者の作品によるある精神の漸進的変容（cette modification progressive d'un esprit par l'œuvre d'un autre）」──「影響論（théorie de l'influence）」の再定義。「influence（影響）」という語は批評用語として曖昧すぎるとヴァレリーは批判し、「modification progressive（漸進的変容）」という精確な語で置き換える。「哲学的に最も知的な関心を引く（intéresse plus philosophiquement l'intellect）」──影響は美学ではなく認識論・哲学の問題。「Situation de Baudelaire」のボードレール→ポー影響論（Poe発見による「才能の変容（talent transformé）」）と対照すると：「Lettre sur Mallarmé」ではヴァレリー→マラルメ影響が自己言及的に分析される──批評家が自らの影響を受けた側として書く。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le contraire naît du contraire.",
+      "body": "「反対は反対から生まれる（Le contraire naît du contraire）」──影響論の弁証法的定式。「ce qui se fait répète ce qui fut fait, ou le réfute（なされることはなされたことを繰り返すかまたは反駁する）」：影響は「模倣（imitation）」だけでなく「反論・逆用（réfutation）」の形をとる。「Situation de Baudelaire」の「Tout classicisme suppose un romantisme antérieur（あらゆる古典主義は先行する浪漫主義を前提とする）」と同一の弁証法的論理：ボードレールはロマン主義を否定することで自らを構築し、ヴァレリーはマラルメを「禁じ手」として経験することで沈黙→再出発という独自の道を見つけた。ヴァレリーとマラルメの関係はまさに「le contraire naît du contraire」──マラルメの「神秘性・暗示」に対してヴァレリーは「知性・明晰さ・意識」で応答する。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「マラルメは浪漫派詩人たちとボードレールのいくつかの資質を自身の中で発展させ……人工的で細心に論じ尽くされた構想で置き換えた（Il a substitué au désir naïf, à l'activité instinctive…une conception artificielle, minutieusement raisonnée）」──マラルメ「詩の危機（Crise de vers）」との対話。マラルメ自身が「詩の危機」で宣言した「詩語の革新（donner un sens plus pur aux mots de la tribu）」を、ヴァレリーは「分析と意図的選択による詩語の精製」として外側から記述する。「マラルメは科学者の本性を持つ（il était de la nature d'un grand savant）」──マラルメ「詩の危機」の「詩の音楽への接近」を科学的体系構築として読み替えるヴァレリー独自の解釈。"
+    },
+    {
+      "paragraphId": 5,
+      "type": "commentary",
+      "anchor": "L'obscurité qu'on lui trouve résulte de quelque exigence par lui rigoureusement maintenue",
+      "body": "「彼に見出される難解さは、彼が厳格に維持したある要求から生じている（L'obscurité qu'on lui trouve résulte de quelque exigence par lui rigoureusement maintenue）」──マラルメの「難解さ（obscurité）」の弁護・再定義。「科学における論理・類比・帰結への配慮が……直接観察が馴染ませてきたものとはかなり異なる表象へと導く」──難解さは「失敗」ではなく「内的必然性の結果」。「réfringence（屈折率）」（後続§8）：詩の「難解さ」はガラスの「不透明さ」ではなく、クリスタルの「屈折（光を分解・変換する能力）」──「理解できない」のではなく「別の法則で光を屈折させている」。`mallarme_crise_de_vers`の「Le mystère dans les lettres（文学における神秘）」──マラルメ自身も難解さを弁護した：暗示は「不完全な表現」ではなく「読者の創造的参加を促す空白」。両者の弁護が互いを照らす。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "La définition du Beau est facile : il est ce qui désespère.",
+      "body": "「美の定義は容易です──それは絶望させるものです（La définition du Beau est facile : il est ce qui désespère）」──ヴァレリーの最も凝縮された美の定義。「絶望させる（désespère）」：完璧な作品は、それを見た者に「これ以上のことは不可能だ」という感覚を与える──それが「美」の証拠。「しかしあなたの目を覚まさせ、啓発するこの種の絶望は祝福されなければならない（il faut bénir ce genre de désespoir qui vous détrompe, vous éclaire）」：美の「絶望」は破壊的でなく生産的──それは目の錯覚（idoles）を壊し、より高い認識へ導く。マラルメ詩作品との接触の「スキャンダル（scandale intime）」「眩惑（éblouissement）」「偶像との断絶（rupture de mes attaches avec mes idoles）」──これが「祝福される絶望」の具体的内容。「Poésie」の「Ô ma mère Intelligence」との照応：詩の「源泉（Source）」が詩人を「絶望」させることで、より高い詩的認識が始まる。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "intertextual",
+      "targetId": "mallarme_herodiade_scene",
+      "body": "「エロディアード、午後、ソネット群──雑誌の中に発見され、手から手へと渡された断片群（L'Hérodiade, l'Après-Midi, les Sonnets, — les fragments que l'on découvrait dans les Revues, que l'on se passait）」──1889-90年頃のマラルメ受容の具体的リストと媒体。「エロディアード」はアプリ収録の`mallarme_herodiade_scene`そのもの。「古代の入信者たちが叩いた金の板や薄片の交換によって遠くで結ばれた（comme les antiques initiés s'unissaient à distance par l'échange de tablettes et de lamelles d'or battu）」──象徴主義詩人群の「秘教的共同体」の比喩：詩は「入信の証（initiation）」として機能した。詩の「魔法（charme）かつ剣（glaive）」という二重の作用──'魅惑するが分断する'：「Charmes」という詩集名の由来がここに示される。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Mallarmé créait donc en France la notion d'auteur difficile.",
+      "body": "「マラルメはこうしてフランスに『難解な著者』という概念を作り出した（Mallarmé créait donc en France la notion d'auteur difficile）」──文学史上の定義的命題。「知的努力の義務を導入した（Il introduisait dans l'art l'obligation de l'effort intellectuel）」──芸術享受の「容易さ（facilité）」という慣例を転覆させた。「読者の境位を高めた（il relevait la condition de lecteur）」──受動的消費者から能動的解読者へ：読者も「作品の一部」として参加する。「Poésie」の「詩の源泉（Source）」を噛みすぎて止める詩人と対照すると：マラルメは「難解さ」によって読者を選別・訓練し、ヴァレリーは「意識的な制作」によって自らを訓練する──両者とも「容易さへの抵抗」が核心。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Une œuvre ne peut sortir d'une sphère si réfléchissante et si riche de résonances que par une sorte d'accident qui la jette hors de la pensée. Elle tombe du réversible dans le Temps.",
+      "body": "「作品は……一種の偶然によってのみ、思考の外へ出ることができます。それは可逆的なものから時間へと落下します（Une œuvre ne peut sortir d'une sphère si réfléchissante…que par une sorte d'accident qui la jette hors de la pensée. Elle tombe du réversible dans le Temps）」──ヴァレリーの創作論の最も詩的な定式化。「可逆的なもの（réversible）」：思考の内部では作品はまだ可塑的・変更可能──無限に反射し共鳴する「精神の球域」に留まる。「時間への落下（tombe…dans le Temps）」：出版・完成という行為が作品を「可逆的」思考から「不可逆的」時間へと移す。「この落下は一種の偶然（accident）」──完成・出版の瞬間は必然ではなく偶然：作品はある意味「未完成のまま外へ出てしまう」。「Le Sylphe」の「À peine venu / La tâche est finie（やっと来たかと思えば使命は終わった）」との照応：詩的霊感の刹那性と「時間への落下」の同一構造。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "j'aimerais infiniment mieux écrire en toute conscience et dans une entière lucidité quelque chose de faible, que d'enfanter à la faveur d'une transe et hors de moi-même, un chef-d'œuvre d'entre les plus beaux.",
+      "body": "「陶酔の中で自分を離れて傑作を生み出すより、完全な意識の中で完全な明晰さをもって弱いものを書く方を無限に好む（j'aimerais infiniment mieux écrire en toute conscience et dans une entière lucidité quelque chose de faible, que d'enfanter à la faveur d'une transe et hors de moi-même, un chef-d'œuvre d'entre les plus beaux）」──このエッセイ全体で最も引用される命題（Pléiade版p.640; openedition.org/puv/2702で確認）。「transe（陶酔・恍惚）」対「conscience（意識）・lucidité（明晰さ）」：ロマン主義的「霊感（inspiration）」モデルの完全な拒絶。詩作は「陶酔の産物」ではなく「意識的制作」でなければならない──これがヴァレリー詩学の根本公理。「Poésie」の「Ô ma mère Intelligence（ああ母なる知性よ）」──「intelligence（知性）」を詩の母とする詩の、理論的根拠がこの命題。「L'Amateur de poèmes」の「je pense par artifice（私は人工的に思考する）」との完全な照応。「Situation de Baudelaire」の「intelligence critique（知性批評）」──ボードレールへの賞賛もこの命題の文脈で読める。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "ce n'est point l'œuvre faite, et ses apparences ou ses effets dans le monde, qui peuvent nous accomplir et nous édifier ; mais seulement la manière dont nous l'avons faite.",
+      "body": "「完成した作品とそれが世界においてもつ外観や効果ではなく、それを作った仕方だけが私たちを完成させ高めることができる（ce n'est point l'œuvre faite…qui peuvent nous accomplir et nous édifier ; mais seulement la manière dont nous l'avons faite）」──「制作の倫理（éthique de la fabrication）」の宣言。「完成した作品」ではなく「作り方（manière de faire）」──過程（processus）が目的であり結果ではない。これはマラルメへの「逆説的オマージュ」：ヴァレリーはマラルメの完成した作品を崇拝しながら、その崇拝を通じて「作品よりも制作の意識が重要」という、マラルメの美学とは逆の結論に達する──§14の「ある傾向の極致がいかに別の傾向の極致で応答されるか（comment l'extrême d'une tendance est répondue par l'extrême d'une autre）」。「L'art et la peine nous augmentent ; mais la muse et la chance ne nous font que prendre et quitter（芸術と苦労は私たちを高めるが、詩神と偶然は私たちを取るだけで去っていく）」──「muse et chance（詩神と偶然）」の拒絶：「Hasard ou génie?」（「Le Sylphe」§2）への批評的回答でもある。"
+    },
+    {
+      "paragraphId": 11,
+      "type": "commentary",
+      "anchor": "Le travail sévère, en littérature, se manifeste et s'opère par des refus. On peut dire qu'il est mesuré par le nombre des refus.",
+      "body": "「文学における厳しい作業は拒絶によって現れ、遂行されます。それは拒絶の数によって測られると言えます（Le travail sévère, en littérature, se manifeste et s'opère par des refus. On peut dire qu'il est mesuré par le nombre des refus）」──「拒絶（refus）」の創作論。「拒絶」という概念がこの段落の核心：詩作における「拒絶」は消極的行為ではなく積極的選択──「何を書かないか」が「何を書くか」より詩的質を決定する。マラルメへの適用：マラルメの薄い作品群は「拒絶の厚さ」の産物──生涯に書かれた詩は極めて少ないが、各詩には無数の「拒絶された可能性」が凝縮されている。「C'est en ce point que la littérature rejoint le domaine de l'éthique（この点において文学は倫理の領域に接する）」──文学的完璧主義を倫理的問題として定義する：詩作の「誠実さ（vertu）」は「拒絶への意志」に宿る。"
+    },
+    {
+      "paragraphId": 13,
+      "type": "commentary",
+      "anchor": "une idée-limite, ou une idée-somme de leur valeur et de leurs pouvoirs",
+      "body": "「文学の価値と力の極限観念あるいは総和観念（une idée-limite, ou une idée-somme de leur valeur et de leurs pouvoirs）」──ヴァレリーがマラルメに投影した「文学の最大値」の概念。「idée-limite（極限観念）」：数学的「極限（limite）」の比喩──マラルメは文学が漸近的に接近しうる「極限値」。「idée-somme（総和観念）」：文学のすべての可能性の「総合」。「Caligula」への言及：ローマ皇帝カリグラが「一人の首を切れば全人類を殺せる」と嘆いたのに対し、ヴァレリーは「一つの頭（マラルメ）に文学のすべての問いが凝縮されている」と言う──逆の意味の完成。「すべての可能な作品の原理を構想し観想するまで高まった（s'élever à concevoir et à contempler un principe de toutes les œuvres possibles）」──「詩作の原理（principe）」への志向：マラルメをヴァレリーは詩人ではなく「詩学の建築家」として描く。"
+    },
+    {
+      "paragraphId": 14,
+      "type": "commentary",
+      "anchor": "comment l'extrême d'une tendance est répondue par l'extrême d'une autre",
+      "body": "「ある傾向の極致がいかに別の傾向の極致で応答されるか（comment l'extrême d'une tendance est répondue par l'extrême d'une autre）」──「Lettre sur Mallarmé」全体の自己解釈的結論。ヴァレリー→マラルメの影響の逆説的構造：マラルメの「詩を至高の目的とする専制主義（absolutisme）」の極致が、ヴァレリーの「詩作よりも制作意識を重視する」という逆の極致を生んだ。「Le contraire naît du contraire（§3）」の自己への適用：マラルメへの影響を受けたヴァレリーは、マラルメの反対者として自らを形成した──詩を「書く」よりも詩作の「方法を分析する」詩人。「沈黙の20年」の批評的説明：マラルメを超えることが不可能なら、詩を「作る」のではなく詩作の「原理を探求する」──この転換がヴァレリーを詩人から思想家・批評家として形成した。しかし最終的に「Charmes」を書いたことで「詩への傾倒（penchant pour la poésie）と精神の要求の全体を満たす必要性（besoin de satisfaire à l'ensemble des exigences de mon esprit）」という葛藤を「両方を守ろうとした（J'ai essayé de préserver l'un et l'autre）」ことで解決した。"
+    }
+  ]
+}
