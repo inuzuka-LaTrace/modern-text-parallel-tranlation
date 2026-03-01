@@ -1,0 +1,117 @@
+{
+  "id": "valery_narcisse_parle",
+  "title": "Narcisse parle",
+  "author": "Paul Valéry",
+  "source": "Album de vers anciens, A. Monnier et Cie, 1920; éd. définitive Gallimard, 1926. 原典照合：ebooks-bnr.com/ebooks/html/valery_poesie.htm（NARCISSE PARLE, pp.19-22）, fr.wikisource.org/wiki/Narcisse_parle（djvu原本スキャン1920版）。【テキスト異同】Wikisource djvu初版：「nymphes ! nymphes, nymphes des fontaines」（複数形・三重反復）「de tout mon corps」──ebooks-bnr.com他：「ô Nymphe des fontaines」（単数）「de tout mon cœur」──本ファイルはWikisource djvu初版（1920年A.Monnier版）を採用。",
+  "year": "1920",
+  "firstPublication": "La Conque, n°1, mars 1891（雑誌初出、21歳の処女作的発表）→ Album de vers anciens, A. Monnier et Cie, 1920（詩集第XIV番）",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の処女作的発表詩。1891年3月、雑誌『ラ・コンク（La Conque）』創刊号に「ナルシス・プラカンディス・マニブス（Narcissæ placandis manibus）」という題辞付きで発表──ヴァレリー20歳。題辞はラテン語「ナルキッソスの霊を宥めるために（Narcissæ placandis manibus）」──詩を死者への奉納として位置づける。全63行・アレクサンドラン基調（一部変則）。「Fragments du Narcisse」（Charmes, 1922）の前身：同一のナルキッソス神話を題材にするが、1891年版は象徴主義的甘美さが前景に出る（末尾「Une diversité de nos larmes d'argent」）──30年後の「Fragments」では哲学的緊張（「brise Narcisse, et fuit」）へ。詩は夕暮れの泉を訪れたナルキッソスが水面の自己像に呼びかけ、自己への愛（narcissisme）と死の予感の間で揺れ動く独白として構成される。前半（§1-§4）：泉への到来・ニンフへの呼びかけ・月光の鏡。中盤（§5-§6）：水面の像との対話・幻の婚約者への呼びかけ。後半（§7-§9）：別れの予感・夕暮れと死・最終の口づけ・消滅。",
+  "keywords": ["ナルキッソス", "泉", "鏡", "ニンフ", "自己愛", "死", "夕暮れ", "像", "孤独", "象徴主義"],
+  "relatedTexts": [
+    "valery_fragments_du_narcisse",
+    "valery_naissance_de_venus",
+    "valery_la_dormeuse",
+    "mallarme_herodiade_scene",
+    "rodenbach_du_silence"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "Narcissæ placandis manibus.\n\nÔ frères ! tristes lys, je languis de beauté\nPour m'être désiré dans votre nudité,\nEt vers vous, Nymphes ! nymphes, nymphes des fontaines,\nJe viens au pur silence offrir mes larmes vaines.",
+      "provisionalTranslation": "ナルキッソスの霊を宥めるために。\n\nああ兄弟たちよ！ 悲しい百合よ、私はあなたたちの裸の中に\n自分を欲したがために、美のゆえに衰えている、\nそしてあなたたちに向かって、ニンフたちよ！ ニンフたち、泉のニンフたちよ、\n私は純粋な沈黙へ虚しい涙を捧げに来る。"
+    },
+    {
+      "id": 2,
+      "french": "Un grand calme m'écoute, où j'écoute l'espoir.\nLa voix des sources change et me parle du soir ;\nJ'entends l'herbe d'argent grandir dans l'ombre sainte,\nEt la lune perfide élève son miroir\nJusque dans les secrets de la fontaine éteinte.",
+      "provisionalTranslation": "大いなる静けさが私に耳を傾け、私は希望に耳を傾ける。\n泉の声が変わって夕暮れを語りかける；\n私は銀の草が聖なる影の中で育つのを聞く、\nそして背信の月がその鏡を高く掲げる──\n消えた泉の秘密の奥にまで。"
+    },
+    {
+      "id": 3,
+      "french": "Et moi ! De tout mon corps dans ces roseaux jeté,\nJe languis, ô saphir, par ma triste beauté !\nJe ne sais plus aimer que l'eau magicienne\nOù j'oubliai le rire et la rose ancienne.",
+      "provisionalTranslation": "そして私は！ この葦の中に全身を投げ出して、\n衰えている、ああサファイア、私の悲しい美のゆえに！\n私は魔法の水だけを愛することを知っている──\nそこで私は笑いと古き薔薇を忘れた。"
+    },
+    {
+      "id": 4,
+      "french": "Que je déplore ton éclat fatal et pur,\nSi mollement de moi fontaine environnée,\nOù puisèrent mes yeux dans un mortel azur\nMon image de fleurs humides couronnée !\nHélas ! l'image est vaine et les pleurs éternels !\nÀ travers les bois bleus et les bras fraternels,\nUne tendre lueur d'heure ambiguë existe,\nEt d'un reste du jour me forme un fiancé\nNu, sur la place pâle où m'attire l'eau triste…\nDélicieux démon, désirable et glacé !",
+      "provisionalTranslation": "嘆くよ、あなたの致命的で純粋な輝きを──\nこれほど柔らかく私に取り囲まれた泉よ──\nそこで私の目は致命的な青空の中に汲んだ、\n湿った花の冠を戴く私の像を！\nああ！ 像は虚しく、涙は永遠だ！\n青い森と兄弟のような腕を通って、\n曖昧な時刻のやわらかな光が存在する、\nそして一日の残光から、婚約者が形成される──\n悲しい水が私を引き寄せる蒼白い場所に、裸で……\n愉悦の悪魔よ、欲しいが凍てついた！"
+    },
+    {
+      "id": 5,
+      "french": "Voici dans l'eau ma chair de lune et de rosée,\nÔ forme obéissante à mes vœux opposée !\nVoici mes bras d'argent dont les gestes sont purs !…\nMes lentes mains dans l'or adorable se lassent\nD'appeler ce captif que les feuilles enlacent,\nEt je crie aux échos les noms des dieux obscurs !…",
+      "provisionalTranslation": "ここに水の中の私の肉よ、月と露の肉──\nああ、私の願いに逆らって従順な形よ！\nここに私の銀の腕よ、その仕草は純粋だ！……\n私の遅い手は、崇拝すべき黄金の中で疲れる──\n葉が絡みつくこの捕虜を呼び寄せることに──\nそして私は暗い神々の名を反響に叫ぶ！……"
+    },
+    {
+      "id": 6,
+      "french": "Adieu, reflet perdu sur l'onde calme et close,\nNarcisse… ce nom même est un tendre parfum\nAu cœur suave. Effeuille aux mânes du défunt\nSur ce vide tombeau la funérale rose.\nSois, ma lèvre, la rose effeuillant le baiser\nQui fasse un spectre cher lentement s'apaiser,\nCar la nuit parle à demi-voix, proche et lointaine,\nAux calices pleins d'ombre et de sommeils légers.",
+      "provisionalTranslation": "さようなら、穏やかで閉じた水面に失われた影よ、\nナルキッソスよ……その名前さえも柔らかな香りだ──\nやさしい心に。この空の墓の上に\n死者の霊に向けて葬儀の薔薇の花びらを散らせ。\n私の唇よ、口づけの花びらを散らす薔薇であれ──\n愛しい幻をゆっくりと鎮めるような口づけを──\nなぜなら夜は、近くて遠くで、囁き声で話しかける、\n影と軽い眠りで満ちた萼に。"
+    },
+    {
+      "id": 7,
+      "french": "Mais la lune s'amuse aux myrtes allongés.\nJe t'adore, sous ces myrtes, ô l'incertaine\nChair pour la solitude éclose tristement\nQui se mire dans le miroir au bois dormant.\nJe me délie en vain de ta présence douce,\nL'heure menteuse est molle aux membres sur la mousse\nEt d'un sombre délice enfle le vent profond.",
+      "provisionalTranslation": "しかし月は伸びたミルトスの木々に戯れる。\n私はあなたを崇める、これらのミルトスの下で、ああ不確かな──\n孤独のために悲しく開いた肉よ──\n眠れる森の鏡に自分を映す肉よ。\n私はあなたの優しい存在から虚しく解き放たれる、\n嘘つきな時刻が苔の上で手足を柔らかく包み\n暗い官能が深い風を膨らませる。"
+    },
+    {
+      "id": 8,
+      "french": "Adieu, Narcisse… Meurs ! Voici le crépuscule.\nAu soupir de mon cœur mon apparence ondule,\nLa flûte, par l'azur enseveli module\nDes regrets de troupeaux sonores qui s'en vont.\nMais sur le froid mortel où l'étoile s'allume,\nAvant qu'un lent tombeau ne se forme de brume,\nTiens ce baiser qui brise un calme d'eau fatal !\nL'espoir seul peut suffire à rompre ce cristal.",
+      "provisionalTranslation": "さようなら、ナルキッソスよ……死ね！ 夕暮れが来た。\n私の心の溜め息に私の姿が波打ち、\n埋められた青空を通って笛が奏でる──\n去りゆく響き渡る群れの悔恨を。\nしかし星が灯る致命的な冷たさの上で、\n霧でできた緩やかな墓が形成される前に、\nこの致命的な水の静けさを砕く口づけを握れ！\n希望だけがこの水晶を砕くのに十分だ。"
+    },
+    {
+      "id": 9,
+      "french": "La ride me ravisse au souffle qui m'exile\nEt que mon souffle anime une flûte gracile\nDont le joueur léger me serait indulgent !…\nÉvanouissez-vous, divinité troublée !\nEt, toi, verse à la lune, humble flûte isolée,\nUne diversité de nos larmes d'argent.",
+      "provisionalTranslation": "さざ波が私を捕らえる──私を追放する息吹に──\nそして私の息が優美な笛を奏でることを──\n軽い奏者が私に寛大であってくれるような笛を！……\n消えよ、乱された神性よ！\nそしてあなたは、月に向けて注げ、孤独な謙虚な笛よ、\n私たちの銀の涙の多様性を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "allusion",
+      "anchor": "Narcissæ placandis manibus.",
+      "body": "「ナルキッソスの霊を宥めるために（Narcissæ placandis manibus）」──ラテン語の题辞。古代ローマの埋葬碑文・奉納文の定型句「manibus（霊・影）……placandis（宥めるために）」の変形。「Narcissæ」は「ナルキッソス」のラテン語属格（所有格）──文法的にはナルキッソスを女性名詞として扱う異常な形（通常は男性形 Narcissi）：ヴァレリーの意図的な文法的逸脱であるか、初版印刷の組版エラーであるかは研究者間で議論がある。詩を死者（ナルキッソス）の霊への奉納（manibus = 霊への捧げもの）として定義する：詩そのものが「死者への弔い」という位置づけ。「Fragments du Narcisse」の题辞「Cur aliquid vidi?（なぜ私は何かを見てしまったのか？）」──オウィディウス直接引用──との対比：1891年版（ラテン語奉納文）→1922年版（オウィディウス引用）という30年間での詩的姿勢の変化。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "全63行・アレクサンドラン（12音節）基調（一部変則あり）。詩集『旧詩帖』第XIV番──「Un feu distinct…」（XIII）の後、「Épisode」（XV）の前。構成：§1-§2（到来・ニンフへの呼びかけ・月の鏡）→§3（「魔法の水だけを愛する」──自己愛への移行）→§4（像の出現・「婚約者」の幻想）→§5（像への呼びかけの頂点）→§6（別れの始まり・「死者への薔薇」）→§7（月とミルトスの夜・解放の不能）→§8（「死ね！ 夕暮れが来た」──死の宣告・最後の口づけ）→§9（消滅・笛・銀の涙）。1891年雑誌初出版と1920年詩集版の間に若干の語句改訂があり、1920年版が定本として扱われる。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Et la lune perfide élève son miroir\nJusque dans les secrets de la fontaine éteinte.",
+      "body": "「背信の月がその鏡を高く掲げる──消えた泉の秘密の奥にまで（Et la lune perfide élève son miroir / Jusque dans les secrets de la fontaine éteinte）」──「Narcisse parle」と「Fragments du Narcisse」（I, §3）に共通する詩行（ほぼそのまま再使用）。「fontaine éteinte（消えた泉）」──日没後に光を失った泉：暗くなった水面に月光が差し込む夜の状況設定。「lune perfide（背信の月）」──「Naissance de Vénus」の「danse infidèle des vagues（波の不実な踊り）」との呼応：月・波・水はいずれも「背信・不実」という属性を持つ──美と信頼の非両立性のヴァレリー的主題。「miroir（鏡）」──月が水面を鏡として機能させる：太陽光の水面反射ではなく月光の鑑照──柔らかく不安定な自己像の出現条件。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Hélas ! l'image est vaine et les pleurs éternels !",
+      "body": "「ああ！ 像は虚しく、涙は永遠だ（Hélas ! l'image est vaine et les pleurs éternels !）」──詩の哲学的命題の最も直截な表現。「l'image est vaine（像は虚しい）」──水面の像が現実の自己を代理できないという認識：像は捉えられない・合一できない。「les pleurs éternels（涙は永遠だ）」──しかし像の虚しさへの嘆きは「永遠」：永遠の不可能性への哀悼。「Fragments du Narcisse」（I, §9）の「汲みつくせぬ私（inépuisable Moi）」との30年間の変貌：1891年版は「悲哀の永続性」を哀歌として歌い、1922年版は「自己認識の哲学的無尽蔵性」として肯定的に再定義する──ヴァレリーの思想的成熟の軌跡。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Narcisse… ce nom même est un tendre parfum\nAu cœur suave. Effeuille aux mânes du défunt\nSur ce vide tombeau la funérale rose.",
+      "body": "「ナルキッソスよ……その名前さえも柔らかな香りだ──やさしい心に。この空の墓の上に死者の霊に向けて葬儀の薔薇の花びらを散らせ（Narcisse… ce nom même est un tendre parfum / Au cœur suave. Effeuille aux mânes du défunt / Sur ce vide tombeau la funérale rose）」──詩の中心的転換点。「ce nom même est un tendre parfum（その名前さえも柔らかな香りだ）」──「ナルキッソス」という名が「水仙（narcisse）」という花の名と同一：名前が花の香りを持つという象徴主義的な言語感覚。「vide tombeau（空の墓）」──水面が「墓」として定義される：自己像の存在場所は「空の墓」──反射像は実体のない「空虚な埋葬地」。「題辞 Narcissæ placandis manibus」との直接的呼応：詩全体が「空の墓への奉納」として自己言及的に完結する。ロデンバック「Du silence」の「墓の沈黙」主題との象徴主義的共鳴。"
+    },
+    {
+      "paragraphId": 8,
+      "type": "commentary",
+      "anchor": "Adieu, Narcisse… Meurs ! Voici le crépuscule.\nAu soupir de mon cœur mon apparence ondule,",
+      "body": "「さようなら、ナルキッソスよ……死ね！ 夕暮れが来た（Adieu, Narcisse… Meurs ! Voici le crépuscule）」──詩の転換点。「Meurs !（死ね！）」──自己への死の宣告：ナルキッソスが水面の自己像に向かって「死ね」と命じる──しかし「自己像に死を命じる」ことは「自己の消滅を命じる」こと。「Au soupir de mon cœur mon apparence ondule（私の心の溜め息に私の姿が波打つ）」──呼吸（溜め息）が水面（apparence：外見・像）を波立てる：生きることの最小の動作（呼吸）が自己像を乱す──生命は自己認識を不可能にする。「Fragments du Narcisse」（III, §17）の最終句「brise Narcisse, et fuit（ナルキッソスを砕き、逃げ去る）」との比較：1891年版では「外部の夕暮れ」が死をもたらすが、1922年版では「合一しようとする口づけそのもの（呼吸）」が崩壊をもたらす──より哲学的な自己解体。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "Évanouissez-vous, divinité troublée !\nEt, toi, verse à la lune, humble flûte isolée,\nUne diversité de nos larmes d'argent.",
+      "body": "「消えよ、乱された神性よ！……月に向けて注げ、孤独な謙虚な笛よ、私たちの銀の涙の多様性を（Évanouissez-vous, divinité troublée ! / … / Une diversité de nos larmes d'argent）」──詩全体の最終3行。「divinité troublée（乱された神性）」──水面の像（ナルキッソスの神的な美しさ）が「乱されて（troublée）」消える：水面を波立てることで像が消滅する。「Une diversité de nos larmes d'argent（私たちの銀の涙の多様性）」──詩の最終句。「diversité（多様性）」：涙が一つではなく多様に分岐する──単一の嘆きが無限に増殖する。「nos（私たちの）」──複数形：「私（ナルキッソス）」と「あなた（水面の像）」の合一した複数──二人が溶け合って「私たち」になる最後の瞬間。「银の涙（larmes d'argent）」──月光で銀色に輝く涙：象徴主義的詩語の凝縮。「Fragments du Narcisse」末尾「brise Narcisse, et fuit」との対比：1891年版の甘美な消滅（「銀の涙の多様性」）vs 1922年版の哲学的断絶（「ナルキッソスを砕き、逃げ去る」）──ヴァレリーの詩学的成熟。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "intertextual",
+      "targetId": "valery_fragments_du_narcisse",
+      "body": "「Fragments du Narcisse」（Charmes, 1922）との31年間の対話：「Narcisse parle」（1891）は象徴主義的な甘美な自己愛と死の哀歌──末尾「銀の涙の多様性」で詩的官能の中に消える。「Fragments du Narcisse」（1922）は同一主題を哲学的認識論として再構築──「insaisissable amour…brise Narcisse」で自己認識の不可能性のパラドックスとして完結。両詩に共通する詩行の再利用：「Que je déplore ton éclat fatal et pur…」（§4冒頭4行）「Et la lune perfide élève son miroir…」（§2末尾2行）「Délicieux démon, désirable et glacé !」（§4末尾）──ヴァレリーが若年期の詩行を成熟詩に組み込む「自己引用・変奏」の詩学。「Narcisse parle」→「Fragments du Narcisse」はヴァレリーの詩人としての知的成長を最も直接的に示す一対の詩。"
+    }
+  ]
+}
