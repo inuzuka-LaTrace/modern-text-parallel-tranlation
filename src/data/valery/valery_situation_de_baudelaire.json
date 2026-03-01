@@ -1,0 +1,156 @@
+{
+  "id": "valery_situation_de_baudelaire",
+  "title": "Situation de Baudelaire",
+  "author": "Paul Valéry",
+  "source": "Conférence prononcée à Monaco le 19 février 1924 → Variété II, Éditions Gallimard, 1930, pp. 129-133（Pléiade版：Œuvres I, Gallimard, 1975, pp. 598-613）. 原典照合：paperblog.fr（terresdefemmes転載, Variété II 版）; larvatus.livejournal.com（Pléiade版参照・引用確認）; journals.openedition.org/rsh/646（ブラジル受容論文）",
+  "year": "1924",
+  "firstPublication": "Variété II, Éditions Gallimard, 1930（1924年2月19日モナコ講演を活字化）",
+  "difficulty": "上級",
+  "category": "valery_critique",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）がモナコのピエール公爵の招待により1924年2月19日に行った公開講演の活字版。ボードレール没後57年——『悪の華』の国際的影響力がスウィンバーン・ダンヌンツィオ・シュテファン・ゲオルゲらを通じて頂点に達した時期に、ヴァレリーが「なぜボードレールはこれほど重要なのか」を問い直した批評的証言。論点は三つ：(1)ボードレールの「重要性（importance）」——より「偉大な（grands）」詩人はいるが、より「重要な（important）」詩人はいない；(2)エドガー・ポーの「知性批評（intelligence critique）」との出会いがボードレールの才能を変革した；(3)ロマン主義の絶頂期に後発者として登場した「問題（problème de Baudelaire）」——「偉大な詩人であれ、しかしラマルティーヌでも、ユゴーでも、ミュッセでもあるな」という自己課題。結論として「古典主義者（classique）」の定義——「内に批評家を宿らせる詩人」——を提示し、「あらゆる古典主義は先行する浪漫主義を前提とする（Tout classicisme suppose un romantisme antérieur）」という文学史の普遍命題を打ち出す。このエッセイはヴァレリーの詩学の核心を批評言語で最も明快に表現した散文テキストであり、マラルメ・スウィンバーン・ゲオルゲへの言及を通じてアプリ収録の詩人群と直接対話する。",
+  "keywords": ["ボードレール", "エドガー・ポー", "ロマン主義", "古典主義", "重要性", "知性批評", "影響", "詩的形式", "ヴァレリー詩学"],
+  "relatedTexts": [
+    "baudelaire_correspondances",
+    "baudelaire_au_lecteur",
+    "baudelaire_lalbatros",
+    "swinburne_ave_atque_vale",
+    "george_algabal_i",
+    "mallarme_crise_de_vers",
+    "valery_poesie",
+    "valery_le_vin_perdu"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "originalText": "Baudelaire est au comble de la gloire. Ce petit volume des Fleurs du Mal, qui ne compte pas trois cents pages, balance dans l'estime des lettrés les œuvres les plus illustres et les plus vastes. Il a été traduit dans la plupart des langues européennes : c'est un fait sur lequel je m'arrêterai un instant, car il est, je crois, sans exemple dans l'histoire des Lettres françaises.",
+      "provisionalTranslation": "ボードレールは栄光の絶頂にある。三百ページにも満たない『悪の華』というこの小さな一冊が、文人たちの評価において最も高名で最も分厚な作品群と拮抗している。それはほとんどのヨーロッパ言語に翻訳されている——この事実に私はしばらく立ち止まりたい。なぜならそれはフランス文学史において、私が思うに、前例のないことだからだ。"
+    },
+    {
+      "id": 2,
+      "originalText": "Les poètes français ne sont généralement que peu connus et peu goûtés à l'étranger. On admire en France La Fontaine, Racine, et même Victor Hugo n'a pas conquis l'univers. Mais avec Baudelaire, la poésie française sort enfin des frontières de la nation. Elle se fait lire dans le monde ; elle s'impose comme la poésie même de la modernité ; elle engendre l'imitation, elle féconde de nombreux esprits. Des hommes tels que Swinburne, Gabriele d'Annunzio, Stefan George, témoignent magnifiquement de l'influence baudelairienne à l'extérieur.\nJe puis donc dire que s'il est, parmi nos poètes, des poètes plus grands et plus puissamment doués que Baudelaire, il n'en est point de plus important.",
+      "provisionalTranslation": "フランスの詩人たちは外国ではおおむね知られず、味わわれることも少ない。フランスではラ・フォンテーヌやラシーヌが崇められているが、ヴィクトール・ユゴーでさえ世界を征服してはいない。しかしボードレールとともに、フランス詩はついに国境の外へ出た。それは世界中で読まれるようになり、近代そのものの詩として自らを押しつける。それは模倣を生み出し、多くの精神を豊かにする。スウィンバーン、ガブリエーレ・ダンヌンツィオ、シュテファン・ゲオルゲのような人物たちが、ボードレールの外国への影響を壮麗に証言している。\nゆえに私はこう言える——わが詩人たちの中に、ボードレールよりも偉大で、より強力な才能に恵まれた詩人はいるが、より重要な詩人はひとりもいない、と。"
+    },
+    {
+      "id": 3,
+      "originalText": "À quoi tient cette importance singulière ? Comment un être aussi particulier, aussi éloigné de la moyenne que Baudelaire l'était, a-t-il pu engendrer un mouvement aussi étendu ?\nC'est une circonstance exceptionnelle qu'une intelligence critique associée à la vertu de poésie. Baudelaire doit à cette rare alliance une découverte capitale. Il était né sensuel et précis ; il était d'une sensibilité dont l'exigence le conduisait aux recherches les plus délicates de la forme ; mais ces dons n'eussent fait de lui qu'un émule de Gautier, sans doute, ou un excellent artiste du Parnasse, s'il n'eût, par la curiosité de son esprit, mérité la chance de découvrir dans les ouvrages d'Edgar Poe un nouveau monde intellectuel.",
+      "provisionalTranslation": "この特異な重要性はどこに由来するのか。ボードレールほど特別で、平均から遠く隔たった存在がいかにしてこれほど広範な運動を生み出し得たのか。\n詩の才能と結びついた知性批評——これは例外的な状況だ。ボードレールはこの稀な同盟から一つの決定的な発見を負っている。彼は感覚的で精確な人間として生まれた。形式の最も繊細な探求へと彼を導くような要求を持った感受性の持ち主だった。しかしこれらの才能は、精神の好奇心によってエドガー・ポーの著作の中に新たな知的世界を発見する幸運に値しなかったなら、おそらく彼をゴーティエの後継者か、パルナス派の優秀な芸術家に留めていただろう。"
+    },
+    {
+      "id": 4,
+      "originalText": "Le démon de la lucidité, le génie de l'analyse, et l'inventeur des combinaisons les plus neuves et les plus séduisantes de la logique avec l'imagination, de la mysticité avec le calcul, le psychologue de l'exception, l'ingénieur littéraire qui approfondit et utilise toutes les ressources de l'art, lui apparaissent dans Edgar Poe et l'émerveillent. Tant de vues originales et de promesses extraordinaires l'ensorcellent. Son talent en est transformé, sa destinée en est magnifiquement changée.",
+      "provisionalTranslation": "明晰さの悪魔、分析の天才、論理と想像力の、神秘性と計算の最も新しく最も魅惑的な組み合わせの発明家、例外の心理学者、芸術のあらゆる資源を深化させ活用する文学の技師——これらがエドガー・ポーの中にボードレールには現れ、彼を驚嘆させる。これほど多くの独自な視点と並外れた予兆が彼を魅了する。彼の才能はそれによって変容し、その運命は壮麗に変えられる。"
+    },
+    {
+      "id": 5,
+      "originalText": "Au moment qu'il arrive à l'âge d'homme, le romantisme est à son apogée ; une éblouissante génération est en possession de l'empire des Lettres : Lamartine, Hugo, Musset, Vigny sont les maîtres de l'instant.\nPlaçons-nous dans la situation d'un jeune homme qui arrive en 1840 à l'âge d'écrire. Il est nourri de ceux que son instinct lui commande impérieusement d'abolir. Son existence littéraire qu'ils ont provoquée et alimentée, que leur gloire a excitée, que leurs ouvrages ont déterminée, toutefois, est nécessairement suspendue à la négation, au renversement, au remplacement de ces hommes qui lui semblent remplir tout l'espace de la renommée et lui interdire, l'un, le monde des formes ; l'autre, celui des sentiments ; un autre, le pittoresque ; un autre, la profondeur.",
+      "provisionalTranslation": "彼が成人に達したとき、ロマン主義は頂点にある。眩しい一世代が文学の帝国を掌握している——ラマルティーヌ、ユゴー、ミュッセ、ヴィニーがこの時代の主人たちだ。\n1840年に書くべき年齢に達した若者の立場に身を置いてみよう。彼は、本能が彼に断固として廃絶せよと命じる人々によって養われてきた。彼らによって引き起こされ、支えられてきた彼の文学的存在は——その栄光によって刺激され、その著作によって決定されてきた存在は——しかしながら必然的に、名声のすべての空間を占めているように見え、一人はフォルムの世界を、他は感情の世界を、別の者は絵画的なものを、別の者は深さを彼に禁じているこれらの人物たちの否定・転覆・代替に懸かっているのだ。"
+    },
+    {
+      "id": 6,
+      "originalText": "Le problème de Baudelaire pouvait donc, — devait donc, — se poser ainsi :\n« Être un grand poète, mais n'être ni Lamartine, ni Hugo, ni Musset. » Je ne dis pas que ce propos fût conscient, mais il était nécessairement en Baudelaire, — et même essentiellement Baudelaire. Il était sa raison d'État. Dans les domaines de la création, qui sont aussi les domaines de l'orgueil, la nécessité de se distinguer est indivisible de l'existence même.\nBaudelaire écrit dans son projet de préface aux Fleurs du Mal : « Des poètes illustres s'étaient partagé depuis longtemps les provinces les plus fleuries du domaine poétique, etc. Je ferai donc autre chose… »",
+      "provisionalTranslation": "ゆえにボードレールの問題はこのように立てられ得た——立てられなければならなかった：\n「偉大な詩人であれ、しかしラマルティーヌでも、ユゴーでも、ミュッセでもあるな。」私はこの意図が意識的であったとは言わない。しかし、それは必然的にボードレールの中にあった——それどころかそれは本質的にボードレールそのものだった。それは彼の国家理性だった。創造の領域において——それはまた誇りの領域でもあるのだが——自らを際立たせる必要性は存在そのものと不可分だ。\nボードレールは『悪の華』の序文草稿にこう書く——「名高い詩人たちがずいぶん前から詩的領域の最も花盛りな地方を分け合ってきた、等々。だから私は別のことをしよう……」"
+    },
+    {
+      "id": 7,
+      "originalText": "Baudelaire a résolu ce problème par un mélange de romantisme et de classicisme. Je nomme classique tout ce qui est sain, fort, toujours solide. Je nomme romantique tout ce qui est morbide, affaibli, maladif. Le classicisme suppose un romantisme antérieur : Tout classicisme suppose un romantisme antérieur. L'ordre suppose un certain désordre qu'il vient réduire. La composition, l'exigence d'un travail fini, suppose un certain désordre passionnel qu'elle discipline.\nBaudelaire a compris qu'il fallait être à la fois classique et romantique pour être un grand poète moderne. Classique est l'écrivain qui porte un critique en soi-même, et qui l'associe intimement à ses travaux.",
+      "provisionalTranslation": "ボードレールはこの問題をロマン主義と古典主義の混合によって解決した。私は古典的と呼ぶ——健全で、強く、常に堅固なものすべてを。私は浪漫的と呼ぶ——病的で、弱体化し、病んだものすべてを。古典主義は先行する浪漫主義を前提とする。あらゆる古典主義は先行する浪漫主義を前提とする。秩序は、それが来て縮減する一定の無秩序を前提とする。構成——仕上げられた作品への要求——は、それが規律する一定の情念的無秩序を前提とする。\nボードレールは理解した——偉大な近代詩人であるためには同時に古典的でも浪漫的でもなければならないことを。古典的な作家とは、内に批評家を宿らせ、それを自らの仕事に緊密に関わらせる作家だ。"
+    },
+    {
+      "id": 8,
+      "originalText": "Baudelaire, il est vrai, semble avoir évité les facilités qui lui eussent été faciles. Il était plus près de Racine que Musset par les soins de la forme. Il ne renonça pas aux formes consacrées. On connaît son amour pour le sonnet, dont il a tiré des effets surprenants. Cette fidélité à la forme donnée, cet absolutisme des conventions formelles, sont un signe de classicisme, et la preuve que la volonté de l'artiste est plus forte ici que sa « sincérité ».",
+      "provisionalTranslation": "ボードレールは確かに、容易にできたであろう安易さを避けたように見える。形式への配慮においては、ミュッセよりラシーヌに近かった。彼は確立された形式を放棄しなかった。彼のソネットへの愛は知られている——そこから彼は驚くべき効果を引き出した。与えられた形式へのこの忠実さ、形式的慣習のこの専制主義——これらは古典主義の徴であり、ここでは芸術家の意志がその「誠実さ」よりも強いという証拠だ。"
+    },
+    {
+      "id": 9,
+      "originalText": "Mais d'autre part, les sujets, les sentiments, les thèmes que traite Baudelaire sont bien romantiques par leur nature. Ce mélange étrange de mysticité et de sensualité, cette horreur et cette fascination devant l'horreur, cette façon de jouer avec le péché, de caresser le danger, de manier les contrastes les plus violents, tout cela est du romantisme le plus pur.\nLa vérité est que Baudelaire a traité des thèmes romantiques avec des moyens classiques. Il a substitué à la rhétorique romantique une rhétorique plus secrète, plus précise, qui ne se trahit guère, et qui, ayant Racine pour père inavoué, a Mallarmé pour fils.",
+      "provisionalTranslation": "しかし他方、ボードレールが扱う主題・感情・テーマはその本質においてまことに浪漫的だ。神秘性と感能性のこの奇妙な混合、恐怖の前での恐怖と魅惑、罪と戯れ、危険を撫で、最も激しい対比を操るこのやり方——これらはすべて最も純粋な浪漫主義だ。\n真実はこうだ——ボードレールは浪漫的なテーマを古典的な手段で扱った。彼は浪漫的修辞学を、より秘密の、より精確な、ほとんど自らを裏切らない修辞学で置き換えた——その修辞学は認めたくはない父としてラシーヌを持ち、息子としてマラルメを持つ。"
+    },
+    {
+      "id": 10,
+      "originalText": "Baudelaire, ayant admiré Poe, a tiré de lui une théorie de la poésie qui tend à la pureté — et précisément à la pureté des effets produits sur un lecteur singulier considéré dans ses conditions les plus favorables. Cette doctrine, que Poe a parfois exposée avec une clarté et une force remarquables, consiste essentiellement à reconnaître que la poésie a une fin en soi, qui lui est propre, distincte de la fin commune du discours : l'instruction et la persuasion. La poésie doit produire en nous un état particulier — un état de chant intérieur qui se mêle à notre existence entière et la transforme, un état auquel nous croyons que ce qui est vrai vaudrait bien qu'on l'inventât.",
+      "provisionalTranslation": "ポーを賞賛したボードレールは、詩の純粋性へ——すなわち、最も有利な条件において考えられた特別な読者に生み出される効果の純粋性へと向かう詩論を彼から引き出した。ポーが時に注目すべき明晰さと力でもって説明したこの学説は、本質的に次のことを認識することからなる——詩には、言説の共通の目的（教示と説得）とは異なる、それ自身に固有の目的がある、と。詩は我々の中に一つの特別な状態を生み出さなければならない——我々の全存在に混じり合いそれを変容させる内的な歌の状態を、我々が、真であるものは発明する価値があるだろうという状態を。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "balance dans l'estime des lettrés les œuvres les plus illustres et les plus vastes",
+      "body": "「文人たちの評価において最も高名で最も分厚な作品群と拮抗している（balance dans l'estime des lettrés les œuvres les plus illustres et les plus vastes）」——「balance（拮抗する・天秤にかける）」という動詞が、薄い一冊と「最も分厚い作品群」という量的不均衡を突く。ヴァレリーの批評的定義の出発点：詩の「偉大さ（grandeur）」と「重要性（importance）」の分離——分量でも力量でもなく「影響・伝播の範囲」が「importance」を決める。これは「Poésie」（§11）の「Source suspendue」——詩の泉が止まるという危機——とは逆の方向性：ボードレールの詩は「止まらない源泉」として世界へ流れ続ける。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Des hommes tels que Swinburne, Gabriele d'Annunzio, Stefan George, témoignent magnifiquement de l'influence baudelairienne à l'extérieur.",
+      "body": "「スウィンバーン、ガブリエーレ・ダンヌンツィオ、シュテファン・ゲオルゲ（Des hommes tels que Swinburne, Gabriele d'Annunzio, Stefan George）」——ヴァレリーが証人として挙げる三詩人はいずれもこのアプリに収録済み（`swinburne_*`・`george_*`）。スウィンバーンの「Ave atque vale」はボードレールへの直接的な哀歌。シュテファン・ゲオルゲはボードレールをドイツ語に翻訳し、象徴主義のドイツ語圏への伝播の中心となった。ダンヌンツィオはボードレールの感能的神秘主義をイタリア語で展開した。ヴァレリーのこの一文は1924年時点の「ボードレール受容の国際地図」を描く——アプリの横断読解（`crossMode`）機能で実際に確認できる詩人群。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "s'il est, parmi nos poètes, des poètes plus grands et plus puissamment doués que Baudelaire, il n'en est point de plus important.",
+      "body": "「より偉大な詩人はいるが、より重要な詩人はいない（des poètes plus grands et plus puissamment doués que Baudelaire, il n'en est point de plus important）」——このエッセイ全体の中心命題。「grand（偉大な）」と「important（重要な）」の区別：「grand」は内在的な詩的才能の問題、「important」は文学史的・影響史的機能の問題。ヴァレリーは暗黙に「ユゴーはより偉大だが、ボードレールはより重要だ」と言っている（後続の段落でユゴーの国際的無名性を指摘）。この区別はヴァレリー自身の詩学にも反映される：「Charmes」は薄いが「重要」、詩学的「importance」は分量でなく「影響の可能性」に宿る。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "une intelligence critique associée à la vertu de poésie",
+      "body": "「詩の才能と結びついた知性批評（une intelligence critique associée à la vertu de poésie）」——ヴァレリーの詩論の最も簡潔な定式化。「intelligence critique」：詩作と同時に自らの詩作を分析・批評する知的能力——詩人が詩人であると同時に批評家である稀な状態。この概念は後続の「古典主義」定義「classique est l'écrivain qui porte un critique en soi-même」に直結する。「Poésie」（Charmes V）の「Ô ma mère Intelligence」との照応：ヴァレリーにとって詩は「知性（Intelligence）」の産物であり、ボードレールへの賞賛はヴァレリー自身の詩学的自己記述でもある。「Le Sylphe」の「Hasard ou génie?」との対比：偶然（romantisme）vs 知性（classicisme）の二極。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "intertextual",
+      "targetId": "baudelaire_correspondances",
+      "body": "「エドガー・ポーの著作の中に新たな知的世界を発見（découvrir dans les ouvrages d'Edgar Poe un nouveau monde intellectuel）」——ボードレールとポーの関係は単なる「影響」ではなく「変革（transformé）」と「自らの使命の発見」。ボードレール「対応（Correspondances）」：自然の「象徴の森（forêt de symboles）」から「感覚の照応」を引き出す——これがポー的「分析＋神秘性」の組み合わせをボードレール的に展開したもの。ヴァレリーはポー経由でボードレールが到達した「logique avec l'imagination, mysticité avec le calcul（論理と想像力、神秘性と計算）」という詩的認識論を評価する——これは「Correspondances」の感覚的対応体系を知性的に解釈した読みでもある。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "le démon de la lucidité",
+      "body": "「明晰さの悪魔（le démon de la lucidité）」——ポー（エドガー・アラン・ポー、1809-1849）をヴァレリーが描写する際の核心的形容。「悪魔（démon）」はキリスト教的悪ではなく、ギリシャ哲学の「ダイモン（daimon）」——ソクラテスの守護霊・天才性の超個人的源泉。「明晰さの悪魔」：ポーの分析力は異常な領域にまで達する——それは「悪魔的」と形容されるほど人間の通常の知性を超えている。ヴァレリーはポーをこのように描写することで、自らの知的理想（明晰・分析・計算）を「悪魔」という詩的語によって正当化する。「L'ingénieur littéraire（文学の技師）」：ポーを「技師」として描く——詩作は感情の噴出ではなく「工学的設計」という定義、ヴァレリー自身の詩学の言い換え。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Être un grand poète, mais n'être ni Lamartine, ni Hugo, ni Musset.",
+      "body": "「偉大な詩人であれ、しかしラマルティーヌでも、ユゴーでも、ミュッセでもあるな（Être un grand poète, mais n'être ni Lamartine, ni Hugo, ni Musset）」——「Situation de Baudelaire」全体で最も有名な定式。この「問題（problème）」の定式化はヴァレリーの創造論の核心を示す：後発の詩人は先行者たちへの「差異化（se distinguer）」によってのみ存在できる。「Je ferai donc autre chose（だから私は別のことをしよう）」というボードレール自身の言葉（序文草稿）との対応：ヴァレリーはボードレールの創作動機を「意識的意図ではなく必然的条件（nécessairement en Baudelaire）」として分析する——詩人は自覚なしに「別であること」を目指す。ヴィニーが省略されているのは偶然ではない：§5では「l'un… l'autre… un autre… un autre…」として4人を列挙しているが、「問題」の要約では3人に絞る——ヴィニーの「深さ」よりラマルティーヌ・ユゴー・ミュッセの「抒情・詞華・感傷」との対決が核心だから。"
+    },
+    {
+      "paragraphId": 6,
+      "type": "commentary",
+      "anchor": "Dans les domaines de la création, qui sont aussi les domaines de l'orgueil, la nécessité de se distinguer est indivisible de l'existence même.",
+      "body": "「創造の領域において——それはまた誇りの領域でもあるのだが——自らを際立たせる必要性は存在そのものと不可分だ（Dans les domaines de la création, qui sont aussi les domaines de l'orgueil, la nécessité de se distinguer est indivisible de l'existence même）」——創造論と存在論の結合。「orgueil（誇り・傲慢）」：ロマン主義的「誇り（pride）」とは異なり、ここでは「存在のために差異化を必要とする創造的自我」の定義として使われる。「indivisible de l'existence même（存在そのものと不可分）」：差異化できない詩人は「存在しない」——詩的個性は差異化によって初めて「存在」する。この命題はヴァレリー自身にも適用される：マラルメの後に来たヴァレリーは「沈黙の20年（1892-1912）」をおいて詩作に戻った——それはマラルメとの差異化の困難さに直面した時間でもある。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Tout classicisme suppose un romantisme antérieur.",
+      "body": "「あらゆる古典主義は先行する浪漫主義を前提とする（Tout classicisme suppose un romantisme antérieur）」——このエッセイで最も引用される命題。文学史の弁証法的定式：古典主義は「無秩序→秩序」「情念的→形式的」という運動として成立する——それは先行する浪漫主義（≒無秩序・情念）なしには成立しない。ボードレールへの適用：ラマルティーヌ・ユゴー・ミュッセのロマン主義を「乗り越える」ためにボードレールは「古典的手段（ソネット・精確な言語）」を使う——その古典主義はロマン主義的テーマを前提とする。この命題は普遍命題として提示されるが、暗黙にヴァレリー自身の詩作史を説明する：マラルメ象徴主義（先行する浪漫主義的極）を経て、ヴァレリーの「Charmes」（知性的古典主義）が可能になった。"
+    },
+    {
+      "paragraphId": 7,
+      "type": "commentary",
+      "anchor": "Classique est l'écrivain qui porte un critique en soi-même, et qui l'associe intimement à ses travaux.",
+      "body": "「古典的な作家とは、内に批評家を宿らせ、それを自らの仕事に緊密に関わらせる作家だ（Classique est l'écrivain qui porte un critique en soi-même, et qui l'associe intimement à ses travaux）」——「古典主義（classicisme）」のヴァレリー的定義（larvatus論文では「Définition No 3670007」との並記）。「批評家を内に宿らせる」：詩作しながら同時にその詩作を分析・評価する自己分裂的知性——これが§3の「intelligence critique associée à la vertu de poésie」の展開。ボードレールへの適用：「Salon de 1846」「Edgar Poe, sa vie et ses œuvres」等の批評文がまさに「内なる批評家」の産物。ヴァレリー自身への適用：「Variété」シリーズ（批評散文）と「Charmes」（詩作）を並行して書いたヴァレリーは「classique」の定義を完全に体現する。"
+    },
+    {
+      "paragraphId": 9,
+      "type": "commentary",
+      "anchor": "cette rhétorique plus secrète, plus précise, qui ne se trahit guère, et qui, ayant Racine pour père inavoué, a Mallarmé pour fils.",
+      "body": "「より秘密の、より精確な修辞学——その認めたくない父としてラシーヌを持ち、息子としてマラルメを持つ（cette rhétorique plus secrète, plus précise, qui ne se trahit guère, et qui, ayant Racine pour père inavoué, a Mallarmé pour fils）」——フランス詩史の系譜の定式化。ボードレールの修辞学の二重の位置：「père inavoué（認めたくない父）」ラシーヌ——古典主義的精確さ・節制・形式の完璧性；「fils（息子）」マラルメ——象徴主義的暗示・音楽性・意味の多層性。「inavoué（認めたくない）」——ボードレールはラシーヌを直接的範例として認めないが、その精確さへの志向はラシーヌから来る、という批評的洞察。`mallarme_crise_de_vers`との照応：マラルメ自身が「音楽に詩が奪われたものを取り返す」と宣言した——その「詩の音楽性」の父がボードレール。アプリ収録テキスト群（ボードレール→マラルメ→ヴァレリーという系譜）の理論的根拠がこの一文に凝縮されている。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "commentary",
+      "anchor": "la poésie a une fin en soi, qui lui est propre, distincte de la fin commune du discours : l'instruction et la persuasion.",
+      "body": "「詩には、言説の共通の目的（教示と説得）とは異なる、それ自身に固有の目的がある（la poésie a une fin en soi, qui lui est propre, distincte de la fin commune du discours : l'instruction et la persuasion）」——「詩の自律性（autonomie de la poésie）」の宣言。ポー→ボードレール→マラルメ→ヴァレリーと受け継がれる象徴主義的美学の核心命題：詩は道徳的・説教的・実用的な目的を持たない、それ自体が目的だ。「L'Amateur de poèmes」との照応：「私は人工的に思考する（je pense par artifice）」という完全な詩的没入——それが詩の「固有の目的」の体験。「état de chant intérieur（内的な歌の状態）」——詩が生み出すべき状態の定義：散文的理解ではなく、全存在を変容させる「内的な歌」。ヴァレリー自身の「Charmes（魔法）」という詩集名：詩は「魔法（charme）」——それは教えるのではなく変容させる。"
+    },
+    {
+      "paragraphId": 10,
+      "type": "intertextual",
+      "targetId": "mallarme_crise_de_vers",
+      "body": "「詩にはそれ自身に固有の目的がある」というヴァレリーの命題と、マラルメ「詩の危機（Crise de vers）」との詩学的対話。マラルメは「詩は言語から言語を創る（donner un sens plus pur aux mots de la tribu）」と述べ、日常言語からの詩語の自律を主張した。ヴァレリーはこれを「詩の目的は教示・説得ではなく、内的な歌の状態の産出」として批評散文語で定式化する——マラルメの詩語を批評言語に翻訳する行為そのものが「Situation de Baudelaire」の方法論。ボードレール→マラルメ→ヴァレリーという詩学の系譜が「詩の自律性」という軸で結ばれていることを、ヴァレリーはこの最終段落で明示する。"
+    }
+  ]
+}
