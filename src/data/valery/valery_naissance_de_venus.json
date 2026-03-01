@@ -1,0 +1,79 @@
+{
+  "id": "valery_naissance_de_venus",
+  "title": "Naissance de Vénus",
+  "author": "Paul Valéry",
+  "source": "Album de vers anciens, Les Cahiers des amis du livre (Adrienne Monnier), 1920; éd. définitive Gallimard, 1926. 原典照合：ebooks-bnr.com/ebooks/html/valery_poesie.htm（NAISSANCE DE VÉNUS, p.13, 全文一致確認）",
+  "year": "1920",
+  "firstPublication": "Album de vers anciens, A. Monnier et Cie, 1920（詩集第IV番）",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の『旧詩帖（Album de vers anciens）』第IV番。ペトラルカ型ソネット14行・アレクサンドラン。アフロディテ（ヴェーヌス）の海からの誕生というギリシャ神話（ヘシオドス『神統記』・ボッティチェリ「ヴィーナスの誕生」等）を題材にするが、ヴァレリーは神の誕生を「美の誕生＝詩的形式の出現」として読み替える。詩の核心的逆説：誕生の描写が「生」的な滑らかさではなく「苦しみ・吐き出し（amèrement vomie）・嵐のダイアモンド（diamants de la tourmente）」から始まる──美は暴力的な産みの苦しみから生まれる。第3四行詩の「砂利が崩れ、砂が口づけを飲む」という地面の反応、最終句「危険の稲妻に笑う水と波の不実な踊り」──ヴィーナスの視線が持つ誘惑の両義性で閉じる。詩集内の位置：「Orphée」（III）の後、「Féerie」（V）の前──神話的起源（「Orphée」：詩の創造）→美の誕生（「Naissance de Vénus」）→妖精的幻想（「Féerie」）という詩集の神話的プロローグを構成する。",
+  "keywords": ["ヴィーナス", "美の誕生", "海", "神話", "ソネット", "テティス", "嵐", "視線", "誘惑"],
+  "relatedTexts": [
+    "valery_orphee",
+    "valery_narcisse_parle",
+    "valery_fragments_du_narcisse",
+    "mallarme_herodiade_scene"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "DE sa profonde mère, encor froide et fumante,\nVoici qu'au seuil battu de tempêtes, la chair\nAmèrement vomie au soleil par la mer,\nSe délivre des diamants de la tourmente.",
+      "provisionalTranslation": "深い母から、まだ冷たく煙を立てながら、\nここに、嵐に打たれた敷居で、肉が──\n海によって苦く太陽へと吐き出された肉が──\n嵐のダイアモンドから解き放たれる。"
+    },
+    {
+      "id": 2,
+      "french": "Son sourire se forme, et suit sur ses bras blancs\nQu'éplore l'orient d'une épaule meurtrie,\nDe l'humide Thétis la pure pierrerie,\nEt sa tresse se fraye un frisson sur ses flancs.",
+      "provisionalTranslation": "その微笑みが形成され、白い腕の上を辿る──\n傷ついた肩の東方が嘆き悲しむ腕の上を──\n湿ったテティスの純粋な宝石を辿り、\nそしてその三つ編みが脇腹の上に戦慄を切り拓く。"
+    },
+    {
+      "id": 3,
+      "french": "Le frais gravier, qu'arrose et fuit sa course agile,\nCroule, creuse rumeur de soif, et le facile\nSable a bu les baisers de ses bonds puérils ;",
+      "provisionalTranslation": "その敏捷な走りが水を注ぎ去り去る涼しい砂利が\n崩れ落ち、空洞な渇きの囁きを立て、柔らかな\n砂が幼い跳躍の口づけを飲み込んだ；"
+    },
+    {
+      "id": 4,
+      "french": "Mais de mille regards ou perfides ou vagues,\nSon œil mobile mêle aux éclairs de périls\nL'eau riante, et la danse infidèle des vagues.",
+      "provisionalTranslation": "しかし千の眼差しから、背信的あるいは朧気な眼差しから、\nその動く眼は危険の稲妻に混ぜ合わせる──\n笑う水を、そして波の不実な踊りを。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "変形ペトラルカ型ソネット14行・アレクサンドラン（12音節）。韻律：ABBA ABBA（二つの四行詩）/ CCA BBB（変形テルセット）。通常のペトラルカ型テルセット（CDE CDE または CDC DCD）とは異なる CCA / BBB 構造──最終3行が同一韻（périls / puérils / vagues × vagues）で閉じるという変則が、波の反復・繰り返しのリズムを形式そのものが体現する。詩集『旧詩帖』第IV番：「Orphée」（III）→「Naissance de Vénus」（IV）→「Féerie」（V）という配列は、詩の起源（竪琴→神殿）、美の誕生（海→肉体）、月光の幻想（月→水鏡）という『旧詩帖』神話的三部作をなす。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Amèrement vomie au soleil par la mer,\nSe délivre des diamants de la tourmente.",
+      "body": "「海によって苦く太陽へと吐き出された（Amèrement vomie au soleil par la mer）」──美の誕生の暴力的定義。「amèrement（苦く）」と「vomie（吐き出された）」──通常の「誕生」のイメージ（柔らかさ、光）を覆す：美は「苦い嘔吐（vomi）」として海から産まれる。古典的ヴィーナス誕生図（ボッティチェリの「春」や「ヴィーナスの誕生」）の甘美な描写への意図的な反転。「diamants de la tourmente（嵐のダイアモンド）」──嵐の波しぶき・泡が「ダイアモンド」に変容する：苦しみの物質が宝石化される──詩的形式（困難・緊張）が美（ダイアモンド）に結晶するという詩学的比喩として読める。「encor froide et fumante（まだ冷たく煙を立てながら）」──母なる海の「深さ・冷たさ・蒸気」：誕生直後の原初的未分化の状態。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "allusion",
+      "anchor": "De l'humide Thétis la pure pierrerie,",
+      "body": "「湿ったテティスの純粋な宝石（De l'humide Thétis la pure pierrerie）」──「テティス（Thétis）」：ギリシャ神話の海のニンフ（ネーレーイス）・アキレウスの母。「テティス」と「テテュス（Téthys）」──後者はヘシオドス『神統記』における原初の海の女神でオケアノスの妻。ヴァレリーはここで両者を重ねる可能性がある。「アフロディテの誕生」：ヘシオドス『神統記』では、ウラノスの切断された性器が海に投げ込まれ、周囲の泡（アフロス）からアフロディテが誕生する──「amèrement vomie（苦く吐き出された）」との照応。「la pure pierrerie（純粋な宝石）」──海水の滴りが宝石として光る：第1四行詩の「diamants de la tourmente」からの宝石イメージの継続。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Le frais gravier, qu'arrose et fuit sa course agile,\nCroule, creuse rumeur de soif,",
+      "body": "「敏捷な走りが水を注ぎ去り去る砂利が崩れ落ち、空洞な渇きの囁きを立て（Le frais gravier, qu'arrose et fuit sa course agile, / Croule, creuse rumeur de soif）」──地面の反応の擬人化。「creuse rumeur de soif（空洞な渇きの囁き）」──砂利が崩れる音を「渇きの囁き」として聴覚化：地面（砂・砂利）が美の通過に「渇く」という欲求の物質化。「facile / Sable a bu les baisers（柔らかな砂が口づけを飲み込む）」──砂がヴィーナスの足跡（「bonds puérils＝幼い跳躍」の口づけ）を吸収する：地面＝欲望の受容体という独特のイメージ。「bonds puérils（幼い跳躍）」──誕生したばかりのヴィーナスの「子どもっぽい（puérils）」跳ねるような動き：神でありながら生まれたばかりの稚拙さ。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Mais de mille regards ou perfides ou vagues,\nSon œil mobile mêle aux éclairs de périls\nL'eau riante, et la danse infidèle des vagues.",
+      "body": "「千の眼差しから……その動く眼は危険の稲妻に混ぜ合わせる──笑う水を、そして波の不実な踊りを（de mille regards ou perfides ou vagues, / Son œil mobile mêle aux éclairs de périls / L'eau riante, et la danse infidèle des vagues）」──詩全体の最終句・ヴィーナスの視線の定義。「perfides（背信的）」と「vagues（朧気な）」──ヴィーナスの千の眼差しが「背信」と「曖昧さ」という二極を持つ：愛の両義性（誘惑と欺き）。「Son œil mobile（動く眼）」──静止画（ボッティチェリのヴィーナス）ではなく、常に動き続ける眼：ヴィーナスの力は固定ではなく流動的。「danse infidèle des vagues（波の不実な踊り）」──「infidèle（不実な）」は「perfides（背信的）」の反復変奏：波もヴィーナスも「不実」──美は決して約束を守らない。「Fragments du Narcisse」の「insaisissable amour（捉えがたい愛）」との照応：美も愛も本質的に捉えがたい。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "intertextual",
+      "targetId": "valery_orphee",
+      "body": "「Orphée」との詩集内対話（詩集配列III→IV）：「Orphée」では竪琴の歌が「石を動かし神殿を建設する」──詩が外部に構造物を生む。「Naissance de Vénus」では「海が美の肉体を産む」──自然（海）が美（ヴィーナス）を産む。両詩に共通する「産出の逆説」：「Orphée」では「破壊（site を壊す）→建設（神殿）」、「Naissance de Vénus」では「暴力（苦く吐き出す）→美（ヴィーナスの誕生）」──創造は常に先行する暴力・破壊から生まれる。また両詩ともギリシャ神話を題材とし、詩的創造力の神話的表象として機能する。"
+    }
+  ]
+}
