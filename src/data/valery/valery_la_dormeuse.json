@@ -1,0 +1,79 @@
+{
+  "id": "valery_la_dormeuse",
+  "title": "La Dormeuse",
+  "author": "Paul Valéry",
+  "source": "Charmes ou Poèmes, Gallimard (N.R.F.), 1922. 複数ソース照合：poesies.net/paulvalerycharmes.txt（「Souffles,」「son cœur」定本確認）、laboucheaoreilles.wordpress.com、lieder.net（primary source照合済み）、unjourunpoeme.fr",
+  "year": "1922",
+  "firstPublication": "Charmes ou Poèmes, Gallimard, 1922（詩集第VIII番）",
+  "difficulty": "上級",
+  "category": "valery",
+  "originalLang": "fr-FR",
+  "modernRelevance": "★★★★★",
+  "context": "ポール・ヴァレリー（1871-1945）の詩集『魅惑（Charmes）』（1922）第VIII番。献辞「À Lucien Fabre（リュシアン・ファーブルへ）」。伝統的ソネット形式（ABBA ABBA CCD EDE）・アレクサンドラン14行。眠る女性（「私の若い友人」）を凝視する詩人の視点から、眠りの力・魂の不在・形の残存を主題とする。核心の逆説：「魂が不在（l'âme absente）」であるのに「形は目覚めている（ta forme veille）」──そして「私の目は開いている（mes yeux sont ouverts）」。眠りと覚醒、魂と形（肉体）、不在と存在の対立が精密に構築される。「形（forme）」という語が第3四行詩と第2三行詩で二重に反復される（「ta forme au ventre pur」「Veille ; ta forme veille」）──詩形式（ソネットの「形」）と身体の「形」の自己言及的同一化。ヴァレリーの詩論「詩とは言語の形式の覚醒である」の象徴的図像として読める。",
+  "keywords": ["眠り", "魂", "形", "目覚め", "不在", "ソネット", "女性", "肉体", "覚醒"],
+  "relatedTexts": [
+    "valery_fragments_du_narcisse",
+    "valery_l_amateur_de_poemes",
+    "mallarme_herodiade_scene",
+    "rodenbach_la_vie_des_chambres"
+  ],
+  "paragraphs": [
+    {
+      "id": 1,
+      "french": "À Lucien Fabre\n\nQuels secrets dans son cœur brûle ma jeune amie,\nÂme par le doux masque aspirant une fleur ?\nDe quels vains aliments sa naïve chaleur\nFait ce rayonnement d'une femme endormie ?",
+      "provisionalTranslation": "リュシアン・ファーブルへ\n\n私の若い友人はその心でいかなる秘密を燃やしているのか──\n柔らかな仮面によって花を吸い込む魂よ？\nいかなる虚しい糧から、その純朴な熱が\n眠れる女のこの放射を作るのか？"
+    },
+    {
+      "id": 2,
+      "french": "Souffles, songes, silence, invincible accalmie,\nTu triomphes, ô paix plus puissante qu'un pleur,\nQuand de ce plein sommeil l'onde grave et l'ampleur\nConspirent sur le sein d'une telle ennemie.",
+      "provisionalTranslation": "息吹、夢、沈黙、制しがたい凪──\nあなたは勝利する、ああ涙よりも力強い平和よ、\nこの満ちた眠りの重く広大な波が\nかくも強敵の胸の上で共謀する時に。"
+    },
+    {
+      "id": 3,
+      "french": "Dormeuse, amas doré d'ombres et d'abandons,\nTon repos redoutable est chargé de tels dons,\nÔ biche avec langueur longue auprès d'une grappe,",
+      "provisionalTranslation": "眠れる者よ、影と委ねの黄金の堆積よ、\nあなたの侮れない休息はかくも多くの贈り物を帯びている、\nああ房の傍らで長く倦怠げに佇む雌鹿よ──"
+    },
+    {
+      "id": 4,
+      "french": "Que malgré l'âme absente, occupée aux enfers,\nTa forme au ventre pur qu'un bras fluide drape,\nVeille ; ta forme veille, et mes yeux sont ouverts.",
+      "provisionalTranslation": "地獄に囚われ不在の魂にもかかわらず、\n流れるような腕が纏う純粋な腹の、あなたの形が\n目覚めている；あなたの形は目覚めている、そして私の目は開いている。"
+    }
+  ],
+  "annotations": [
+    {
+      "paragraphId": 1,
+      "type": "prosody",
+      "body": "正統的ペトラルカ型ソネット・14行・アレクサンドラン（12音節）。韻律：ABBA ABBA（二つの四行詩）/ CCD EDE（二つの三行詩）。献辞「À Lucien Fabre」──ヴァレリーの友人、物理学者・詩人のリュシアン・ファーブル（1889-1952）。詩集『魅惑』第VIII番──「La Ceinture（腰帯）」（VII）の後、「Fragments du Narcisse」（IX）の前に配置。眠る女性の肖像という主題は、ヴァレリーが『旧詩帖』の「Anne」（眠れる女性の詩）から引き継いだモチーフ。詩集の配列において「Narcisse」（水鏡で自己を見る）の直前に「Dormeuse」（他者を見る詩人）が置かれる：「見ること」というテーマの二態。"
+    },
+    {
+      "paragraphId": 1,
+      "type": "commentary",
+      "anchor": "Âme par le doux masque aspirant une fleur ?",
+      "body": "「柔らかな仮面によって花を吸い込む魂（Âme par le doux masque aspirant une fleur）」──詩全体の哲学的核心の第一表現。「doux masque（柔らかな仮面）」＝眠れる女性の顔：顔は「仮面」──魂が身に纏う表面。「aspirant（吸い込む）」──息を吸うことと、花の精気を吸収すること：呼吸という生命の最小の動作が唯一の「魂の証拠」として提示される。この「仮面」の語が第4スタンザの「形（forme）」へと展開する：顔・仮面→形という概念的連続。"
+    },
+    {
+      "paragraphId": 2,
+      "type": "commentary",
+      "anchor": "Souffles, songes, silence, invincible accalmie,\nTu triomphes, ô paix plus puissante qu'un pleur,",
+      "body": "「息吹、夢、沈黙、制しがたい凪──あなたは勝利する（Souffles, songes, silence, invincible accalmie, / Tu triomphes）」──第2四行詩の構造は「列挙による眠りの属性定義→逆接的な擬人法（Tu triomphes）」。「Souffles, songes, silence」──sの頭韻（allitération en [s]）：眠りの音響的模倣、囁き・溜め息の連続。「invincible accalmie（制しがたい凪）」──海の比喩（凪）が後続する「onde grave et l'ampleur（重く広大な波）」へ接続する：眠り＝海のイメージ系列の開始。「telle ennemie（かくも強敵）」──眠れる女性が「敵」として定義される逆説：眠りの力（invincible）が女性に移転し、詩人に対立する。"
+    },
+    {
+      "paragraphId": 3,
+      "type": "commentary",
+      "anchor": "Dormeuse, amas doré d'ombres et d'abandons,",
+      "body": "「眠れる者よ、影と委ねの黄金の堆積よ（Dormeuse, amas doré d'ombres et d'abandons）」──第1三行詩の呼格による転換。「amas doré（黄金の堆積）」──身体を「積み重なった」光と影の物質として描く：身体の彫刻的・絵画的定義。「d'abandons（委ねの）」──意識を手放すこと・弛緩：眠りにおける意志の放棄。「Ô biche avec langueur longue auprès d'une grappe（房の傍らで長く倦怠げに佇む雌鹿よ）」──眠れる女性を雌鹿に喩える：動物的な無防備さと脆さ。「une grappe（房）」──ブドウの房：ディオニュソス的豊穣の暗示、眠りと酒の共鳴（「Le Vin perdu」との連続）。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "commentary",
+      "anchor": "Que malgré l'âme absente, occupée aux enfers,\nTa forme au ventre pur qu'un bras fluide drape,\nVeille ; ta forme veille, et mes yeux sont ouverts.",
+      "body": "「魂が不在であるのに、形は目覚めている；あなたの形は目覚めている、そして私の目は開いている（Que malgré l'âme absente, occupée aux enfers, / Ta forme au ventre pur qu'un bras fluide drape, / Veille ; ta forme veille, et mes yeux sont ouverts）」──ソネット最終3行にして詩全体の哲学的結論。三重の対立が凝縮される：①「魂の不在（l'âme absente）」vs「形の目覚め（ta forme veille）」、②「地獄の魂（占有：occupée aux enfers）」vs「詩人の開いた目（mes yeux sont ouverts）」、③「あなたの形（ta forme）」vs「私の目（mes yeux）」。「形（forme）」の二重反復──詩行内の「Ta forme au ventre pur」と文末の「ta forme veille」：ソネットという詩形式の「forme」と身体の「forme」の自己言及的重複。ヴァレリーの詩論「詩とは言語の形式の覚醒である」──眠れる身体の形が目覚めているように、ソネットの形式は詩人の意識より先に「目覚めて」いる。「l'âme absente, occupée aux enfers（地獄に占有され不在の魂）」──夢の中で魂は「地獄（下界）」に降りていく：ソネットの詩形式が冥界神話（オルフェウス、ペルセポネ）と交差する。「Fragments du Narcisse」の「L'âme, aux yeux noirs, touche aux ténèbres mêmes（黒い目の魂は、闇そのものに触れる）」との照応。"
+    },
+    {
+      "paragraphId": 4,
+      "type": "intertextual",
+      "targetId": "valery_fragments_du_narcisse",
+      "body": "「Fragments du Narcisse」との詩集内対話：「La Dormeuse」では詩人が他者（眠れる女性）の「形（forme）」を凝視し、「魂の不在」を発見する。「Fragments du Narcisse」ではナルキッソスが水面に自己の「形」を凝視し、「捉えがたい自己（inépuisable Moi）」を発見する。両詩で「凝視者（詩人・ナルキッソス）」は対象の「形」を見ながら「対象の真実（魂・自己）」には届かない──見ることの哲学的限界が二つの詩として展開される。詩集の配列（VIII「La Dormeuse」→IX「Fragments du Narcisse」）はこの主題的連続を意図する。"
+    }
+  ]
+}
